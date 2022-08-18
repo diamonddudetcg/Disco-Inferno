@@ -175,7 +175,7 @@ def writeCardsToSite(cards, outfile):
 def writeHeader(outfile):
 	outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 	outfile.write("\n\n## Disco Inferno F&L list for %s"%today.strftime("%B %Y"))
-	outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-U6SXZt7FY52GzoC8KNNx8pjdh0H91dA/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
+	outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1DJHIE40SD25ICctEbBVulGPetKiE9kTT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
 	outfile.write("\n\nThe banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists")
 	outfile.write("\n\nEDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.")
 	outfile.write("\n\n| Card name | Status |")
