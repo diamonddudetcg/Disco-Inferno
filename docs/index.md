@@ -6,4 +6,4 @@ title:  "Disco Inferno"
 
 [What is Disco Inferno?](about)
 
-[Current Banlist](banlist_08_22)
+[Current Banlist](banlist_08_2022)

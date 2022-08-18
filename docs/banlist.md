@@ -2770,6 +2770,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Takuhee](https://db.ygoprodeck.com/card/?search=Takuhee) | Illegal |
 | [Teardrop the Rikka Queen](https://db.ygoprodeck.com/card/?search=Teardrop%20the%20Rikka%20Queen) | Illegal |
 | [Tearlaments Kaleido-Heart](https://db.ygoprodeck.com/card/?search=Tearlaments%20Kaleido-Heart) | Illegal |
+| [Tearlaments Kitkallos](https://db.ygoprodeck.com/card/?search=Tearlaments%20Kitkallos) | Illegal |
 | [Tearlaments Reinoheart](https://db.ygoprodeck.com/card/?search=Tearlaments%20Reinoheart) | Illegal |
 | [Tearlaments Scheiren](https://db.ygoprodeck.com/card/?search=Tearlaments%20Scheiren) | Illegal |
 | [Telekinetic Charging Cell](https://db.ygoprodeck.com/card/?search=Telekinetic%20Charging%20Cell) | Illegal |

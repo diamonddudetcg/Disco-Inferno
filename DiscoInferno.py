@@ -79,8 +79,8 @@ formatted = today.strftime("_%m_%Y")
 
 #Filenames for banlist file
 banlistFilename = 'banlist/disco_inferno%s.lflist.conf'%formatted
-siteFilename = 'site/banlist.md'
-siteHistoricFilename = 'site/banlist%s.md'%formatted
+siteFilename = 'docs/banlist.md'
+siteHistoricFilename = 'docs/banlist%s.md'%formatted
 
 #Card arrays
 siteCards = []
