@@ -13,10 +13,12 @@ Since we don't have something like Magic Online that allows really good cards to
 There are three instances where a banlist will be generated:
 
 * A new official TCG banlist is released
-* A new TCG product is released
-* The first day of a month (only if no banlist has been generated in at least a week)
+* A week after a new TCG product is released (to allow the market to stabilize)
+* The first day of a month
 
-The monthly cutoff points are something other budget formats did not have, and they allow for a clear cut definition of what is legal and what isn't. While they leave less flexibility to the deckbuilder, they make tournaments easier to organize.
+The monthly banlists will only be generated if no official banlist has dropped a week before the first day of a month and no product release banlist is scheduled to be released before the 7th of that month.
+
+Strictly delimitated banlists are something other budget formats did not have, and they allow for a clear cut definition of what is legal and what isn't. While they leave less flexibility to the deckbuilder, they make tournaments easier to organize.
 
 ## Custom banlist
 
