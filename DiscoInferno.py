@@ -1,5 +1,5 @@
 import urllib.request, json, operator
-from datetime import datetime
+from datetime import date
 header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ' 
 			'AppleWebKit/537.11 (KHTML, like Gecko) '
 			'Chrome/23.0.1271.64 Safari/537.11',
@@ -73,8 +73,14 @@ cardId = 'id'
 status = 'status'
 price = 'price'
 
+
+today = date.today()
+formatted = today.strftime("_%m_%Y")
+
 #Filenames for banlist file
-banlistFilename = 'banlist/disco_inferno.lflist.conf'
+banlistFilename = 'banlist/disco_inferno%s.lflist.conf'%formatted
+siteFilename = 'site/banlist.md'
+siteHistoricFilename = 'site/banlist%s.md'%formatted
 
 #Card arrays
 siteCards = []
@@ -92,7 +98,7 @@ def printBanlist():
 	print("Writing banlist", flush=True)
 	with open(banlistFilename, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Disco Inferno]\n")
-		outfile.write("!Disco Inferno %s.%s\n\n" % (datetime.now().month, datetime.now().year))
+		outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m_%Y"))
 		outfile.write("\n$whitelist\n\n")
 		for card in simpleCards:
 			writeCardToBanlist(card, outfile)
@@ -135,14 +141,61 @@ def generateArrays():
 				if tcgplayerPrice >= cutoffPoint:
 					banTcg = -1
 
+				alreadyInSite = False
 				for variant in images:
 					simpleCard = {}
 					simpleCard[name] = card.get(name)
 					simpleCard[status] = banTcg
 					simpleCard[cardId] = variant.get(cardId)
 					simpleCards.append(simpleCard)
+					if not alreadyInSite:
+						siteCards.append(simpleCard)
+						alreadyInSite = True
 
+def writeCardToSite(card, outfile):
+	cardStatus = card.get(status)
+	cardStatusAsText = "Unlimited"
+	if (cardStatus == -1):
+		cardStatusAsText = "Illegal"
+	elif (cardStatus == 0):
+		cardStatusAsText = "Forbidden"
+	elif (cardStatus == 1):
+		cardStatusAsText = "Limited"
+	elif (cardStatus == 2):
+		cardStatusAsText = "Semi-Limited"
 
+	cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(name).replace(" ", "%20").replace("&", "%26")
+
+	outfile.write("\n| [%s](%s) | %s |"%(card.get(name), cardUrl, cardStatusAsText))
+
+def writeCardsToSite(cards, outfile):
+	for card in sorted(cards, key=operator.itemgetter('status')):
+		writeCardToSite(card,outfile)
+
+def writeHeader(outfile):
+	outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
+	outfile.write("\n\n## Disco Inferno F&L list for %s"%today.strftime("%B %Y"))
+	outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1-U6SXZt7FY52GzoC8KNNx8pjdh0H91dA/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
+	outfile.write("\n\nThe banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists")
+	outfile.write("\n\nEDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.")
+	outfile.write("\n\n| Card name | Status |")
+	outfile.write("\n| :-- | :-- |")
+
+def writeFooter(outfile):
+	outfile.write("\n\n###### [Back home](index)")
+
+def printSite():
+	print("Writing default site", flush=True)
+	with open(siteFilename, 'w', encoding="utf-8") as siteFile:
+		writeHeader(siteFile)
+		writeCardsToSite(siteCards, siteFile)
+		writeFooter(siteFile)
+	print("Writing historic site", flush=True)
+	with open(siteHistoricFilename, 'w', encoding="utf-8") as siteFile:
+		writeHeader(siteFile)
+		writeCardsToSite(siteCards, siteFile)
+		writeFooter(siteFile)
 
 generateArrays()
 printBanlist()
+printSite()
