@@ -81,7 +81,8 @@ formatted = today.strftime("_%m_%Y")
 testFolder = ""
 
 #Filenames for banlist file
-banlistFilename = '%sbanlist/disco_inferno%s.lflist.conf'%(testFolder,formatted)
+historicBanlistFilename = '%sbanlist/disco_inferno%s.lflist.conf'%(testFolder,formatted)
+banlistFilename = '%sbanlist/disco_inferno.lflist.conf'%(testFolder)
 siteFilename = '%sdocs/banlist.md'%(testFolder)
 siteHistoricFilename = '%sdocs/banlist%s.md'%(testFolder, formatted)
 
@@ -100,6 +101,13 @@ def writeCardToBanlist(card, outfile):
 def printBanlist():
 	print("Writing banlist", flush=True)
 	with open(banlistFilename, 'w', encoding="utf-8") as outfile:
+		outfile.write("#[Disco Inferno]\n")
+		outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m_%Y"))
+		outfile.write("\n$whitelist\n\n")
+		for card in simpleCards:
+			writeCardToBanlist(card, outfile)
+	print("Writing historic banlist", flush=True)
+	with open(historicBanlistFilename, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Disco Inferno]\n")
 		outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m_%Y"))
 		outfile.write("\n$whitelist\n\n")
