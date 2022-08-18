@@ -20,7 +20,7 @@ additionalForbidden = [
 	"Morphtronic Telefon",
 	"Toon Cannon Soldier",
 	
-	"Gouki the Powerload Ogre",
+	"Gouki The Powerload Ogre",
 	
 	"Number 33: Chronomaly Machu Mech",
 	
