@@ -8,7 +8,7 @@ Disco Inferno is a budget-oriented, online only alt format that rotates once a m
 
 It is loosely based on the MTG fanmade format [Penny Dreadful](http://www.pennydreadfulmagic.com)
 
-Since we don't have something like Magic Online that allows really good cards to be insanely cheap and have to rely on TCGPlayer prices, we had to settle for a higher price point than they do. After a lot of tinkering, we settled for $0.50 as the cutoff point. This means, everything that is $0.50 or cheaper when the banlist is generated will remain legal until the next banlist.
+Since we don't have something like Magic Online that allows really good cards to be insanely cheap and have to rely on both TCGPlayer and Cardmarket prices, we had to settle for a higher price point than they do. After a lot of tinkering, we settled for $0.50 as the cutoff point. This means, everything that is $0.50 or cheaper when the banlist is generated will remain legal until the next banlist.
 
 There are three instances where a banlist will be generated:
 

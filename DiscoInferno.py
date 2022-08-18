@@ -63,6 +63,7 @@ card_images = 'card_images'
 cardType = 'type'
 card_prices = 'card_prices'
 tcgplayer_price = 'tcgplayer_price'
+cardmarket_price = 'cardmarket_price'
 
 #Token stuff
 token = 'Token'
@@ -77,10 +78,12 @@ price = 'price'
 today = date.today()
 formatted = today.strftime("_%m_%Y")
 
+testFolder = ""
+
 #Filenames for banlist file
-banlistFilename = 'banlist/disco_inferno%s.lflist.conf'%formatted
-siteFilename = 'docs/banlist.md'
-siteHistoricFilename = 'docs/banlist%s.md'%formatted
+banlistFilename = '%sbanlist/disco_inferno%s.lflist.conf'%(testFolder,formatted)
+siteFilename = '%sdocs/banlist.md'%(testFolder)
+siteHistoricFilename = '%sdocs/banlist%s.md'%(testFolder, formatted)
 
 #Card arrays
 siteCards = []
@@ -112,6 +115,9 @@ def generateArrays():
 				banInfo = card.get(banlist_info)
 				cardPrices = card.get(card_prices)[0]
 				tcgplayerPrice = float(cardPrices.get(tcgplayer_price))
+				cardmarketPrice = float(cardPrices.get(cardmarket_price))
+				avgPrice = (tcgplayerPrice + cardmarketPrice)/2
+
 
 				banInfo = card.get(banlist_info)
 				banTcg = 3
@@ -128,7 +134,7 @@ def generateArrays():
 					if (banlistStatus == semi):
 						banTcg = 2
 
-				if (tcgplayerPrice == 0):
+				if (avgPrice == 0):
 					# Something fucked is going on
 					banTcg = -1
 				if card.get(name) in additionalForbidden:
@@ -138,7 +144,10 @@ def generateArrays():
 				if card.get(name) in additionalSemiLimited:
 					banTcg = 2
 
-				if tcgplayerPrice >= cutoffPoint:
+				if avgPrice >= cutoffPoint:
+					banTcg = -1
+
+				if card.get(cardType) == "Skill":
 					banTcg = -1
 
 				alreadyInSite = False
