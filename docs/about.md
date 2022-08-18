@@ -6,7 +6,7 @@ title:  "About Disco Inferno"
 
 Disco Inferno is a budget-oriented, online only alt format that rotates once a month.
 
-It is loosely based on the MTG fanmade format [Penny Dreadful](www.pennydreadfulmagic.com)
+It is loosely based on the MTG fanmade format [Penny Dreadful](http://www.pennydreadfulmagic.com)
 
 Since we don't have something like Magic Online that allows really good cards to be insanely cheap and have to rely on TCGPlayer prices, we had to settle for a higher price point than they do. After a lot of tinkering, we settled for $0.50 as the cutoff point. This means, everything that is $0.50 or cheaper at the start of the month becomes legal for the rest of the month, and everything that isn't becomes illegal.
 
