@@ -6,4 +6,9 @@ title:  "Disco Inferno"
 
 [What is Disco Inferno?](about)
 
-[Current Banlist](banlist_08_2022)
+[Current Banlist](banlist)
+
+
+## Historic banlists
+
+[August 2022 banlist](banlist_08_2022)
