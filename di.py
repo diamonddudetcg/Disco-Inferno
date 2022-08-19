@@ -114,7 +114,7 @@ def buildEverything():
 
 			if (avgPrice == 0):
 				# Something fucked is going on
-				banTcg = -1
+				banTcg = -2
 			if card.get(NAME) in additionalForbidden:
 				banTcg = 0
 			if card.get(NAME) in additionalLimited:
@@ -175,6 +175,8 @@ def buildEverything():
 		for card in sorted(cards, key=operator.itemgetter(STATUS)):
 			cardStatus = card.get(STATUS)
 			cardStatusAsText = "Unlimited"
+			if (cardStatus == -2):
+				cardStatusAsText = "Illegal (Price data unreliable)"
 			if (cardStatus == -1):
 				cardStatusAsText = "Illegal"
 			elif (cardStatus == 0):
