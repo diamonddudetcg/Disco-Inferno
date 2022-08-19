@@ -53,7 +53,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Amaze Attraction Horror House](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Horror%20House) | 0.91 | Illegal |
 | [Amazement Administrator Arlekino](https://db.ygoprodeck.com/card/?search=Amazement%20Administrator%20Arlekino) | 3.43 | Illegal |
 | [Amazing Time Ticket](https://db.ygoprodeck.com/card/?search=Amazing%20Time%20Ticket) | 1.77 | Illegal |
-| [Amazoness Archer](https://db.ygoprodeck.com/card/?search=Amazoness%20Archer) | 0.15 | Illegal |
 | [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | 0.52 | Illegal |
 | [Amazoness Fighter](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighter) | 0.86 | Illegal |
 | [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.56 | Illegal |
@@ -126,7 +125,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Artifact Dagda](https://db.ygoprodeck.com/card/?search=Artifact%20Dagda) | 7.71 | Illegal |
 | [Artifact Moralltach](https://db.ygoprodeck.com/card/?search=Artifact%20Moralltach) | 0.53 | Illegal |
 | [Artifact Sanctum](https://db.ygoprodeck.com/card/?search=Artifact%20Sanctum) | 0.99 | Illegal |
-| [Artifact Scythe](https://db.ygoprodeck.com/card/?search=Artifact%20Scythe) | 0.17 | Illegal |
 | [Artorigus, King of the Noble Knights](https://db.ygoprodeck.com/card/?search=Artorigus,%20King%20of%20the%20Noble%20Knights) | 2.45 | Illegal |
 | [Ash Blossom & Joyous Spring](https://db.ygoprodeck.com/card/?search=Ash%20Blossom%20%26%20Joyous%20Spring) | 16.65 | Illegal |
 | [Ashura King](https://db.ygoprodeck.com/card/?search=Ashura%20King) | 0.99 | Illegal |
@@ -263,8 +261,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [C-Crush Wyvern](https://db.ygoprodeck.com/card/?search=C-Crush%20Wyvern) | 0.62 | Illegal |
 | [Caam, Serenity of Gusto](https://db.ygoprodeck.com/card/?search=Caam,%20Serenity%20of%20Gusto) | 1.76 | Illegal |
 | [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | 0.51 | Illegal |
-| [Cannon Soldier](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier) | 0.17 | Illegal |
-| [Cannon Soldier MK-2](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier%20MK-2) | 0.02 | Illegal |
 | [Card of Demise](https://db.ygoprodeck.com/card/?search=Card%20of%20Demise) | 2.55 | Illegal |
 | [Cards of Consonance](https://db.ygoprodeck.com/card/?search=Cards%20of%20Consonance) | 0.86 | Illegal |
 | [Carrierroid](https://db.ygoprodeck.com/card/?search=Carrierroid) | 0.67 | Illegal |
@@ -458,7 +454,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Dimension Fusion](https://db.ygoprodeck.com/card/?search=Dimension%20Fusion) | 28.75 | Illegal |
 | [Dimension Shifter](https://db.ygoprodeck.com/card/?search=Dimension%20Shifter) | 11.59 | Illegal |
 | [Dimension Wall](https://db.ygoprodeck.com/card/?search=Dimension%20Wall) | 1.73 | Illegal |
-| [Dimensional Barrier](https://db.ygoprodeck.com/card/?search=Dimensional%20Barrier) | 0.20 | Illegal |
 | [Dingirsu, the Orcust of the Evening Star](https://db.ygoprodeck.com/card/?search=Dingirsu,%20the%20Orcust%20of%20the%20Evening%20Star) | 5.91 | Illegal |
 | [Dinomorphia Domain](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Domain) | 6.20 | Illegal |
 | [Dinomorphia Frenzy](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Frenzy) | 1.74 | Illegal |
@@ -767,7 +762,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Golem Dragon](https://db.ygoprodeck.com/card/?search=Golem%20Dragon) | 1.12 | Illegal |
 | [Good & Evil in the Burning Abyss](https://db.ygoprodeck.com/card/?search=Good%20%26%20Evil%20in%20the%20Burning%20Abyss) | 0.59 | Illegal |
 | [Gottoms' Emergency Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Emergency%20Call) | 0.51 | Illegal |
-| [Gouki The Powerload Ogre](https://db.ygoprodeck.com/card/?search=Gouki%20The%20Powerload%20Ogre) | 0.08 | Illegal |
 | [Goyo Predator](https://db.ygoprodeck.com/card/?search=Goyo%20Predator) | 0.59 | Illegal |
 | [Gozen Match](https://db.ygoprodeck.com/card/?search=Gozen%20Match) | 3.26 | Illegal |
 | [Gozuki](https://db.ygoprodeck.com/card/?search=Gozuki) | 1.34 | Illegal |
@@ -844,7 +838,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Hino-Kagu-Tsuchi](https://db.ygoprodeck.com/card/?search=Hino-Kagu-Tsuchi) | 3.85 | Illegal |
 | [Hojo the Vaylantz Warrior](https://db.ygoprodeck.com/card/?search=Hojo%20the%20Vaylantz%20Warrior) | 0.93 | Illegal |
 | [Horus the Black Flame Dragon LV8](https://db.ygoprodeck.com/card/?search=Horus%20the%20Black%20Flame%20Dragon%20LV8) | 3.44 | Illegal |
-| [Hot Red Dragon Archfiend King Calamity](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20King%20Calamity) | 0.20 | Illegal |
 | [House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | 0.64 | Illegal |
 | [Hugin the Runick Wings](https://db.ygoprodeck.com/card/?search=Hugin%20the%20Runick%20Wings) | 39.96 | Illegal |
 | [Hundred Dragon](https://db.ygoprodeck.com/card/?search=Hundred%20Dragon) | 0.52 | Illegal |
@@ -1158,7 +1151,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Moray of Greed](https://db.ygoprodeck.com/card/?search=Moray%20of%20Greed) | 1.18 | Illegal |
 | [Morpheus, the Dream Mirror Black Knight](https://db.ygoprodeck.com/card/?search=Morpheus,%20the%20Dream%20Mirror%20Black%20Knight) | 1.33 | Illegal |
 | [Morphtronic Radion](https://db.ygoprodeck.com/card/?search=Morphtronic%20Radion) | 0.51 | Illegal |
-| [Morphtronic Telefon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Telefon) | 0.06 | Illegal |
 | [Muko](https://db.ygoprodeck.com/card/?search=Muko) | 0.00 | Illegal |
 | [Multiple Destruction](https://db.ygoprodeck.com/card/?search=Multiple%20Destruction) | 0.80 | Illegal |
 | [Multiply](https://db.ygoprodeck.com/card/?search=Multiply) | 0.51 | Illegal |
@@ -1296,7 +1288,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Number F0: Utopic Draco Future](https://db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Draco%20Future) | 20.95 | Illegal |
 | [Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.59 | Illegal |
 | [Number Wall](https://db.ygoprodeck.com/card/?search=Number%20Wall) | 1.53 | Illegal |
-| [Numeron Calling](https://db.ygoprodeck.com/card/?search=Numeron%20Calling) | 0.25 | Illegal |
 | [Nurse Dragonmaid](https://db.ygoprodeck.com/card/?search=Nurse%20Dragonmaid) | 1.24 | Illegal |
 | [Oafdragon Magician](https://db.ygoprodeck.com/card/?search=Oafdragon%20Magician) | 0.77 | Illegal |
 | [Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | 1.19 | Illegal |
@@ -1748,7 +1739,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [The Winged Dragon of Ra - Immortal Phoenix](https://db.ygoprodeck.com/card/?search=The%20Winged%20Dragon%20of%20Ra%20-%20Immortal%20Phoenix) | 2.39 | Illegal |
 | [The Winged Dragon of Ra - Sphere Mode](https://db.ygoprodeck.com/card/?search=The%20Winged%20Dragon%20of%20Ra%20-%20Sphere%20Mode) | 6.64 | Illegal |
 | [The Zombie Vampire](https://db.ygoprodeck.com/card/?search=The%20Zombie%20Vampire) | 11.65 | Illegal |
-| [There Can Be Only One](https://db.ygoprodeck.com/card/?search=There%20Can%20Be%20Only%20One) | 0.21 | Illegal |
 | [Therion "King" Regulus](https://db.ygoprodeck.com/card/?search=Therion%20"King"%20Regulus) | 33.07 | Illegal |
 | [Therion "Lily" Borea](https://db.ygoprodeck.com/card/?search=Therion%20"Lily"%20Borea) | 7.57 | Illegal |
 | [Therion Discolosseum](https://db.ygoprodeck.com/card/?search=Therion%20Discolosseum) | 4.98 | Illegal |
@@ -1781,7 +1771,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Toon Black Luster Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Black%20Luster%20Soldier) | 35.67 | Illegal |
 | [Toon Bookmark](https://db.ygoprodeck.com/card/?search=Toon%20Bookmark) | 21.32 | Illegal |
 | [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | 0.51 | Illegal |
-| [Toon Cannon Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Cannon%20Soldier) | 0.36 | Illegal |
 | [Toon Cyber Dragon](https://db.ygoprodeck.com/card/?search=Toon%20Cyber%20Dragon) | 0.55 | Illegal |
 | [Toon Dark Magician](https://db.ygoprodeck.com/card/?search=Toon%20Dark%20Magician) | 0.97 | Illegal |
 | [Toon Harpie Lady](https://db.ygoprodeck.com/card/?search=Toon%20Harpie%20Lady) | 0.85 | Illegal |
@@ -1982,25 +1971,32 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Zoroa, the Magistus of Flame](https://db.ygoprodeck.com/card/?search=Zoroa,%20the%20Magistus%20of%20Flame) | 6.19 | Illegal |
 | [ZS - Ascended Sage](https://db.ygoprodeck.com/card/?search=ZS%20-%20Ascended%20Sage) | 2.47 | Illegal |
 | [ZW - Lightning Blade](https://db.ygoprodeck.com/card/?search=ZW%20-%20Lightning%20Blade) | 3.50 | Illegal |
+| [Amazoness Archer](https://db.ygoprodeck.com/card/?search=Amazoness%20Archer) | 0.15 | Forbidden |
 | [Ancient Fairy Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Fairy%20Dragon) | 0.50 | Forbidden |
+| [Artifact Scythe](https://db.ygoprodeck.com/card/?search=Artifact%20Scythe) | 0.17 | Forbidden |
 | [Blackwing - Gofu the Vague Shadow](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gofu%20the%20Vague%20Shadow) | 0.25 | Forbidden |
 | [Blackwing - Steam the Cloak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Steam%20the%20Cloak) | 0.14 | Forbidden |
 | [Block Dragon](https://db.ygoprodeck.com/card/?search=Block%20Dragon) | 0.14 | Forbidden |
 | [Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | 0.38 | Forbidden |
 | [Butterfly Dagger - Elma](https://db.ygoprodeck.com/card/?search=Butterfly%20Dagger%20-%20Elma) | 0.42 | Forbidden |
+| [Cannon Soldier](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier) | 0.17 | Forbidden |
+| [Cannon Soldier MK-2](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier%20MK-2) | 0.02 | Forbidden |
 | [Card of Safe Return](https://db.ygoprodeck.com/card/?search=Card%20of%20Safe%20Return) | 0.29 | Forbidden |
 | [Cold Wave](https://db.ygoprodeck.com/card/?search=Cold%20Wave) | 0.17 | Forbidden |
 | [Dandylion](https://db.ygoprodeck.com/card/?search=Dandylion) | 0.25 | Forbidden |
+| [Dimensional Barrier](https://db.ygoprodeck.com/card/?search=Dimensional%20Barrier) | 0.20 | Forbidden |
 | [Djinn Releaser of Rituals](https://db.ygoprodeck.com/card/?search=Djinn%20Releaser%20of%20Rituals) | 0.18 | Forbidden |
 | [Eclipse Wyvern](https://db.ygoprodeck.com/card/?search=Eclipse%20Wyvern) | 0.25 | Forbidden |
 | [Eva](https://db.ygoprodeck.com/card/?search=Eva) | 0.11 | Forbidden |
 | [Fishborg Blaster](https://db.ygoprodeck.com/card/?search=Fishborg%20Blaster) | 0.23 | Forbidden |
 | [Giant Trunade](https://db.ygoprodeck.com/card/?search=Giant%20Trunade) | 0.10 | Forbidden |
 | [Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | 0.47 | Forbidden |
+| [Gouki The Powerload Ogre](https://db.ygoprodeck.com/card/?search=Gouki%20The%20Powerload%20Ogre) | 0.08 | Forbidden |
 | [Grinder Golem](https://db.ygoprodeck.com/card/?search=Grinder%20Golem) | 0.47 | Forbidden |
 | [Guardragon Agarpain](https://db.ygoprodeck.com/card/?search=Guardragon%20Agarpain) | 0.37 | Forbidden |
 | [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy) | 0.41 | Forbidden |
 | [Heavy Storm](https://db.ygoprodeck.com/card/?search=Heavy%20Storm) | 0.30 | Forbidden |
+| [Hot Red Dragon Archfiend King Calamity](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20King%20Calamity) | 0.20 | Forbidden |
 | [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | 0.32 | Forbidden |
 | [Knightmare Mermaid](https://db.ygoprodeck.com/card/?search=Knightmare%20Mermaid) | 0.20 | Forbidden |
 | [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | 0.17 | Forbidden |
@@ -2009,9 +2005,11 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Mass Driver](https://db.ygoprodeck.com/card/?search=Mass%20Driver) | 0.40 | Forbidden |
 | [Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | 0.46 | Forbidden |
 | [Mind Master](https://db.ygoprodeck.com/card/?search=Mind%20Master) | 0.19 | Forbidden |
+| [Morphtronic Telefon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Telefon) | 0.06 | Forbidden |
 | [Number 42: Galaxy Tomahawk](https://db.ygoprodeck.com/card/?search=Number%2042:%20Galaxy%20Tomahawk) | 0.19 | Forbidden |
 | [Number 86: Heroic Champion - Rhongomyniad](https://db.ygoprodeck.com/card/?search=Number%2086:%20Heroic%20Champion%20-%20Rhongomyniad) | 0.39 | Forbidden |
 | [Number S0: Utopic ZEXAL](https://db.ygoprodeck.com/card/?search=Number%20S0:%20Utopic%20ZEXAL) | 0.48 | Forbidden |
+| [Numeron Calling](https://db.ygoprodeck.com/card/?search=Numeron%20Calling) | 0.25 | Forbidden |
 | [Orcust Harp Horror](https://db.ygoprodeck.com/card/?search=Orcust%20Harp%20Horror) | 0.25 | Forbidden |
 | [Performage Plushfire](https://db.ygoprodeck.com/card/?search=Performage%20Plushfire) | 0.11 | Forbidden |
 | [Pot of Greed](https://db.ygoprodeck.com/card/?search=Pot%20of%20Greed) | 0.02 | Forbidden |
@@ -2026,7 +2024,9 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Soul Charge](https://db.ygoprodeck.com/card/?search=Soul%20Charge) | 0.12 | Forbidden |
 | [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | 0.20 | Forbidden |
 | [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom) | 0.15 | Forbidden |
+| [There Can Be Only One](https://db.ygoprodeck.com/card/?search=There%20Can%20Be%20Only%20One) | 0.21 | Forbidden |
 | [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.48 | Forbidden |
+| [Toon Cannon Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Cannon%20Soldier) | 0.36 | Forbidden |
 | [Ultimate Offering](https://db.ygoprodeck.com/card/?search=Ultimate%20Offering) | 0.07 | Forbidden |
 | [Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | 0.02 | Forbidden |
 | [Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | 0.26 | Forbidden |

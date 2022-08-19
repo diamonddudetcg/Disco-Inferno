@@ -52,7 +52,6 @@ jsonData = {}
 
 cutoffPoint = 0.50
 
-
 def buildEverything():
 	today = date.today()
 	formatted = today.strftime("%Y/%m/%d, %H:%M:%S")
@@ -122,6 +121,8 @@ def buildEverything():
 				banTcg = 1
 			if card.get(NAME) in additionalSemiLimited:
 				banTcg = 2
+			if card.get(NAME) in additionalUnlimited:
+				banTcg = 3
 
 			if runs == 0:
 				newAverage = avgPrice
@@ -141,6 +142,7 @@ def buildEverything():
 						previousAverage = entry.get(PRICE)
 						newAverage = (previousAverage * runs + avgPrice)/(runs+1)
 						entry[PRICE] = newAverage
+						entry[STATUS] = banTcg
 
 	cards = jsonData.get(DATA)
 
