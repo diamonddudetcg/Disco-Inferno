@@ -155,9 +155,12 @@ def buildEverything():
 			outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m_%Y"))
 			outfile.write("\n$whitelist\n\n")
 			for card in cards:
+				cardBanlistStatus = card.get(STATUS)
+				if cardBanlistStatus == -2:
+					cardBanlistStatus = -1
 				for cardId in card.get(CARD_IDS):
 					try:
-						outfile.write("%d %d -- %s\n" % (cardId, card.get(STATUS), card.get(NAME)))
+						outfile.write("%d %d -- %s\n" % (cardId, cardBanlistStatus, card.get(NAME)))
 					except TypeError:
 						print(card)
 
@@ -169,14 +172,14 @@ def buildEverything():
 		outfile.write("\n\nThis is the current status for every card for next month as it stands right now. This is not binding, but it gets more accurate as the month goes on.")
 		outfile.write("\n\nTo avoid market manipulation, we regularly check the prices for every card in both CardMarket and TCGPlayer. Instead of looking at the prices of the market once, we compound the average for the entire month to define legality during the next one.")
 		outfile.write("\n\nNote that these prices might not (and probably will not) reflect reality at any single point except the first run of the month. These are average prices for an entire month, not a snapshot of any single moment in time.")
-		outfile.write("\n\n| Card name | Average Price | Status |")
+		outfile.write("\n\n| Card name | Status | Average Price |")
 		outfile.write("\n| :-- | :-- | :-- |")
 
 		for card in sorted(cards, key=operator.itemgetter(STATUS)):
 			cardStatus = card.get(STATUS)
 			cardStatusAsText = "Unlimited"
 			if (cardStatus == -2):
-				cardStatusAsText = "Illegal (Price data unreliable)"
+				cardStatusAsText = "Illegal (no price data)"
 			if (cardStatus == -1):
 				cardStatusAsText = "Illegal"
 			elif (cardStatus == 0):
@@ -188,7 +191,7 @@ def buildEverything():
 
 			cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(NAME).replace(" ", "%20").replace("&", "%26")
 
-			outfile.write("\n| [%s](%s) | %s | %s |"%(card.get(NAME), cardUrl, "{:.2f}".format(card.get(PRICE)), cardStatusAsText))
+			outfile.write("\n| [%s](%s) | %s | %s |"%(card.get(NAME), cardUrl, cardStatusAsText, "{:.2f}".format(card.get(PRICE))))
 
 		outfile.write("\n\n###### [Back home](index)")
 
