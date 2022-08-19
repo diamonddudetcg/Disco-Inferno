@@ -1,5 +1,5 @@
 {
-	"forbidden": [
+	"Banned": [
 		"Amazoness Archer",
 		"Artifact Scythe",
 		"Cannon Soldier",
@@ -18,16 +18,16 @@
 		
 		"Anti-Spell Fragrance",
 		"Dimensional Barrier",
-		"Gozen Match"
+		"Gozen Match",
 		"Harpie's Feather Storm",
 		"Rivalry of Warlords",
 		"Summon Limit",
 		"There Can Be Only One"],
 
-	"limited" : [],
+	"Limited" : [],
 
-	"semi" : [],
+	"Semi-Limited" : [],
 
-	"unlimited":[]
+	"Unlimited":[]
 
 }

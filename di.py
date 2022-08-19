@@ -45,10 +45,7 @@ LIMITED = 'Limited'
 SEMI = 'Semi-Limited'
 UNLIMITED = 'Unlimited'
 
-today = date.today()
 
-jsonPath = 'json/%s.json'%today.strftime("%Y_%m")
-banlistPath = 'banlist/ongoing/disco_inferno_%s.lflist.conf'%today.strftime("%Y_%m")
 ongoingBanlistSite = 'docs/ongoing.md'
 diBanlistPath = 'json/banlist/di_banlist.json'
 jsonData = {}
@@ -57,6 +54,12 @@ cutoffPoint = 0.50
 
 
 def buildEverything():
+	today = date.today()
+	formatted = today.strftime("%Y/%m/%d, %H:%M:%S")
+
+	jsonPath = 'json/%s.json'%today.strftime("%Y_%m")
+	banlistPath = 'banlist/ongoing/disco_inferno_%s.lflist.conf'%today.strftime("%Y_%m")
+
 	with open(diBanlistPath) as banlistFile:
 		banlist = json.load(banlistFile)
 		additionalForbidden = banlist.get(BANNED)
@@ -185,6 +188,10 @@ def buildEverything():
 		outfile.write("\n\n###### [Back home](index)")
 
 	print("Executed a run", flush=True)
+
+	os.system('git add .')
+	os.system('git commit -m \"%s\"'%formatted)
+	os.system('git push')
 
 buildEverything()
 
