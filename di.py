@@ -56,6 +56,7 @@ cutoffPoint = 0.50
 def buildEverything():
 	today = date.today()
 	formatted = today.strftime("%Y/%m/%d, %H:%M:%S")
+	stableHiddenSite = 'docs/hidden/banlist_%s.md'%today.strftime("%Y_%m")
 
 	jsonPath = 'json/%s.json'%today.strftime("%Y_%m")
 	banlistPath = 'banlist/ongoing/disco_inferno_%s.lflist.conf'%today.strftime("%Y_%m")
@@ -169,7 +170,7 @@ def buildEverything():
 		outfile.write("\n\n| Card name | Average Price | Status |")
 		outfile.write("\n| :-- | :-- | :-- |")
 
-		for card in sorted(cards, key=operator.itemgetter(STATUS, PRICE)):
+		for card in sorted(cards, key=operator.itemgetter(STATUS)):
 			cardStatus = card.get(STATUS)
 			cardStatusAsText = "Unlimited"
 			if (cardStatus == -1):
@@ -184,6 +185,33 @@ def buildEverything():
 			cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(NAME).replace(" ", "%20").replace("&", "%26")
 
 			outfile.write("\n| [%s](%s) | %s | %s |"%(card.get(NAME), cardUrl, "{:.2f}".format(card.get(PRICE)), cardStatusAsText))
+
+		outfile.write("\n\n###### [Back home](index)")
+
+	with open(stableHiddenSite, 'w', encoding="utf-8") as outfile:
+		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
+		outfile.write("\n\n## Disco Inferno F&L list for %s"%today.strftime("%B %Y"))
+		outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1DJHIE40SD25ICctEbBVulGPetKiE9kTT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
+		outfile.write("\n\nThe banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists")
+		outfile.write("\n\nEDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.")
+		outfile.write("\n\n| Card name | Status |")
+		outfile.write("\n| :-- | :-- |")
+
+		for card in sorted(cards, key=operator.itemgetter(STATUS)):
+			cardStatus = card.get(STATUS)
+			cardStatusAsText = "Unlimited"
+			if (cardStatus == -1):
+				cardStatusAsText = "Illegal"
+			elif (cardStatus == 0):
+				cardStatusAsText = "Forbidden"
+			elif (cardStatus == 1):
+				cardStatusAsText = "Limited"
+			elif (cardStatus == 2):
+				cardStatusAsText = "Semi-Limited"
+
+			cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(NAME).replace(" ", "%20").replace("&", "%26")
+
+			outfile.write("\n| [%s](%s) | %s |"%(card.get(NAME), cardUrl, cardStatusAsText))
 
 		outfile.write("\n\n###### [Back home](index)")
 
