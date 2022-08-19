@@ -169,7 +169,7 @@ def buildEverything():
 		outfile.write("\n\n| Card name | Average Price | Status |")
 		outfile.write("\n| :-- | :-- | :-- |")
 
-		for card in sorted(cards, key=operator.itemgetter(STATUS)):
+		for card in sorted(cards, key=operator.itemgetter(STATUS, PRICE)):
 			cardStatus = card.get(STATUS)
 			cardStatusAsText = "Unlimited"
 			if (cardStatus == -1):
