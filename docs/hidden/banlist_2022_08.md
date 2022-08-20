@@ -373,6 +373,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | Illegal |
 | [Crystal Bond](https://db.ygoprodeck.com/card/?search=Crystal%20Bond) | Illegal |
 | [Crystal Clear Wing Synchro Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Clear%20Wing%20Synchro%20Dragon) | Illegal |
+| [Crystal Pair](https://db.ygoprodeck.com/card/?search=Crystal%20Pair) | Illegal |
 | [Crystal Wing Synchro Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Wing%20Synchro%20Dragon) | Illegal |
 | [Crystron Citree](https://db.ygoprodeck.com/card/?search=Crystron%20Citree) | Illegal |
 | [Crystron Halqifibrax](https://db.ygoprodeck.com/card/?search=Crystron%20Halqifibrax) | Illegal |
@@ -1427,6 +1428,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Pendulum Fusion](https://db.ygoprodeck.com/card/?search=Pendulum%20Fusion) | Illegal |
 | [Pentestag](https://db.ygoprodeck.com/card/?search=Pentestag) | Illegal |
 | [Perfect Machine King](https://db.ygoprodeck.com/card/?search=Perfect%20Machine%20King) | Illegal |
+| [Performapal Celestial Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Celestial%20Magician) | Illegal |
 | [Performapal Dag Daggerman](https://db.ygoprodeck.com/card/?search=Performapal%20Dag%20Daggerman) | Illegal |
 | [Performapal Odd-Eyes Synchron](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Synchron) | Illegal |
 | [Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | Illegal |
@@ -1784,6 +1786,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Superheavy Samurai Ogre Shutendoji](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Ogre%20Shutendoji) | Illegal |
 | [Superheavy Samurai Scales](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Scales) | Illegal |
 | [Superheavy Samurai Trumpeter](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Trumpeter) | Illegal |
+| [Superheavy Samurai Warlord Susanowo](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Warlord%20Susanowo) | Illegal |
 | [Supermagic Sword of Raptinus](https://db.ygoprodeck.com/card/?search=Supermagic%20Sword%20of%20Raptinus) | Illegal |
 | [Supersonic Skull Flame](https://db.ygoprodeck.com/card/?search=Supersonic%20Skull%20Flame) | Illegal |
 | [Supreme Arcanite Magician](https://db.ygoprodeck.com/card/?search=Supreme%20Arcanite%20Magician) | Illegal |
@@ -3735,7 +3738,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Crystal Girl](https://db.ygoprodeck.com/card/?search=Crystal%20Girl) | Unlimited |
 | [Crystal Keeper](https://db.ygoprodeck.com/card/?search=Crystal%20Keeper) | Unlimited |
 | [Crystal Master](https://db.ygoprodeck.com/card/?search=Crystal%20Master) | Unlimited |
-| [Crystal Pair](https://db.ygoprodeck.com/card/?search=Crystal%20Pair) | Unlimited |
 | [Crystal Promise](https://db.ygoprodeck.com/card/?search=Crystal%20Promise) | Unlimited |
 | [Crystal Raigeki](https://db.ygoprodeck.com/card/?search=Crystal%20Raigeki) | Unlimited |
 | [Crystal Release](https://db.ygoprodeck.com/card/?search=Crystal%20Release) | Unlimited |
@@ -8242,7 +8244,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Performapal Call](https://db.ygoprodeck.com/card/?search=Performapal%20Call) | Unlimited |
 | [Performapal Camelump](https://db.ygoprodeck.com/card/?search=Performapal%20Camelump) | Unlimited |
 | [Performapal Card Gardna](https://db.ygoprodeck.com/card/?search=Performapal%20Card%20Gardna) | Unlimited |
-| [Performapal Celestial Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Celestial%20Magician) | Unlimited |
 | [Performapal Changeraffe](https://db.ygoprodeck.com/card/?search=Performapal%20Changeraffe) | Unlimited |
 | [Performapal Cheermole](https://db.ygoprodeck.com/card/?search=Performapal%20Cheermole) | Unlimited |
 | [Performapal Clay Breaker](https://db.ygoprodeck.com/card/?search=Performapal%20Clay%20Breaker) | Unlimited |
@@ -10042,7 +10043,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Superheavy Samurai Thief](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Thief) | Unlimited |
 | [Superheavy Samurai Transporter](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Transporter) | Unlimited |
 | [Superheavy Samurai Wagon](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Wagon) | Unlimited |
-| [Superheavy Samurai Warlord Susanowo](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Warlord%20Susanowo) | Unlimited |
 | [Supernatural Danger Zone](https://db.ygoprodeck.com/card/?search=Supernatural%20Danger%20Zone) | Unlimited |
 | [Supernatural Regeneration](https://db.ygoprodeck.com/card/?search=Supernatural%20Regeneration) | Unlimited |
 | [Supervise](https://db.ygoprodeck.com/card/?search=Supervise) | Unlimited |
