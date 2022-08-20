@@ -787,6 +787,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Ghostrick Alucard](https://db.ygoprodeck.com/card/?search=Ghostrick%20Alucard) | Illegal |
 | [Ghostrick Ghoul](https://db.ygoprodeck.com/card/?search=Ghostrick%20Ghoul) | Illegal |
 | [Ghostrick Night](https://db.ygoprodeck.com/card/?search=Ghostrick%20Night) | Illegal |
+| [Ghostrick Renovation](https://db.ygoprodeck.com/card/?search=Ghostrick%20Renovation) | Illegal |
 | [Ghostrick-Go-Round](https://db.ygoprodeck.com/card/?search=Ghostrick-Go-Round) | Illegal |
 | [Ghoti of the Deep Beyond](https://db.ygoprodeck.com/card/?search=Ghoti%20of%20the%20Deep%20Beyond) | Illegal |
 | [Giant Beetrooper Invincible Atlas](https://db.ygoprodeck.com/card/?search=Giant%20Beetrooper%20Invincible%20Atlas) | Illegal |
@@ -5613,7 +5614,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Ghostrick Nekomusume](https://db.ygoprodeck.com/card/?search=Ghostrick%20Nekomusume) | Unlimited |
 | [Ghostrick or Treat](https://db.ygoprodeck.com/card/?search=Ghostrick%20or%20Treat) | Unlimited |
 | [Ghostrick Parade](https://db.ygoprodeck.com/card/?search=Ghostrick%20Parade) | Unlimited |
-| [Ghostrick Renovation](https://db.ygoprodeck.com/card/?search=Ghostrick%20Renovation) | Unlimited |
 | [Ghostrick Scare](https://db.ygoprodeck.com/card/?search=Ghostrick%20Scare) | Unlimited |
 | [Ghostrick Shot](https://db.ygoprodeck.com/card/?search=Ghostrick%20Shot) | Unlimited |
 | [Ghostrick Siren](https://db.ygoprodeck.com/card/?search=Ghostrick%20Siren) | Unlimited |
