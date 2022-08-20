@@ -50,6 +50,8 @@ ongoingBanlistSite = 'docs/ongoing.md'
 diBanlistPath = 'json/banlist/di_banlist.json'
 jsonData = {}
 
+
+
 cutoffPoint = 0.50
 
 def buildEverything():
@@ -58,6 +60,7 @@ def buildEverything():
 	stableHiddenSite = 'docs/hidden/banlist_%s.md'%today.strftime("%Y_%m")
 
 	jsonPath = 'json/%s.json'%today.strftime("%Y_%m")
+
 	banlistPath = 'banlist/ongoing/disco_inferno_%s.lflist.conf'%today.strftime("%Y_%m")
 
 	with open(diBanlistPath) as banlistFile:
@@ -92,6 +95,10 @@ def buildEverything():
 			cardmarketPrice = float(cardPrices.get(CARDMARKET_PRICE))
 			avgPrice = min(tcgplayerPrice, cardmarketPrice)
 			if (avgPrice == 0):
+				# This prevents errors like the Live Twins
+				avgPrice = max(tcgplayerPrice, cardmarketPrice)
+			if (cardmarketPrice > 2.5 or tcgplayerPrice > 2.5):
+				# This prevents errors like Blue-Eyes Alternative Dragon
 				avgPrice = max(tcgplayerPrice, cardmarketPrice)
 
 			banInfo = card.get(BANLIST_INFO)
