@@ -97,7 +97,7 @@ def buildEverything():
 			if (avgPrice == 0):
 				# This prevents errors like the Live Twins
 				avgPrice = max(tcgplayerPrice, cardmarketPrice)
-			if (cardmarketPrice > 2.5 or tcgplayerPrice > 2.5):
+			if (cardmarketPrice + tcgplayerPrice > 2):
 				# This prevents errors like Blue-Eyes Alternative Dragon
 				avgPrice = max(tcgplayerPrice, cardmarketPrice)
 
