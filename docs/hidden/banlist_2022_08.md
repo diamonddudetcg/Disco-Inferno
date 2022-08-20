@@ -187,6 +187,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Barrel Behind the Door](https://db.ygoprodeck.com/card/?search=Barrel%20Behind%20the%20Door) | Illegal |
 | [Barrier Statue of the Stormwinds](https://db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Stormwinds) | Illegal |
 | [Batteryman Fuel Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Fuel%20Cell) | Illegal |
+| [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal |
 | [Bean Soldier](https://db.ygoprodeck.com/card/?search=Bean%20Soldier) | Illegal |
 | [Beastking of the Swamps](https://db.ygoprodeck.com/card/?search=Beastking%20of%20the%20Swamps) | Illegal |
 | [Beat, Bladesman Fur Hire](https://db.ygoprodeck.com/card/?search=Beat,%20Bladesman%20Fur%20Hire) | Illegal |
@@ -490,6 +491,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Destiny HERO - Destroyer Phoenix Enforcer](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Destroyer%20Phoenix%20Enforcer) | Illegal |
 | [Destroyersaurus](https://db.ygoprodeck.com/card/?search=Destroyersaurus) | Illegal |
 | [Destruction Jammer](https://db.ygoprodeck.com/card/?search=Destruction%20Jammer) | Illegal |
+| [Destruction Sword Memories](https://db.ygoprodeck.com/card/?search=Destruction%20Sword%20Memories) | Illegal |
 | [Dharc the Dark Charmer, Gloomy](https://db.ygoprodeck.com/card/?search=Dharc%20the%20Dark%20Charmer,%20Gloomy) | Illegal |
 | [Dharma Cannon](https://db.ygoprodeck.com/card/?search=Dharma%20Cannon) | Illegal |
 | [Diamond Dire Wolf](https://db.ygoprodeck.com/card/?search=Diamond%20Dire%20Wolf) | Illegal |
@@ -723,6 +725,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Gaia Drake, the Universal Force](https://db.ygoprodeck.com/card/?search=Gaia%20Drake,%20the%20Universal%20Force) | Illegal |
 | [Gaia Plate the Earth Giant](https://db.ygoprodeck.com/card/?search=Gaia%20Plate%20the%20Earth%20Giant) | Illegal |
 | [Galatea, the Orcust Automaton](https://db.ygoprodeck.com/card/?search=Galatea,%20the%20Orcust%20Automaton) | Illegal |
+| [Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | Illegal |
 | [Galaxy Expedition](https://db.ygoprodeck.com/card/?search=Galaxy%20Expedition) | Illegal |
 | [Galaxy Soldier](https://db.ygoprodeck.com/card/?search=Galaxy%20Soldier) | Illegal |
 | [Galaxy-Eyes Afterglow Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Afterglow%20Dragon) | Illegal |
@@ -851,6 +854,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Greed Quasar](https://db.ygoprodeck.com/card/?search=Greed%20Quasar) | Illegal |
 | [Greedy Venom Fusion Dragon](https://db.ygoprodeck.com/card/?search=Greedy%20Venom%20Fusion%20Dragon) | Illegal |
 | [Gren Maju Da Eiza](https://db.ygoprodeck.com/card/?search=Gren%20Maju%20Da%20Eiza) | Illegal |
+| [Grinning Grave Virus](https://db.ygoprodeck.com/card/?search=Grinning%20Grave%20Virus) | Illegal |
 | [Gruesome Goo](https://db.ygoprodeck.com/card/?search=Gruesome%20Goo) | Illegal |
 | [Guardian Chimera](https://db.ygoprodeck.com/card/?search=Guardian%20Chimera) | Illegal |
 | [Guardian Grarl](https://db.ygoprodeck.com/card/?search=Guardian%20Grarl) | Illegal |
@@ -1215,6 +1219,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Morpheus, the Dream Mirror Black Knight](https://db.ygoprodeck.com/card/?search=Morpheus,%20the%20Dream%20Mirror%20Black%20Knight) | Illegal |
 | [Morphtronic Radion](https://db.ygoprodeck.com/card/?search=Morphtronic%20Radion) | Illegal |
 | [Morphtronic Remoten](https://db.ygoprodeck.com/card/?search=Morphtronic%20Remoten) | Illegal |
+| [Mudan the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Mudan%20the%20Rikka%20Fairy) | Illegal |
 | [Multiple Destruction](https://db.ygoprodeck.com/card/?search=Multiple%20Destruction) | Illegal |
 | [Multiply](https://db.ygoprodeck.com/card/?search=Multiply) | Illegal |
 | [Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal |
@@ -1280,6 +1285,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Noh-P.U.N.K. Deer Note](https://db.ygoprodeck.com/card/?search=Noh-P.U.N.K.%20Deer%20Note) | Illegal |
 | [Noh-P.U.N.K. Foxy Tune](https://db.ygoprodeck.com/card/?search=Noh-P.U.N.K.%20Foxy%20Tune) | Illegal |
 | [Noh-P.U.N.K. Ogre Dance](https://db.ygoprodeck.com/card/?search=Noh-P.U.N.K.%20Ogre%20Dance) | Illegal |
+| [Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Illegal |
 | [Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | Illegal |
 | [Novox's Prayer](https://db.ygoprodeck.com/card/?search=Novox's%20Prayer) | Illegal |
 | [Number 100: Numeron Dragon](https://db.ygoprodeck.com/card/?search=Number%20100:%20Numeron%20Dragon) | Illegal |
@@ -1368,6 +1374,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Odd-Eyes Pendulumgraph Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Pendulumgraph%20Dragon) | Illegal |
 | [Odd-Eyes Phantasma Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Phantasma%20Dragon) | Illegal |
 | [Odd-Eyes Raging Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Raging%20Dragon) | Illegal |
+| [Odd-Eyes Rebellion Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Rebellion%20Dragon) | Illegal |
 | [Odd-Eyes Revolution Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Revolution%20Dragon) | Illegal |
 | [Odd-Eyes Venom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Venom%20Dragon) | Illegal |
 | [Ogdoabyss, the Ogdoadic Overlord](https://db.ygoprodeck.com/card/?search=Ogdoabyss,%20the%20Ogdoadic%20Overlord) | Illegal |
@@ -2817,7 +2824,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Batteryman C](https://db.ygoprodeck.com/card/?search=Batteryman%20C) | Unlimited |
 | [Batteryman Charger](https://db.ygoprodeck.com/card/?search=Batteryman%20Charger) | Unlimited |
 | [Batteryman D](https://db.ygoprodeck.com/card/?search=Batteryman%20D) | Unlimited |
-| [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Unlimited |
 | [Batteryman Micro-Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Micro-Cell) | Unlimited |
 | [Batteryman Solar](https://db.ygoprodeck.com/card/?search=Batteryman%20Solar) | Unlimited |
 | [Battle Break](https://db.ygoprodeck.com/card/?search=Battle%20Break) | Unlimited |
@@ -4246,7 +4252,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Destruction Punch](https://db.ygoprodeck.com/card/?search=Destruction%20Punch) | Unlimited |
 | [Destruction Ring](https://db.ygoprodeck.com/card/?search=Destruction%20Ring) | Unlimited |
 | [Destruction Sword Flash](https://db.ygoprodeck.com/card/?search=Destruction%20Sword%20Flash) | Unlimited |
-| [Destruction Sword Memories](https://db.ygoprodeck.com/card/?search=Destruction%20Sword%20Memories) | Unlimited |
 | [Destruction Swordsman Fusion](https://db.ygoprodeck.com/card/?search=Destruction%20Swordsman%20Fusion) | Unlimited |
 | [Destructive Draw](https://db.ygoprodeck.com/card/?search=Destructive%20Draw) | Unlimited |
 | [Destructotron](https://db.ygoprodeck.com/card/?search=Destructotron) | Unlimited |
@@ -5402,7 +5407,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Galactic Spiral Dragon](https://db.ygoprodeck.com/card/?search=Galactic%20Spiral%20Dragon) | Unlimited |
 | [Galaxy Brave](https://db.ygoprodeck.com/card/?search=Galaxy%20Brave) | Unlimited |
 | [Galaxy Cleric](https://db.ygoprodeck.com/card/?search=Galaxy%20Cleric) | Unlimited |
-| [Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | Unlimited |
 | [Galaxy Dragon](https://db.ygoprodeck.com/card/?search=Galaxy%20Dragon) | Unlimited |
 | [Galaxy Knight](https://db.ygoprodeck.com/card/?search=Galaxy%20Knight) | Unlimited |
 | [Galaxy Mirror Sage](https://db.ygoprodeck.com/card/?search=Galaxy%20Mirror%20Sage) | Unlimited |
@@ -5890,7 +5894,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Grid Sweeper](https://db.ygoprodeck.com/card/?search=Grid%20Sweeper) | Unlimited |
 | [Griffore](https://db.ygoprodeck.com/card/?search=Griffore) | Unlimited |
 | [Griggle](https://db.ygoprodeck.com/card/?search=Griggle) | Unlimited |
-| [Grinning Grave Virus](https://db.ygoprodeck.com/card/?search=Grinning%20Grave%20Virus) | Unlimited |
 | [Grisaille Prison](https://db.ygoprodeck.com/card/?search=Grisaille%20Prison) | Unlimited |
 | [Ground Attacker Bugroth](https://db.ygoprodeck.com/card/?search=Ground%20Attacker%20Bugroth) | Unlimited |
 | [Ground Collapse](https://db.ygoprodeck.com/card/?search=Ground%20Collapse) | Unlimited |
@@ -7619,7 +7622,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Mr. Volcano](https://db.ygoprodeck.com/card/?search=Mr.%20Volcano) | Unlimited |
 | [Ms. Judge](https://db.ygoprodeck.com/card/?search=Ms.%20Judge) | Unlimited |
 | [Mucus Yolk](https://db.ygoprodeck.com/card/?search=Mucus%20Yolk) | Unlimited |
-| [Mudan the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Mudan%20the%20Rikka%20Fairy) | Unlimited |
 | [Muddy Mudragon](https://db.ygoprodeck.com/card/?search=Muddy%20Mudragon) | Unlimited |
 | [Mudora](https://db.ygoprodeck.com/card/?search=Mudora) | Unlimited |
 | [Mudragon of the Swamp](https://db.ygoprodeck.com/card/?search=Mudragon%20of%20the%20Swamp) | Unlimited |
@@ -7864,7 +7866,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Noh-P.U.N.K. Ze Amin](https://db.ygoprodeck.com/card/?search=Noh-P.U.N.K.%20Ze%20Amin) | Unlimited |
 | [Noisy Gnat](https://db.ygoprodeck.com/card/?search=Noisy%20Gnat) | Unlimited |
 | [Nomadic Force](https://db.ygoprodeck.com/card/?search=Nomadic%20Force) | Unlimited |
-| [Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Unlimited |
 | [Non-Spellcasting Area](https://db.ygoprodeck.com/card/?search=Non-Spellcasting%20Area) | Unlimited |
 | [Nopenguin](https://db.ygoprodeck.com/card/?search=Nopenguin) | Unlimited |
 | [Nordic Beast Gullinbursti](https://db.ygoprodeck.com/card/?search=Nordic%20Beast%20Gullinbursti) | Unlimited |
@@ -7985,7 +7986,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Odd-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Pendulum%20Dragon) | Unlimited |
 | [Odd-Eyes Persona Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Persona%20Dragon) | Unlimited |
 | [Odd-Eyes Phantom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Phantom%20Dragon) | Unlimited |
-| [Odd-Eyes Rebellion Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Rebellion%20Dragon) | Unlimited |
 | [Odd-Eyes Rebellion Dragon Overlord](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Rebellion%20Dragon%20Overlord) | Unlimited |
 | [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | Unlimited |
 | [Odd-Eyes Vortex Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Vortex%20Dragon) | Unlimited |
