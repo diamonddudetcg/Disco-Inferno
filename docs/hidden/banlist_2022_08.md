@@ -2045,6 +2045,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Wattchimera](https://db.ygoprodeck.com/card/?search=Wattchimera) | Illegal |
 | [Wave-Motion Inferno](https://db.ygoprodeck.com/card/?search=Wave-Motion%20Inferno) | Illegal |
 | [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | Illegal |
+| [Welcome Labrynth](https://db.ygoprodeck.com/card/?search=Welcome%20Labrynth) | Illegal |
 | [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Illegal |
 | [White Aura Dolphin](https://db.ygoprodeck.com/card/?search=White%20Aura%20Dolphin) | Illegal |
 | [White Aura Whale](https://db.ygoprodeck.com/card/?search=White%20Aura%20Whale) | Illegal |
@@ -11135,7 +11136,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Weed Out](https://db.ygoprodeck.com/card/?search=Weed%20Out) | Unlimited |
 | [Weeping Idol](https://db.ygoprodeck.com/card/?search=Weeping%20Idol) | Unlimited |
 | [Weights & Zenmaisures](https://db.ygoprodeck.com/card/?search=Weights%20%26%20Zenmaisures) | Unlimited |
-| [Welcome Labrynth](https://db.ygoprodeck.com/card/?search=Welcome%20Labrynth) | Unlimited |
 | [Wetha](https://db.ygoprodeck.com/card/?search=Wetha) | Unlimited |
 | [Wetlands](https://db.ygoprodeck.com/card/?search=Wetlands) | Unlimited |
 | [Wheel of Prophecy](https://db.ygoprodeck.com/card/?search=Wheel%20of%20Prophecy) | Unlimited |
