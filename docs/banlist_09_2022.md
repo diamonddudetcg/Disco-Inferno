@@ -4,7 +4,7 @@ title:  "Disco Inferno"
 
 ## Disco Inferno F&L list for September 2022
 
-[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1DJHIE40SD25ICctEbBVulGPetKiE9kTT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.
+[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1DMuzBoAvqjbZH4M2dLJFQY8kt-r3kWmZ/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.
 
 The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists
 
