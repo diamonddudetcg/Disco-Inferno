@@ -1158,6 +1158,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Marincess Dive](https://db.ygoprodeck.com/card/?search=Marincess%20Dive) | Illegal |
 | [Marincess Springirl](https://db.ygoprodeck.com/card/?search=Marincess%20Springirl) | Illegal |
 | [Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | Illegal |
+| [Mask Change II](https://db.ygoprodeck.com/card/?search=Mask%20Change%20II) | Illegal |
 | [Masked Chameleon](https://db.ygoprodeck.com/card/?search=Masked%20Chameleon) | Illegal |
 | [Masked HERO Acid](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Acid) | Illegal |
 | [Masked HERO Anki](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Anki) | Illegal |
@@ -7246,7 +7247,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Maryokutai](https://db.ygoprodeck.com/card/?search=Maryokutai) | Unlimited |
 | [Masaki the Legendary Swordsman](https://db.ygoprodeck.com/card/?search=Masaki%20the%20Legendary%20Swordsman) | Unlimited |
 | [Mask Change](https://db.ygoprodeck.com/card/?search=Mask%20Change) | Unlimited |
-| [Mask Change II](https://db.ygoprodeck.com/card/?search=Mask%20Change%20II) | Unlimited |
 | [Mask Charge](https://db.ygoprodeck.com/card/?search=Mask%20Charge) | Unlimited |
 | [Mask of Brutality](https://db.ygoprodeck.com/card/?search=Mask%20of%20Brutality) | Unlimited |
 | [Mask of Darkness](https://db.ygoprodeck.com/card/?search=Mask%20of%20Darkness) | Unlimited |
