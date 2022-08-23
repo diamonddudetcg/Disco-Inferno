@@ -13,7 +13,3 @@ title:  "Disco Inferno"
 [August 2022 banlist](banlist_08_2022)
 
 [September 2022 banlist](banlist_09_2022)
-
-## Future banlist
-
-[Banlist for next month](ongoing)
