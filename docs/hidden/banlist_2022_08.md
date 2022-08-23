@@ -1149,6 +1149,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Malefic Stardust Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Stardust%20Dragon) | Illegal |
 | [Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | Illegal |
 | [Malefic World](https://db.ygoprodeck.com/card/?search=Malefic%20World) | Illegal |
+| [Mamonaka the Vaylantz United](https://db.ygoprodeck.com/card/?search=Mamonaka%20the%20Vaylantz%20United) | Illegal |
 | [Man-Eating Black Shark](https://db.ygoprodeck.com/card/?search=Man-Eating%20Black%20Shark) | Illegal |
 | [March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | Illegal |
 | [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | Illegal |
@@ -7192,7 +7193,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Malicevorous Spoon](https://db.ygoprodeck.com/card/?search=Malicevorous%20Spoon) | Unlimited |
 | [Mamemaki](https://db.ygoprodeck.com/card/?search=Mamemaki) | Unlimited |
 | [Mammoth Graveyard](https://db.ygoprodeck.com/card/?search=Mammoth%20Graveyard) | Unlimited |
-| [Mamonaka the Vaylantz United](https://db.ygoprodeck.com/card/?search=Mamonaka%20the%20Vaylantz%20United) | Unlimited |
 | [Man Beast of Ares](https://db.ygoprodeck.com/card/?search=Man%20Beast%20of%20Ares) | Unlimited |
 | [Man Eater](https://db.ygoprodeck.com/card/?search=Man%20Eater) | Unlimited |
 | [Man-Eater Bug](https://db.ygoprodeck.com/card/?search=Man-Eater%20Bug) | Unlimited |
