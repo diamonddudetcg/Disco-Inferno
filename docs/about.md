@@ -22,7 +22,7 @@ Strictly delimitated banlists are something other budget formats did not have, a
 
 ## Custom banlist
 
-In addition to all of these stipulations, there are a couple of cards that, if left unchecked, would either run with every format they are legal in, or would make the experience really unfun, so we decided to add a small banlist to make the format more fun to play and brew.
+In addition to all of these stipulations, we have decided to make some additional changes to the banlist because a lot of the advanced hits do not make sense without access to some expensive cards, and some cards are kind of overpowered when you remove some checks and balances Advanced has.
 
 The banlist as it currently stands is as follows:
 
@@ -30,11 +30,13 @@ The banlist as it currently stands is as follows:
 | :-- | :-- |
 | Amazoness Archer | Forbidden |
 | Artifact Scythe | Forbidden |
+| Blue-Eyes Alternative White Dragon | Forbidden |
 | Cannon Soldier | Forbidden |
 | Cannon Soldier MK-2 | Forbidden |
 | Fairy Tail - Snow | Forbidden |
 | Morphtronic Telefon | Forbidden |
 | Toon Cannon Soldier | Forbidden |
+| Amorphactor Pain, the Imagination Dracoverlord | Forbidden |
 | Gouki the Powerload Ogre | Forbidden |
 | Number 33: Chronomaly Machu Mech | Forbidden |
 | Hot Red Dragon Archfiend King Calamity | Forbidden |
@@ -46,7 +48,37 @@ The banlist as it currently stands is as follows:
 | Rivalry of Warlords | Forbidden |
 | Summon Limit | Forbidden |
 | There Can Be Only One | Forbidden |
-
-
+| Eclipse Wyvern | Limited |
+| Zoodiac Drident | Limited |
+| Salamangreat Gazelle | Semi-Limited |
+| Armageddon Knight | Unlimited |
+| Cyber Angel Benten | Unlimited |
+| Dark Grepher | Unlimited |
+| Dinomight Knight, the True Dracofighter | Unlimited |
+| Eva | Unlimited |
+| Glow-Up Bulb | Unlimited |
+| Infernity Archfiend | Unlimited |
+| Jet Synchron | Unlimited |
+| Lyrilusc - Recital Starling | Unlimited |
+| Mecha Phantom Beast O-Lion | Unlimited |
+| Miscellaneousaurus | Unlimited |
+| Orcust Harp Horror | Unlimited |
+| Performage Plushfire | Unlimited |
+| Performage Monkeyboard | Unlimited |
+| Phantom Skyblaster | Unlimited |
+| Servant of Endymion | Unlimited |
+| SPYRAL Quik-Fix | Unlimited |
+| Beatrice, Lady of the Eternal | Unlimited |
+| Divine Wind of Mist Valley | Unlimited |
+| Draco Face-Off | Unlimited |
+| Fire Formation - Tenki | Unlimited |
+| Gold Sarcophagus | Unlimited |
+| Monster Gate | Unlimited |
+| Reasoning | Unlimited |
+| Sekka's Light | Unlimited |
+| Sky Striker Mecha Modules - Multirole | Unlimited |
+| Slash Draw | Unlimited |
+| SPYRAL Resort | Unlimited |
+| Metaverse | Unlimited |
 
 ###### [Back home](index)
