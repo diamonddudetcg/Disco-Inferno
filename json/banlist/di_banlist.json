@@ -2,12 +2,15 @@
 	"Banned": [
 		"Amazoness Archer",
 		"Artifact Scythe",
+		"Blue-Eyes Alternative White Dragon",
 		"Cannon Soldier",
 		"Cannon Soldier MK-2",
 		"Fairy Tail - Snow",
 		"Inspector Boarder",
 		"Morphtronic Telefon",
 		"Toon Cannon Soldier",
+
+		"Amorphactor Pain, the Imagination Dracoverlord",
 		
 		"Gouki The Powerload Ogre",
 		
@@ -28,10 +31,45 @@
 		"Summon Limit",
 		"There Can Be Only One"],
 
-	"Limited" : [],
+	"Limited" : [
+		"Eclipse Wyvern",
+		"Zoodiac Drident"
+	],
 
-	"Semi-Limited" : [],
+	"Semi-Limited" : [
+		"Salamangreat Gazelle"
+	],
 
-	"Unlimited":[]
+	"Unlimited":[
+		"Armageddon Knight",
+		"Cyber Angel Benten",
+		"Dark Grepher",
+		"Dinomight Knight, the True Dracofighter",
+		"Eva",
+		"Glow-Up Bulb",
+		"Infernity Archfiend",
+		"Jet Synchron",
+		"Lyrilusc - Recital Starling",
+		"Mecha Phantom Beast O-Lion",
+		"Miscellaneousaurus",
+		"Orcust Harp Horror",
+		"Performage Plushfire",
+		"Performage Monkeyboard",
+		"Phantom Skyblaster",
+		"Servant of Endymion",
+		"SPYRAL Quik-Fix",
+		"Beatrice, Lady of the Eternal",
+		"Divine Wind of Mist Valley",
+		"Draco Face-Off",
+		"Fire Formation - Tenki",
+		"Gold Sarcophagus",
+		"Monster Gate",
+		"Reasoning",
+		"Sekka's Light",
+		"Sky Striker Mecha Modules - Multirole",
+		"Slash Draw",
+		"SPYRAL Resort",
+		"Metaverse"
+	]
 
 }
