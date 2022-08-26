@@ -99,6 +99,8 @@ differencesPath = 'docs/differences.md'
 
 def getCardStatusAsString(cardStatus):
 	cardStatusAsText = "Unlimited"
+	if (cardStatus == -3):
+		cardStatusAsText = "Card did not exist in the last banlist"
 	if (cardStatus == -2):
 		cardStatusAsText = "Illegal (no price data)"
 	elif (cardStatus == -1):
@@ -242,6 +244,8 @@ def buildEverything():
 	with open(differencesPath, 'w') as outfile:
 		cardDifferences = []
 		for cardData1 in jsonData.get(DATA):
+			found = False
+			
 			for cardData2 in previousPriceData.get(DATA):
 				if (cardData1.get(NAME) == cardData2.get(NAME)):
 					previousStatus = cardData2.get(STATUS)
@@ -252,7 +256,16 @@ def buildEverything():
 						diffCard[STATUS] = cardData1.get(STATUS)
 						diffCard[PREVIOUS_STATUS] = cardData2.get(STATUS)
 						cardDifferences.append(diffCard)
+						found = True
 					break
+			
+			if not found:
+				if cardData1.get(STATUS) > 0:
+					diffCard = {}
+					diffCard[NAME] = cardData1.get(NAME)
+					diffCard[STATUS] = cardData1.get(STATUS)
+					diffCard[PREVIOUS_STATUS] = -3
+
 
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
