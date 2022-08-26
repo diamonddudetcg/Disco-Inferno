@@ -252,6 +252,7 @@ def buildEverything():
 						diffCard[STATUS] = cardData1.get(STATUS)
 						diffCard[PREVIOUS_STATUS] = cardData2.get(STATUS)
 						cardDifferences.append(diffCard)
+					break
 
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
@@ -267,7 +268,7 @@ def buildEverything():
 			cardName = card.get(NAME)
 			cardUrl = getCardUrl(cardName)
 
-			outfile.write("\n|[%s](%s] | %s | %s |"%(cardName, cardUrl, previousCardStatusAsText, previousCardStatus))
+			outfile.write("\n|[%s](%s) | %s | %s |"%(cardName, cardUrl, previousCardStatusAsText, cardStatusAsText))
 
 		outfile.write("\n\n###### [Back home](index)")
 
