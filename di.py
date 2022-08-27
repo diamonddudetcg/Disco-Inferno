@@ -104,7 +104,7 @@ def getCardStatusAsString(cardStatus):
 	if (cardStatus == -3):
 		cardStatusAsText = "Card did not exist in the last banlist"
 	if (cardStatus == -2):
-		cardStatusAsText = "Illegal (no price data)"
+		cardStatusAsText = "Illegal"
 	elif (cardStatus == -1):
 		cardStatusAsText = "Illegal"
 	elif (cardStatus == 0):
@@ -261,6 +261,10 @@ def buildEverything():
 				if (cardData1.get(NAME) == cardData2.get(NAME)):
 					previousStatus = cardData2.get(STATUS)
 					currentStatus = cardData1.get(STATUS)
+					if (previousStatus < 0):
+						previousStatus = -1
+					if (currentStatus < 0):
+						currentStatus = -1
 					if (previousStatus != currentStatus):
 						diffCard = {}
 						diffCard[NAME] = cardData1.get(NAME)
