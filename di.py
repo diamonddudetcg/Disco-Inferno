@@ -47,6 +47,8 @@ BANNED = 'Banned'
 LIMITED = 'Limited'
 SEMI = 'Semi-Limited'
 UNLIMITED = 'Unlimited'
+FORCE_LEGAL = "ForceLegal"
+FORCE_ILLEGAL = "ForceIllegal"
 
 
 ongoingBanlistSite = 'docs/ongoing.md'
@@ -124,6 +126,8 @@ def buildEverything():
 		additionalLimited = banlist.get(LIMITED)
 		additionalSemiLimited = banlist.get(SEMI)
 		additionalUnlimited = banlist.get(UNLIMITED)
+		forceLegal = banlist.get(FORCE_LEGAL)
+		forceIllegal = banlist.get(FORCE_ILLEGAL)
 
 	jsonData = {PREVIOUS_RUNS:0, DATA:[]}
 	if os.path.exists(jsonPath):
@@ -143,6 +147,8 @@ def buildEverything():
 				continue
 			if card.get(CARD_TYPE) == SKILL or card.get(CARD_TYPE) == TOKEN:
 				continue
+
+			cardName = card.get(NAME)
 
 			isLDSColoredUltra = False
 
@@ -180,15 +186,14 @@ def buildEverything():
 				if (banlistStatus == UNLIMITED):
 					banTcg = 3
 
-			if card.get(NAME) in additionalForbidden:
+			if cardName in additionalForbidden:
 				banTcg = 0
-			if card.get(NAME) in additionalLimited:
+			if cardName in additionalLimited:
 				banTcg = 1
-			if card.get(NAME) in additionalSemiLimited:
+			if cardName in additionalSemiLimited:
 				banTcg = 2
-			if card.get(NAME) in additionalUnlimited:
+			if cardName in additionalUnlimited:
 				banTcg = 3
-
 
 			if runs == 0:
 				newAverage = avgPrice
@@ -196,10 +201,14 @@ def buildEverything():
 					# Something fucked is going on
 					banTcg = -2
 				ids = []
+
+				if cardName in forceIllegal:
+					banTcg = -1
+
 				for variant in images:
 					ids.append(variant.get(CARD_ID))
 				entry = {}
-				entry[NAME] = card.get(NAME)
+				entry[NAME] = cardName
 				entry[CARD_IDS] = ids
 				entry[PRICE] = newAverage
 				entry[STATUS] = banTcg
@@ -217,6 +226,9 @@ def buildEverything():
 
 	for card in cards:
 		if card[PRICE] > cutoffPoint:
+			if not cardName in forceLegal:
+				card[STATUS] = -1
+		if cardName in forceIllegal:
 			card[STATUS] = -1
 
 	with open(banlistPath, 'w', encoding="utf-8") as outfile:

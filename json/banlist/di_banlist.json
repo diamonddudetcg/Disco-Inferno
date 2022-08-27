@@ -1,8 +1,54 @@
 {
+	"ForceIllegal":[
+		"Ariane the Labrynth Servant",
+		"Arianna the Labrynth Servant",
+		"Blue-Eyes Alternative White Dragon",
+		"Droll & Lock Bird",
+		"Evil★Twins Ki-sikil & Lil-la",
+		"Live☆Twin Ki-sikil Frost",
+		"Live☆Twin Lil-la Treat",
+		"Lovely Labrynth of the Silver Castle",
+		"Shinonome the Vaylantz Priestess",
+
+
+		"Evil★Twin Ki-sikil",
+		"Evil★Twin Lil-la",
+		"Evil★Twin's Trouble Sunny",
+		"Hugin the Runick Wings",
+		"Mamonaka the Vaylantz United",
+
+		"Runick Tip",
+		"Runick Fountain",
+		"Vaylantz Wars - The Place of Beginning",
+
+
+		"Welcome Labrynth",
+
+		"Emperor of Lightning",
+		"Meteo the Matchless",
+		"Noritoshi in Darkest Rainment",
+		"Queen of Fate - Eternia",
+		"Tyler the Great Warrior"
+	],
+
+	"ForceLegal":[
+		"Live☆Twin Ki-sikil",
+		"Live☆Twin Lil-la",
+		"Necrolancer the Time-lord",
+
+
+		"Cosmic Cyclone",
+		"Live☆Twin Channel",
+		"Live☆Twin Home",
+		"Live☆Twin Sunny's Snitch",
+
+		"Muko",
+		"Trap Trick"
+	],
+
 	"Banned": [
 		"Amazoness Archer",
 		"Artifact Scythe",
-		"Blue-Eyes Alternative White Dragon",
 		"Cannon Soldier",
 		"Cannon Soldier MK-2",
 		"Fairy Tail - Snow",
