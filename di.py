@@ -189,12 +189,12 @@ def buildEverything():
 			if card.get(NAME) in additionalUnlimited:
 				banTcg = 3
 
-			if (avgPrice == 0):
-				# Something fucked is going on
-				banTcg = -2
 
 			if runs == 0:
 				newAverage = avgPrice
+				if (newAverage == 0):
+					# Something fucked is going on
+					banTcg = -2
 				ids = []
 				for variant in images:
 					ids.append(variant.get(CARD_ID))
