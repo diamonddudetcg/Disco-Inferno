@@ -102,7 +102,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Archfiend Eccentrick](https://db.ygoprodeck.com/card/?search=Archfiend%20Eccentrick) | Illegal | 0.59 |
 | [Archfiend Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Archfiend%20Marmot%20of%20Nefariousness) | Illegal | 4.24 |
 | [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | Illegal | 0.69 |
-| [Archfiend's Ghastly Glitch](https://db.ygoprodeck.com/card/?search=Archfiend's%20Ghastly%20Glitch) | Illegal | 0.79 |
+| [Archfiend's Ghastly Glitch](https://db.ygoprodeck.com/card/?search=Archfiend's%20Ghastly%20Glitch) | Illegal | 0.77 |
 | [Archlord Zerato](https://db.ygoprodeck.com/card/?search=Archlord%20Zerato) | Illegal | 8.17 |
 | [Archnemeses Eschatos](https://db.ygoprodeck.com/card/?search=Archnemeses%20Eschatos) | Illegal | 10.50 |
 | [Archnemeses Protos](https://db.ygoprodeck.com/card/?search=Archnemeses%20Protos) | Illegal | 4.55 |
@@ -217,6 +217,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Blue Medicine](https://db.ygoprodeck.com/card/?search=Blue%20Medicine) | Illegal | 69.69 |
 | [Blue-Eyes Abyss Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Abyss%20Dragon) | Illegal | 29.50 |
 | [Blue-Eyes Alternative Ultimate Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Alternative%20Ultimate%20Dragon) | Illegal | 7.26 |
+| [Blue-Eyes Alternative White Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Alternative%20White%20Dragon) | Illegal | 0.02 |
 | [Blue-Eyes Chaos Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Chaos%20Dragon) | Illegal | 8.75 |
 | [Blue-Eyes Chaos MAX Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Chaos%20MAX%20Dragon) | Illegal | 1.11 |
 | [Blue-Eyes Jet Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Jet%20Dragon) | Illegal | 11.07 |
@@ -332,7 +333,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Coral Dragon](https://db.ygoprodeck.com/card/?search=Coral%20Dragon) | Illegal | 3.28 |
 | [Core Transport Unit](https://db.ygoprodeck.com/card/?search=Core%20Transport%20Unit) | Illegal | 5.28 |
 | [Corroding Shark](https://db.ygoprodeck.com/card/?search=Corroding%20Shark) | Illegal | 6.47 |
-| [Cosmic Cyclone](https://db.ygoprodeck.com/card/?search=Cosmic%20Cyclone) | Illegal | 0.63 |
 | [Cosmic Fortress Gol'gar](https://db.ygoprodeck.com/card/?search=Cosmic%20Fortress%20Gol'gar) | Illegal | 12.56 |
 | [Cosmic Horror Gangi'el](https://db.ygoprodeck.com/card/?search=Cosmic%20Horror%20Gangi'el) | Illegal | 2.45 |
 | [Crackdown](https://db.ygoprodeck.com/card/?search=Crackdown) | Illegal | 0.70 |
@@ -597,6 +597,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Emblem of the Plunder Patroll](https://db.ygoprodeck.com/card/?search=Emblem%20of%20the%20Plunder%20Patroll) | Illegal | 5.98 |
 | [Emes the Infinity](https://db.ygoprodeck.com/card/?search=Emes%20the%20Infinity) | Illegal | 0.53 |
 | [Emissary of the Afterlife](https://db.ygoprodeck.com/card/?search=Emissary%20of%20the%20Afterlife) | Illegal | 0.75 |
+| [Emperor of Lightning](https://db.ygoprodeck.com/card/?search=Emperor%20of%20Lightning) | Illegal | 0.00 |
 | [Empty Machine](https://db.ygoprodeck.com/card/?search=Empty%20Machine) | Illegal | 3.49 |
 | [Endless Engine Argyro System](https://db.ygoprodeck.com/card/?search=Endless%20Engine%20Argyro%20System) | Illegal | 1.16 |
 | [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | Illegal | 0.76 |
@@ -741,7 +742,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Genex Ally Axel](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Axel) | Illegal | 8.80 |
 | [Genex Ally Duradark](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Duradark) | Illegal | 5.15 |
 | [Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | Illegal | 2.17 |
-| [Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | Illegal | 0.88 |
+| [Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | Illegal | 0.85 |
 | [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Illegal | 1.78 |
 | [Get Your Game On!](https://db.ygoprodeck.com/card/?search=Get%20Your%20Game%20On!) | Illegal | 410.62 |
 | [Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20%26%20Haunted%20Mansion) | Illegal | 6.05 |
@@ -878,7 +879,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Hierophant of Prophecy](https://db.ygoprodeck.com/card/?search=Hierophant%20of%20Prophecy) | Illegal | 2.99 |
 | [High Ritual Art](https://db.ygoprodeck.com/card/?search=High%20Ritual%20Art) | Illegal | 0.64 |
 | [Hino-Kagu-Tsuchi](https://db.ygoprodeck.com/card/?search=Hino-Kagu-Tsuchi) | Illegal | 4.18 |
-| [Hojo the Vaylantz Warrior](https://db.ygoprodeck.com/card/?search=Hojo%20the%20Vaylantz%20Warrior) | Illegal | 0.62 |
+| [Hojo the Vaylantz Warrior](https://db.ygoprodeck.com/card/?search=Hojo%20the%20Vaylantz%20Warrior) | Illegal | 0.60 |
 | [Horus the Black Flame Dragon LV8](https://db.ygoprodeck.com/card/?search=Horus%20the%20Black%20Flame%20Dragon%20LV8) | Illegal | 6.73 |
 | [House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | Illegal | 2.07 |
 | [Hugin the Runick Wings](https://db.ygoprodeck.com/card/?search=Hugin%20the%20Runick%20Wings) | Illegal | 27.95 |
@@ -1003,9 +1004,9 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Kumongous, the Sticky String Kaiju](https://db.ygoprodeck.com/card/?search=Kumongous,%20the%20Sticky%20String%20Kaiju) | Illegal | 2.70 |
 | [Kuraz the Light Monarch](https://db.ygoprodeck.com/card/?search=Kuraz%20the%20Light%20Monarch) | Illegal | 2.43 |
 | [Kurikara Divincarnate](https://db.ygoprodeck.com/card/?search=Kurikara%20Divincarnate) | Illegal | 10.85 |
-| [Labrynth Barrage](https://db.ygoprodeck.com/card/?search=Labrynth%20Barrage) | Illegal | 0.81 |
-| [Labrynth Labyrinth](https://db.ygoprodeck.com/card/?search=Labrynth%20Labyrinth) | Illegal | 0.77 |
-| [Labrynth Set-Up](https://db.ygoprodeck.com/card/?search=Labrynth%20Set-Up) | Illegal | 0.79 |
+| [Labrynth Barrage](https://db.ygoprodeck.com/card/?search=Labrynth%20Barrage) | Illegal | 0.78 |
+| [Labrynth Labyrinth](https://db.ygoprodeck.com/card/?search=Labrynth%20Labyrinth) | Illegal | 0.75 |
+| [Labrynth Set-Up](https://db.ygoprodeck.com/card/?search=Labrynth%20Set-Up) | Illegal | 0.77 |
 | [Lady Debug](https://db.ygoprodeck.com/card/?search=Lady%20Debug) | Illegal | 1.41 |
 | [Lady of the Lake](https://db.ygoprodeck.com/card/?search=Lady%20of%20the%20Lake) | Illegal | 1.32 |
 | [Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | Illegal | 1.57 |
@@ -1164,6 +1165,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Metalsilver Armor](https://db.ygoprodeck.com/card/?search=Metalsilver%20Armor) | Illegal | 1.92 |
 | [Metalzoa](https://db.ygoprodeck.com/card/?search=Metalzoa) | Illegal | 5.15 |
 | [Metamorphosis](https://db.ygoprodeck.com/card/?search=Metamorphosis) | Illegal | 12.87 |
+| [Meteo the Matchless](https://db.ygoprodeck.com/card/?search=Meteo%20the%20Matchless) | Illegal | 0.00 |
 | [Meteonis Drytron](https://db.ygoprodeck.com/card/?search=Meteonis%20Drytron) | Illegal | 5.72 |
 | [Meteor Black Comet Dragon](https://db.ygoprodeck.com/card/?search=Meteor%20Black%20Comet%20Dragon) | Illegal | 1.72 |
 | [Meteor Dragon Red-Eyes Impact](https://db.ygoprodeck.com/card/?search=Meteor%20Dragon%20Red-Eyes%20Impact) | Illegal | 2.46 |
@@ -1204,7 +1206,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Mudan the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Mudan%20the%20Rikka%20Fairy) | Illegal | 1.76 |
 | [Multiple Destruction](https://db.ygoprodeck.com/card/?search=Multiple%20Destruction) | Illegal | 1.30 |
 | [Multiply](https://db.ygoprodeck.com/card/?search=Multiply) | Illegal | 0.51 |
-| [Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | 0.89 |
+| [Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | 0.87 |
 | [Mushroom Man](https://db.ygoprodeck.com/card/?search=Mushroom%20Man) | Illegal | 6.10 |
 | [Mysterion the Dragon Crown](https://db.ygoprodeck.com/card/?search=Mysterion%20the%20Dragon%20Crown) | Illegal | 1.15 |
 | [Mystic Mine](https://db.ygoprodeck.com/card/?search=Mystic%20Mine) | Illegal | 4.21 |
@@ -1268,6 +1270,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Noh-P.U.N.K. Ogre Dance](https://db.ygoprodeck.com/card/?search=Noh-P.U.N.K.%20Ogre%20Dance) | Illegal | 15.02 |
 | [Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Illegal | 2.29 |
 | [Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | Illegal | 1.99 |
+| [Noritoshi in Darkest Rainment](https://db.ygoprodeck.com/card/?search=Noritoshi%20in%20Darkest%20Rainment) | Illegal | 0.00 |
 | [Novox's Prayer](https://db.ygoprodeck.com/card/?search=Novox's%20Prayer) | Illegal | 99.99 |
 | [Number 100: Numeron Dragon](https://db.ygoprodeck.com/card/?search=Number%20100:%20Numeron%20Dragon) | Illegal | 10.35 |
 | [Number 103: Ragnazero](https://db.ygoprodeck.com/card/?search=Number%20103:%20Ragnazero) | Illegal | 1.54 |
@@ -1363,7 +1366,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Ogdoabyss, the Ogdoadic Overlord](https://db.ygoprodeck.com/card/?search=Ogdoabyss,%20the%20Ogdoadic%20Overlord) | Illegal | 7.22 |
 | [Oh F!sh!](https://db.ygoprodeck.com/card/?search=Oh%20F!sh!) | Illegal | 2.05 |
 | [Ojama Pajama](https://db.ygoprodeck.com/card/?search=Ojama%20Pajama) | Illegal | 2.28 |
-| [Old Entity Cthugua](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Cthugua) | Illegal | 0.90 |
+| [Old Entity Cthugua](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Cthugua) | Illegal | 0.88 |
 | [One Day of Peace](https://db.ygoprodeck.com/card/?search=One%20Day%20of%20Peace) | Illegal | 1.49 |
 | [Onomatopia](https://db.ygoprodeck.com/card/?search=Onomatopia) | Illegal | 0.54 |
 | [Oppressed People](https://db.ygoprodeck.com/card/?search=Oppressed%20People) | Illegal | 1.52 |
@@ -1374,7 +1377,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Orea, the Sylvan High Arbiter](https://db.ygoprodeck.com/card/?search=Orea,%20the%20Sylvan%20High%20Arbiter) | Illegal | 1.37 |
 | [Orgoth the Relentless](https://db.ygoprodeck.com/card/?search=Orgoth%20the%20Relentless) | Illegal | 2.59 |
 | [Orient Dragon](https://db.ygoprodeck.com/card/?search=Orient%20Dragon) | Illegal | 2.03 |
-| [Outer Entity Azathot](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Azathot) | Illegal | 0.74 |
+| [Outer Entity Azathot](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Azathot) | Illegal | 0.72 |
 | [Overdrive Teleporter](https://db.ygoprodeck.com/card/?search=Overdrive%20Teleporter) | Illegal | 19.38 |
 | [Overmind Archfiend](https://db.ygoprodeck.com/card/?search=Overmind%20Archfiend) | Illegal | 1.67 |
 | [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | Illegal | 0.56 |
@@ -1464,6 +1467,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Quaking Mirror Force](https://db.ygoprodeck.com/card/?search=Quaking%20Mirror%20Force) | Illegal | 1.30 |
 | [Queen Dragun Djinn](https://db.ygoprodeck.com/card/?search=Queen%20Dragun%20Djinn) | Illegal | 4.38 |
 | [Queen of Autumn Leaves](https://db.ygoprodeck.com/card/?search=Queen%20of%20Autumn%20Leaves) | Illegal | 66.97 |
+| [Queen of Fate - Eternia](https://db.ygoprodeck.com/card/?search=Queen%20of%20Fate%20-%20Eternia) | Illegal | 0.00 |
 | [Queen of Thorns](https://db.ygoprodeck.com/card/?search=Queen%20of%20Thorns) | Illegal | 5.04 |
 | [Question](https://db.ygoprodeck.com/card/?search=Question) | Illegal | 5.22 |
 | [Quick Launch](https://db.ygoprodeck.com/card/?search=Quick%20Launch) | Illegal | 4.02 |
@@ -1541,15 +1545,15 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Royal Tribute](https://db.ygoprodeck.com/card/?search=Royal%20Tribute) | Illegal | 3.30 |
 | [Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal | 0.60 |
 | [Ruddy Rose Dragon](https://db.ygoprodeck.com/card/?search=Ruddy%20Rose%20Dragon) | Illegal | 11.32 |
-| [Runick Allure](https://db.ygoprodeck.com/card/?search=Runick%20Allure) | Illegal | 0.59 |
-| [Runick Destruction](https://db.ygoprodeck.com/card/?search=Runick%20Destruction) | Illegal | 0.73 |
-| [Runick Dispelling](https://db.ygoprodeck.com/card/?search=Runick%20Dispelling) | Illegal | 0.63 |
-| [Runick Flashing Fire](https://db.ygoprodeck.com/card/?search=Runick%20Flashing%20Fire) | Illegal | 0.88 |
+| [Runick Allure](https://db.ygoprodeck.com/card/?search=Runick%20Allure) | Illegal | 0.58 |
+| [Runick Destruction](https://db.ygoprodeck.com/card/?search=Runick%20Destruction) | Illegal | 0.71 |
+| [Runick Dispelling](https://db.ygoprodeck.com/card/?search=Runick%20Dispelling) | Illegal | 0.61 |
+| [Runick Flashing Fire](https://db.ygoprodeck.com/card/?search=Runick%20Flashing%20Fire) | Illegal | 0.85 |
 | [Runick Fountain](https://db.ygoprodeck.com/card/?search=Runick%20Fountain) | Illegal | 34.24 |
-| [Runick Freezing Curses](https://db.ygoprodeck.com/card/?search=Runick%20Freezing%20Curses) | Illegal | 0.88 |
-| [Runick Golden Droplet](https://db.ygoprodeck.com/card/?search=Runick%20Golden%20Droplet) | Illegal | 0.85 |
-| [Runick Slumber](https://db.ygoprodeck.com/card/?search=Runick%20Slumber) | Illegal | 0.57 |
-| [Runick Smiting Storm](https://db.ygoprodeck.com/card/?search=Runick%20Smiting%20Storm) | Illegal | 0.60 |
+| [Runick Freezing Curses](https://db.ygoprodeck.com/card/?search=Runick%20Freezing%20Curses) | Illegal | 0.85 |
+| [Runick Golden Droplet](https://db.ygoprodeck.com/card/?search=Runick%20Golden%20Droplet) | Illegal | 0.83 |
+| [Runick Slumber](https://db.ygoprodeck.com/card/?search=Runick%20Slumber) | Illegal | 0.56 |
+| [Runick Smiting Storm](https://db.ygoprodeck.com/card/?search=Runick%20Smiting%20Storm) | Illegal | 0.58 |
 | [Runick Tip](https://db.ygoprodeck.com/card/?search=Runick%20Tip) | Illegal | 27.46 |
 | [Ryu Senshi](https://db.ygoprodeck.com/card/?search=Ryu%20Senshi) | Illegal | 2.55 |
 | [S-Force Bridgehead](https://db.ygoprodeck.com/card/?search=S-Force%20Bridgehead) | Illegal | 1.57 |
@@ -1880,7 +1884,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Transcode Talker](https://db.ygoprodeck.com/card/?search=Transcode%20Talker) | Illegal | 2.08 |
 | [Trap Dustshoot](https://db.ygoprodeck.com/card/?search=Trap%20Dustshoot) | Illegal | 8.90 |
 | [Trap Hole of Spikes](https://db.ygoprodeck.com/card/?search=Trap%20Hole%20of%20Spikes) | Illegal | 5.84 |
-| [Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | 0.64 |
 | [Traptrix Cularia](https://db.ygoprodeck.com/card/?search=Traptrix%20Cularia) | Illegal | 1.44 |
 | [Traptrix Rafflesia](https://db.ygoprodeck.com/card/?search=Traptrix%20Rafflesia) | Illegal | 3.78 |
 | [Traptrix Sera](https://db.ygoprodeck.com/card/?search=Traptrix%20Sera) | Illegal | 15.08 |
@@ -1919,6 +1922,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Illegal | 0.75 |
 | [Twin-Headed Thunder Dragon](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Thunder%20Dragon) | Illegal | 1.56 |
 | [Twinheaded Beast](https://db.ygoprodeck.com/card/?search=Twinheaded%20Beast) | Illegal | 2.95 |
+| [Tyler the Great Warrior](https://db.ygoprodeck.com/card/?search=Tyler%20the%20Great%20Warrior) | Illegal | 0.00 |
 | [Tyrant Red Dragon Archfiend](https://db.ygoprodeck.com/card/?search=Tyrant%20Red%20Dragon%20Archfiend) | Illegal | 9.66 |
 | [Tyrant's Temper](https://db.ygoprodeck.com/card/?search=Tyrant's%20Temper) | Illegal | 6.07 |
 | [U.A. Blockbacker](https://db.ygoprodeck.com/card/?search=U.A.%20Blockbacker) | Illegal | 0.61 |
@@ -1959,11 +1963,11 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Vampire's Curse](https://db.ygoprodeck.com/card/?search=Vampire's%20Curse) | Illegal | 2.95 |
 | [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | Illegal | 0.72 |
 | [Vanity's Emptiness](https://db.ygoprodeck.com/card/?search=Vanity's%20Emptiness) | Illegal | 1.62 |
-| [Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal | 0.62 |
-| [Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal | 0.62 |
+| [Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal | 0.60 |
+| [Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal | 0.60 |
 | [Vaylantz Wars - The Place of Beginning](https://db.ygoprodeck.com/card/?search=Vaylantz%20Wars%20-%20The%20Place%20of%20Beginning) | Illegal | 5.00 |
-| [Vaylantz World - Konig Wissen](https://db.ygoprodeck.com/card/?search=Vaylantz%20World%20-%20Konig%20Wissen) | Illegal | 0.62 |
-| [Vaylantz World - Shinra Bansho](https://db.ygoprodeck.com/card/?search=Vaylantz%20World%20-%20Shinra%20Bansho) | Illegal | 0.62 |
+| [Vaylantz World - Konig Wissen](https://db.ygoprodeck.com/card/?search=Vaylantz%20World%20-%20Konig%20Wissen) | Illegal | 0.60 |
+| [Vaylantz World - Shinra Bansho](https://db.ygoprodeck.com/card/?search=Vaylantz%20World%20-%20Shinra%20Bansho) | Illegal | 0.60 |
 | [Vermillion Sparrow](https://db.ygoprodeck.com/card/?search=Vermillion%20Sparrow) | Illegal | 5.11 |
 | [Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | Illegal | 15.45 |
 | [Vijam the Cubic Seed](https://db.ygoprodeck.com/card/?search=Vijam%20the%20Cubic%20Seed) | Illegal | 0.54 |
@@ -3043,7 +3047,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Blue Thunder T-45](https://db.ygoprodeck.com/card/?search=Blue%20Thunder%20T-45) | Unlimited | 0.13 |
 | [Blue-Blooded Oni](https://db.ygoprodeck.com/card/?search=Blue-Blooded%20Oni) | Unlimited | 0.25 |
 | [Blue-Eyed Silver Zombie](https://db.ygoprodeck.com/card/?search=Blue-Eyed%20Silver%20Zombie) | Unlimited | 0.07 |
-| [Blue-Eyes Alternative White Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Alternative%20White%20Dragon) | Unlimited | 0.02 |
 | [Blue-Eyes Shining Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Shining%20Dragon) | Unlimited | 0.32 |
 | [Blue-Eyes Toon Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Toon%20Dragon) | Unlimited | 0.49 |
 | [Blue-Eyes White Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20White%20Dragon) | Unlimited | 0.27 |
@@ -3586,6 +3589,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Corruption Cell "A"](https://db.ygoprodeck.com/card/?search=Corruption%20Cell%20"A") | Unlimited | 0.13 |
 | [Cosmic Blazar Dragon](https://db.ygoprodeck.com/card/?search=Cosmic%20Blazar%20Dragon) | Unlimited | 0.14 |
 | [Cosmic Compass](https://db.ygoprodeck.com/card/?search=Cosmic%20Compass) | Unlimited | 0.08 |
+| [Cosmic Cyclone](https://db.ygoprodeck.com/card/?search=Cosmic%20Cyclone) | Unlimited | 0.63 |
 | [Cosmic Flare](https://db.ygoprodeck.com/card/?search=Cosmic%20Flare) | Unlimited | 0.09 |
 | [Cosmic Slicer Zer'oll](https://db.ygoprodeck.com/card/?search=Cosmic%20Slicer%20Zer'oll) | Unlimited | 0.06 |
 | [Cosmo Brain](https://db.ygoprodeck.com/card/?search=Cosmo%20Brain) | Unlimited | 0.08 |
@@ -3842,7 +3846,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [D - Fortune](https://db.ygoprodeck.com/card/?search=D%20-%20Fortune) | Unlimited | 0.16 |
 | [D - Shield](https://db.ygoprodeck.com/card/?search=D%20-%20Shield) | Unlimited | 0.12 |
 | [D - Spirit](https://db.ygoprodeck.com/card/?search=D%20-%20Spirit) | Unlimited | 0.03 |
-| [D - Tactics](https://db.ygoprodeck.com/card/?search=D%20-%20Tactics) | Unlimited | 0.19 |
+| [D - Tactics](https://db.ygoprodeck.com/card/?search=D%20-%20Tactics) | Unlimited | 0.18 |
 | [D - Time](https://db.ygoprodeck.com/card/?search=D%20-%20Time) | Unlimited | 0.08 |
 | [D Cubed](https://db.ygoprodeck.com/card/?search=D%20Cubed) | Unlimited | 0.09 |
 | [D-Fusion](https://db.ygoprodeck.com/card/?search=D-Fusion) | Unlimited | 0.15 |
@@ -4397,7 +4401,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Doll Happiness](https://db.ygoprodeck.com/card/?search=Doll%20Happiness) | Unlimited | 0.03 |
 | [Doll House](https://db.ygoprodeck.com/card/?search=Doll%20House) | Unlimited | 0.03 |
 | [Doll Monster Bear-Bear](https://db.ygoprodeck.com/card/?search=Doll%20Monster%20Bear-Bear) | Unlimited | 0.02 |
-| [Doll Monster Miss Mädchen](https://db.ygoprodeck.com/card/?search=Doll%20Monster%20Miss%20Mädchen) | Unlimited | 0.04 |
+| [Doll Monster Miss Mädchen](https://db.ygoprodeck.com/card/?search=Doll%20Monster%20Miss%20Mädchen) | Unlimited | 0.03 |
 | [Doma The Angel of Silence](https://db.ygoprodeck.com/card/?search=Doma%20The%20Angel%20of%20Silence) | Unlimited | 0.14 |
 | [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Unlimited | 0.14 |
 | [Domino Effect](https://db.ygoprodeck.com/card/?search=Domino%20Effect) | Unlimited | 0.05 |
@@ -4762,7 +4766,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Emissary from Pandemonium](https://db.ygoprodeck.com/card/?search=Emissary%20from%20Pandemonium) | Unlimited | 0.08 |
 | [Emissary of the Oasis](https://db.ygoprodeck.com/card/?search=Emissary%20of%20the%20Oasis) | Unlimited | 0.12 |
 | [Emperor Maju Garzett](https://db.ygoprodeck.com/card/?search=Emperor%20Maju%20Garzett) | Unlimited | 0.06 |
-| [Emperor of Lightning](https://db.ygoprodeck.com/card/?search=Emperor%20of%20Lightning) | Unlimited | 0.00 |
 | [Emperor of Prophecy](https://db.ygoprodeck.com/card/?search=Emperor%20of%20Prophecy) | Unlimited | 0.18 |
 | [Emperor Sem](https://db.ygoprodeck.com/card/?search=Emperor%20Sem) | Unlimited | 0.09 |
 | [Emperor Tanuki's Critter Count](https://db.ygoprodeck.com/card/?search=Emperor%20Tanuki's%20Critter%20Count) | Unlimited | 0.09 |
@@ -5012,7 +5015,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Familiar-Possessed - Wynn](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Wynn) | Unlimited | 0.11 |
 | [Fandora, the Flying Furtress](https://db.ygoprodeck.com/card/?search=Fandora,%20the%20Flying%20Furtress) | Unlimited | 0.07 |
 | [Fantastic Striborg](https://db.ygoprodeck.com/card/?search=Fantastic%20Striborg) | Unlimited | 0.06 |
-| [Farewelcome Labrynth](https://db.ygoprodeck.com/card/?search=Farewelcome%20Labrynth) | Unlimited | 0.42 |
+| [Farewelcome Labrynth](https://db.ygoprodeck.com/card/?search=Farewelcome%20Labrynth) | Unlimited | 0.41 |
 | [Farfa, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Farfa,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited | 0.28 |
 | [Fatal Abacus](https://db.ygoprodeck.com/card/?search=Fatal%20Abacus) | Unlimited | 0.16 |
 | [Fateful Hour](https://db.ygoprodeck.com/card/?search=Fateful%20Hour) | Unlimited | 0.09 |
@@ -6175,7 +6178,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Humhumming the Key Djinn](https://db.ygoprodeck.com/card/?search=Humhumming%20the%20Key%20Djinn) | Unlimited | 0.07 |
 | [Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | Unlimited | 0.49 |
 | [Humpty Grumpty](https://db.ygoprodeck.com/card/?search=Humpty%20Grumpty) | Unlimited | 0.15 |
-| [Hundred Eyes Dragon](https://db.ygoprodeck.com/card/?search=Hundred%20Eyes%20Dragon) | Unlimited | 0.39 |
+| [Hundred Eyes Dragon](https://db.ygoprodeck.com/card/?search=Hundred%20Eyes%20Dragon) | Unlimited | 0.38 |
 | [Hundred-Footed Horror](https://db.ygoprodeck.com/card/?search=Hundred-Footed%20Horror) | Unlimited | 0.05 |
 | [Hungry Burger](https://db.ygoprodeck.com/card/?search=Hungry%20Burger) | Unlimited | 0.29 |
 | [Hunter Dragon](https://db.ygoprodeck.com/card/?search=Hunter%20Dragon) | Unlimited | 0.12 |
@@ -6585,7 +6588,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [King Beast Barbaros](https://db.ygoprodeck.com/card/?search=King%20Beast%20Barbaros) | Unlimited | 0.04 |
 | [King Dragun](https://db.ygoprodeck.com/card/?search=King%20Dragun) | Unlimited | 0.19 |
 | [King Fog](https://db.ygoprodeck.com/card/?search=King%20Fog) | Unlimited | 0.10 |
-| [King of Destruction - Xexex](https://db.ygoprodeck.com/card/?search=King%20of%20Destruction%20-%20Xexex) | Unlimited | 0.45 |
+| [King of Destruction - Xexex](https://db.ygoprodeck.com/card/?search=King%20of%20Destruction%20-%20Xexex) | Unlimited | 0.44 |
 | [King of the Feral Imps](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Feral%20Imps) | Unlimited | 0.06 |
 | [King of Yamimakai](https://db.ygoprodeck.com/card/?search=King%20of%20Yamimakai) | Unlimited | 0.20 |
 | [King Pyron](https://db.ygoprodeck.com/card/?search=King%20Pyron) | Unlimited | 0.07 |
@@ -6674,16 +6677,16 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Kuriphoton](https://db.ygoprodeck.com/card/?search=Kuriphoton) | Unlimited | 0.11 |
 | [Kurivolt](https://db.ygoprodeck.com/card/?search=Kurivolt) | Unlimited | 0.08 |
 | [Kuro-Obi Karate Spirit](https://db.ygoprodeck.com/card/?search=Kuro-Obi%20Karate%20Spirit) | Unlimited | 0.09 |
-| [Kuwagata α](https://db.ygoprodeck.com/card/?search=Kuwagata%20α) | Unlimited | 0.35 |
+| [Kuwagata α](https://db.ygoprodeck.com/card/?search=Kuwagata%20α) | Unlimited | 0.34 |
 | [Kwagar Hercules](https://db.ygoprodeck.com/card/?search=Kwagar%20Hercules) | Unlimited | 0.08 |
 | [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | Unlimited | 0.35 |
 | [Kyoutou Waterfront](https://db.ygoprodeck.com/card/?search=Kyoutou%20Waterfront) | Unlimited | 0.18 |
 | [La Jinn the Mystical Genie of the Lamp](https://db.ygoprodeck.com/card/?search=La%20Jinn%20the%20Mystical%20Genie%20of%20the%20Lamp) | Unlimited | 0.03 |
 | [Labradorite Dragon](https://db.ygoprodeck.com/card/?search=Labradorite%20Dragon) | Unlimited | 0.22 |
-| [Labrynth Archfiend](https://db.ygoprodeck.com/card/?search=Labrynth%20Archfiend) | Unlimited | 0.36 |
-| [Labrynth Chandraglier](https://db.ygoprodeck.com/card/?search=Labrynth%20Chandraglier) | Unlimited | 0.43 |
-| [Labrynth Cooclock](https://db.ygoprodeck.com/card/?search=Labrynth%20Cooclock) | Unlimited | 0.42 |
-| [Labrynth Stovie Torbie](https://db.ygoprodeck.com/card/?search=Labrynth%20Stovie%20Torbie) | Unlimited | 0.43 |
+| [Labrynth Archfiend](https://db.ygoprodeck.com/card/?search=Labrynth%20Archfiend) | Unlimited | 0.35 |
+| [Labrynth Chandraglier](https://db.ygoprodeck.com/card/?search=Labrynth%20Chandraglier) | Unlimited | 0.42 |
+| [Labrynth Cooclock](https://db.ygoprodeck.com/card/?search=Labrynth%20Cooclock) | Unlimited | 0.41 |
+| [Labrynth Stovie Torbie](https://db.ygoprodeck.com/card/?search=Labrynth%20Stovie%20Torbie) | Unlimited | 0.42 |
 | [Labyrinth of Nightmare](https://db.ygoprodeck.com/card/?search=Labyrinth%20of%20Nightmare) | Unlimited | 0.07 |
 | [Labyrinth Tank](https://db.ygoprodeck.com/card/?search=Labyrinth%20Tank) | Unlimited | 0.15 |
 | [Labyrinth Wall](https://db.ygoprodeck.com/card/?search=Labyrinth%20Wall) | Unlimited | 0.11 |
@@ -6981,7 +6984,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Machine King](https://db.ygoprodeck.com/card/?search=Machine%20King) | Unlimited | 0.46 |
 | [Machine King - 3000 B.C.](https://db.ygoprodeck.com/card/?search=Machine%20King%20-%203000%20B.C.) | Unlimited | 0.07 |
 | [Machine King Prototype](https://db.ygoprodeck.com/card/?search=Machine%20King%20Prototype) | Unlimited | 0.14 |
-| [Machine Lord Ur](https://db.ygoprodeck.com/card/?search=Machine%20Lord%20Ur) | Unlimited | 0.19 |
+| [Machine Lord Ur](https://db.ygoprodeck.com/card/?search=Machine%20Lord%20Ur) | Unlimited | 0.18 |
 | [Mad Archfiend](https://db.ygoprodeck.com/card/?search=Mad%20Archfiend) | Unlimited | 0.19 |
 | [Mad Dog of Darkness](https://db.ygoprodeck.com/card/?search=Mad%20Dog%20of%20Darkness) | Unlimited | 0.02 |
 | [Mad Hacker](https://db.ygoprodeck.com/card/?search=Mad%20Hacker) | Unlimited | 0.04 |
@@ -7431,7 +7434,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Metaphys Ragnarok](https://db.ygoprodeck.com/card/?search=Metaphys%20Ragnarok) | Unlimited | 0.30 |
 | [Metaphys Tyrant Dragon](https://db.ygoprodeck.com/card/?search=Metaphys%20Tyrant%20Dragon) | Unlimited | 0.25 |
 | [Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Unlimited | 0.26 |
-| [Meteo the Matchless](https://db.ygoprodeck.com/card/?search=Meteo%20the%20Matchless) | Unlimited | 0.00 |
 | [Meteor Black Dragon](https://db.ygoprodeck.com/card/?search=Meteor%20Black%20Dragon) | Unlimited | 0.16 |
 | [Meteor Dragon](https://db.ygoprodeck.com/card/?search=Meteor%20Dragon) | Unlimited | 0.17 |
 | [Meteor Flare](https://db.ygoprodeck.com/card/?search=Meteor%20Flare) | Unlimited | 0.10 |
@@ -7872,7 +7874,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Nordic Relic Svalinn](https://db.ygoprodeck.com/card/?search=Nordic%20Relic%20Svalinn) | Unlimited | 0.16 |
 | [Nordic Smith Ivaldi](https://db.ygoprodeck.com/card/?search=Nordic%20Smith%20Ivaldi) | Unlimited | 0.17 |
 | [Norito the Moral Leader](https://db.ygoprodeck.com/card/?search=Norito%20the%20Moral%20Leader) | Unlimited | 0.15 |
-| [Noritoshi in Darkest Rainment](https://db.ygoprodeck.com/card/?search=Noritoshi%20in%20Darkest%20Rainment) | Unlimited | 0.00 |
 | [Nova Summoner](https://db.ygoprodeck.com/card/?search=Nova%20Summoner) | Unlimited | 0.14 |
 | [Nowru Aries the Vernal Dragon](https://db.ygoprodeck.com/card/?search=Nowru%20Aries%20the%20Vernal%20Dragon) | Unlimited | 0.04 |
 | [Nubian Guard](https://db.ygoprodeck.com/card/?search=Nubian%20Guard) | Unlimited | 0.07 |
@@ -8632,7 +8633,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Quarantine](https://db.ygoprodeck.com/card/?search=Quarantine) | Unlimited | 0.02 |
 | [Queen Angel of Roses](https://db.ygoprodeck.com/card/?search=Queen%20Angel%20of%20Roses) | Unlimited | 0.07 |
 | [Queen Bird](https://db.ygoprodeck.com/card/?search=Queen%20Bird) | Unlimited | 0.03 |
-| [Queen of Fate - Eternia](https://db.ygoprodeck.com/card/?search=Queen%20of%20Fate%20-%20Eternia) | Unlimited | 0.00 |
 | [Queen's Bodyguard](https://db.ygoprodeck.com/card/?search=Queen's%20Bodyguard) | Unlimited | 0.04 |
 | [Queen's Double](https://db.ygoprodeck.com/card/?search=Queen's%20Double) | Unlimited | 0.34 |
 | [Queen's Knight](https://db.ygoprodeck.com/card/?search=Queen's%20Knight) | Unlimited | 0.05 |
@@ -8673,7 +8673,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Raging Eria](https://db.ygoprodeck.com/card/?search=Raging%20Eria) | Unlimited | 0.23 |
 | [Raging Flame Sprite](https://db.ygoprodeck.com/card/?search=Raging%20Flame%20Sprite) | Unlimited | 0.08 |
 | [Raging Mad Plants](https://db.ygoprodeck.com/card/?search=Raging%20Mad%20Plants) | Unlimited | 0.10 |
-| [Raging Storm Dragon - Beaufort IX](https://db.ygoprodeck.com/card/?search=Raging%20Storm%20Dragon%20-%20Beaufort%20IX) | Unlimited | 0.04 |
+| [Raging Storm Dragon - Beaufort IX](https://db.ygoprodeck.com/card/?search=Raging%20Storm%20Dragon%20-%20Beaufort%20IX) | Unlimited | 0.03 |
 | [Rai Rider](https://db.ygoprodeck.com/card/?search=Rai%20Rider) | Unlimited | 0.09 |
 | [Rai-Jin](https://db.ygoprodeck.com/card/?search=Rai-Jin) | Unlimited | 0.19 |
 | [Rai-Mei](https://db.ygoprodeck.com/card/?search=Rai-Mei) | Unlimited | 0.21 |
@@ -9688,7 +9688,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Sphinx Teleia](https://db.ygoprodeck.com/card/?search=Sphinx%20Teleia) | Unlimited | 0.19 |
 | [Spider Egg](https://db.ygoprodeck.com/card/?search=Spider%20Egg) | Unlimited | 0.10 |
 | [Spider Web](https://db.ygoprodeck.com/card/?search=Spider%20Web) | Unlimited | 0.11 |
-| [Spiders' Lair](https://db.ygoprodeck.com/card/?search=Spiders'%20Lair) | Unlimited | 0.13 |
+| [Spiders' Lair](https://db.ygoprodeck.com/card/?search=Spiders'%20Lair) | Unlimited | 0.12 |
 | [Spike Seadra](https://db.ygoprodeck.com/card/?search=Spike%20Seadra) | Unlimited | 0.04 |
 | [Spikebot](https://db.ygoprodeck.com/card/?search=Spikebot) | Unlimited | 0.02 |
 | [Spikeshield with Chain](https://db.ygoprodeck.com/card/?search=Spikeshield%20with%20Chain) | Unlimited | 0.07 |
@@ -10040,7 +10040,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Superheavy Samurai Transporter](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Transporter) | Unlimited | 0.07 |
 | [Superheavy Samurai Wagon](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Wagon) | Unlimited | 0.07 |
 | [Supernatural Danger Zone](https://db.ygoprodeck.com/card/?search=Supernatural%20Danger%20Zone) | Unlimited | 0.13 |
-| [Supernatural Regeneration](https://db.ygoprodeck.com/card/?search=Supernatural%20Regeneration) | Unlimited | 0.13 |
+| [Supernatural Regeneration](https://db.ygoprodeck.com/card/?search=Supernatural%20Regeneration) | Unlimited | 0.12 |
 | [Supervise](https://db.ygoprodeck.com/card/?search=Supervise) | Unlimited | 0.04 |
 | [Supply](https://db.ygoprodeck.com/card/?search=Supply) | Unlimited | 0.22 |
 | [Supply Squad](https://db.ygoprodeck.com/card/?search=Supply%20Squad) | Unlimited | 0.07 |
@@ -10596,6 +10596,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Trap Reactor Y FI](https://db.ygoprodeck.com/card/?search=Trap%20Reactor%20Y%20FI) | Unlimited | 0.11 |
 | [Trap Reclamation](https://db.ygoprodeck.com/card/?search=Trap%20Reclamation) | Unlimited | 0.41 |
 | [Trap Stun](https://db.ygoprodeck.com/card/?search=Trap%20Stun) | Unlimited | 0.13 |
+| [Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Unlimited | 0.64 |
 | [Traptrix Allomerus](https://db.ygoprodeck.com/card/?search=Traptrix%20Allomerus) | Unlimited | 0.14 |
 | [Traptrix Atrax](https://db.ygoprodeck.com/card/?search=Traptrix%20Atrax) | Unlimited | 0.27 |
 | [Traptrix Dionaea](https://db.ygoprodeck.com/card/?search=Traptrix%20Dionaea) | Unlimited | 0.23 |
@@ -10736,7 +10737,6 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Two-Pronged Attack](https://db.ygoprodeck.com/card/?search=Two-Pronged%20Attack) | Unlimited | 0.04 |
 | [Tyhone](https://db.ygoprodeck.com/card/?search=Tyhone) | Unlimited | 0.04 |
 | [Tyhone #2](https://db.ygoprodeck.com/card/?search=Tyhone%20#2) | Unlimited | 0.13 |
-| [Tyler the Great Warrior](https://db.ygoprodeck.com/card/?search=Tyler%20the%20Great%20Warrior) | Unlimited | 0.00 |
 | [Type Zero Magic Crusher](https://db.ygoprodeck.com/card/?search=Type%20Zero%20Magic%20Crusher) | Unlimited | 0.02 |
 | [Typhoon](https://db.ygoprodeck.com/card/?search=Typhoon) | Unlimited | 0.12 |
 | [Tyr of the Nordic Champions](https://db.ygoprodeck.com/card/?search=Tyr%20of%20the%20Nordic%20Champions) | Unlimited | 0.08 |
@@ -10958,7 +10958,7 @@ Note that these prices might not (and probably will not) reflect reality at any 
 | [Vernusylph and the Changing Season](https://db.ygoprodeck.com/card/?search=Vernusylph%20and%20the%20Changing%20Season) | Unlimited | 0.07 |
 | [Vernusylph and the Flower Buds](https://db.ygoprodeck.com/card/?search=Vernusylph%20and%20the%20Flower%20Buds) | Unlimited | 0.06 |
 | [Vernusylph Corolla](https://db.ygoprodeck.com/card/?search=Vernusylph%20Corolla) | Unlimited | 0.13 |
-| [Vernusylph of the Awakening Forests](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Awakening%20Forests) | Unlimited | 0.19 |
+| [Vernusylph of the Awakening Forests](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Awakening%20Forests) | Unlimited | 0.18 |
 | [Vernusylph of the Flourishing Hills](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flourishing%20Hills) | Unlimited | 0.19 |
 | [Vernusylph of the Flowering Fields](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flowering%20Fields) | Unlimited | 0.07 |
 | [Vernusylph of the Thawing Mountains](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Thawing%20Mountains) | Unlimited | 0.07 |

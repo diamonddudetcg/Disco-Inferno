@@ -225,6 +225,7 @@ def buildEverything():
 	cards = jsonData.get(DATA)
 
 	for card in cards:
+		cardName = card.get(NAME)
 		if card[PRICE] > cutoffPoint:
 			if not cardName in forceLegal:
 				card[STATUS] = -1
