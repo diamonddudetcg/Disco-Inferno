@@ -156,9 +156,6 @@ def buildEverything():
 			tcgplayerPrice = float(cardPrices.get(TCGPLAYER_PRICE))
 			cardmarketPrice = float(cardPrices.get(CARDMARKET_PRICE))
 			avgPrice = min(tcgplayerPrice, cardmarketPrice)
-			if (avgPrice == 0):
-				# This prevents errors like the Live Twins
-				avgPrice = max(tcgplayerPrice, cardmarketPrice)
 			if (cardmarketPrice + tcgplayerPrice > 2):
 				# This prevents errors like Blue-Eyes Alternative Dragon
 				avgPrice = max(tcgplayerPrice, cardmarketPrice)
@@ -183,9 +180,6 @@ def buildEverything():
 				if (banlistStatus == UNLIMITED):
 					banTcg = 3
 
-			if (avgPrice == 0):
-				# Something fucked is going on
-				banTcg = -2
 			if card.get(NAME) in additionalForbidden:
 				banTcg = 0
 			if card.get(NAME) in additionalLimited:
@@ -194,6 +188,10 @@ def buildEverything():
 				banTcg = 2
 			if card.get(NAME) in additionalUnlimited:
 				banTcg = 3
+
+			if (avgPrice == 0):
+				# Something fucked is going on
+				banTcg = -2
 
 			if runs == 0:
 				newAverage = avgPrice
@@ -227,7 +225,7 @@ def buildEverything():
 			outfile.write("\n$whitelist\n\n")
 			for card in cards:
 				cardBanlistStatus = card.get(STATUS)
-				if cardBanlistStatus == -2:
+				if cardBanlistStatus < -1:
 					cardBanlistStatus = -1
 				for cardId in card.get(CARD_IDS):
 					try:
@@ -235,13 +233,13 @@ def buildEverything():
 					except TypeError:
 						print(card)
 
-	with open(jsonPath, 'w') as file:
+	with open(jsonPath, 'w', encoding="utf-8") as file:
 		json.dump(jsonData, file, indent=4)
 
 	with open(previousDataPath) as file:
 		previousPriceData = json.load(file)
 
-	with open(differencesPath, 'w') as outfile:
+	with open(differencesPath, 'w', encoding="utf-8") as outfile:
 		cardDifferences = []
 		for cardData1 in jsonData.get(DATA):
 			found = False
