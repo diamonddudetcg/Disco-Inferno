@@ -616,7 +616,9 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Evilswarm Exciton Knight](https://db.ygoprodeck.com/card/?search=Evilswarm%20Exciton%20Knight) | Illegal |
 | [Evilswarm Kerykeion](https://db.ygoprodeck.com/card/?search=Evilswarm%20Kerykeion) | Illegal |
 | [Evilswarm Ophion](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ophion) | Illegal |
+| [Evil★Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Ki-sikil) | Illegal |
 | [Evil★Twin Lil-la](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Lil-la) | Illegal |
+| [Evil★Twin's Trouble Sunny](https://db.ygoprodeck.com/card/?search=Evil★Twin's%20Trouble%20Sunny) | Illegal |
 | [Evil★Twins Ki-sikil & Lil-la](https://db.ygoprodeck.com/card/?search=Evil★Twins%20Ki-sikil%20%26%20Lil-la) | Illegal |
 | [Evolsaur Cerato](https://db.ygoprodeck.com/card/?search=Evolsaur%20Cerato) | Illegal |
 | [Evolzar Dolkka](https://db.ygoprodeck.com/card/?search=Evolzar%20Dolkka) | Illegal |
@@ -1053,6 +1055,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Linkross](https://db.ygoprodeck.com/card/?search=Linkross) | Illegal |
 | [Linkuriboh](https://db.ygoprodeck.com/card/?search=Linkuriboh) | Illegal |
 | [Little D](https://db.ygoprodeck.com/card/?search=Little%20D) | Illegal |
+| [Live☆Twin Ki-sikil Frost](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil%20Frost) | Illegal |
 | [Live☆Twin Lil-la Treat](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Lil-la%20Treat) | Illegal |
 | [Localized Tornado](https://db.ygoprodeck.com/card/?search=Localized%20Tornado) | Illegal |
 | [Loptr, Shadow of the Generaider Bosses](https://db.ygoprodeck.com/card/?search=Loptr,%20Shadow%20of%20the%20Generaider%20Bosses) | Illegal |
@@ -4870,9 +4873,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Evilswarm Zahak](https://db.ygoprodeck.com/card/?search=Evilswarm%20Zahak) | Unlimited |
 | [Evil★Twin Challenge](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Challenge) | Unlimited |
 | [Evil★Twin GG EZ](https://db.ygoprodeck.com/card/?search=Evil★Twin%20GG%20EZ) | Unlimited |
-| [Evil★Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Ki-sikil) | Unlimited |
 | [Evil★Twin Present](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Present) | Unlimited |
-| [Evil★Twin's Trouble Sunny](https://db.ygoprodeck.com/card/?search=Evil★Twin's%20Trouble%20Sunny) | Unlimited |
 | [Evo-Branch](https://db.ygoprodeck.com/card/?search=Evo-Branch) | Unlimited |
 | [Evo-Diversity](https://db.ygoprodeck.com/card/?search=Evo-Diversity) | Unlimited |
 | [Evo-Force](https://db.ygoprodeck.com/card/?search=Evo-Force) | Unlimited |
@@ -6883,7 +6884,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | Unlimited |
 | [Live☆Twin Home](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Home) | Unlimited |
 | [Live☆Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil) | Unlimited |
-| [Live☆Twin Ki-sikil Frost](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil%20Frost) | Unlimited |
 | [Live☆Twin Lil-la](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Lil-la) | Unlimited |
 | [Live☆Twin Sunny's Snitch](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Sunny's%20Snitch) | Unlimited |
 | [Living Fossil](https://db.ygoprodeck.com/card/?search=Living%20Fossil) | Unlimited |

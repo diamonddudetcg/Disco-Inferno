@@ -351,5 +351,5 @@ buildEverything()
 
 sched = BlockingScheduler()
 sched.daemonic = False
-sched.add_job(buildEverything, 'interval', minutes=60)
+sched.add_job(buildEverything, 'interval', minutes=5)
 sched.start()

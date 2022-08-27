@@ -9,6 +9,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 | Card name | Previous Status | New Status |
 | :-- | :-- | :-- |
 |[Emperor of Lightning](https://db.ygoprodeck.com/card/?search=Emperor%20of%20Lightning) | Illegal (no price data) | Illegal |
+|[Evil★Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Ki-sikil) | Illegal (no price data) | Illegal |
+|[Evil★Twin's Trouble Sunny](https://db.ygoprodeck.com/card/?search=Evil★Twin's%20Trouble%20Sunny) | Illegal (no price data) | Illegal |
+|[Live☆Twin Ki-sikil Frost](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil%20Frost) | Illegal (no price data) | Illegal |
 |[Meteo the Matchless](https://db.ygoprodeck.com/card/?search=Meteo%20the%20Matchless) | Illegal (no price data) | Illegal |
 |[Noritoshi in Darkest Rainment](https://db.ygoprodeck.com/card/?search=Noritoshi%20in%20Darkest%20Rainment) | Illegal (no price data) | Illegal |
 |[Queen of Fate - Eternia](https://db.ygoprodeck.com/card/?search=Queen%20of%20Fate%20-%20Eternia) | Illegal (no price data) | Illegal |
@@ -37,9 +40,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Evil HERO Sinister Necrom](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Sinister%20Necrom) | Illegal | Unlimited |
 |[Evil★Twin Challenge](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Challenge) | Illegal (no price data) | Unlimited |
 |[Evil★Twin GG EZ](https://db.ygoprodeck.com/card/?search=Evil★Twin%20GG%20EZ) | Illegal (no price data) | Unlimited |
-|[Evil★Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Ki-sikil) | Illegal (no price data) | Unlimited |
 |[Evil★Twin Present](https://db.ygoprodeck.com/card/?search=Evil★Twin%20Present) | Illegal (no price data) | Unlimited |
-|[Evil★Twin's Trouble Sunny](https://db.ygoprodeck.com/card/?search=Evil★Twin's%20Trouble%20Sunny) | Illegal (no price data) | Unlimited |
 |[Farewelcome Labrynth](https://db.ygoprodeck.com/card/?search=Farewelcome%20Labrynth) | Illegal | Unlimited |
 |[Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Semi-Limited | Unlimited |
 |[Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | Forbidden | Unlimited |
@@ -54,7 +55,6 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | Illegal (no price data) | Unlimited |
 |[Live☆Twin Home](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Home) | Illegal (no price data) | Unlimited |
 |[Live☆Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil) | Illegal (no price data) | Unlimited |
-|[Live☆Twin Ki-sikil Frost](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil%20Frost) | Illegal (no price data) | Unlimited |
 |[Live☆Twin Sunny's Snitch](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Sunny's%20Snitch) | Illegal (no price data) | Unlimited |
 |[Lyrilusc - Recital Starling](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling) | Limited | Unlimited |
 |[Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Forbidden | Unlimited |
