@@ -40,7 +40,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | Illegal |
 | [Alien Kid](https://db.ygoprodeck.com/card/?search=Alien%20Kid) | Illegal |
 | [Alien Telepath](https://db.ygoprodeck.com/card/?search=Alien%20Telepath) | Illegal |
-| [Alien Warrior](https://db.ygoprodeck.com/card/?search=Alien%20Warrior) | Illegal |
 | [Allure of Darkness](https://db.ygoprodeck.com/card/?search=Allure%20of%20Darkness) | Illegal |
 | [Allure Queen LV7](https://db.ygoprodeck.com/card/?search=Allure%20Queen%20LV7) | Illegal |
 | [Ally of Justice Cyclone Creator](https://db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Cyclone%20Creator) | Illegal |
@@ -2187,6 +2186,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Alien Shocktrooper M-Frame](https://db.ygoprodeck.com/card/?search=Alien%20Shocktrooper%20M-Frame) | Unlimited |
 | [Alien Skull](https://db.ygoprodeck.com/card/?search=Alien%20Skull) | Unlimited |
 | [Alien Stealthbuster](https://db.ygoprodeck.com/card/?search=Alien%20Stealthbuster) | Unlimited |
+| [Alien Warrior](https://db.ygoprodeck.com/card/?search=Alien%20Warrior) | Unlimited |
 | [Alinsection](https://db.ygoprodeck.com/card/?search=Alinsection) | Unlimited |
 | [All-Eyes Phantom Dragon](https://db.ygoprodeck.com/card/?search=All-Eyes%20Phantom%20Dragon) | Unlimited |
 | [All-Out Attacks](https://db.ygoprodeck.com/card/?search=All-Out%20Attacks) | Unlimited |
