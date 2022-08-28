@@ -162,11 +162,12 @@ def buildEverything():
 			if cardName in additionalUnlimited:
 				banTcg = 3
 
+
+			if cardName in forceLegal:
+				avgPrice /=2
+
 			if runs == 0:
 				newAverage = avgPrice
-				if (newAverage == 0):
-					# Something fucked is going on
-					banTcg = -2
 				ids = []
 
 				if cardName in forceIllegal:
@@ -186,8 +187,6 @@ def buildEverything():
 					if entry.get(NAME) == card.get(NAME):
 						previousAverage = entry.get(PRICE)
 						newAverage = (previousAverage * runs + avgPrice)/(runs+1)
-						if cardName in forceLegal:
-							newAverage = cutoffPoint/2
 						entry[PRICE] = float("{:.2f}".format(newAverage))
 						entry[STATUS] = banTcg
 						break
@@ -265,12 +264,12 @@ def buildEverything():
 
 		if ratio > 1:
 			ratio-=1
-			print("Average card price went up by %.2f"%(ratio * 100), flush=True)
+			print("Average card price went up by %.2f%%"%(ratio * 100), flush=True)
 		elif ratio == 1:
 			print("Average card price stayed exactly the same", flush=True)
 		elif ratio < 1:
 			ratio = 1 - ratio
-			print("Average card price went down by %.2f"%(ratio * 100), flush=True)
+			print("Average card price went down by %.2f%%"%(ratio * 100), flush=True)
 
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
