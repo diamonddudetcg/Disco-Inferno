@@ -271,8 +271,8 @@ def generatePriceDifferences():
 							diffCard[PREVIOUS_STATUS] = cardData2.get(STATUS)
 							diffCard[PRICE] = cardData1.get(PRICE)
 							priceDifferences.append(diffCard)
-							found = True
-							break
+					found = True
+					break
 			
 			if not found:
 				if cardData1.get(STATUS) > 0:
