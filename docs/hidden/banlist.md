@@ -948,7 +948,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Level Limit - Area B](https://db.ygoprodeck.com/card/?search=Level%20Limit%20-%20Area%20B) | Illegal |
 | [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | Illegal |
 | [Leviair the Sea Dragon](https://db.ygoprodeck.com/card/?search=Leviair%20the%20Sea%20Dragon) | Illegal |
-| [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | Illegal |
 | [Libic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Libic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
 | [Libromancer Doombroker](https://db.ygoprodeck.com/card/?search=Libromancer%20Doombroker) | Illegal |
 | [Libromancer Fire](https://db.ygoprodeck.com/card/?search=Libromancer%20Fire) | Illegal |
@@ -6698,6 +6697,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Level Tuning](https://db.ygoprodeck.com/card/?search=Level%20Tuning) | Unlimited |
 | [Level Warrior](https://db.ygoprodeck.com/card/?search=Level%20Warrior) | Unlimited |
 | [Levia-Dragon - Daedalus](https://db.ygoprodeck.com/card/?search=Levia-Dragon%20-%20Daedalus) | Unlimited |
+| [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | Unlimited |
 | [Liberty at Last!](https://db.ygoprodeck.com/card/?search=Liberty%20at%20Last!) | Unlimited |
 | [Libromancer Agent](https://db.ygoprodeck.com/card/?search=Libromancer%20Agent) | Unlimited |
 | [Libromancer Bonded](https://db.ygoprodeck.com/card/?search=Libromancer%20Bonded) | Unlimited |
