@@ -65,6 +65,7 @@ banlistPath = 'banlist/ongoing/disco_inferno_ongoing.lflist.conf'
 jsonPath = 'json/current.json'
 previousDataPath = 'json/previous.json'
 differencesPath = 'docs/differences.md'
+closePricesPath = 'docs/closeprices.md'
 
 def getCardStatusAsString(cardStatus):
 	cardStatusAsText = "Unlimited"
@@ -200,21 +201,23 @@ def buildEverything():
 			card[STATUS] = -1
 
 	with open(banlistPath, 'w', encoding="utf-8") as outfile:
-			outfile.write("#[Disco Inferno]\n")
-			outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m.%Y"))
-			outfile.write("\n$whitelist\n\n")
-			outfile.write("\n#Here lies all the anime bullshit\n\n")
-			for cardId in additionalRemovedIds:
-				outfile.write("%s -1 -- Some anime shit I don't care about\n"%cardId)
-			for card in cards:
-				cardBanlistStatus = card.get(STATUS)
-				if cardBanlistStatus < -1:
-					cardBanlistStatus = -1
-				for cardId in card.get(CARD_IDS):
-					try:
-						outfile.write("%d %d -- %s\n" % (cardId, cardBanlistStatus, card.get(NAME)))
-					except TypeError:
-						print(card)
+		outfile.write("#[Disco Inferno]\n")
+		outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m.%Y"))
+		outfile.write("\n$whitelist\n\n")
+		outfile.write("\n#Here lies all the anime bullshit\n\n")
+		for cardId in additionalRemovedIds:
+			outfile.write("%s -1 -- Some anime shit I don't care about\n"%cardId)
+		for card in cards:
+			cardBanlistStatus = card.get(STATUS)
+			if cardBanlistStatus < -1:
+				cardBanlistStatus = -1
+			for cardId in card.get(CARD_IDS):
+				try:
+					outfile.write("%d %d -- %s\n" % (cardId, cardBanlistStatus, card.get(NAME)))
+				except TypeError:
+					print(card)
+
+
 
 
 	with open(jsonPath, 'w', encoding="utf-8") as file:
@@ -258,6 +261,7 @@ def buildEverything():
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
 		outfile.write("\n\nPlease keep in mind these changes are not definitive and are only based on past prices. We cannot predict the future changes in the market.")
+		outfile.write("\n\nFor a list of cards that are likely to move, go [HERE](closeprices)")
 		outfile.write("\n\n| Card name | Previous Status | New Status | Avg $ |")
 		outfile.write("\n| :-- | :-- | :-- |")
 
@@ -271,6 +275,27 @@ def buildEverything():
 
 			outfile.write("\n|[%s](%s) | %s | %s | %s |"%(cardName, cardUrl, previousCardStatusAsText, cardStatusAsText, "{:.2f}".format(card.get(PRICE))))
 
+		outfile.write("\n\n###### [Back home](index)")
+
+	with open(closePricesPath, 'w', encoding="utf-8") as outfile:
+		closeCards = []
+		for card in jsonData.get(DATA):
+			price = card.get(PRICE)
+			if price >= 0.45 and price <=0.55:
+				closeCards.append(card)
+
+		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
+		outfile.write("\n\nThese are just cards that are bordering around the $0.50 limit. They are the closest to moving on the next banlist.")
+		outfile.write("\n\n| Card name | Avg $ |")
+		outfile.write("\n| :-- | :-- |")
+
+		for card in sorted(closeCards, key=operator.itemgetter(PRICE)):
+			cardPrice = card.get(PRICE)
+			cardName = card.get(NAME)
+			cardUrl = getCardUrl(NAME)
+
+			outfile.write("\n[%s](%s] | %s |"%(cardName, cardUrl, "{:.2f}".format(cardPrice)))
+		
 		outfile.write("\n\n###### [Back home](index)")
 
 	with open(ongoingBanlistSite, 'w', encoding="utf-8") as outfile:
