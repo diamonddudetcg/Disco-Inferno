@@ -1,5 +1,5 @@
 {
-    "previousRuns": 105,
+    "previousRuns": 106,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -351,7 +351,7 @@
                 1966438
             ],
             "price": 0.54,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Abomination's Prison",
@@ -912,7 +912,7 @@
                 85914562
             ],
             "price": 0.73,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Adamancipator Resonance",
@@ -928,7 +928,7 @@
                 9464441
             ],
             "price": 0.56,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Adamancipator Risen - Leonite",
@@ -2040,7 +2040,7 @@
             "ids": [
                 662855
             ],
-            "price": 23.99,
+            "price": 24.0,
             "status": -1
         },
         {
@@ -3337,7 +3337,7 @@
                 97120394
             ],
             "price": 0.59,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Anti-Magic Prism",
@@ -3955,7 +3955,7 @@
                 57624336
             ],
             "price": 0.59,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Archfiend Emperor, the First Lord of Horror",
@@ -5244,7 +5244,7 @@
                 74311226
             ],
             "price": 0.58,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Atlantean Heavy Infantry",
@@ -7677,7 +7677,7 @@
                 93969023
             ],
             "price": 0.59,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Black Pendant",
@@ -12093,7 +12093,7 @@
                 94886282
             ],
             "price": 0.56,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Charged-Up Heraldry",
@@ -21902,7 +21902,7 @@
                 82956214
             ],
             "price": 0.56,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Dogmatika Theo, the Iron Punch",
@@ -23134,7 +23134,7 @@
                 53184342
             ],
             "price": 0.98,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Dragunity Arma Leyvaten",
@@ -23190,7 +23190,7 @@
                 60004971
             ],
             "price": 0.6,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Dragunity Draft",
@@ -26304,7 +26304,7 @@
                 11877465
             ],
             "price": 0.72,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Evigishki Soul Ogre",
@@ -26312,7 +26312,7 @@
                 57272170
             ],
             "price": 0.6,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Evigishki Tetrogre",
@@ -29059,7 +29059,7 @@
                 99267151
             ],
             "price": 1.12,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Five-Headed Link Dragon",
@@ -32510,7 +32510,7 @@
                 39512984
             ],
             "price": 0.8,
-            "status": 1
+            "status": -1
         },
         {
             "name": "Gem-Knight Obsidian",
@@ -32518,7 +32518,7 @@
                 19163116
             ],
             "price": 0.66,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Gem-Knight Pearl",
@@ -33143,7 +33143,7 @@
                 15248594
             ],
             "price": 0.8,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Geonator Transverser",
@@ -34101,7 +34101,7 @@
                 46159582
             ],
             "price": 0.75,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Gishki Ariel",
@@ -46121,7 +46121,7 @@
                 23898021
             ],
             "price": 0.56,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Lillybot",
@@ -47386,7 +47386,7 @@
                 46033517
             ],
             "price": 1.03,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Machina Sniper",
@@ -50194,7 +50194,7 @@
                 36521307
             ],
             "price": 0.63,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Mathmech Diameter",
@@ -52292,7 +52292,7 @@
                 40164421
             ],
             "price": 0.99,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Minerva, Scholar of the Sky",
@@ -56945,7 +56945,7 @@
                 80796456
             ],
             "price": 0.57,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Number 71: Rebarian Shark",
@@ -57473,7 +57473,7 @@
                 56832966
             ],
             "price": 0.59,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Number Wall",
@@ -58999,7 +58999,7 @@
                 41782653
             ],
             "price": 0.56,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Overwhelm",
@@ -59256,7 +59256,7 @@
                 38761908
             ],
             "price": 0.57,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Paleozoic Eldonia",
@@ -59296,7 +59296,7 @@
                 35035481
             ],
             "price": 0.69,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Paleozoic Opabinia",
@@ -62836,7 +62836,7 @@
                 85692042
             ],
             "price": 0.6,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Primathmech Laplacian",
@@ -65817,7 +65817,7 @@
                 74677427
             ],
             "price": 0.57,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Red-Eyes Black Dragon Sword",
@@ -68140,7 +68140,7 @@
             "ids": [
                 92107604
             ],
-            "price": 16.48,
+            "price": 16.49,
             "status": -1
         },
         {
@@ -69045,7 +69045,7 @@
             "ids": [
                 662853
             ],
-            "price": 14.91,
+            "price": 14.92,
             "status": -1
         },
         {
@@ -70511,7 +70511,7 @@
                 82466274
             ],
             "price": 0.6,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Set Rotation",
@@ -70910,7 +70910,7 @@
             "ids": [
                 27416701
             ],
-            "price": 29.53,
+            "price": 29.54,
             "status": -1
         },
         {
@@ -73002,7 +73002,7 @@
                 691925
             ],
             "price": 0.62,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Solar Wind Jammer",
@@ -73058,7 +73058,7 @@
                 40605147
             ],
             "price": 0.61,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Solemn Warning",
@@ -79649,7 +79649,7 @@
             "ids": [
                 501000004
             ],
-            "price": 236.83,
+            "price": 236.92,
             "status": -1
         },
         {
@@ -84531,7 +84531,7 @@
                 43898403
             ],
             "price": 0.75,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Twin-Barrel Dragon",
@@ -85010,7 +85010,7 @@
             "ids": [
                 501000000
             ],
-            "price": 96.2,
+            "price": 96.24,
             "status": -1
         },
         {
@@ -89849,7 +89849,7 @@
                 87571563
             ],
             "price": 0.59,
-            "status": 3
+            "status": -1
         },
         {
             "name": "World Legacy Guardragon Mardark",
@@ -92003,7 +92003,7 @@
                 31755044
             ],
             "price": 0.56,
-            "status": 3
+            "status": -1
         },
         {
             "name": "Zoroa, the Magistus Conflagrant Calamity",
