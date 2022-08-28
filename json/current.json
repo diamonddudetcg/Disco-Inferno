@@ -1,5 +1,5 @@
 {
-    "previousRuns": 54,
+    "previousRuns": 55,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -22997,7 +22997,7 @@
             "ids": [
                 78231355
             ],
-            "price": 0.41,
+            "price": 0.4,
             "status": 3
         },
         {
@@ -62731,7 +62731,7 @@
             "ids": [
                 96729612
             ],
-            "price": 0.67,
+            "price": 0.66,
             "status": -1
         },
         {
