@@ -14,7 +14,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Breakthrough Skill](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [Chain Strike](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [Chronicle Magician](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
-[D/D Gryphon](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [D/D/D Flame King Genghis](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [D/D/D Oracle King d'Arc](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [Devotee of Nephthys](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
@@ -177,6 +176,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Called by the Grave](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
+[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Gem-Knight Fusion](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Gladiator Beast Octavius](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
@@ -203,7 +203,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Armored Kappa](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Assault Beast](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Dragonmaid Ernus](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
-[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Hundred Dragon](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
