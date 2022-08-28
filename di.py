@@ -240,6 +240,7 @@ def buildEverything():
 							diffCard[NAME] = cardData1.get(NAME)
 							diffCard[STATUS] = cardData1.get(STATUS)
 							diffCard[PREVIOUS_STATUS] = cardData2.get(STATUS)
+							diffCard[PRICE] = cardData1.get(PRICE)
 							cardDifferences.append(diffCard)
 							found = True
 					break
@@ -255,7 +256,7 @@ def buildEverything():
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
 		outfile.write("\n\nPlease keep in mind these changes are not definitive and are only based on past prices. We cannot predict the future changes in the market.")
-		outfile.write("\n\n| Card name | Previous Status | New Status |")
+		outfile.write("\n\n| Card name | Previous Status | New Status | Avg $ |")
 		outfile.write("\n| :-- | :-- | :-- |")
 
 		for card in sorted(cardDifferences, key=operator.itemgetter(STATUS)):
@@ -266,7 +267,7 @@ def buildEverything():
 			cardName = card.get(NAME)
 			cardUrl = getCardUrl(cardName)
 
-			outfile.write("\n|[%s](%s) | %s | %s |"%(cardName, cardUrl, previousCardStatusAsText, cardStatusAsText))
+			outfile.write("\n|[%s](%s) | %s | %s | %s |"%(cardName, cardUrl, previousCardStatusAsText, cardStatusAsText, "{:.2f}".format(card.get(PRICE))))
 
 		outfile.write("\n\n###### [Back home](index)")
 
