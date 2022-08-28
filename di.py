@@ -292,7 +292,7 @@ def buildEverything():
 		for card in sorted(closeCards, key=operator.itemgetter(PRICE)):
 			cardPrice = card.get(PRICE)
 			cardName = card.get(NAME)
-			cardUrl = getCardUrl(NAME)
+			cardUrl = getCardUrl(cardName)
 			cardStatus = card.get(STATUS)
 			if cardStatus != 0:
 				outfile.write("\n[%s](%s) | %s |"%(cardName, cardUrl, "{:.2f}".format(cardPrice)))
