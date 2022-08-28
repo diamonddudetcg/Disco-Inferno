@@ -121,13 +121,6 @@ def buildEverything():
 
 			cardName = card.get(NAME)
 
-			isLDSColoredUltra = False
-
-			for cardSet in card.get(CARD_SETS):
-				if cardSet.get(SET_CODE).startswith('LDS'):
-					if cardSet.get(SET_RARITY_CODE) == "(UR)":
-						isLDSColoredUltra = True
-
 			images = card.get(CARD_IMAGES)
 			cardPrices = card.get(CARD_PRICES)[0]
 			tcgplayerPrice = float(cardPrices.get(TCGPLAYER_PRICE))
@@ -162,6 +155,8 @@ def buildEverything():
 				banTcg = 2
 			if cardName in additionalUnlimited:
 				banTcg = 3
+			if cardName in forceIllegal:
+				banTcg = -1
 
 
 			if cardName in forceLegal:
@@ -174,8 +169,6 @@ def buildEverything():
 				newAverage = avgPrice
 				ids = []
 
-				if cardName in forceIllegal:
-					banTcg = -1
 
 				for variant in images:
 					ids.append(variant.get(CARD_ID))
