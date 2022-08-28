@@ -62,7 +62,6 @@ cutoffPoint = 0.50
 
 today = date.today()
 formatted = today.strftime("%Y/%m/%d, %H:%M:%S")
-stableHiddenSite = 'docs/hidden/banlist.md'
 banlistPath = 'banlist/ongoing/disco_inferno_ongoing.lflist.conf'
 jsonPath = 'json/current.json'
 previousDataPath = 'json/previous.json'
@@ -77,6 +76,8 @@ additionalUnlimited = []
 forceLegal = []
 forceIllegal = []
 additionalRemovedIds = []
+
+commit = True
 
 def getCardStatusAsString(cardStatus):
 	cardStatusAsText = "Unlimited"
@@ -115,18 +116,21 @@ def getBanInfo(card):
 			banTcg = 2
 		if (banlistStatus == UNLIMITED):
 			banTcg = 3
-		cardName = card.get(NAME)
-		if cardName in additionalForbidden:
-			banTcg = 0
-		if cardName in additionalLimited:
-			banTcg = 1
-		if cardName in additionalSemiLimited:
-			banTcg = 2
-		if cardName in additionalUnlimited:
-			banTcg = 3
-		if cardName in forceIllegal:
-			banTcg = -1
-		return banTcg
+
+	cardName = card.get(NAME)
+
+	if cardName in additionalForbidden:
+		banTcg = 0
+	if cardName in additionalLimited:
+		banTcg = 1
+	if cardName in additionalSemiLimited:
+		banTcg = 2
+	if cardName in additionalUnlimited:
+		banTcg = 3
+	if cardName in forceIllegal:
+		banTcg = -1
+
+	return banTcg
 
 def getCardPrice(card):
 	cardPrices = card.get(CARD_PRICES)[0]
@@ -135,7 +139,7 @@ def getCardPrice(card):
 	avgPrice = min(tcgplayerPrice, cardmarketPrice)
 	if (avgPrice == 0):
 		avgPrice = (tcgplayerPrice + cardmarketPrice)/2
-	if cardName in forceLegal:
+	if card.get(NAME) in forceLegal:
 		if (avgPrice > 1):
 			avgPrice -=1
 		else:
@@ -173,23 +177,24 @@ def getCardsFromAPI():
 		cards = json.loads(url.read().decode()).get(DATA)
 		return cards
 
-def buildLflist(cards):
+def buildLflist():
+	cards = jsonData.get(DATA)
 	with open(banlistPath, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Disco Inferno]\n")
 		outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m.%Y"))
 		outfile.write("\n$whitelist\n\n")
-		outfile.write("\n#Here lies all the anime bullshit\n\n")
-		for cardId in additionalRemovedIds:
-			outfile.write("%s -1 -- Some anime shit I don't care about\n"%cardId)
 		for card in cards:
 			cardBanlistStatus = card.get(STATUS)
-			if cardBanlistStatus < -1:
-				cardBanlistStatus = -1
-			for cardId in card.get(CARD_IDS):
-				try:
+			try:
+				if cardBanlistStatus < -1:
+					cardBanlistStatus = -1
+				for cardId in card.get(CARD_IDS):
 					outfile.write("%d %d -- %s\n" % (cardId, cardBanlistStatus, card.get(NAME)))
-				except TypeError:
-					print(card)
+			except TypeError:
+				print(card.get(NAME), flush=True)
+		outfile.write("\n\n#Here lies all the anime bullshit\n\n")
+		for cardId in additionalRemovedIds:
+			outfile.write("%s -1\n"%cardId)
 
 def dumpJson():
 	with open(jsonPath, 'w', encoding="utf-8") as file:
@@ -204,6 +209,8 @@ def applyCutOff(cards):
 			card[STATUS] = -1
 
 def generatePriceData(cards):
+	runs = jsonData.get(PREVIOUS_RUNS)
+	jsonData[PREVIOUS_RUNS] = (runs + 1)
 	for card in cards:
 		if card.get(CARD_SETS) == None:
 			continue
@@ -213,7 +220,7 @@ def generatePriceData(cards):
 		cardName = card.get(NAME)
 		images = card.get(CARD_IMAGES)
 
-		avgPrice = getPrice(card)
+		avgPrice = getCardPrice(card)
 		banTcg = getBanInfo(card)
 
 		if runs == 0:
@@ -237,26 +244,10 @@ def generatePriceData(cards):
 					entry[STATUS] = banTcg
 					break
 
-def buildEverything():
-
-	loadConstants()
-
-	runs = jsonData.get(PREVIOUS_RUNS)
-	jsonData[PREVIOUS_RUNS] = (runs + 1)
-
-	cards = getCardsFromAPI()
-
-	generatePriceData(cards)
-
-	cards = jsonData.get(DATA)
-
-	applyCutOff(cards)
-
-	buildLflist(cards)
-
+def generatePriceDifferences():
+	priceDifferences = []
 	with open(previousDataPath) as file:
 		previousPriceData = json.load(file)
-		cardDifferences = []
 		previousPrice = 0
 		newPrice = 0
 		for cardData1 in jsonData.get(DATA):
@@ -279,7 +270,7 @@ def buildEverything():
 							diffCard[STATUS] = cardData1.get(STATUS)
 							diffCard[PREVIOUS_STATUS] = cardData2.get(STATUS)
 							diffCard[PRICE] = cardData1.get(PRICE)
-							cardDifferences.append(diffCard)
+							priceDifferences.append(diffCard)
 							found = True
 					break
 			
@@ -289,18 +280,20 @@ def buildEverything():
 					diffCard[NAME] = cardData1.get(NAME)
 					diffCard[STATUS] = cardData1.get(STATUS)
 					diffCard[PREVIOUS_STATUS] = -3
-					cardDifferences.append(diffCard)
+					priceDifferences.append(diffCard)
+	return priceDifferences
 
+def buildPriceDifferencesPage(priceDifferences):
 	with open(differencesPath, 'w', encoding="utf-8") as outfile:
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
 		outfile.write("\n\nPlease keep in mind these changes are not definitive and are only based on past prices. We cannot predict the future changes in the market.")
 		outfile.write("\n\nFor a list of cards that are likely to move, go [HERE](closeprices)")
-		outfile.write("\n\nEstimated number of changes: %d"% len(cardDifferences))
+		outfile.write("\n\nEstimated number of changes: %d"% len(priceDifferences))
 		outfile.write("\n\n| Card name | Previous Status | New Status |")
 		outfile.write("\n| :-- |")
 
-		for card in sorted(cardDifferences, key=operator.itemgetter(STATUS)):
+		for card in sorted(priceDifferences, key=operator.itemgetter(STATUS)):
 			cardStatus = card.get(STATUS)
 			cardStatusAsText = getCardStatusAsString(cardStatus)
 			previousCardStatus = card.get(PREVIOUS_STATUS)
@@ -312,17 +305,20 @@ def buildEverything():
 
 		outfile.write("\n\n###### [Back home](index)")
 
-	with open(closePricesPath, 'w', encoding="utf-8") as outfile:
-		closeCards = []
-		for card in jsonData.get(DATA):
-			price = card.get(PRICE)
-			if price >= 0.47 and price <=0.60:
-				cardName = card.get(NAME)
-				a = card.get(NAME) in additionalForbidden
-				b = card.get(STATUS) == 0
-				if not (a or b):
-					closeCards.append(card)
+def generateCloseCards():
+	closeCards = []
+	for card in jsonData.get(DATA):
+		price = card.get(PRICE)
+		if price >= 0.47 and price <=0.60:
+			cardName = card.get(NAME)
+			a = card.get(NAME) in additionalForbidden
+			b = card.get(STATUS) == 0
+			if not (a or b):
+				closeCards.append(card)
+	return closeCards
 
+def buildCloseCardsPage(closeCards):
+	with open(closePricesPath, 'w', encoding="utf-8") as outfile:
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are just cards that are bordering around the $0.50 limit. They are the closest to moving on the next banlist.")
 		outfile.write("\n\n| Card name | Avg $ |")
@@ -338,39 +334,44 @@ def buildEverything():
 
 		outfile.write("\n\n###### [Back home](index)")
 
-	with open(stableHiddenSite, 'w', encoding="utf-8") as outfile:
-		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
-		outfile.write("\n\n## Disco Inferno F&L list for %s"%today.strftime("%B %Y"))
-		outfile.write("\n\n[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1DJHIE40SD25ICctEbBVulGPetKiE9kTT/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.")
-		outfile.write("\n\nThe banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists")
-		outfile.write("\n\nEDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.")
-		outfile.write("\n\n| Card name | Status |")
-		outfile.write("\n| :-- | :-- |")
+def uploadToGit():
+	if (commit):
+		subprocess.call('git add .', stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
+		subprocess.call('git commit -m \"%s\"'%formatted, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
+		subprocess.call('git push', stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
 
-		for card in sorted(cards, key=operator.itemgetter(STATUS)):
-			cardStatus = card.get(STATUS)
-			cardStatusAsText = "Unlimited"
-			if (cardStatus == -1):
-				cardStatusAsText = "Illegal"
-			elif (cardStatus == 0):
-				cardStatusAsText = "Forbidden"
-			elif (cardStatus == 1):
-				cardStatusAsText = "Limited"
-			elif (cardStatus == 2):
-				cardStatusAsText = "Semi-Limited"
+def buildEverything():
 
-			cardUrl = "https://db.ygoprodeck.com/card/?search=%s"%card.get(NAME).replace(" ", "%20").replace("&", "%26")
+	print("Loading constants...")
 
-			outfile.write("\n| [%s](%s) | %s |"%(card.get(NAME), cardUrl, cardStatusAsText))
+	loadConstants()
 
-		outfile.write("\n\n###### [Back home](index)")
+	print("Getting cards from API...", flush=True)
+	cards = getCardsFromAPI()
 
+	print("Generating price data...", flush=True)
+	generatePriceData(cards)
 
-	subprocess.call('git add .', stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
-	subprocess.call('git commit -m \"%s\"'%formatted, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
-	subprocess.call('git push', stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
+	cards = jsonData.get(DATA)
 
-	print("Executed a run", flush=True)
+	print("Applying price cutoff...", flush=True)
+	applyCutOff(cards)
+
+	print("Building lflist file...", flush=True)
+	buildLflist()
+
+	print("Building price differences page...", flush=True)
+	priceDifferences = generatePriceDifferences()
+	buildPriceDifferencesPage(priceDifferences)
+
+	print("Building close cards page...", flush=True)
+	closeCards = generateCloseCards()
+	buildCloseCardsPage(closeCards)
+
+	print("Uploading to git...", flush=True)
+	uploadToGit()
+
+	print("Done", flush=True)
 
 buildEverything()
 
