@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 321
+Estimated number of changes: 323
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -205,6 +205,8 @@ Estimated number of changes: 321
 |[Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | Unlimited |
 |[Nazuki the Vaylantz Ninja](https://db.ygoprodeck.com/card/?search=Nazuki%20the%20Vaylantz%20Ninja) | Illegal | Unlimited |
 |[Necrolancer the Time-lord](https://db.ygoprodeck.com/card/?search=Necrolancer%20the%20Time-lord) | Illegal | Unlimited |
+|[Nekroz of Areadbhair](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Areadbhair) | Illegal | Unlimited |
+|[Nekroz of Valkyrus](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Valkyrus) | Illegal | Unlimited |
 |[Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | Illegal | Unlimited |
 |[Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Illegal | Unlimited |
 |[Number 12: Crimson Shadow Armor Ninja](https://db.ygoprodeck.com/card/?search=Number%2012:%20Crimson%20Shadow%20Armor%20Ninja) | Illegal | Unlimited |
