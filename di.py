@@ -77,8 +77,6 @@ forceLegal = []
 forceIllegal = []
 additionalRemovedIds = []
 
-commit = True
-
 def getCardStatusAsString(cardStatus):
 	cardStatusAsText = "Unlimited"
 	if (cardStatus == -3):
@@ -335,10 +333,9 @@ def buildCloseCardsPage(closeCards):
 		outfile.write("\n\n###### [Back home](index)")
 
 def uploadToGit():
-	if (commit):
-		subprocess.call('git add .', stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
-		subprocess.call('git commit -m \"%s\"'%formatted, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
-		subprocess.call('git push', stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
+	subprocess.call('git add .', stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
+	subprocess.call('git commit -m \"%s\"'%formatted, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
+	subprocess.call('git push', stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
 
 def buildEverything():
 
@@ -375,8 +372,8 @@ def buildEverything():
 
 buildEverything()
 
-if commit:
-	sched = BlockingScheduler()
-	sched.daemonic = False
-	sched.add_job(buildEverything, 'interval', minutes=5)
-	sched.start()
+
+sched = BlockingScheduler()
+sched.daemonic = False
+sched.add_job(buildEverything, 'interval', minutes=5)
+sched.start()
