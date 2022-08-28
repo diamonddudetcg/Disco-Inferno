@@ -295,7 +295,7 @@ def buildEverything():
 			cardName = card.get(NAME)
 			cardUrl = getCardUrl(NAME)
 			cardStatus = card.get(STATUS)
-			if cardStatus > 0:
+			if cardStatus != 0:
 				outfile.write("\n[%s](%s) | %s |"%(cardName, cardUrl, "{:.2f}".format(cardPrice)))
 
 		outfile.write("\n\n###### [Back home](index)")

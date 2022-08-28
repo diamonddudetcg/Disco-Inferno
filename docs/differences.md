@@ -45,14 +45,14 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Blocker](https://db.ygoprodeck.com/card/?search=Blocker) | Illegal | Unlimited | 0.40 |
 |[Catapult Warrior](https://db.ygoprodeck.com/card/?search=Catapult%20Warrior) | Illegal | Unlimited | 0.21 |
 |[Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | Illegal | Unlimited | 0.35 |
-|[Cosmic Cyclone](https://db.ygoprodeck.com/card/?search=Cosmic%20Cyclone) | Illegal | Unlimited | 0.37 |
+|[Cosmic Cyclone](https://db.ygoprodeck.com/card/?search=Cosmic%20Cyclone) | Illegal | Unlimited | 0.36 |
 |[Cosmic Horror Gangi'el](https://db.ygoprodeck.com/card/?search=Cosmic%20Horror%20Gangi'el) | Illegal | Unlimited | 0.15 |
 |[Crystal Pair](https://db.ygoprodeck.com/card/?search=Crystal%20Pair) | Illegal | Unlimited | 0.24 |
 |[Cyber Angel Benten](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Benten) | Semi-Limited | Unlimited | 0.05 |
 |[Cyber Blader](https://db.ygoprodeck.com/card/?search=Cyber%20Blader) | Illegal | Unlimited | 0.15 |
 |[Cybernetic Magician](https://db.ygoprodeck.com/card/?search=Cybernetic%20Magician) | Illegal | Unlimited | 0.26 |
 |[D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | Illegal | Unlimited | 0.43 |
-|[D/D Gryphon](https://db.ygoprodeck.com/card/?search=D/D%20Gryphon) | Illegal | Unlimited | 0.47 |
+|[D/D Gryphon](https://db.ygoprodeck.com/card/?search=D/D%20Gryphon) | Illegal | Unlimited | 0.46 |
 |[D/D Savant Kepler](https://db.ygoprodeck.com/card/?search=D/D%20Savant%20Kepler) | Illegal | Unlimited | 0.17 |
 |[D/D/D Flame King Genghis](https://db.ygoprodeck.com/card/?search=D/D/D%20Flame%20King%20Genghis) | Illegal | Unlimited | 0.45 |
 |[Damage Polarizer](https://db.ygoprodeck.com/card/?search=Damage%20Polarizer) | Illegal | Unlimited | 0.46 |
@@ -125,8 +125,8 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Laundry Dragonmaid](https://db.ygoprodeck.com/card/?search=Laundry%20Dragonmaid) | Illegal | Unlimited | 0.47 |
 |[Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | Illegal | Unlimited | 0.05 |
 |[Live☆Twin Home](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Home) | Illegal | Unlimited | 0.03 |
-|[Live☆Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil) | Illegal | Unlimited | 0.01 |
-|[Live☆Twin Sunny's Snitch](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Sunny's%20Snitch) | Illegal | Unlimited | 0.01 |
+|[Live☆Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil) | Illegal | Unlimited | 0.02 |
+|[Live☆Twin Sunny's Snitch](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Sunny's%20Snitch) | Illegal | Unlimited | 0.02 |
 |[Lyrilusc - Recital Starling](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling) | Limited | Unlimited | 0.10 |
 |[Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | Illegal | Unlimited | 0.45 |
 |[Majespecter Cyclone](https://db.ygoprodeck.com/card/?search=Majespecter%20Cyclone) | Illegal | Unlimited | 0.42 |
@@ -145,7 +145,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Muko](https://db.ygoprodeck.com/card/?search=Muko) | Illegal | Unlimited | 0.03 |
 |[Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | Unlimited | 0.41 |
 |[Nazuki the Vaylantz Ninja](https://db.ygoprodeck.com/card/?search=Nazuki%20the%20Vaylantz%20Ninja) | Illegal | Unlimited | 0.08 |
-|[Necrolancer the Time-lord](https://db.ygoprodeck.com/card/?search=Necrolancer%20the%20Time-lord) | Illegal | Unlimited | 0.05 |
+|[Necrolancer the Time-lord](https://db.ygoprodeck.com/card/?search=Necrolancer%20the%20Time-lord) | Illegal | Unlimited | 0.07 |
 |[Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Illegal | Unlimited | 0.34 |
 |[Number 12: Crimson Shadow Armor Ninja](https://db.ygoprodeck.com/card/?search=Number%2012:%20Crimson%20Shadow%20Armor%20Ninja) | Illegal | Unlimited | 0.46 |
 |[Number 24: Dragulas the Vampiric Dragon](https://db.ygoprodeck.com/card/?search=Number%2024:%20Dragulas%20the%20Vampiric%20Dragon) | Illegal | Unlimited | 0.50 |
@@ -219,7 +219,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[The Unhappy Girl](https://db.ygoprodeck.com/card/?search=The%20Unhappy%20Girl) | Illegal | Unlimited | 0.43 |
 |[Time Stream](https://db.ygoprodeck.com/card/?search=Time%20Stream) | Illegal | Unlimited | 0.45 |
 |[Tin Goldfish](https://db.ygoprodeck.com/card/?search=Tin%20Goldfish) | Illegal | Unlimited | 0.40 |
-|[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited | 0.38 |
+|[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited | 0.37 |
 |[Tribute Burial](https://db.ygoprodeck.com/card/?search=Tribute%20Burial) | Illegal | Unlimited | 0.19 |
 |[Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal | Unlimited | 0.27 |
 |[Vaylantz Dominator Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20Duke) | Illegal | Unlimited | 0.08 |
