@@ -809,7 +809,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Ikelos, the Dream Mirror Sprite](https://db.ygoprodeck.com/card/?search=Ikelos,%20the%20Dream%20Mirror%20Sprite) | Illegal |
 | [Illegal Knight](https://db.ygoprodeck.com/card/?search=Illegal%20Knight) | Illegal |
 | [Illusion of Chaos](https://db.ygoprodeck.com/card/?search=Illusion%20of%20Chaos) | Illegal |
-| [Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | Illegal |
 | [Immortal Phoenix Gearfried](https://db.ygoprodeck.com/card/?search=Immortal%20Phoenix%20Gearfried) | Illegal |
 | [Impcantation Candoll](https://db.ygoprodeck.com/card/?search=Impcantation%20Candoll) | Illegal |
 | [Imperial Bower](https://db.ygoprodeck.com/card/?search=Imperial%20Bower) | Illegal |
@@ -6135,6 +6134,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Illusionist Faceless Magician](https://db.ygoprodeck.com/card/?search=Illusionist%20Faceless%20Magician) | Unlimited |
 | [Illusory Snatcher](https://db.ygoprodeck.com/card/?search=Illusory%20Snatcher) | Unlimited |
 | [Imairuka](https://db.ygoprodeck.com/card/?search=Imairuka) | Unlimited |
+| [Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | Unlimited |
 | [Immortal Dragon](https://db.ygoprodeck.com/card/?search=Immortal%20Dragon) | Unlimited |
 | [Immortal Ruler](https://db.ygoprodeck.com/card/?search=Immortal%20Ruler) | Unlimited |
 | [Impcantation Bookstone](https://db.ygoprodeck.com/card/?search=Impcantation%20Bookstone) | Unlimited |

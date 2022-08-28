@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 307
+Estimated number of changes: 308
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -148,6 +148,7 @@ Estimated number of changes: 307
 |[Grinning Grave Virus](https://db.ygoprodeck.com/card/?search=Grinning%20Grave%20Virus) | Illegal | Unlimited |
 |[Hi-Speedroid Hagoita](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Hagoita) | Illegal | Unlimited |
 |[Hojo the Vaylantz Warrior](https://db.ygoprodeck.com/card/?search=Hojo%20the%20Vaylantz%20Warrior) | Illegal | Unlimited |
+|[Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | Illegal | Unlimited |
 |[Infernity Archfiend](https://db.ygoprodeck.com/card/?search=Infernity%20Archfiend) | Limited | Unlimited |
 |[Infernity Beetle](https://db.ygoprodeck.com/card/?search=Infernity%20Beetle) | Illegal | Unlimited |
 |[Infernity Destroyer](https://db.ygoprodeck.com/card/?search=Infernity%20Destroyer) | Illegal | Unlimited |
