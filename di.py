@@ -162,11 +162,6 @@ def buildEverything():
 			tcgplayerPrice = float(cardPrices.get(TCGPLAYER_PRICE))
 			cardmarketPrice = float(cardPrices.get(CARDMARKET_PRICE))
 			avgPrice = min(tcgplayerPrice, cardmarketPrice)
-			if (cardmarketPrice + tcgplayerPrice > 2):
-				# This prevents errors like Blue-Eyes Alternative Dragon
-				avgPrice = max(tcgplayerPrice, cardmarketPrice)
-			if (isLDSColoredUltra):
-				avgPrice = min(tcgplayerPrice, cardmarketPrice)
 
 			banInfo = card.get(BANLIST_INFO)
 
