@@ -130,6 +130,8 @@ def buildEverything():
 			tcgplayerPrice = float(cardPrices.get(TCGPLAYER_PRICE))
 			cardmarketPrice = float(cardPrices.get(CARDMARKET_PRICE))
 			avgPrice = min(tcgplayerPrice, cardmarketPrice)
+			if (avgPrice == 0):
+				avgPrice = (tcgplayerPrice + cardmarketPrice)/2
 
 			banInfo = card.get(BANLIST_INFO)
 

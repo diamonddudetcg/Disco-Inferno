@@ -27,7 +27,6 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[A Cat of Ill Omen](https://db.ygoprodeck.com/card/?search=A%20Cat%20of%20Ill%20Omen) | Illegal | Unlimited |
 |[Achichi @Ignister](https://db.ygoprodeck.com/card/?search=Achichi%20@Ignister) | Illegal | Unlimited |
 |[Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | Illegal | Unlimited |
-|[Amatsu-Okami of the Divine Peaks](https://db.ygoprodeck.com/card/?search=Amatsu-Okami%20of%20the%20Divine%20Peaks) | Illegal | Unlimited |
 |[Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | Illegal | Unlimited |
 |[Ancient Gear Frame](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Frame) | Illegal | Unlimited |
 |[Ancient Gear Wyvern](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Wyvern) | Illegal | Unlimited |
@@ -107,7 +106,6 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Infernity Destroyer](https://db.ygoprodeck.com/card/?search=Infernity%20Destroyer) | Illegal | Unlimited |
 |[Inferno Tempest](https://db.ygoprodeck.com/card/?search=Inferno%20Tempest) | Illegal | Unlimited |
 |[Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | Illegal | Unlimited |
-|[Iron Knight of Revolution](https://db.ygoprodeck.com/card/?search=Iron%20Knight%20of%20Revolution) | Illegal | Unlimited |
 |[Jet Synchron](https://db.ygoprodeck.com/card/?search=Jet%20Synchron) | Limited | Unlimited |
 |[Junk Converter](https://db.ygoprodeck.com/card/?search=Junk%20Converter) | Illegal | Unlimited |
 |[Jurrac Guaiba](https://db.ygoprodeck.com/card/?search=Jurrac%20Guaiba) | Illegal | Unlimited |
@@ -184,7 +182,6 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Runick Slumber](https://db.ygoprodeck.com/card/?search=Runick%20Slumber) | Illegal | Unlimited |
 |[Runick Smiting Storm](https://db.ygoprodeck.com/card/?search=Runick%20Smiting%20Storm) | Illegal | Unlimited |
 |[Saion the Vaylantz Archer](https://db.ygoprodeck.com/card/?search=Saion%20the%20Vaylantz%20Archer) | Illegal | Unlimited |
-|[Sanctity of Dragon](https://db.ygoprodeck.com/card/?search=Sanctity%20of%20Dragon) | Illegal | Unlimited |
 |[Sanga of the Thunder](https://db.ygoprodeck.com/card/?search=Sanga%20of%20the%20Thunder) | Illegal | Unlimited |
 |[Satellite Warrior](https://db.ygoprodeck.com/card/?search=Satellite%20Warrior) | Illegal | Unlimited |
 |[Sauravis, the Ancient and Ascended](https://db.ygoprodeck.com/card/?search=Sauravis,%20the%20Ancient%20and%20Ascended) | Illegal | Unlimited |
@@ -193,7 +190,6 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Servant of Endymion](https://db.ygoprodeck.com/card/?search=Servant%20of%20Endymion) | Limited | Unlimited |
 |[Seven Swords Warrior](https://db.ygoprodeck.com/card/?search=Seven%20Swords%20Warrior) | Illegal | Unlimited |
 |[Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | Illegal | Unlimited |
-|[Shiba-Warrior Taro](https://db.ygoprodeck.com/card/?search=Shiba-Warrior%20Taro) | Illegal | Unlimited |
 |[Shien's Dojo](https://db.ygoprodeck.com/card/?search=Shien's%20Dojo) | Illegal | Unlimited |
 |[Shiranui Shogunsaga](https://db.ygoprodeck.com/card/?search=Shiranui%20Shogunsaga) | Illegal | Unlimited |
 |[Silent Burning](https://db.ygoprodeck.com/card/?search=Silent%20Burning) | Illegal | Unlimited |
@@ -214,15 +210,12 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | Illegal | Unlimited |
 |[Tardy Orc](https://db.ygoprodeck.com/card/?search=Tardy%20Orc) | Illegal | Unlimited |
 |[Tearlaments Scheiren](https://db.ygoprodeck.com/card/?search=Tearlaments%20Scheiren) | Illegal | Unlimited |
-|[Testament of the Arcane Lords](https://db.ygoprodeck.com/card/?search=Testament%20of%20the%20Arcane%20Lords) | Illegal | Unlimited |
-|[The Judgement Hand](https://db.ygoprodeck.com/card/?search=The%20Judgement%20Hand) | Illegal | Unlimited |
 |[The King of D.](https://db.ygoprodeck.com/card/?search=The%20King%20of%20D.) | Illegal | Unlimited |
 |[The Unhappy Girl](https://db.ygoprodeck.com/card/?search=The%20Unhappy%20Girl) | Illegal | Unlimited |
 |[Time Stream](https://db.ygoprodeck.com/card/?search=Time%20Stream) | Illegal | Unlimited |
 |[Tin Goldfish](https://db.ygoprodeck.com/card/?search=Tin%20Goldfish) | Illegal | Unlimited |
 |[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited |
 |[Tribute Burial](https://db.ygoprodeck.com/card/?search=Tribute%20Burial) | Illegal | Unlimited |
-|[Ulevo](https://db.ygoprodeck.com/card/?search=Ulevo) | Illegal | Unlimited |
 |[Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal | Unlimited |
 |[Vaylantz Dominator Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20Duke) | Illegal | Unlimited |
 |[Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal | Unlimited |

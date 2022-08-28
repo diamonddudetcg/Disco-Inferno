@@ -50,6 +50,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Altergeist Memorygant](https://db.ygoprodeck.com/card/?search=Altergeist%20Memorygant) | Illegal |
 | [Aluber the Jester of Despia](https://db.ygoprodeck.com/card/?search=Aluber%20the%20Jester%20of%20Despia) | Illegal |
 | [Amabie](https://db.ygoprodeck.com/card/?search=Amabie) | Illegal |
+| [Amatsu-Okami of the Divine Peaks](https://db.ygoprodeck.com/card/?search=Amatsu-Okami%20of%20the%20Divine%20Peaks) | Illegal |
 | [Amaze Attraction Horror House](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Horror%20House) | Illegal |
 | [Amazement Administrator Arlekino](https://db.ygoprodeck.com/card/?search=Amazement%20Administrator%20Arlekino) | Illegal |
 | [Amazing Time Ticket](https://db.ygoprodeck.com/card/?search=Amazing%20Time%20Ticket) | Illegal |
@@ -880,6 +881,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Invoked Mechaba](https://db.ygoprodeck.com/card/?search=Invoked%20Mechaba) | Illegal |
 | [Invoked Raidjin](https://db.ygoprodeck.com/card/?search=Invoked%20Raidjin) | Illegal |
 | [Iron Chain Dragon](https://db.ygoprodeck.com/card/?search=Iron%20Chain%20Dragon) | Illegal |
+| [Iron Knight of Revolution](https://db.ygoprodeck.com/card/?search=Iron%20Knight%20of%20Revolution) | Illegal |
 | [Isolde, Two Tales of the Noble Knights](https://db.ygoprodeck.com/card/?search=Isolde,%20Two%20Tales%20of%20the%20Noble%20Knights) | Illegal |
 | [Jester Confit](https://db.ygoprodeck.com/card/?search=Jester%20Confit) | Illegal |
 | [Jiaotu, Darkness of the Yang Zing](https://db.ygoprodeck.com/card/?search=Jiaotu,%20Darkness%20of%20the%20Yang%20Zing) | Illegal |
@@ -1465,6 +1467,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Salamangreat Spinny](https://db.ygoprodeck.com/card/?search=Salamangreat%20Spinny) | Illegal |
 | [Sales Ban](https://db.ygoprodeck.com/card/?search=Sales%20Ban) | Illegal |
 | [Samsara, Dragon of Rebirth](https://db.ygoprodeck.com/card/?search=Samsara,%20Dragon%20of%20Rebirth) | Illegal |
+| [Sanctity of Dragon](https://db.ygoprodeck.com/card/?search=Sanctity%20of%20Dragon) | Illegal |
 | [Sandaion, the Timelord](https://db.ygoprodeck.com/card/?search=Sandaion,%20the%20Timelord) | Illegal |
 | [Saqlifice](https://db.ygoprodeck.com/card/?search=Saqlifice) | Illegal |
 | [Saryuja Skull Dread](https://db.ygoprodeck.com/card/?search=Saryuja%20Skull%20Dread) | Illegal |
@@ -1499,6 +1502,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Seventh Ascension](https://db.ygoprodeck.com/card/?search=Seventh%20Ascension) | Illegal |
 | [Shaddoll Fusion](https://db.ygoprodeck.com/card/?search=Shaddoll%20Fusion) | Illegal |
 | [Shaddoll Schism](https://db.ygoprodeck.com/card/?search=Shaddoll%20Schism) | Illegal |
+| [Shiba-Warrior Taro](https://db.ygoprodeck.com/card/?search=Shiba-Warrior%20Taro) | Illegal |
 | [Shinato, King of a Higher Plane](https://db.ygoprodeck.com/card/?search=Shinato,%20King%20of%20a%20Higher%20Plane) | Illegal |
 | [Shining Friendship](https://db.ygoprodeck.com/card/?search=Shining%20Friendship) | Illegal |
 | [Shinonome the Vaylantz Priestess](https://db.ygoprodeck.com/card/?search=Shinonome%20the%20Vaylantz%20Priestess) | Illegal |
@@ -1660,6 +1664,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Tengu, the Winged Mayakashi](https://db.ygoprodeck.com/card/?search=Tengu,%20the%20Winged%20Mayakashi) | Illegal |
 | [Terrorking Archfiend](https://db.ygoprodeck.com/card/?search=Terrorking%20Archfiend) | Illegal |
 | [Test Tiger](https://db.ygoprodeck.com/card/?search=Test%20Tiger) | Illegal |
+| [Testament of the Arcane Lords](https://db.ygoprodeck.com/card/?search=Testament%20of%20the%20Arcane%20Lords) | Illegal |
 | [Testudo erat Numen](https://db.ygoprodeck.com/card/?search=Testudo%20erat%20Numen) | Illegal |
 | [That Grass Looks Greener](https://db.ygoprodeck.com/card/?search=That%20Grass%20Looks%20Greener) | Illegal |
 | [The Agent of Life - Neptune](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Life%20-%20Neptune) | Illegal |
@@ -1679,6 +1684,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [The Great Emperor Penguin](https://db.ygoprodeck.com/card/?search=The%20Great%20Emperor%20Penguin) | Illegal |
 | [The Hidden City](https://db.ygoprodeck.com/card/?search=The%20Hidden%20City) | Illegal |
 | [The Iris Swordsoul](https://db.ygoprodeck.com/card/?search=The%20Iris%20Swordsoul) | Illegal |
+| [The Judgement Hand](https://db.ygoprodeck.com/card/?search=The%20Judgement%20Hand) | Illegal |
 | [The Light - Hex-Sealed Fusion](https://db.ygoprodeck.com/card/?search=The%20Light%20-%20Hex-Sealed%20Fusion) | Illegal |
 | [The Melody of Awakening Dragon](https://db.ygoprodeck.com/card/?search=The%20Melody%20of%20Awakening%20Dragon) | Illegal |
 | [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | Illegal |
@@ -1790,6 +1796,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [UFOroid](https://db.ygoprodeck.com/card/?search=UFOroid) | Illegal |
 | [UFOroid Fighter](https://db.ygoprodeck.com/card/?search=UFOroid%20Fighter) | Illegal |
 | [Ukiyoe-P.U.N.K. Amazing Dragon](https://db.ygoprodeck.com/card/?search=Ukiyoe-P.U.N.K.%20Amazing%20Dragon) | Illegal |
+| [Ulevo](https://db.ygoprodeck.com/card/?search=Ulevo) | Illegal |
 | [Ultimate Axon Kicker](https://db.ygoprodeck.com/card/?search=Ultimate%20Axon%20Kicker) | Illegal |
 | [Ultimate Crystal Magic](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Magic) | Illegal |
 | [Ultimate Fusion](https://db.ygoprodeck.com/card/?search=Ultimate%20Fusion) | Illegal |
@@ -2235,7 +2242,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Amanokujaki](https://db.ygoprodeck.com/card/?search=Amanokujaki) | Unlimited |
 | [Amarylease](https://db.ygoprodeck.com/card/?search=Amarylease) | Unlimited |
 | [Amaterasu](https://db.ygoprodeck.com/card/?search=Amaterasu) | Unlimited |
-| [Amatsu-Okami of the Divine Peaks](https://db.ygoprodeck.com/card/?search=Amatsu-Okami%20of%20the%20Divine%20Peaks) | Unlimited |
 | [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Unlimited |
 | [Amaze Attraction Majestic Merry-Go-Round](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Majestic%20Merry-Go-Round) | Unlimited |
 | [Amaze Attraction Rapid Racing](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Rapid%20Racing) | Unlimited |
@@ -6331,7 +6337,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Iron Draw](https://db.ygoprodeck.com/card/?search=Iron%20Draw) | Unlimited |
 | [Iron Hans](https://db.ygoprodeck.com/card/?search=Iron%20Hans) | Unlimited |
 | [Iron Knight](https://db.ygoprodeck.com/card/?search=Iron%20Knight) | Unlimited |
-| [Iron Knight of Revolution](https://db.ygoprodeck.com/card/?search=Iron%20Knight%20of%20Revolution) | Unlimited |
 | [Ironhammer the Giant](https://db.ygoprodeck.com/card/?search=Ironhammer%20the%20Giant) | Unlimited |
 | [Island Turtle](https://db.ygoprodeck.com/card/?search=Island%20Turtle) | Unlimited |
 | [Isolde, Belle of the Underworld](https://db.ygoprodeck.com/card/?search=Isolde,%20Belle%20of%20the%20Underworld) | Unlimited |
@@ -9107,7 +9112,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Samurai of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Samurai%20of%20the%20Ice%20Barrier) | Unlimited |
 | [Samurai Skull](https://db.ygoprodeck.com/card/?search=Samurai%20Skull) | Unlimited |
 | [Samurai Sword Baron](https://db.ygoprodeck.com/card/?search=Samurai%20Sword%20Baron) | Unlimited |
-| [Sanctity of Dragon](https://db.ygoprodeck.com/card/?search=Sanctity%20of%20Dragon) | Unlimited |
 | [Sand Gambler](https://db.ygoprodeck.com/card/?search=Sand%20Gambler) | Unlimited |
 | [Sand Moth](https://db.ygoprodeck.com/card/?search=Sand%20Moth) | Unlimited |
 | [Sand Stone](https://db.ygoprodeck.com/card/?search=Sand%20Stone) | Unlimited |
@@ -9304,7 +9308,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Shattered Axe](https://db.ygoprodeck.com/card/?search=Shattered%20Axe) | Unlimited |
 | [Shell Knight](https://db.ygoprodeck.com/card/?search=Shell%20Knight) | Unlimited |
 | [Shelrokket Dragon](https://db.ygoprodeck.com/card/?search=Shelrokket%20Dragon) | Unlimited |
-| [Shiba-Warrior Taro](https://db.ygoprodeck.com/card/?search=Shiba-Warrior%20Taro) | Unlimited |
 | [Shield & Sword](https://db.ygoprodeck.com/card/?search=Shield%20%26%20Sword) | Unlimited |
 | [Shield Crush](https://db.ygoprodeck.com/card/?search=Shield%20Crush) | Unlimited |
 | [Shield Handler](https://db.ygoprodeck.com/card/?search=Shield%20Handler) | Unlimited |
@@ -10222,7 +10225,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Terrors of the Underroot](https://db.ygoprodeck.com/card/?search=Terrors%20of%20the%20Underroot) | Unlimited |
 | [Test Ape](https://db.ygoprodeck.com/card/?search=Test%20Ape) | Unlimited |
 | [Test Panther](https://db.ygoprodeck.com/card/?search=Test%20Panther) | Unlimited |
-| [Testament of the Arcane Lords](https://db.ygoprodeck.com/card/?search=Testament%20of%20the%20Arcane%20Lords) | Unlimited |
 | [Tethys, Goddess of Light](https://db.ygoprodeck.com/card/?search=Tethys,%20Goddess%20of%20Light) | Unlimited |
 | [Teva](https://db.ygoprodeck.com/card/?search=Teva) | Unlimited |
 | [Texchanger](https://db.ygoprodeck.com/card/?search=Texchanger) | Unlimited |
@@ -10313,7 +10315,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [The Immortal Bushi](https://db.ygoprodeck.com/card/?search=The%20Immortal%20Bushi) | Unlimited |
 | [The Immortal of Thunder](https://db.ygoprodeck.com/card/?search=The%20Immortal%20of%20Thunder) | Unlimited |
 | [The Inexperienced Spy](https://db.ygoprodeck.com/card/?search=The%20Inexperienced%20Spy) | Unlimited |
-| [The Judgement Hand](https://db.ygoprodeck.com/card/?search=The%20Judgement%20Hand) | Unlimited |
 | [The Kaiju Files](https://db.ygoprodeck.com/card/?search=The%20Kaiju%20Files) | Unlimited |
 | [The Kick Man](https://db.ygoprodeck.com/card/?search=The%20Kick%20Man) | Unlimited |
 | [The King of D.](https://db.ygoprodeck.com/card/?search=The%20King%20of%20D.) | Unlimited |
@@ -10757,7 +10758,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [UFO Turtle](https://db.ygoprodeck.com/card/?search=UFO%20Turtle) | Unlimited |
 | [Ukiyoe-P.U.N.K. Rising Carp](https://db.ygoprodeck.com/card/?search=Ukiyoe-P.U.N.K.%20Rising%20Carp) | Unlimited |
 | [Ukiyoe-P.U.N.K. Sharakusai](https://db.ygoprodeck.com/card/?search=Ukiyoe-P.U.N.K.%20Sharakusai) | Unlimited |
-| [Ulevo](https://db.ygoprodeck.com/card/?search=Ulevo) | Unlimited |
 | [Ultimate Ancient Gear Golem](https://db.ygoprodeck.com/card/?search=Ultimate%20Ancient%20Gear%20Golem) | Unlimited |
 | [Ultimate Baseball Kid](https://db.ygoprodeck.com/card/?search=Ultimate%20Baseball%20Kid) | Unlimited |
 | [Ultimate Conductor Tyranno](https://db.ygoprodeck.com/card/?search=Ultimate%20Conductor%20Tyranno) | Unlimited |
