@@ -228,6 +228,8 @@ def buildEverything():
 
 	with open(differencesPath, 'w', encoding="utf-8") as outfile:
 		cardDifferences = []
+		previousPrice = 0
+		newPrice = 0
 		for cardData1 in jsonData.get(DATA):
 			found = False
 			
@@ -235,6 +237,8 @@ def buildEverything():
 				if (cardData1.get(NAME) == cardData2.get(NAME)):
 					previousStatus = cardData2.get(STATUS)
 					currentStatus = cardData1.get(STATUS)
+					previousPrice += cardData2.get(PRICE)
+					newPrice += cardData1.get(PRICE)
 					if (previousStatus < 0):
 						previousStatus = -1
 					if (currentStatus < 0):
@@ -257,6 +261,16 @@ def buildEverything():
 					diffCard[STATUS] = cardData1.get(STATUS)
 					diffCard[PREVIOUS_STATUS] = -3
 
+		ratio = newPrice / previousPrice
+
+		if ratio > 1:
+			ratio-=1
+			print("Average card price went up by %.2f"%(ratio * 100), flush=True)
+		elif ratio == 1:
+			print("Average card price stayed exactly the same", flush=True)
+		elif ratio < 1:
+			ratio = 1 - ratio
+			print("Average card price went down by %.2f"%(ratio * 100), flush=True)
 
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
