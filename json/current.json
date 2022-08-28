@@ -1,5 +1,5 @@
 {
-    "previousRuns": 35,
+    "previousRuns": 36,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -2040,7 +2040,7 @@
             "ids": [
                 662855
             ],
-            "price": 22.12,
+            "price": 22.2,
             "status": -1
         },
         {
@@ -4162,7 +4162,7 @@
             "ids": [
                 75730490
             ],
-            "price": 7.32,
+            "price": 7.35,
             "status": -1
         },
         {
@@ -4170,7 +4170,7 @@
             "ids": [
                 1225009
             ],
-            "price": 8.85,
+            "price": 8.88,
             "status": -1
         },
         {
@@ -4594,8 +4594,8 @@
             "ids": [
                 5050644
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Aroma Gardening",
@@ -17169,8 +17169,8 @@
             "ids": [
                 72402069
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "D/D/D Super Doom King Dark Armageddon",
@@ -17457,8 +17457,8 @@
             "ids": [
                 16209941
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Danger! Disturbance! Disorder!",
@@ -34092,8 +34092,8 @@
             "ids": [
                 67111213
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Gishki Aquamirror",
@@ -39407,7 +39407,7 @@
             "ids": [
                 55990317
             ],
-            "price": 12.38,
+            "price": 12.42,
             "status": -1
         },
         {
@@ -41864,7 +41864,7 @@
             "ids": [
                 662857
             ],
-            "price": 8.87,
+            "price": 8.9,
             "status": -1
         },
         {
@@ -45216,8 +45216,8 @@
             "ids": [
                 88851326
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Legacy of Yata-Garasu",
@@ -46753,7 +46753,7 @@
             "ids": [
                 2347656
             ],
-            "price": 5.47,
+            "price": 5.49,
             "status": -1
         },
         {
@@ -49289,7 +49289,7 @@
             "ids": [
                 40680521
             ],
-            "price": 2.21,
+            "price": 2.22,
             "status": -1
         },
         {
@@ -49889,8 +49889,8 @@
             "ids": [
                 59642500
             ],
-            "price": 0.54,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Masked HERO Blast",
@@ -52723,8 +52723,8 @@
             "ids": [
                 29587993
             ],
-            "price": 0.54,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Mist Valley Baby Roc",
@@ -57176,8 +57176,8 @@
             "ids": [
                 28400508
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Number 98: Antitopian",
@@ -57192,8 +57192,8 @@
             "ids": [
                 95134948
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Number 99: Utopic Dragon",
@@ -64539,8 +64539,8 @@
             "ids": [
                 51814159
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Raidraptor - Nest",
@@ -68140,7 +68140,7 @@
             "ids": [
                 92107604
             ],
-            "price": 15.16,
+            "price": 15.21,
             "status": -1
         },
         {
@@ -68180,7 +68180,7 @@
             "ids": [
                 31562086
             ],
-            "price": 12.16,
+            "price": 12.2,
             "status": -1
         },
         {
@@ -69045,7 +69045,7 @@
             "ids": [
                 662853
             ],
-            "price": 13.68,
+            "price": 13.73,
             "status": -1
         },
         {
@@ -70910,7 +70910,7 @@
             "ids": [
                 27416701
             ],
-            "price": 27.21,
+            "price": 27.31,
             "status": -1
         },
         {
@@ -71246,7 +71246,7 @@
             "ids": [
                 49131917
             ],
-            "price": 2.21,
+            "price": 2.22,
             "status": -1
         },
         {
@@ -75676,8 +75676,8 @@
             "ids": [
                 90835938
             ],
-            "price": 0.55,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Starship Spy Plane",
@@ -75765,8 +75765,8 @@
             "ids": [
                 94942656
             ],
-            "price": 0.54,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Stealthroid",
@@ -77336,8 +77336,8 @@
             "ids": [
                 56910167
             ],
-            "price": 0.54,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Superdreadnought Rail Cannon Juggernaut Liebe",
@@ -79649,7 +79649,7 @@
             "ids": [
                 501000004
             ],
-            "price": 218.06,
+            "price": 218.84,
             "status": -1
         },
         {
@@ -80530,7 +80530,7 @@
             "ids": [
                 28003512
             ],
-            "price": 4.45,
+            "price": 4.47,
             "status": -1
         },
         {
@@ -82606,8 +82606,8 @@
             "ids": [
                 83629030
             ],
-            "price": 0.54,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Toon Dark Magician",
@@ -85010,7 +85010,7 @@
             "ids": [
                 501000000
             ],
-            "price": 88.58,
+            "price": 88.9,
             "status": -1
         },
         {
@@ -86499,7 +86499,7 @@
             "ids": [
                 13179234
             ],
-            "price": 2.21,
+            "price": 2.22,
             "status": -1
         },
         {
@@ -88526,7 +88526,7 @@
             "ids": [
                 5380979
             ],
-            "price": 6.63,
+            "price": 6.65,
             "status": -1
         },
         {
