@@ -25,7 +25,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Abyss Shark](https://db.ygoprodeck.com/card/?search=Abyss%20Shark) | Illegal |
 | [Abyss Soldier](https://db.ygoprodeck.com/card/?search=Abyss%20Soldier) | Illegal |
 | [Abyss-sphere](https://db.ygoprodeck.com/card/?search=Abyss-sphere) | Illegal |
-| [Abyss-squall](https://db.ygoprodeck.com/card/?search=Abyss-squall) | Illegal |
 | [Accesscode Talker](https://db.ygoprodeck.com/card/?search=Accesscode%20Talker) | Illegal |
 | [Adreus, Keeper of Armageddon](https://db.ygoprodeck.com/card/?search=Adreus,%20Keeper%20of%20Armageddon) | Illegal |
 | [Alba-Lenatus the Abyss Dragon](https://db.ygoprodeck.com/card/?search=Alba-Lenatus%20the%20Abyss%20Dragon) | Illegal |
@@ -1452,7 +1451,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Skill Drain](https://db.ygoprodeck.com/card/?search=Skill%20Drain) | Illegal |
 | [Skull Flame](https://db.ygoprodeck.com/card/?search=Skull%20Flame) | Illegal |
 | [Skull Guardian](https://db.ygoprodeck.com/card/?search=Skull%20Guardian) | Illegal |
-| [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | Illegal |
 | [Skull Stalker](https://db.ygoprodeck.com/card/?search=Skull%20Stalker) | Illegal |
 | [Skullbird](https://db.ygoprodeck.com/card/?search=Skullbird) | Illegal |
 | [Sky Dragon](https://db.ygoprodeck.com/card/?search=Sky%20Dragon) | Illegal |
@@ -2023,6 +2021,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Abyss-scale of the Kraken](https://db.ygoprodeck.com/card/?search=Abyss-scale%20of%20the%20Kraken) | Unlimited |
 | [Abyss-scale of the Mizuchi](https://db.ygoprodeck.com/card/?search=Abyss-scale%20of%20the%20Mizuchi) | Unlimited |
 | [Abyss-scorn](https://db.ygoprodeck.com/card/?search=Abyss-scorn) | Unlimited |
+| [Abyss-squall](https://db.ygoprodeck.com/card/?search=Abyss-squall) | Unlimited |
 | [Abyss-strom](https://db.ygoprodeck.com/card/?search=Abyss-strom) | Unlimited |
 | [Abyssal Designator](https://db.ygoprodeck.com/card/?search=Abyssal%20Designator) | Unlimited |
 | [Abyssal Kingshark](https://db.ygoprodeck.com/card/?search=Abyssal%20Kingshark) | Unlimited |
@@ -9446,6 +9445,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Skull Kraken](https://db.ygoprodeck.com/card/?search=Skull%20Kraken) | Unlimited |
 | [Skull Lair](https://db.ygoprodeck.com/card/?search=Skull%20Lair) | Unlimited |
 | [Skull Mariner](https://db.ygoprodeck.com/card/?search=Skull%20Mariner) | Unlimited |
+| [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | Unlimited |
 | [Skull Red Bird](https://db.ygoprodeck.com/card/?search=Skull%20Red%20Bird) | Unlimited |
 | [Skull Servant](https://db.ygoprodeck.com/card/?search=Skull%20Servant) | Unlimited |
 | [Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | Unlimited |
