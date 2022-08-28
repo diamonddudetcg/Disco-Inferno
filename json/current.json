@@ -1,5 +1,5 @@
 {
-    "previousRuns": 140,
+    "previousRuns": 141,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -55681,9 +55681,9 @@
             "ids": [
                 43735670
             ],
-            "price": 1.46,
+            "price": 1.45,
             "status": -1,
-            "last_price": 1.46
+            "last_price": 0.46
         },
         {
             "name": "Marincess Blue Tang",
