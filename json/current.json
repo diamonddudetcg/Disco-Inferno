@@ -1,5 +1,5 @@
 {
-    "previousRuns": 104,
+    "previousRuns": 105,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -2040,7 +2040,7 @@
             "ids": [
                 662855
             ],
-            "price": 23.98,
+            "price": 23.99,
             "status": -1
         },
         {
@@ -3337,7 +3337,7 @@
                 97120394
             ],
             "price": 0.59,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Anti-Magic Prism",
@@ -3955,7 +3955,7 @@
                 57624336
             ],
             "price": 0.59,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Archfiend Emperor, the First Lord of Horror",
@@ -5244,7 +5244,7 @@
                 74311226
             ],
             "price": 0.58,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Atlantean Heavy Infantry",
@@ -26304,7 +26304,7 @@
                 11877465
             ],
             "price": 0.72,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Evigishki Soul Ogre",
@@ -26312,7 +26312,7 @@
                 57272170
             ],
             "price": 0.6,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Evigishki Tetrogre",
@@ -29058,7 +29058,7 @@
                 99267150,
                 99267151
             ],
-            "price": 1.13,
+            "price": 1.12,
             "status": 3
         },
         {
@@ -34101,7 +34101,7 @@
                 46159582
             ],
             "price": 0.75,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Gishki Ariel",
@@ -58999,7 +58999,7 @@
                 41782653
             ],
             "price": 0.56,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Overwhelm",
@@ -68140,7 +68140,7 @@
             "ids": [
                 92107604
             ],
-            "price": 16.47,
+            "price": 16.48,
             "status": -1
         },
         {
@@ -69045,7 +69045,7 @@
             "ids": [
                 662853
             ],
-            "price": 14.9,
+            "price": 14.91,
             "status": -1
         },
         {
@@ -70910,7 +70910,7 @@
             "ids": [
                 27416701
             ],
-            "price": 29.52,
+            "price": 29.53,
             "status": -1
         },
         {
@@ -79649,7 +79649,7 @@
             "ids": [
                 501000004
             ],
-            "price": 236.74,
+            "price": 236.83,
             "status": -1
         },
         {
@@ -85010,7 +85010,7 @@
             "ids": [
                 501000000
             ],
-            "price": 96.16,
+            "price": 96.2,
             "status": -1
         },
         {
