@@ -200,15 +200,21 @@ def dumpJson():
 		json.dump(jsonData, file, indent=4)
 
 def applyCutOff(cards):
+	print("\n")
 	for card in cards:
 		cardName = card.get(NAME)
-		if card[PRICE] > cutoffPoint:
+		cardPrice = card.get(PRICE)
+		cardLastPrice = card.get(LAST_PRICE)
+		if cardPrice > cutoffPoint:
 			card[STATUS] = -1
 		if cardName in forceIllegal:
 			card[STATUS] = -1
-		if card[LAST_PRICE] <= cutoffPoint:
-			if card[PRICE] > cutoffPoint:
-				print("%s is going down"%card[NAME]) 
+		if cardLastPrice <= cutoffPoint:
+			if cardPrice > cutoffPoint:
+				p1 = "{:.2f}".format(cardPrice)
+				p2 = "{:.2f}".format(cardLastPrice)
+				print("%s is going down from %s to %s"%(card[NAME], p1, p2), flush=True) 
+	print("\n")
 
 def generatePriceData(cards):
 	runs = jsonData.get(PREVIOUS_RUNS)
