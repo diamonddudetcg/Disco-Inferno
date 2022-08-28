@@ -9,12 +9,6 @@ Please keep in mind these changes are not definitive and are only based on past 
 | Card name | Previous Status | New Status |
 | :-- | :-- | :-- |
 |[Amorphactor Pain, the Imagination Dracoverlord](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) | Unlimited | Forbidden |
-|[Ancient Fairy Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Fairy%20Dragon) | Illegal | Forbidden |
-|[Number S0: Utopic ZEXAL](https://db.ygoprodeck.com/card/?search=Number%20S0:%20Utopic%20ZEXAL) | Illegal | Forbidden |
-|[Outer Entity Azathot](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Azathot) | Illegal | Forbidden |
-|[Pot of Greed](https://db.ygoprodeck.com/card/?search=Pot%20of%20Greed) | Illegal | Forbidden |
-|[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Illegal | Forbidden |
-|[Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | Illegal | Forbidden |
 |[Astrograph Sorcerer](https://db.ygoprodeck.com/card/?search=Astrograph%20Sorcerer) | Illegal | Limited |
 |[Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | Illegal | Limited |
 |[Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Illegal | Limited |

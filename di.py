@@ -234,13 +234,14 @@ def buildEverything():
 						previousStatus = -1
 					if (currentStatus < 0):
 						currentStatus = -1
-					if (previousStatus != currentStatus):
-						diffCard = {}
-						diffCard[NAME] = cardData1.get(NAME)
-						diffCard[STATUS] = cardData1.get(STATUS)
-						diffCard[PREVIOUS_STATUS] = cardData2.get(STATUS)
-						cardDifferences.append(diffCard)
-						found = True
+					if (previousStatus > 0 or currentStatus > 0):
+						if (previousStatus != currentStatus):
+							diffCard = {}
+							diffCard[NAME] = cardData1.get(NAME)
+							diffCard[STATUS] = cardData1.get(STATUS)
+							diffCard[PREVIOUS_STATUS] = cardData2.get(STATUS)
+							cardDifferences.append(diffCard)
+							found = True
 					break
 			
 			if not found:
