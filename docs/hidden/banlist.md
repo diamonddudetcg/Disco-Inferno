@@ -438,7 +438,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Destroyersaurus](https://db.ygoprodeck.com/card/?search=Destroyersaurus) | Illegal |
 | [Dharc the Dark Charmer, Gloomy](https://db.ygoprodeck.com/card/?search=Dharc%20the%20Dark%20Charmer,%20Gloomy) | Illegal |
 | [Dharma Cannon](https://db.ygoprodeck.com/card/?search=Dharma%20Cannon) | Illegal |
-| [Diamond Dire Wolf](https://db.ygoprodeck.com/card/?search=Diamond%20Dire%20Wolf) | Illegal |
 | [Dice Jar](https://db.ygoprodeck.com/card/?search=Dice%20Jar) | Illegal |
 | [Dictator of D.](https://db.ygoprodeck.com/card/?search=Dictator%20of%20D.) | Illegal |
 | [Dig Beak](https://db.ygoprodeck.com/card/?search=Dig%20Beak) | Illegal |
@@ -1170,7 +1169,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Neptabyss, the Atlantean Prince](https://db.ygoprodeck.com/card/?search=Neptabyss,%20the%20Atlantean%20Prince) | Illegal |
 | [Nibiru, the Primal Being](https://db.ygoprodeck.com/card/?search=Nibiru,%20the%20Primal%20Being) | Illegal |
 | [Nimble Angler](https://db.ygoprodeck.com/card/?search=Nimble%20Angler) | Illegal |
-| [Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | Illegal |
 | [Nimble Sunfish](https://db.ygoprodeck.com/card/?search=Nimble%20Sunfish) | Illegal |
 | [Ningirsu the World Chalice Warrior](https://db.ygoprodeck.com/card/?search=Ningirsu%20the%20World%20Chalice%20Warrior) | Illegal |
 | [Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | Illegal |
@@ -1564,7 +1562,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [SPYRAL Double Helix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Double%20Helix) | Illegal |
 | [Star Eater](https://db.ygoprodeck.com/card/?search=Star%20Eater) | Illegal |
 | [Stardust Charge Warrior](https://db.ygoprodeck.com/card/?search=Stardust%20Charge%20Warrior) | Illegal |
-| [Stardust Chronicle Spark Dragon](https://db.ygoprodeck.com/card/?search=Stardust%20Chronicle%20Spark%20Dragon) | Illegal |
 | [Stardust Illumination](https://db.ygoprodeck.com/card/?search=Stardust%20Illumination) | Illegal |
 | [Stardust Shimmer](https://db.ygoprodeck.com/card/?search=Stardust%20Shimmer) | Illegal |
 | [Stardust Sifr Divine Dragon](https://db.ygoprodeck.com/card/?search=Stardust%20Sifr%20Divine%20Dragon) | Illegal |
@@ -1841,7 +1838,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Wattchimera](https://db.ygoprodeck.com/card/?search=Wattchimera) | Illegal |
 | [Wave-Motion Inferno](https://db.ygoprodeck.com/card/?search=Wave-Motion%20Inferno) | Illegal |
 | [Welcome Labrynth](https://db.ygoprodeck.com/card/?search=Welcome%20Labrynth) | Illegal |
-| [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Illegal |
 | [White Aura Dolphin](https://db.ygoprodeck.com/card/?search=White%20Aura%20Dolphin) | Illegal |
 | [White Aura Whale](https://db.ygoprodeck.com/card/?search=White%20Aura%20Whale) | Illegal |
 | [White Knight of Dogmatika](https://db.ygoprodeck.com/card/?search=White%20Knight%20of%20Dogmatika) | Illegal |
@@ -4121,6 +4117,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Diabolos, King of the Abyss](https://db.ygoprodeck.com/card/?search=Diabolos,%20King%20of%20the%20Abyss) | Unlimited |
 | [Diabound Kernel](https://db.ygoprodeck.com/card/?search=Diabound%20Kernel) | Unlimited |
 | [Diamond Core of Koa'ki Meiru](https://db.ygoprodeck.com/card/?search=Diamond%20Core%20of%20Koa'ki%20Meiru) | Unlimited |
+| [Diamond Dire Wolf](https://db.ygoprodeck.com/card/?search=Diamond%20Dire%20Wolf) | Unlimited |
 | [Diamond Dust](https://db.ygoprodeck.com/card/?search=Diamond%20Dust) | Unlimited |
 | [Diamond Duston](https://db.ygoprodeck.com/card/?search=Diamond%20Duston) | Unlimited |
 | [Diamond-Dust Cyclone](https://db.ygoprodeck.com/card/?search=Diamond-Dust%20Cyclone) | Unlimited |
@@ -7742,6 +7739,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Nightmare's Steelcage](https://db.ygoprodeck.com/card/?search=Nightmare's%20Steelcage) | Unlimited |
 | [Nightmell the Dark Bonder](https://db.ygoprodeck.com/card/?search=Nightmell%20the%20Dark%20Bonder) | Unlimited |
 | [Nikitama](https://db.ygoprodeck.com/card/?search=Nikitama) | Unlimited |
+| [Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | Unlimited |
 | [Nimble Manta](https://db.ygoprodeck.com/card/?search=Nimble%20Manta) | Unlimited |
 | [Nimble Momonga](https://db.ygoprodeck.com/card/?search=Nimble%20Momonga) | Unlimited |
 | [Nimble Musasabi](https://db.ygoprodeck.com/card/?search=Nimble%20Musasabi) | Unlimited |
@@ -9779,6 +9777,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Star Siphon](https://db.ygoprodeck.com/card/?search=Star%20Siphon) | Unlimited |
 | [Star Staring Starling](https://db.ygoprodeck.com/card/?search=Star%20Staring%20Starling) | Unlimited |
 | [Stardust Assault Warrior](https://db.ygoprodeck.com/card/?search=Stardust%20Assault%20Warrior) | Unlimited |
+| [Stardust Chronicle Spark Dragon](https://db.ygoprodeck.com/card/?search=Stardust%20Chronicle%20Spark%20Dragon) | Unlimited |
 | [Stardust Dragon](https://db.ygoprodeck.com/card/?search=Stardust%20Dragon) | Unlimited |
 | [Stardust Dragon/Assault Mode](https://db.ygoprodeck.com/card/?search=Stardust%20Dragon/Assault%20Mode) | Unlimited |
 | [Stardust Flash](https://db.ygoprodeck.com/card/?search=Stardust%20Flash) | Unlimited |
@@ -11139,6 +11138,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Whirlwind of Gusto](https://db.ygoprodeck.com/card/?search=Whirlwind%20of%20Gusto) | Unlimited |
 | [Whirlwind Prodigy](https://db.ygoprodeck.com/card/?search=Whirlwind%20Prodigy) | Unlimited |
 | [Whirlwind Weasel](https://db.ygoprodeck.com/card/?search=Whirlwind%20Weasel) | Unlimited |
+| [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Unlimited |
 | [White Aura Monoceros](https://db.ygoprodeck.com/card/?search=White%20Aura%20Monoceros) | Unlimited |
 | [White Dragon Ninja](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Ninja) | Unlimited |
 | [White Dragon Ritual](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Ritual) | Unlimited |

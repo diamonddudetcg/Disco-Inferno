@@ -67,6 +67,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Dark Spirit Art - Greed](https://db.ygoprodeck.com/card/?search=Dark%20Spirit%20Art%20-%20Greed) | Illegal | Unlimited | 0.23 |
 |[Destruction Jammer](https://db.ygoprodeck.com/card/?search=Destruction%20Jammer) | Illegal | Unlimited | 0.42 |
 |[Destruction Sword Memories](https://db.ygoprodeck.com/card/?search=Destruction%20Sword%20Memories) | Illegal | Unlimited | 0.30 |
+|[Diamond Dire Wolf](https://db.ygoprodeck.com/card/?search=Diamond%20Dire%20Wolf) | Illegal | Unlimited | 0.25 |
 |[Diamond Dust](https://db.ygoprodeck.com/card/?search=Diamond%20Dust) | Illegal | Unlimited | 0.41 |
 |[Dinomight Knight, the True Dracofighter](https://db.ygoprodeck.com/card/?search=Dinomight%20Knight,%20the%20True%20Dracofighter) | Semi-Limited | Unlimited | 0.28 |
 |[Divine Dragon - Excelion](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20-%20Excelion) | Illegal | Unlimited | 0.39 |
@@ -159,6 +160,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | Unlimited | 0.41 |
 |[Nazuki the Vaylantz Ninja](https://db.ygoprodeck.com/card/?search=Nazuki%20the%20Vaylantz%20Ninja) | Illegal | Unlimited | 0.08 |
 |[Necrolancer the Time-lord](https://db.ygoprodeck.com/card/?search=Necrolancer%20the%20Time-lord) | Illegal | Unlimited | 0.25 |
+|[Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | Illegal | Unlimited | 0.25 |
 |[Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Illegal | Unlimited | 0.34 |
 |[Number 12: Crimson Shadow Armor Ninja](https://db.ygoprodeck.com/card/?search=Number%2012:%20Crimson%20Shadow%20Armor%20Ninja) | Illegal | Unlimited | 0.46 |
 |[Number 24: Dragulas the Vampiric Dragon](https://db.ygoprodeck.com/card/?search=Number%2024:%20Dragulas%20the%20Vampiric%20Dragon) | Illegal | Unlimited | 0.50 |
@@ -222,6 +224,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Spiritualism](https://db.ygoprodeck.com/card/?search=Spiritualism) | Illegal | Unlimited | 0.44 |
 |[SPYRAL Quik-Fix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Quik-Fix) | Limited | Unlimited | 0.16 |
 |[SPYRAL Resort](https://db.ygoprodeck.com/card/?search=SPYRAL%20Resort) | Limited | Unlimited | 0.29 |
+|[Stardust Chronicle Spark Dragon](https://db.ygoprodeck.com/card/?search=Stardust%20Chronicle%20Spark%20Dragon) | Illegal | Unlimited | 0.25 |
 |[Starliege Lord Galaxion](https://db.ygoprodeck.com/card/?search=Starliege%20Lord%20Galaxion) | Illegal | Unlimited | 0.27 |
 |[Stone Armadiller](https://db.ygoprodeck.com/card/?search=Stone%20Armadiller) | Illegal | Unlimited | 0.46 |
 |[Suijin](https://db.ygoprodeck.com/card/?search=Suijin) | Illegal | Unlimited | 0.11 |
@@ -251,6 +254,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Illegal | Unlimited | 0.47 |
 |[Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | Illegal | Unlimited | 0.40 |
 |[Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | Illegal | Unlimited | 0.25 |
+|[White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Illegal | Unlimited | 0.25 |
 |[Winged Kuriboh LV10](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10) | Illegal | Unlimited | 0.45 |
 |[Witchcrafter Pittore](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Pittore) | Illegal | Unlimited | 0.50 |
 |[Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | Illegal | Unlimited | 0.50 |
