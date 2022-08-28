@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 320
+Estimated number of changes: 321
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -124,6 +124,7 @@ Estimated number of changes: 320
 |[Farewelcome Labrynth](https://db.ygoprodeck.com/card/?search=Farewelcome%20Labrynth) | Illegal | Unlimited |
 |[Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Semi-Limited | Unlimited |
 |[Firewall Dragon](https://db.ygoprodeck.com/card/?search=Firewall%20Dragon) | Illegal | Unlimited |
+|[Five-Headed Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Dragon) | Illegal | Unlimited |
 |[Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | Illegal | Unlimited |
 |[Formula Synchron](https://db.ygoprodeck.com/card/?search=Formula%20Synchron) | Illegal | Unlimited |
 |[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgios) | Illegal | Unlimited |
