@@ -354,6 +354,9 @@ def buildEverything():
 	print("Applying price cutoff...", flush=True)
 	applyCutOff(cards)
 
+	print("Dumping json file...", flush=True)
+	dumpJson()
+
 	print("Building lflist file...", flush=True)
 	buildLflist()
 
