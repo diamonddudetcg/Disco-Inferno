@@ -1,4 +1,4 @@
-import urllib.request, json, operator, os, time, datetime
+import urllib.request, json, operator, os, time, datetime, random
 from os.path import exists
 from datetime import date
 from apscheduler.schedulers.background import BlockingScheduler
@@ -134,6 +134,9 @@ def buildEverything():
 			if (avgPrice == 0):
 				avgPrice = (tcgplayerPrice + cardmarketPrice)/2
 
+			if cardName in forceLegal:
+				avgPrice = random.uniform(0.01, 0.49)
+
 			banInfo = card.get(BANLIST_INFO)
 
 			banTcg = 3
@@ -195,8 +198,6 @@ def buildEverything():
 		if card[PRICE] > cutoffPoint:
 			if not cardName in forceLegal:
 				card[STATUS] = -1
-			else:
-				card[PRICE] = cutoffPoint/2
 		if cardName in forceIllegal:
 			card[STATUS] = -1
 
@@ -295,7 +296,7 @@ def buildEverything():
 			cardUrl = getCardUrl(NAME)
 
 			outfile.write("\n[%s](%s] | %s |"%(cardName, cardUrl, "{:.2f}".format(cardPrice)))
-		
+
 		outfile.write("\n\n###### [Back home](index)")
 
 	with open(ongoingBanlistSite, 'w', encoding="utf-8") as outfile:

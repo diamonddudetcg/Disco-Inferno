@@ -120,6 +120,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Battlewasp - Sting the Poison](https://db.ygoprodeck.com/card/?search=name] | 0.49 |
 [Bi'an, Earth of the Yang Zing](https://db.ygoprodeck.com/card/?search=name] | 0.49 |
 [Blue-Eyes Toon Dragon](https://db.ygoprodeck.com/card/?search=name] | 0.49 |
+[D/D Gryphon](https://db.ygoprodeck.com/card/?search=name] | 0.49 |
 [Dark Room of Nightmare](https://db.ygoprodeck.com/card/?search=name] | 0.49 |
 [Garuda the Wind Spirit](https://db.ygoprodeck.com/card/?search=name] | 0.49 |
 [Gateway to Chaos](https://db.ygoprodeck.com/card/?search=name] | 0.49 |
@@ -140,7 +141,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Ancient Fairy Dragon](https://db.ygoprodeck.com/card/?search=name] | 0.50 |
 [Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=name] | 0.50 |
 [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=name] | 0.50 |
-[D/D Gryphon](https://db.ygoprodeck.com/card/?search=name] | 0.50 |
 [Daigusto Eguls](https://db.ygoprodeck.com/card/?search=name] | 0.50 |
 [Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=name] | 0.50 |
 [Elemental HERO Knospe](https://db.ygoprodeck.com/card/?search=name] | 0.50 |
