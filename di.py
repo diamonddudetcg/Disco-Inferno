@@ -1,7 +1,7 @@
 import urllib.request, json, operator, os, time, datetime, random
 from os.path import exists
 from datetime import date
-from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.schedulers.background import BlockingScheduler
 import sys
 import subprocess
 sys.stdout.reconfigure(encoding='utf-8')
@@ -376,7 +376,7 @@ def buildEverything():
 buildEverything()
 
 if commit:
-	sched = BackgroundScheduler()
+	sched = BlockingScheduler()
 	sched.daemonic = False
 	sched.add_job(buildEverything, 'interval', minutes=5)
 	sched.start()
