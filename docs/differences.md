@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 269
+Estimated number of changes: 271
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -236,6 +236,7 @@ Estimated number of changes: 269
 |[Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | Illegal | Unlimited |
 |[Sky Striker Mecha Modules - Multirole](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20Modules%20-%20Multirole) | Limited | Unlimited |
 |[Slash Draw](https://db.ygoprodeck.com/card/?search=Slash%20Draw) | Limited | Unlimited |
+|[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Illegal | Unlimited |
 |[Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | Illegal | Unlimited |
 |[Spiritualism](https://db.ygoprodeck.com/card/?search=Spiritualism) | Illegal | Unlimited |
 |[SPYRAL Quik-Fix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Quik-Fix) | Limited | Unlimited |
@@ -260,6 +261,7 @@ Estimated number of changes: 269
 |[Toon Cyber Dragon](https://db.ygoprodeck.com/card/?search=Toon%20Cyber%20Dragon) | Illegal | Unlimited |
 |[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited |
 |[Tribute Burial](https://db.ygoprodeck.com/card/?search=Tribute%20Burial) | Illegal | Unlimited |
+|[Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Illegal | Unlimited |
 |[Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal | Unlimited |
 |[Vaylantz Dominator Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20Duke) | Illegal | Unlimited |
 |[Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal | Unlimited |

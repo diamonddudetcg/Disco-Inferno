@@ -297,7 +297,11 @@ def buildEverything():
 		for card in jsonData.get(DATA):
 			price = card.get(PRICE)
 			if price >= 0.40 and price <=0.60:
-				closeCards.append(card)
+				cardName = card.get(NAME)
+				a = card.get(NAME) in additionalForbidden
+				b = card.get(STATUS) == 0
+				if not (a or b):
+					closeCards.append(card)
 
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are just cards that are bordering around the $0.50 limit. They are the closest to moving on the next banlist.")

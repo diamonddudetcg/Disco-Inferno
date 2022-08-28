@@ -1513,7 +1513,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Solar Recharge](https://db.ygoprodeck.com/card/?search=Solar%20Recharge) | Illegal |
 | [Solemn Judgment](https://db.ygoprodeck.com/card/?search=Solemn%20Judgment) | Illegal |
 | [Solemn Scolding](https://db.ygoprodeck.com/card/?search=Solemn%20Scolding) | Illegal |
-| [Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Illegal |
 | [Solemn Wishes](https://db.ygoprodeck.com/card/?search=Solemn%20Wishes) | Illegal |
 | [Solidarity](https://db.ygoprodeck.com/card/?search=Solidarity) | Illegal |
 | [Sonic Maid](https://db.ygoprodeck.com/card/?search=Sonic%20Maid) | Illegal |
@@ -1746,7 +1745,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Tuner's Scheme](https://db.ygoprodeck.com/card/?search=Tuner's%20Scheme) | Illegal |
 | [Turtle Bird](https://db.ygoprodeck.com/card/?search=Turtle%20Bird) | Illegal |
 | [Turu-Purun](https://db.ygoprodeck.com/card/?search=Turu-Purun) | Illegal |
-| [Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Illegal |
 | [Twin-Headed Thunder Dragon](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Thunder%20Dragon) | Illegal |
 | [Twinheaded Beast](https://db.ygoprodeck.com/card/?search=Twinheaded%20Beast) | Illegal |
 | [Tyler the Great Warrior](https://db.ygoprodeck.com/card/?search=Tyler%20the%20Great%20Warrior) | Illegal |
@@ -9521,6 +9519,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Soldier Dragons](https://db.ygoprodeck.com/card/?search=Soldier%20Dragons) | Unlimited |
 | [Soldier Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Soldier%20Gaia%20the%20Fierce%20Knight) | Unlimited |
 | [Solemn Authority](https://db.ygoprodeck.com/card/?search=Solemn%20Authority) | Unlimited |
+| [Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Unlimited |
 | [Solemn Warning](https://db.ygoprodeck.com/card/?search=Solemn%20Warning) | Unlimited |
 | [Solfachord Elegance](https://db.ygoprodeck.com/card/?search=Solfachord%20Elegance) | Unlimited |
 | [Solfachord Formal](https://db.ygoprodeck.com/card/?search=Solfachord%20Formal) | Unlimited |
@@ -10708,6 +10707,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Twin Photon Lizard](https://db.ygoprodeck.com/card/?search=Twin%20Photon%20Lizard) | Unlimited |
 | [Twin Swords of Flashing Light - Tryce](https://db.ygoprodeck.com/card/?search=Twin%20Swords%20of%20Flashing%20Light%20-%20Tryce) | Unlimited |
 | [Twin Triangle Dragon](https://db.ygoprodeck.com/card/?search=Twin%20Triangle%20Dragon) | Unlimited |
+| [Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Unlimited |
 | [Twin-Barrel Dragon](https://db.ygoprodeck.com/card/?search=Twin-Barrel%20Dragon) | Unlimited |
 | [Twin-Headed Behemoth](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Behemoth) | Unlimited |
 | [Twin-Headed Fire Dragon](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Fire%20Dragon) | Unlimited |
