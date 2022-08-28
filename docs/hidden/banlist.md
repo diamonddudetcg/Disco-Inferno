@@ -1985,6 +1985,8 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Forbidden |
 | [Toon Cannon Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Cannon%20Soldier) | Forbidden |
 | [Ultimate Offering](https://db.ygoprodeck.com/card/?search=Ultimate%20Offering) | Forbidden |
+| [Vanity's Fiend](https://db.ygoprodeck.com/card/?search=Vanity's%20Fiend) | Forbidden |
+| [Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Forbidden |
 | [Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | Forbidden |
 | [Astrograph Sorcerer](https://db.ygoprodeck.com/card/?search=Astrograph%20Sorcerer) | Limited |
 | [Black Dragon Collapserpent](https://db.ygoprodeck.com/card/?search=Black%20Dragon%20Collapserpent) | Limited |
@@ -10899,8 +10901,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Vanguard of the Dragon](https://db.ygoprodeck.com/card/?search=Vanguard%20of%20the%20Dragon) | Unlimited |
 | [Vanguard of the Underground Emperor](https://db.ygoprodeck.com/card/?search=Vanguard%20of%20the%20Underground%20Emperor) | Unlimited |
 | [Vanity's Call](https://db.ygoprodeck.com/card/?search=Vanity's%20Call) | Unlimited |
-| [Vanity's Fiend](https://db.ygoprodeck.com/card/?search=Vanity's%20Fiend) | Unlimited |
-| [Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Unlimited |
 | [Vanquishing Light](https://db.ygoprodeck.com/card/?search=Vanquishing%20Light) | Unlimited |
 | [Variable Form](https://db.ygoprodeck.com/card/?search=Variable%20Form) | Unlimited |
 | [Variety Comes Out](https://db.ygoprodeck.com/card/?search=Variety%20Comes%20Out) | Unlimited |
