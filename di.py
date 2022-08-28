@@ -134,9 +134,6 @@ def buildEverything():
 			if (avgPrice == 0):
 				avgPrice = (tcgplayerPrice + cardmarketPrice)/2
 
-			if cardName in forceLegal:
-				avgPrice = random.uniform(0.01, 0.49)
-
 			banInfo = card.get(BANLIST_INFO)
 
 			banTcg = 3
@@ -188,6 +185,8 @@ def buildEverything():
 					if entry.get(NAME) == card.get(NAME):
 						previousAverage = entry.get(PRICE)
 						newAverage = (previousAverage * runs + avgPrice)/(runs+1)
+						if cardName in forceLegal:
+							newAverage = cutoffPoint/2
 						entry[PRICE] = float("{:.2f}".format(newAverage))
 						entry[STATUS] = banTcg
 

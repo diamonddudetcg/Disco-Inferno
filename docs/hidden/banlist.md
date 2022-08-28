@@ -173,7 +173,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Bingo Machine, Go!!!](https://db.ygoprodeck.com/card/?search=Bingo%20Machine,%20Go!!!) | Illegal |
 | [Black Brutdrago](https://db.ygoprodeck.com/card/?search=Black%20Brutdrago) | Illegal |
 | [Black Fang Magician](https://db.ygoprodeck.com/card/?search=Black%20Fang%20Magician) | Illegal |
-| [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | Illegal |
 | [Black Luster Soldier - Envoy of the Evening Twilight](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Envoy%20of%20the%20Evening%20Twilight) | Illegal |
 | [Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | Illegal |
 | [Black Luster Soldier - Super Soldier](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Super%20Soldier) | Illegal |
@@ -2807,6 +2806,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Black Dragon's Chick](https://db.ygoprodeck.com/card/?search=Black%20Dragon's%20Chick) | Unlimited |
 | [Black Feather Beacon](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Beacon) | Unlimited |
 | [Black Garden](https://db.ygoprodeck.com/card/?search=Black%20Garden) | Unlimited |
+| [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | Unlimited |
 | [Black Illusion](https://db.ygoprodeck.com/card/?search=Black%20Illusion) | Unlimited |
 | [Black Illusion Ritual](https://db.ygoprodeck.com/card/?search=Black%20Illusion%20Ritual) | Unlimited |
 | [Black Luster Ritual](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Ritual) | Unlimited |

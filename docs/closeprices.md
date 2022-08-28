@@ -173,10 +173,8 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Zombie World](https://db.ygoprodeck.com/card/?search=name) | 0.50 |
 [Alector, Sovereign of Birds](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Appointer of the Red Lotus](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
-[Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Called by the Grave](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
-[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Gem-Knight Fusion](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
 [Gladiator Beast Octavius](https://db.ygoprodeck.com/card/?search=name) | 0.51 |
