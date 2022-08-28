@@ -678,7 +678,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Generation Force](https://db.ygoprodeck.com/card/?search=Generation%20Force) | Illegal |
 | [Genex Ally Axel](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Axel) | Illegal |
 | [Genex Ally Duradark](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Duradark) | Illegal |
-| [Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | Illegal |
 | [Get Your Game On!](https://db.ygoprodeck.com/card/?search=Get%20Your%20Game%20On!) | Illegal |
 | [Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20%26%20Haunted%20Mansion) | Illegal |
 | [Ghost Fairy Elfobia](https://db.ygoprodeck.com/card/?search=Ghost%20Fairy%20Elfobia) | Illegal |
@@ -981,7 +980,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [M-X-Saber Invoker](https://db.ygoprodeck.com/card/?search=M-X-Saber%20Invoker) | Illegal |
 | [Machina Overdrive](https://db.ygoprodeck.com/card/?search=Machina%20Overdrive) | Illegal |
 | [Machina Redeployment](https://db.ygoprodeck.com/card/?search=Machina%20Redeployment) | Illegal |
-| [Machina Ruinforce](https://db.ygoprodeck.com/card/?search=Machina%20Ruinforce) | Illegal |
 | [Macro Cosmos](https://db.ygoprodeck.com/card/?search=Macro%20Cosmos) | Illegal |
 | [Madolche Anjelly](https://db.ygoprodeck.com/card/?search=Madolche%20Anjelly) | Illegal |
 | [Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | Illegal |
@@ -1038,7 +1036,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Masquerade the Blazing Dragon](https://db.ygoprodeck.com/card/?search=Masquerade%20the%20Blazing%20Dragon) | Illegal |
 | [Master of Chaos](https://db.ygoprodeck.com/card/?search=Master%20of%20Chaos) | Illegal |
 | [Master Peace, the True Dracoslaying King](https://db.ygoprodeck.com/card/?search=Master%20Peace,%20the%20True%20Dracoslaying%20King) | Illegal |
-| [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | Illegal |
 | [Mathmech Equation](https://db.ygoprodeck.com/card/?search=Mathmech%20Equation) | Illegal |
 | [Mathmech Sigma](https://db.ygoprodeck.com/card/?search=Mathmech%20Sigma) | Illegal |
 | [Mathmech Subtraction](https://db.ygoprodeck.com/card/?search=Mathmech%20Subtraction) | Illegal |
@@ -1307,7 +1304,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | Illegal |
 | [Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | Illegal |
 | [Present Card](https://db.ygoprodeck.com/card/?search=Present%20Card) | Illegal |
-| [Primathmech Alembertian](https://db.ygoprodeck.com/card/?search=Primathmech%20Alembertian) | Illegal |
 | [Prime Material Falcon](https://db.ygoprodeck.com/card/?search=Prime%20Material%20Falcon) | Illegal |
 | [Primeval Planet Perlereino](https://db.ygoprodeck.com/card/?search=Primeval%20Planet%20Perlereino) | Illegal |
 | [Primitive Planet Reichphobia](https://db.ygoprodeck.com/card/?search=Primitive%20Planet%20Reichphobia) | Illegal |
@@ -5417,6 +5413,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Geo Genex](https://db.ygoprodeck.com/card/?search=Geo%20Genex) | Unlimited |
 | [Geomancer of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Geomancer%20of%20the%20Ice%20Barrier) | Unlimited |
 | [Geomathmech Final Sigma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Final%20Sigma) | Unlimited |
+| [Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | Unlimited |
 | [Geonator Transverser](https://db.ygoprodeck.com/card/?search=Geonator%20Transverser) | Unlimited |
 | [Gergonne's End](https://db.ygoprodeck.com/card/?search=Gergonne's%20End) | Unlimited |
 | [Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | Unlimited |
@@ -6876,6 +6873,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Machina Peacekeeper](https://db.ygoprodeck.com/card/?search=Machina%20Peacekeeper) | Unlimited |
 | [Machina Possesstorage](https://db.ygoprodeck.com/card/?search=Machina%20Possesstorage) | Unlimited |
 | [Machina Resavenger](https://db.ygoprodeck.com/card/?search=Machina%20Resavenger) | Unlimited |
+| [Machina Ruinforce](https://db.ygoprodeck.com/card/?search=Machina%20Ruinforce) | Unlimited |
 | [Machina Sniper](https://db.ygoprodeck.com/card/?search=Machina%20Sniper) | Unlimited |
 | [Machina Soldier](https://db.ygoprodeck.com/card/?search=Machina%20Soldier) | Unlimited |
 | [Machina Unclaspare](https://db.ygoprodeck.com/card/?search=Machina%20Unclaspare) | Unlimited |
@@ -7166,6 +7164,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Mathematician](https://db.ygoprodeck.com/card/?search=Mathematician) | Unlimited |
 | [Mathmech Addition](https://db.ygoprodeck.com/card/?search=Mathmech%20Addition) | Unlimited |
 | [Mathmech Billionblade Nayuta](https://db.ygoprodeck.com/card/?search=Mathmech%20Billionblade%20Nayuta) | Unlimited |
+| [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | Unlimited |
 | [Mathmech Diameter](https://db.ygoprodeck.com/card/?search=Mathmech%20Diameter) | Unlimited |
 | [Mathmech Division](https://db.ygoprodeck.com/card/?search=Mathmech%20Division) | Unlimited |
 | [Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | Unlimited |
@@ -8458,6 +8457,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Primal Cry](https://db.ygoprodeck.com/card/?search=Primal%20Cry) | Unlimited |
 | [Primal Dragon, the Primordial](https://db.ygoprodeck.com/card/?search=Primal%20Dragon,%20the%20Primordial) | Unlimited |
 | [Primal Seed](https://db.ygoprodeck.com/card/?search=Primal%20Seed) | Unlimited |
+| [Primathmech Alembertian](https://db.ygoprodeck.com/card/?search=Primathmech%20Alembertian) | Unlimited |
 | [Primathmech Laplacian](https://db.ygoprodeck.com/card/?search=Primathmech%20Laplacian) | Unlimited |
 | [Prime Material Dragon](https://db.ygoprodeck.com/card/?search=Prime%20Material%20Dragon) | Unlimited |
 | [Primineral Kongreat](https://db.ygoprodeck.com/card/?search=Primineral%20Kongreat) | Unlimited |

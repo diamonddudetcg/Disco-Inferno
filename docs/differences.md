@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 277
+Estimated number of changes: 281
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -115,6 +115,7 @@ Estimated number of changes: 277
 |[Gem-Knight Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli) | Illegal | Unlimited |
 |[Gem-Knight Obsidian](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Obsidian) | Illegal | Unlimited |
 |[Gem-Knight Prismaura](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Prismaura) | Illegal | Unlimited |
+|[Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | Illegal | Unlimited |
 |[Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | Illegal | Unlimited |
 |[Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Illegal | Unlimited |
 |[Ghostrick Night](https://db.ygoprodeck.com/card/?search=Ghostrick%20Night) | Illegal | Unlimited |
@@ -156,12 +157,14 @@ Estimated number of changes: 277
 |[Live☆Twin Sunny's Snitch](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Sunny's%20Snitch) | Illegal | Unlimited |
 |[Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | Illegal | Unlimited |
 |[Lyrilusc - Recital Starling](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling) | Limited | Unlimited |
+|[Machina Ruinforce](https://db.ygoprodeck.com/card/?search=Machina%20Ruinforce) | Illegal | Unlimited |
 |[Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | Illegal | Unlimited |
 |[Majespecter Cyclone](https://db.ygoprodeck.com/card/?search=Majespecter%20Cyclone) | Illegal | Unlimited |
 |[Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | Illegal | Unlimited |
 |[Mask Change II](https://db.ygoprodeck.com/card/?search=Mask%20Change%20II) | Illegal | Unlimited |
 |[Masked HERO Anki](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Anki) | Illegal | Unlimited |
 |[Master's Diploman](https://db.ygoprodeck.com/card/?search=Master's%20Diploman) | Illegal | Unlimited |
+|[Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | Illegal | Unlimited |
 |[Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | Illegal | Unlimited |
 |[Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Forbidden | Unlimited |
 |[Metalsilver Armor](https://db.ygoprodeck.com/card/?search=Metalsilver%20Armor) | Illegal | Unlimited |
@@ -205,6 +208,7 @@ Estimated number of changes: 277
 |[Pikari @Ignister](https://db.ygoprodeck.com/card/?search=Pikari%20@Ignister) | Illegal | Unlimited |
 |[Plaguespreader Zombie](https://db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie) | Illegal | Unlimited |
 |[Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | Illegal | Unlimited |
+|[Primathmech Alembertian](https://db.ygoprodeck.com/card/?search=Primathmech%20Alembertian) | Illegal | Unlimited |
 |[Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | Illegal | Unlimited |
 |[Princess Curran](https://db.ygoprodeck.com/card/?search=Princess%20Curran) | Illegal | Unlimited |
 |[Princess Pikeru](https://db.ygoprodeck.com/card/?search=Princess%20Pikeru) | Illegal | Unlimited |

@@ -1,5 +1,5 @@
 {
-    "previousRuns": 101,
+    "previousRuns": 102,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -2040,7 +2040,7 @@
             "ids": [
                 662855
             ],
-            "price": 23.95,
+            "price": 23.96,
             "status": -1
         },
         {
@@ -29058,7 +29058,7 @@
                 99267150,
                 99267151
             ],
-            "price": 1.16,
+            "price": 1.15,
             "status": 3
         },
         {
@@ -33143,7 +33143,7 @@
                 15248594
             ],
             "price": 0.8,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Geonator Transverser",
@@ -47385,8 +47385,8 @@
             "ids": [
                 46033517
             ],
-            "price": 1.04,
-            "status": -1
+            "price": 1.03,
+            "status": 3
         },
         {
             "name": "Machina Sniper",
@@ -50194,7 +50194,7 @@
                 36521307
             ],
             "price": 0.63,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Mathmech Diameter",
@@ -62836,7 +62836,7 @@
                 85692042
             ],
             "price": 0.6,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Primathmech Laplacian",
@@ -68140,7 +68140,7 @@
             "ids": [
                 92107604
             ],
-            "price": 16.44,
+            "price": 16.45,
             "status": -1
         },
         {
@@ -69045,7 +69045,7 @@
             "ids": [
                 662853
             ],
-            "price": 14.87,
+            "price": 14.88,
             "status": -1
         },
         {
@@ -70910,7 +70910,7 @@
             "ids": [
                 27416701
             ],
-            "price": 29.49,
+            "price": 29.5,
             "status": -1
         },
         {
@@ -79649,7 +79649,7 @@
             "ids": [
                 501000004
             ],
-            "price": 236.46,
+            "price": 236.56,
             "status": -1
         },
         {
@@ -85010,7 +85010,7 @@
             "ids": [
                 501000000
             ],
-            "price": 96.04,
+            "price": 96.08,
             "status": -1
         },
         {
