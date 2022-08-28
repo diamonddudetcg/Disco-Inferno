@@ -1944,6 +1944,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Dimensional Barrier](https://db.ygoprodeck.com/card/?search=Dimensional%20Barrier) | Forbidden |
 | [Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Forbidden |
 | [Djinn Releaser of Rituals](https://db.ygoprodeck.com/card/?search=Djinn%20Releaser%20of%20Rituals) | Forbidden |
+| [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |
 | [Fishborg Blaster](https://db.ygoprodeck.com/card/?search=Fishborg%20Blaster) | Forbidden |
 | [Giant Trunade](https://db.ygoprodeck.com/card/?search=Giant%20Trunade) | Forbidden |
 | [Gouki The Powerload Ogre](https://db.ygoprodeck.com/card/?search=Gouki%20The%20Powerload%20Ogre) | Forbidden |
@@ -1952,6 +1953,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy) | Forbidden |
 | [Heavy Storm](https://db.ygoprodeck.com/card/?search=Heavy%20Storm) | Forbidden |
 | [Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Forbidden |
+| [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Forbidden |
 | [Hot Red Dragon Archfiend King Calamity](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20King%20Calamity) | Forbidden |
 | [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | Forbidden |
 | [Inspector Boarder](https://db.ygoprodeck.com/card/?search=Inspector%20Boarder) | Forbidden |
@@ -1972,8 +1974,10 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Pot of Greed](https://db.ygoprodeck.com/card/?search=Pot%20of%20Greed) | Forbidden |
 | [Prank-Kids Meow-Meow-Mu](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Meow-Meow-Mu) | Forbidden |
 | [Premature Burial](https://db.ygoprodeck.com/card/?search=Premature%20Burial) | Forbidden |
+| [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Forbidden |
 | [Return from the Different Dimension](https://db.ygoprodeck.com/card/?search=Return%20from%20the%20Different%20Dimension) | Forbidden |
 | [Samsara Lotus](https://db.ygoprodeck.com/card/?search=Samsara%20Lotus) | Forbidden |
+| [Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Forbidden |
 | [Self-Destruct Button](https://db.ygoprodeck.com/card/?search=Self-Destruct%20Button) | Forbidden |
 | [Simorgh, Bird of Sovereignty](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Sovereignty) | Forbidden |
 | [Smoke Grenade of the Thief](https://db.ygoprodeck.com/card/?search=Smoke%20Grenade%20of%20the%20Thief) | Forbidden |
@@ -1981,6 +1985,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Soul Charge](https://db.ygoprodeck.com/card/?search=Soul%20Charge) | Forbidden |
 | [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Forbidden |
 | [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom) | Forbidden |
+| [The Monarchs Erupt](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Erupt) | Forbidden |
 | [There Can Be Only One](https://db.ygoprodeck.com/card/?search=There%20Can%20Be%20Only%20One) | Forbidden |
 | [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Forbidden |
 | [Toon Cannon Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Cannon%20Soldier) | Forbidden |
@@ -2011,7 +2016,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [One for One](https://db.ygoprodeck.com/card/?search=One%20for%20One) | Limited |
 | [Performapal Monkeyboard](https://db.ygoprodeck.com/card/?search=Performapal%20Monkeyboard) | Limited |
 | [PSY-Framelord Omega](https://db.ygoprodeck.com/card/?search=PSY-Framelord%20Omega) | Limited |
-| [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Limited |
 | [Reinforcement of the Army](https://db.ygoprodeck.com/card/?search=Reinforcement%20of%20the%20Army) | Limited |
 | [Right Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Leg%20of%20the%20Forbidden%20One) | Limited |
 | [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation) | Limited |
@@ -4293,7 +4297,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Doll Monster Bear-Bear](https://db.ygoprodeck.com/card/?search=Doll%20Monster%20Bear-Bear) | Unlimited |
 | [Doll Monster Miss Mädchen](https://db.ygoprodeck.com/card/?search=Doll%20Monster%20Miss%20Mädchen) | Unlimited |
 | [Doma The Angel of Silence](https://db.ygoprodeck.com/card/?search=Doma%20The%20Angel%20of%20Silence) | Unlimited |
-| [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Unlimited |
 | [Domino Effect](https://db.ygoprodeck.com/card/?search=Domino%20Effect) | Unlimited |
 | [Don Thousand's Throne](https://db.ygoprodeck.com/card/?search=Don%20Thousand's%20Throne) | Unlimited |
 | [Don Turtle](https://db.ygoprodeck.com/card/?search=Don%20Turtle) | Unlimited |
@@ -6003,7 +6006,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Heroic Retribution Sword](https://db.ygoprodeck.com/card/?search=Heroic%20Retribution%20Sword) | Unlimited |
 | [Hexa Spirit of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Hexa%20Spirit%20of%20the%20Ice%20Barrier) | Unlimited |
 | [Hexatellarknight](https://db.ygoprodeck.com/card/?search=Hexatellarknight) | Unlimited |
-| [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Unlimited |
 | [Hi-Five the Sky](https://db.ygoprodeck.com/card/?search=Hi-Five%20the%20Sky) | Unlimited |
 | [Hi-Speed Re-Level](https://db.ygoprodeck.com/card/?search=Hi-Speed%20Re-Level) | Unlimited |
 | [Hi-Speedroid Chanbara](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Chanbara) | Unlimited |
@@ -9232,7 +9234,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Secret Sect Druid Wid](https://db.ygoprodeck.com/card/?search=Secret%20Sect%20Druid%20Wid) | Unlimited |
 | [Secret Six Samurai - Fuma](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Fuma) | Unlimited |
 | [Secret Skills of the Six Samurai](https://db.ygoprodeck.com/card/?search=Secret%20Skills%20of%20the%20Six%20Samurai) | Unlimited |
-| [Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Unlimited |
 | [Secrets of Dark Magic](https://db.ygoprodeck.com/card/?search=Secrets%20of%20Dark%20Magic) | Unlimited |
 | [Secrets of the Gallant](https://db.ygoprodeck.com/card/?search=Secrets%20of%20the%20Gallant) | Unlimited |
 | [Secure Gardna](https://db.ygoprodeck.com/card/?search=Secure%20Gardna) | Unlimited |
@@ -10331,7 +10332,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [The Mask of Remnants](https://db.ygoprodeck.com/card/?search=The%20Mask%20of%20Remnants) | Unlimited |
 | [The Masked Beast](https://db.ygoprodeck.com/card/?search=The%20Masked%20Beast) | Unlimited |
 | [The Monarchs Awaken](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Awaken) | Unlimited |
-| [The Monarchs Erupt](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Erupt) | Unlimited |
 | [The Monarchs Stormforth](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Stormforth) | Unlimited |
 | [The Most Distant, Deepest Depths](https://db.ygoprodeck.com/card/?search=The%20Most%20Distant,%20Deepest%20Depths) | Unlimited |
 | [The Nordic Lights](https://db.ygoprodeck.com/card/?search=The%20Nordic%20Lights) | Unlimited |

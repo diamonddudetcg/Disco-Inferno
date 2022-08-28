@@ -9,7 +9,12 @@ Please keep in mind these changes are not definitive and are only based on past 
 | Card name | Previous Status | New Status | Avg $ |
 | :-- | :-- | :-- |
 |[Amorphactor Pain, the Imagination Dracoverlord](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) | Unlimited | Forbidden | 0.09 |
+|[Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Unlimited | Forbidden | 0.14 |
 |[Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Unlimited | Forbidden | 0.05 |
+|[Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Unlimited | Forbidden | 0.18 |
+|[Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Limited | Forbidden | 0.14 |
+|[Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Unlimited | Forbidden | 0.28 |
+|[The Monarchs Erupt](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Erupt) | Unlimited | Forbidden | 0.17 |
 |[Vanity's Fiend](https://db.ygoprodeck.com/card/?search=Vanity's%20Fiend) | Unlimited | Forbidden | 0.31 |
 |[Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Unlimited | Forbidden | 0.23 |
 |[Astrograph Sorcerer](https://db.ygoprodeck.com/card/?search=Astrograph%20Sorcerer) | Illegal | Limited | 0.45 |
@@ -26,7 +31,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Ancient Gear Frame](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Frame) | Illegal | Unlimited | 0.28 |
 |[Ancient Gear Wyvern](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Wyvern) | Illegal | Unlimited | 0.48 |
 |[Arcana Force EX - The Light Ruler](https://db.ygoprodeck.com/card/?search=Arcana%20Force%20EX%20-%20The%20Light%20Ruler) | Illegal | Unlimited | 0.48 |
-|[Archfiend's Ghastly Glitch](https://db.ygoprodeck.com/card/?search=Archfiend's%20Ghastly%20Glitch) | Illegal | Unlimited | 0.34 |
+|[Archfiend's Ghastly Glitch](https://db.ygoprodeck.com/card/?search=Archfiend's%20Ghastly%20Glitch) | Illegal | Unlimited | 0.35 |
 |[Armageddon Knight](https://db.ygoprodeck.com/card/?search=Armageddon%20Knight) | Limited | Unlimited | 0.07 |
 |[Ascator, Dawnwalker](https://db.ygoprodeck.com/card/?search=Ascator,%20Dawnwalker) | Illegal | Unlimited | 0.47 |
 |[Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal | Unlimited | 0.40 |
@@ -36,14 +41,14 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Blocker](https://db.ygoprodeck.com/card/?search=Blocker) | Illegal | Unlimited | 0.40 |
 |[Catapult Warrior](https://db.ygoprodeck.com/card/?search=Catapult%20Warrior) | Illegal | Unlimited | 0.21 |
 |[Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | Illegal | Unlimited | 0.35 |
-|[Cosmic Cyclone](https://db.ygoprodeck.com/card/?search=Cosmic%20Cyclone) | Illegal | Unlimited | 0.29 |
+|[Cosmic Cyclone](https://db.ygoprodeck.com/card/?search=Cosmic%20Cyclone) | Illegal | Unlimited | 0.31 |
 |[Cosmic Horror Gangi'el](https://db.ygoprodeck.com/card/?search=Cosmic%20Horror%20Gangi'el) | Illegal | Unlimited | 0.15 |
 |[Crystal Pair](https://db.ygoprodeck.com/card/?search=Crystal%20Pair) | Illegal | Unlimited | 0.24 |
 |[Cyber Angel Benten](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Benten) | Semi-Limited | Unlimited | 0.05 |
 |[Cyber Blader](https://db.ygoprodeck.com/card/?search=Cyber%20Blader) | Illegal | Unlimited | 0.15 |
 |[Cybernetic Magician](https://db.ygoprodeck.com/card/?search=Cybernetic%20Magician) | Illegal | Unlimited | 0.26 |
 |[D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | Illegal | Unlimited | 0.43 |
-|[D/D Gryphon](https://db.ygoprodeck.com/card/?search=D/D%20Gryphon) | Illegal | Unlimited | 0.33 |
+|[D/D Gryphon](https://db.ygoprodeck.com/card/?search=D/D%20Gryphon) | Illegal | Unlimited | 0.36 |
 |[D/D Savant Kepler](https://db.ygoprodeck.com/card/?search=D/D%20Savant%20Kepler) | Illegal | Unlimited | 0.17 |
 |[D/D/D Flame King Genghis](https://db.ygoprodeck.com/card/?search=D/D/D%20Flame%20King%20Genghis) | Illegal | Unlimited | 0.45 |
 |[Damage Polarizer](https://db.ygoprodeck.com/card/?search=Damage%20Polarizer) | Illegal | Unlimited | 0.46 |
@@ -84,7 +89,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | Illegal | Unlimited | 0.37 |
 |[Gem-Knight Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli) | Illegal | Unlimited | 0.32 |
 |[Gem-Knight Prismaura](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Prismaura) | Illegal | Unlimited | 0.45 |
-|[Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | Illegal | Unlimited | 0.38 |
+|[Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | Illegal | Unlimited | 0.39 |
 |[Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Illegal | Unlimited | 0.40 |
 |[Ghostrick Night](https://db.ygoprodeck.com/card/?search=Ghostrick%20Night) | Illegal | Unlimited | 0.30 |
 |[Ghostrick Renovation](https://db.ygoprodeck.com/card/?search=Ghostrick%20Renovation) | Illegal | Unlimited | 0.10 |
@@ -109,10 +114,10 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Kaiser Glider - Golden Burst](https://db.ygoprodeck.com/card/?search=Kaiser%20Glider%20-%20Golden%20Burst) | Illegal | Unlimited | 0.35 |
 |[Koa'ki Meiru Ghoulungulate](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Ghoulungulate) | Illegal | Unlimited | 0.50 |
 |[Labrynth Archfiend](https://db.ygoprodeck.com/card/?search=Labrynth%20Archfiend) | Illegal | Unlimited | 0.14 |
-|[Labrynth Barrage](https://db.ygoprodeck.com/card/?search=Labrynth%20Barrage) | Illegal | Unlimited | 0.35 |
+|[Labrynth Barrage](https://db.ygoprodeck.com/card/?search=Labrynth%20Barrage) | Illegal | Unlimited | 0.36 |
 |[Labrynth Cooclock](https://db.ygoprodeck.com/card/?search=Labrynth%20Cooclock) | Illegal | Unlimited | 0.17 |
 |[Labrynth Labyrinth](https://db.ygoprodeck.com/card/?search=Labrynth%20Labyrinth) | Illegal | Unlimited | 0.34 |
-|[Labrynth Set-Up](https://db.ygoprodeck.com/card/?search=Labrynth%20Set-Up) | Illegal | Unlimited | 0.34 |
+|[Labrynth Set-Up](https://db.ygoprodeck.com/card/?search=Labrynth%20Set-Up) | Illegal | Unlimited | 0.35 |
 |[Laundry Dragonmaid](https://db.ygoprodeck.com/card/?search=Laundry%20Dragonmaid) | Illegal | Unlimited | 0.47 |
 |[Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | Illegal | Unlimited | 0.00 |
 |[Live☆Twin Home](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Home) | Illegal | Unlimited | 0.00 |
@@ -134,7 +139,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Morphtronic Remoten](https://db.ygoprodeck.com/card/?search=Morphtronic%20Remoten) | Illegal | Unlimited | 0.31 |
 |[Mudan the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Mudan%20the%20Rikka%20Fairy) | Illegal | Unlimited | 0.35 |
 |[Muko](https://db.ygoprodeck.com/card/?search=Muko) | Illegal | Unlimited | 0.00 |
-|[Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | Unlimited | 0.38 |
+|[Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | Unlimited | 0.39 |
 |[Nazuki the Vaylantz Ninja](https://db.ygoprodeck.com/card/?search=Nazuki%20the%20Vaylantz%20Ninja) | Illegal | Unlimited | 0.08 |
 |[Necrolancer the Time-lord](https://db.ygoprodeck.com/card/?search=Necrolancer%20the%20Time-lord) | Illegal | Unlimited | 0.00 |
 |[Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Illegal | Unlimited | 0.34 |
@@ -149,7 +154,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Odd-Eyes Rebellion Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Rebellion%20Dragon) | Illegal | Unlimited | 0.30 |
 |[Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | Illegal | Unlimited | 0.27 |
 |[Ojama Pajama](https://db.ygoprodeck.com/card/?search=Ojama%20Pajama) | Illegal | Unlimited | 0.25 |
-|[Old Entity Cthugua](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Cthugua) | Illegal | Unlimited | 0.39 |
+|[Old Entity Cthugua](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Cthugua) | Illegal | Unlimited | 0.40 |
 |[Orcust Harp Horror](https://db.ygoprodeck.com/card/?search=Orcust%20Harp%20Horror) | Forbidden | Unlimited | 0.25 |
 |[Palladium Oracle Mana](https://db.ygoprodeck.com/card/?search=Palladium%20Oracle%20Mana) | Illegal | Unlimited | 0.48 |
 |[Pendulum Fusion](https://db.ygoprodeck.com/card/?search=Pendulum%20Fusion) | Illegal | Unlimited | 0.42 |
@@ -170,11 +175,11 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | Illegal | Unlimited | 0.29 |
 |[Red-Eyes Wyvern](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern) | Illegal | Unlimited | 0.34 |
 |[Runick Allure](https://db.ygoprodeck.com/card/?search=Runick%20Allure) | Illegal | Unlimited | 0.26 |
-|[Runick Destruction](https://db.ygoprodeck.com/card/?search=Runick%20Destruction) | Illegal | Unlimited | 0.32 |
+|[Runick Destruction](https://db.ygoprodeck.com/card/?search=Runick%20Destruction) | Illegal | Unlimited | 0.33 |
 |[Runick Dispelling](https://db.ygoprodeck.com/card/?search=Runick%20Dispelling) | Illegal | Unlimited | 0.27 |
-|[Runick Flashing Fire](https://db.ygoprodeck.com/card/?search=Runick%20Flashing%20Fire) | Illegal | Unlimited | 0.38 |
-|[Runick Freezing Curses](https://db.ygoprodeck.com/card/?search=Runick%20Freezing%20Curses) | Illegal | Unlimited | 0.38 |
-|[Runick Golden Droplet](https://db.ygoprodeck.com/card/?search=Runick%20Golden%20Droplet) | Illegal | Unlimited | 0.37 |
+|[Runick Flashing Fire](https://db.ygoprodeck.com/card/?search=Runick%20Flashing%20Fire) | Illegal | Unlimited | 0.39 |
+|[Runick Freezing Curses](https://db.ygoprodeck.com/card/?search=Runick%20Freezing%20Curses) | Illegal | Unlimited | 0.39 |
+|[Runick Golden Droplet](https://db.ygoprodeck.com/card/?search=Runick%20Golden%20Droplet) | Illegal | Unlimited | 0.38 |
 |[Runick Slumber](https://db.ygoprodeck.com/card/?search=Runick%20Slumber) | Illegal | Unlimited | 0.24 |
 |[Runick Smiting Storm](https://db.ygoprodeck.com/card/?search=Runick%20Smiting%20Storm) | Illegal | Unlimited | 0.26 |
 |[Saion the Vaylantz Archer](https://db.ygoprodeck.com/card/?search=Saion%20the%20Vaylantz%20Archer) | Illegal | Unlimited | 0.08 |
@@ -210,7 +215,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 |[The Unhappy Girl](https://db.ygoprodeck.com/card/?search=The%20Unhappy%20Girl) | Illegal | Unlimited | 0.43 |
 |[Time Stream](https://db.ygoprodeck.com/card/?search=Time%20Stream) | Illegal | Unlimited | 0.45 |
 |[Tin Goldfish](https://db.ygoprodeck.com/card/?search=Tin%20Goldfish) | Illegal | Unlimited | 0.40 |
-|[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited | 0.29 |
+|[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited | 0.31 |
 |[Tribute Burial](https://db.ygoprodeck.com/card/?search=Tribute%20Burial) | Illegal | Unlimited | 0.19 |
 |[Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal | Unlimited | 0.27 |
 |[Vaylantz Dominator Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20Duke) | Illegal | Unlimited | 0.08 |
