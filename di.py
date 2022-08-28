@@ -49,54 +49,21 @@ SEMI = 'Semi-Limited'
 UNLIMITED = 'Unlimited'
 FORCE_LEGAL = "ForceLegal"
 FORCE_ILLEGAL = "ForceIllegal"
-
+ADDITIONAL_REMOVED_IDS = "RemovedAnimeShit"
 
 ongoingBanlistSite = 'docs/ongoing.md'
 diBanlistPath = 'json/banlist/di_banlist.json'
+
 jsonData = {}
 
 cutoffPoint = 0.50
 
-forceMonth = True
-
-month = 9
-previousMonth = 8
-year = 2022
-jumpYear = False
-
-
 today = date.today()
-
-if not forceMonth:
-	formatted = today.strftime("%Y/%m/%d, %H:%M:%S")
-	stableHiddenSite = 'docs/hidden/banlist_%s.md'%(today.strftime("%Y_%m"))
-	jsonPath = 'json/%s.json'%(today.strftime("%Y_%m"))
-	banlistPath = 'banlist/ongoing/disco_inferno_%s.lflist.conf'%today.strftime("%Y_%m")
-
-	month = int(today.strftime("%m"))
-	if (month == 1):
-		previousMonth = 12
-		jumpYear = True
-	else:
-		previousMonth = month - 1
-
-	year = int(today.strftime("%Y"))
-	if (jumpYear):
-		year -=1
-
-	previousMonth = date.today()
-	previousMonth = date(year, previousMonth, today.day)
-
-	previousDataPath = 'json/%s.json'%(previousMonth.strftime("%Y_%m"))
-
-else:
-	formatted = "%s%s%s"%(today.strftime("%Y/"),  f'{month:02d}', today.strftime("/%d, %H:%M:%S"))
-	stableHiddenSite = 'docs/hidden/banlist_%s%s.md'%(today.strftime("%Y_"),  f'{month:02d}')
-	jsonPath = 'json/%s%s.json'%(today.strftime("%Y_"),  f'{month:02d}')
-	banlistPath = 'banlist/ongoing/disco_inferno_%s%s.lflist.conf'%(today.strftime("%Y_"), f'{month:02d}')
-
-	previousDataPath = 'json/%s_%s.json'%(f'{year:04d}',f'{previousMonth:02d}')
-
+formatted = today.strftime("%Y/%m/%d, %H:%M:%S")
+stableHiddenSite = 'docs/hidden/banlist.md'
+banlistPath = 'banlist/ongoing/disco_inferno_ongoing.lflist.conf'
+jsonPath = 'json/current.json'
+previousDataPath = 'json/previous.json'
 differencesPath = 'docs/differences.md'
 
 def getCardStatusAsString(cardStatus):
@@ -128,6 +95,7 @@ def buildEverything():
 		additionalUnlimited = banlist.get(UNLIMITED)
 		forceLegal = banlist.get(FORCE_LEGAL)
 		forceIllegal = banlist.get(FORCE_ILLEGAL)
+		additionalRemovedIds = banlist.get(ADDITIONAL_REMOVED_IDS)
 
 	jsonData = {PREVIOUS_RUNS:0, DATA:[]}
 	if os.path.exists(jsonPath):
@@ -229,8 +197,11 @@ def buildEverything():
 
 	with open(banlistPath, 'w', encoding="utf-8") as outfile:
 			outfile.write("#[Disco Inferno]\n")
-			outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m_%Y"))
+			outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m.%Y"))
 			outfile.write("\n$whitelist\n\n")
+			outfile.write("\n#Here lies all the anime bullshit\n\n")
+			for cardId in additionalRemovedIds:
+				outfile.write("%s -1 -- Some anime shit I don't care about\n"%cardId)
 			for card in cards:
 				cardBanlistStatus = card.get(STATUS)
 				if cardBanlistStatus < -1:
@@ -240,6 +211,7 @@ def buildEverything():
 						outfile.write("%d %d -- %s\n" % (cardId, cardBanlistStatus, card.get(NAME)))
 					except TypeError:
 						print(card)
+
 
 	with open(jsonPath, 'w', encoding="utf-8") as file:
 		json.dump(jsonData, file, indent=4)
