@@ -362,7 +362,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [D-Boyz](https://db.ygoprodeck.com/card/?search=D-Boyz) | Illegal |
 | [D.D. Crow](https://db.ygoprodeck.com/card/?search=D.D.%20Crow) | Illegal |
 | [D.D. Designator](https://db.ygoprodeck.com/card/?search=D.D.%20Designator) | Illegal |
-| [D/D Gryphon](https://db.ygoprodeck.com/card/?search=D/D%20Gryphon) | Illegal |
 | [D/D Nighthowl](https://db.ygoprodeck.com/card/?search=D/D%20Nighthowl) | Illegal |
 | [D/D Orthros](https://db.ygoprodeck.com/card/?search=D/D%20Orthros) | Illegal |
 | [D/D/D Abyss King Gilgamesh](https://db.ygoprodeck.com/card/?search=D/D/D%20Abyss%20King%20Gilgamesh) | Illegal |
@@ -2025,7 +2024,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Zoodiac Ratpier](https://db.ygoprodeck.com/card/?search=Zoodiac%20Ratpier) | Limited |
 | [Destiny HERO - Malicious](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Malicious) | Semi-Limited |
 | [Salamangreat Gazelle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Gazelle) | Semi-Limited |
-| [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Semi-Limited |
 | ["A" Cell Breeding Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Breeding%20Device) | Unlimited |
 | ["A" Cell Incubator](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Incubator) | Unlimited |
 | ["A" Cell Recombination Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Recombination%20Device) | Unlimited |
@@ -3760,6 +3758,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [D/D Dog](https://db.ygoprodeck.com/card/?search=D/D%20Dog) | Unlimited |
 | [D/D Evil](https://db.ygoprodeck.com/card/?search=D/D%20Evil) | Unlimited |
 | [D/D Ghost](https://db.ygoprodeck.com/card/?search=D/D%20Ghost) | Unlimited |
+| [D/D Gryphon](https://db.ygoprodeck.com/card/?search=D/D%20Gryphon) | Unlimited |
 | [D/D Lamia](https://db.ygoprodeck.com/card/?search=D/D%20Lamia) | Unlimited |
 | [D/D Lilith](https://db.ygoprodeck.com/card/?search=D/D%20Lilith) | Unlimited |
 | [D/D Necro Slime](https://db.ygoprodeck.com/card/?search=D/D%20Necro%20Slime) | Unlimited |
@@ -11059,6 +11058,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Wall of Disruption](https://db.ygoprodeck.com/card/?search=Wall%20of%20Disruption) | Unlimited |
 | [Wall of Illusion](https://db.ygoprodeck.com/card/?search=Wall%20of%20Illusion) | Unlimited |
 | [Wall of Ivy](https://db.ygoprodeck.com/card/?search=Wall%20of%20Ivy) | Unlimited |
+| [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Unlimited |
 | [Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | Unlimited |
 | [Wall Shadow](https://db.ygoprodeck.com/card/?search=Wall%20Shadow) | Unlimited |
 | [Wandering Gryphon Rider](https://db.ygoprodeck.com/card/?search=Wandering%20Gryphon%20Rider) | Unlimited |

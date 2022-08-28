@@ -194,6 +194,8 @@ def buildEverything():
 		if card[PRICE] > cutoffPoint:
 			if not cardName in forceLegal:
 				card[STATUS] = -1
+			else:
+				card[PRICE] = cutoffPoint/2
 		if cardName in forceIllegal:
 			card[STATUS] = -1
 
