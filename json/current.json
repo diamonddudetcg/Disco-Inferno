@@ -1,5 +1,5 @@
 {
-    "previousRuns": 32,
+    "previousRuns": 33,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -2040,7 +2040,7 @@
             "ids": [
                 662855
             ],
-            "price": 21.86,
+            "price": 21.95,
             "status": -1
         },
         {
@@ -4162,7 +4162,7 @@
             "ids": [
                 75730490
             ],
-            "price": 7.23,
+            "price": 7.26,
             "status": -1
         },
         {
@@ -4170,7 +4170,7 @@
             "ids": [
                 1225009
             ],
-            "price": 8.74,
+            "price": 8.78,
             "status": -1
         },
         {
@@ -22989,8 +22989,8 @@
             "ids": [
                 76782778
             ],
-            "price": 0.52,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Dragonmaid Hospitality",
@@ -32445,8 +32445,8 @@
             "ids": [
                 1264319
             ],
-            "price": 0.51,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Gem-Knight Garnet",
@@ -35180,8 +35180,8 @@
             "ids": [
                 72283691
             ],
-            "price": 0.52,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Golden Dragon Summoner",
@@ -39407,7 +39407,7 @@
             "ids": [
                 55990317
             ],
-            "price": 12.23,
+            "price": 12.28,
             "status": -1
         },
         {
@@ -41864,7 +41864,7 @@
             "ids": [
                 662857
             ],
-            "price": 8.76,
+            "price": 8.8,
             "status": -1
         },
         {
@@ -46753,7 +46753,7 @@
             "ids": [
                 2347656
             ],
-            "price": 5.41,
+            "price": 5.43,
             "status": -1
         },
         {
@@ -47009,7 +47009,7 @@
             "ids": [
                 83190280
             ],
-            "price": 0.5,
+            "price": 0.25,
             "status": 1
         },
         {
@@ -47025,8 +47025,8 @@
             "ids": [
                 47705572
             ],
-            "price": 0.51,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Lunalight Yellow Marten",
@@ -49289,7 +49289,7 @@
             "ids": [
                 40680521
             ],
-            "price": 2.18,
+            "price": 2.19,
             "status": -1
         },
         {
@@ -53444,8 +53444,8 @@
             "ids": [
                 55119278
             ],
-            "price": 0.51,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Morphtronic Remoten",
@@ -61794,8 +61794,8 @@
             "ids": [
                 44227727
             ],
-            "price": 0.51,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Plunder Patroll Shipyarrrd",
@@ -68140,7 +68140,7 @@
             "ids": [
                 92107604
             ],
-            "price": 14.98,
+            "price": 15.04,
             "status": -1
         },
         {
@@ -68180,7 +68180,7 @@
             "ids": [
                 31562086
             ],
-            "price": 12.01,
+            "price": 12.06,
             "status": -1
         },
         {
@@ -69045,7 +69045,7 @@
             "ids": [
                 662853
             ],
-            "price": 13.52,
+            "price": 13.58,
             "status": -1
         },
         {
@@ -70910,7 +70910,7 @@
             "ids": [
                 27416701
             ],
-            "price": 26.88,
+            "price": 27.0,
             "status": -1
         },
         {
@@ -71246,7 +71246,7 @@
             "ids": [
                 49131917
             ],
-            "price": 2.18,
+            "price": 2.19,
             "status": -1
         },
         {
@@ -79649,7 +79649,7 @@
             "ids": [
                 501000004
             ],
-            "price": 215.42,
+            "price": 216.35,
             "status": -1
         },
         {
@@ -80530,7 +80530,7 @@
             "ids": [
                 28003512
             ],
-            "price": 4.39,
+            "price": 4.41,
             "status": -1
         },
         {
@@ -81965,8 +81965,8 @@
             "ids": [
                 13683298
             ],
-            "price": 0.51,
-            "status": -1
+            "price": 0.25,
+            "status": 3
         },
         {
             "name": "Thunderforce Attack",
@@ -85010,7 +85010,7 @@
             "ids": [
                 501000000
             ],
-            "price": 87.5,
+            "price": 87.88,
             "status": -1
         },
         {
@@ -86499,7 +86499,7 @@
             "ids": [
                 13179234
             ],
-            "price": 2.18,
+            "price": 2.19,
             "status": -1
         },
         {
@@ -88526,7 +88526,7 @@
             "ids": [
                 5380979
             ],
-            "price": 6.54,
+            "price": 6.57,
             "status": -1
         },
         {

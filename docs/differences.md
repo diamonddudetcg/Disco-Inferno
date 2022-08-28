@@ -69,6 +69,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Divine Wind of Mist Valley](https://db.ygoprodeck.com/card/?search=Divine%20Wind%20of%20Mist%20Valley) | Limited | Unlimited | 0.10 |
 |[Draco Face-Off](https://db.ygoprodeck.com/card/?search=Draco%20Face-Off) | Limited | Unlimited | 0.17 |
 |[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | Illegal | Unlimited | 0.50 |
+|[Dragonmaid Ernus](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Ernus) | Illegal | Unlimited | 0.25 |
 |[Dragunity Glow](https://db.ygoprodeck.com/card/?search=Dragunity%20Glow) | Illegal | Unlimited | 0.32 |
 |[Earthbound Immortal Aslla piscu](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Aslla%20piscu) | Illegal | Unlimited | 0.15 |
 |[Ebon Illusion Magician](https://db.ygoprodeck.com/card/?search=Ebon%20Illusion%20Magician) | Illegal | Unlimited | 0.38 |
@@ -94,6 +95,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Fossil Warrior Skull King](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20King) | Illegal | Unlimited | 0.25 |
 |[Gagagadraw](https://db.ygoprodeck.com/card/?search=Gagagadraw) | Illegal | Unlimited | 0.50 |
 |[Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | Illegal | Unlimited | 0.37 |
+|[Gem-Knight Fusion](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Fusion) | Illegal | Unlimited | 0.25 |
 |[Gem-Knight Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli) | Illegal | Unlimited | 0.32 |
 |[Gem-Knight Prismaura](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Prismaura) | Illegal | Unlimited | 0.45 |
 |[Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | Illegal | Unlimited | 0.40 |
@@ -103,6 +105,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Ghoti of the Deep Beyond](https://db.ygoprodeck.com/card/?search=Ghoti%20of%20the%20Deep%20Beyond) | Illegal | Unlimited | 0.45 |
 |[Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | Forbidden | Unlimited | 0.47 |
 |[Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Limited | Unlimited | 0.12 |
+|[Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | Illegal | Unlimited | 0.25 |
 |[Golden Ladybug](https://db.ygoprodeck.com/card/?search=Golden%20Ladybug) | Illegal | Unlimited | 0.21 |
 |[Grave Ohja](https://db.ygoprodeck.com/card/?search=Grave%20Ohja) | Illegal | Unlimited | 0.46 |
 |[Greed](https://db.ygoprodeck.com/card/?search=Greed) | Illegal | Unlimited | 0.39 |
@@ -130,6 +133,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Live☆Twin Home](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Home) | Illegal | Unlimited | 0.25 |
 |[Live☆Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil) | Illegal | Unlimited | 0.25 |
 |[Live☆Twin Sunny's Snitch](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Sunny's%20Snitch) | Illegal | Unlimited | 0.25 |
+|[Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | Illegal | Unlimited | 0.25 |
 |[Lyrilusc - Recital Starling](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling) | Limited | Unlimited | 0.10 |
 |[Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | Illegal | Unlimited | 0.45 |
 |[Majespecter Cyclone](https://db.ygoprodeck.com/card/?search=Majespecter%20Cyclone) | Illegal | Unlimited | 0.42 |
@@ -143,6 +147,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Miscellaneousaurus](https://db.ygoprodeck.com/card/?search=Miscellaneousaurus) | Limited | Unlimited | 0.18 |
 |[Monster Gate](https://db.ygoprodeck.com/card/?search=Monster%20Gate) | Limited | Unlimited | 0.16 |
 |[Moray of Avarice](https://db.ygoprodeck.com/card/?search=Moray%20of%20Avarice) | Illegal | Unlimited | 0.23 |
+|[Morphtronic Radion](https://db.ygoprodeck.com/card/?search=Morphtronic%20Radion) | Illegal | Unlimited | 0.25 |
 |[Morphtronic Remoten](https://db.ygoprodeck.com/card/?search=Morphtronic%20Remoten) | Illegal | Unlimited | 0.31 |
 |[Mudan the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Mudan%20the%20Rikka%20Fairy) | Illegal | Unlimited | 0.35 |
 |[Muko](https://db.ygoprodeck.com/card/?search=Muko) | Illegal | Unlimited | 0.25 |
@@ -170,6 +175,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Phantom Skyblaster](https://db.ygoprodeck.com/card/?search=Phantom%20Skyblaster) | Limited | Unlimited | 0.06 |
 |[Pikari @Ignister](https://db.ygoprodeck.com/card/?search=Pikari%20@Ignister) | Illegal | Unlimited | 0.50 |
 |[Plaguespreader Zombie](https://db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie) | Illegal | Unlimited | 0.49 |
+|[Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | Illegal | Unlimited | 0.25 |
 |[Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | Illegal | Unlimited | 0.43 |
 |[Princess Curran](https://db.ygoprodeck.com/card/?search=Princess%20Curran) | Illegal | Unlimited | 0.24 |
 |[Princess Pikeru](https://db.ygoprodeck.com/card/?search=Princess%20Pikeru) | Illegal | Unlimited | 0.29 |
@@ -220,6 +226,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 |[Tearlaments Scheiren](https://db.ygoprodeck.com/card/?search=Tearlaments%20Scheiren) | Illegal | Unlimited | 0.46 |
 |[The King of D.](https://db.ygoprodeck.com/card/?search=The%20King%20of%20D.) | Illegal | Unlimited | 0.19 |
 |[The Unhappy Girl](https://db.ygoprodeck.com/card/?search=The%20Unhappy%20Girl) | Illegal | Unlimited | 0.43 |
+|[Thunderclap Skywolf](https://db.ygoprodeck.com/card/?search=Thunderclap%20Skywolf) | Illegal | Unlimited | 0.25 |
 |[Time Stream](https://db.ygoprodeck.com/card/?search=Time%20Stream) | Illegal | Unlimited | 0.45 |
 |[Tin Goldfish](https://db.ygoprodeck.com/card/?search=Tin%20Goldfish) | Illegal | Unlimited | 0.40 |
 |[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited | 0.25 |
