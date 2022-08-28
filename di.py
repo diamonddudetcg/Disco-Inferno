@@ -1,7 +1,7 @@
 import urllib.request, json, operator, os, time, datetime, random
 from os.path import exists
 from datetime import date
-from apscheduler.schedulers.background import BlockingScheduler
+from apscheduler.schedulers.background import BackgroundScheduler
 import sys
 import subprocess
 sys.stdout.reconfigure(encoding='utf-8')
@@ -272,6 +272,7 @@ def generatePriceDifferences():
 							diffCard[PRICE] = cardData1.get(PRICE)
 							priceDifferences.append(diffCard)
 							found = True
+					previousPriceData.get(DATA).remove(cardData2)
 					break
 			
 			if not found:
@@ -375,7 +376,8 @@ def buildEverything():
 
 buildEverything()
 
-sched = BlockingScheduler()
-sched.daemonic = False
-sched.add_job(buildEverything, 'interval', minutes=5)
-sched.start()
+if not commit:
+	sched = BackgroundScheduler()
+	sched.daemonic = False
+	sched.add_job(buildEverything, 'interval', minutes=5)
+	sched.start()
