@@ -184,7 +184,7 @@ def buildEverything():
 					if entry.get(NAME) == card.get(NAME):
 						previousAverage = entry.get(PRICE)
 						newAverage = (previousAverage * runs + avgPrice)/(runs+1)
-						entry[PRICE] = newAverage
+						entry[PRICE] = float("{:.2f}".format(newAverage))
 						entry[STATUS] = banTcg
 
 	cards = jsonData.get(DATA)
