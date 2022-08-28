@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 317
+Estimated number of changes: 318
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -261,6 +261,7 @@ Estimated number of changes: 317
 |[Satellite Warrior](https://db.ygoprodeck.com/card/?search=Satellite%20Warrior) | Illegal | Unlimited |
 |[Sauravis, the Ancient and Ascended](https://db.ygoprodeck.com/card/?search=Sauravis,%20the%20Ancient%20and%20Ascended) | Illegal | Unlimited |
 |[Scrubbed Raid](https://db.ygoprodeck.com/card/?search=Scrubbed%20Raid) | Illegal | Unlimited |
+|[Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | Illegal | Unlimited |
 |[Sekka's Light](https://db.ygoprodeck.com/card/?search=Sekka's%20Light) | Limited | Unlimited |
 |[Servant of Endymion](https://db.ygoprodeck.com/card/?search=Servant%20of%20Endymion) | Limited | Unlimited |
 |[Serziel, Watcher of the Evil Eye](https://db.ygoprodeck.com/card/?search=Serziel,%20Watcher%20of%20the%20Evil%20Eye) | Illegal | Unlimited |

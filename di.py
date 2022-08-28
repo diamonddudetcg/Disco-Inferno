@@ -69,6 +69,15 @@ previousDataPath = 'json/previous.json'
 differencesPath = 'docs/differences.md'
 closePricesPath = 'docs/closeprices.md'
 
+banlist = []
+additionalForbidden = []
+additionalLimited = []
+additionalSemiLimited = []
+additionalUnlimited = []
+forceLegal = []
+forceIllegal = []
+additionalRemovedIds = []
+
 def getCardStatusAsString(cardStatus):
 	cardStatusAsText = "Unlimited"
 	if (cardStatus == -3):
@@ -88,7 +97,60 @@ def getCardStatusAsString(cardStatus):
 def getCardUrl(cardName):
 	return "https://db.ygoprodeck.com/card/?search=%s"%cardName.replace(" ", "%20").replace("&", "%26")
 
-def buildEverything():
+def getBanInfo(card):
+	banTcg = 3
+	banInfo = card.get(BANLIST_INFO)
+	if (banInfo == None):
+		banTcg = 3	
+	if (banInfo != None):
+		banlistStatus = banInfo.get(BAN_TCG)
+		if (banlistStatus == None):
+			banTcg = 3
+		if (banlistStatus == BANNED):
+			banTcg = 0
+		if (banlistStatus == LIMITED):
+			banTcg = 1
+		if (banlistStatus == SEMI):
+			banTcg = 2
+		if (banlistStatus == UNLIMITED):
+			banTcg = 3
+		cardName = card.get(NAME)
+		if cardName in additionalForbidden:
+			banTcg = 0
+		if cardName in additionalLimited:
+			banTcg = 1
+		if cardName in additionalSemiLimited:
+			banTcg = 2
+		if cardName in additionalUnlimited:
+			banTcg = 3
+		if cardName in forceIllegal:
+			banTcg = -1
+		return banTcg
+
+def getCardPrice(card):
+	cardPrices = card.get(CARD_PRICES)[0]
+	tcgplayerPrice = float(cardPrices.get(TCGPLAYER_PRICE))
+	cardmarketPrice = float(cardPrices.get(CARDMARKET_PRICE))
+	avgPrice = min(tcgplayerPrice, cardmarketPrice)
+	if (avgPrice == 0):
+		avgPrice = (tcgplayerPrice + cardmarketPrice)/2
+	if cardName in forceLegal:
+		if (avgPrice > 1):
+			avgPrice -=1
+		else:
+			avgPrice /=2
+	return avgPrice
+
+def loadConstants():
+	global banlist
+	global additionalForbidden
+	global additionalLimited
+	global additionalSemiLimited
+	global additionalUnlimited
+	global forceLegal
+	global forceIllegal
+	global additionalRemovedIds
+	global jsonData
 
 	with open(diBanlistPath) as banlistFile:
 		banlist = json.load(banlistFile)
@@ -105,6 +167,10 @@ def buildEverything():
 		with open(jsonPath) as file:
 			jsonData = json.load(file)
 
+def buildEverything():
+
+	loadConstants()
+
 	runs = jsonData.get(PREVIOUS_RUNS)
 	jsonData[PREVIOUS_RUNS] = (runs + 1)
 
@@ -120,55 +186,14 @@ def buildEverything():
 				continue
 
 			cardName = card.get(NAME)
-
 			images = card.get(CARD_IMAGES)
-			cardPrices = card.get(CARD_PRICES)[0]
-			tcgplayerPrice = float(cardPrices.get(TCGPLAYER_PRICE))
-			cardmarketPrice = float(cardPrices.get(CARDMARKET_PRICE))
-			avgPrice = min(tcgplayerPrice, cardmarketPrice)
-			if (avgPrice == 0):
-				avgPrice = (tcgplayerPrice + cardmarketPrice)/2
 
-			banInfo = card.get(BANLIST_INFO)
-
-			banTcg = 3
-			if (banInfo == None):
-				banTcg = 3	
-			if (banInfo != None):
-				banlistStatus = banInfo.get(BAN_TCG)
-				if (banlistStatus == None):
-					banTcg = 3
-				if (banlistStatus == BANNED):
-					banTcg = 0
-				if (banlistStatus == LIMITED):
-					banTcg = 1
-				if (banlistStatus == SEMI):
-					banTcg = 2
-				if (banlistStatus == UNLIMITED):
-					banTcg = 3
-
-			if cardName in additionalForbidden:
-				banTcg = 0
-			if cardName in additionalLimited:
-				banTcg = 1
-			if cardName in additionalSemiLimited:
-				banTcg = 2
-			if cardName in additionalUnlimited:
-				banTcg = 3
-			if cardName in forceIllegal:
-				banTcg = -1
-
-
-			if cardName in forceLegal:
-				if (avgPrice > 1):
-					avgPrice -=1
-				else:
-					avgPrice /=2
+			avgPrice = getPrice(card)
+			banTcg = getBanInfo(card)
 
 			if runs == 0:
 				newAverage = avgPrice
 				ids = []
-
 
 				for variant in images:
 					ids.append(variant.get(CARD_ID))
@@ -178,7 +203,6 @@ def buildEverything():
 				entry[PRICE] = newAverage
 				entry[STATUS] = banTcg
 				jsonData[DATA].append(entry)
-
 			else:
 				for entry in jsonData.get(DATA):
 					if entry.get(NAME) == card.get(NAME):

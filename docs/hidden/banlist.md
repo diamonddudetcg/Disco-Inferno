@@ -1417,7 +1417,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Second Coin Toss](https://db.ygoprodeck.com/card/?search=Second%20Coin%20Toss) | Illegal |
 | [Secret Barrel](https://db.ygoprodeck.com/card/?search=Secret%20Barrel) | Illegal |
 | [Secret Six Samurai - Doji](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Doji) | Illegal |
-| [Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | Illegal |
 | [Secret Six Samurai - Hatsume](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Hatsume) | Illegal |
 | [Secret Six Samurai - Kizaru](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Kizaru) | Illegal |
 | [Secret Six Samurai - Rihan](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Rihan) | Illegal |
@@ -9214,6 +9213,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Secret Sect Druid Dru](https://db.ygoprodeck.com/card/?search=Secret%20Sect%20Druid%20Dru) | Unlimited |
 | [Secret Sect Druid Wid](https://db.ygoprodeck.com/card/?search=Secret%20Sect%20Druid%20Wid) | Unlimited |
 | [Secret Six Samurai - Fuma](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Fuma) | Unlimited |
+| [Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | Unlimited |
 | [Secret Skills of the Six Samurai](https://db.ygoprodeck.com/card/?search=Secret%20Skills%20of%20the%20Six%20Samurai) | Unlimited |
 | [Secrets of Dark Magic](https://db.ygoprodeck.com/card/?search=Secrets%20of%20Dark%20Magic) | Unlimited |
 | [Secrets of the Gallant](https://db.ygoprodeck.com/card/?search=Secrets%20of%20the%20Gallant) | Unlimited |
