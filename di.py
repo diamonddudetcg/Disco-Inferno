@@ -272,7 +272,6 @@ def generatePriceDifferences():
 							diffCard[PRICE] = cardData1.get(PRICE)
 							priceDifferences.append(diffCard)
 							found = True
-					previousPriceData.get(DATA).remove(cardData2)
 					break
 			
 			if not found:
@@ -376,7 +375,7 @@ def buildEverything():
 
 buildEverything()
 
-if not commit:
+if commit:
 	sched = BackgroundScheduler()
 	sched.daemonic = False
 	sched.add_job(buildEverything, 'interval', minutes=5)
