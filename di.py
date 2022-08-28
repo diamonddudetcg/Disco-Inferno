@@ -95,7 +95,8 @@ def getCardStatusAsString(cardStatus):
 	return cardStatusAsText
 
 def getCardUrl(cardName):
-	return "https://db.ygoprodeck.com/card/?search=%s"%cardName.replace(" ", "%20").replace("&", "%26")
+	sanitizedCardName = cardName.replace(" ", "%20").replace("&", "%26")
+	return "https://db.ygoprodeck.com/card/?search=%s"%sanitizedCardName
 
 def getBanInfo(card):
 	banTcg = 3
@@ -167,60 +168,12 @@ def loadConstants():
 		with open(jsonPath) as file:
 			jsonData = json.load(file)
 
-def buildEverything():
-
-	loadConstants()
-
-	runs = jsonData.get(PREVIOUS_RUNS)
-	jsonData[PREVIOUS_RUNS] = (runs + 1)
-
+def getCardsFromAPI():
 	with urllib.request.urlopen(request) as url:
-		
 		cards = json.loads(url.read().decode()).get(DATA)
-		
-		for card in cards:
+		return cards
 
-			if card.get(CARD_SETS) == None:
-				continue
-			if card.get(CARD_TYPE) == SKILL or card.get(CARD_TYPE) == TOKEN:
-				continue
-
-			cardName = card.get(NAME)
-			images = card.get(CARD_IMAGES)
-
-			avgPrice = getPrice(card)
-			banTcg = getBanInfo(card)
-
-			if runs == 0:
-				newAverage = avgPrice
-				ids = []
-
-				for variant in images:
-					ids.append(variant.get(CARD_ID))
-				entry = {}
-				entry[NAME] = cardName
-				entry[CARD_IDS] = ids
-				entry[PRICE] = newAverage
-				entry[STATUS] = banTcg
-				jsonData[DATA].append(entry)
-			else:
-				for entry in jsonData.get(DATA):
-					if entry.get(NAME) == card.get(NAME):
-						previousAverage = entry.get(PRICE)
-						newAverage = (previousAverage * runs + avgPrice)/(runs+1)
-						entry[PRICE] = float("{:.2f}".format(newAverage))
-						entry[STATUS] = banTcg
-						break
-
-	cards = jsonData.get(DATA)
-
-	for card in cards:
-		cardName = card.get(NAME)
-		if card[PRICE] > cutoffPoint:
-			card[STATUS] = -1
-		if cardName in forceIllegal:
-			card[STATUS] = -1
-
+def buildLflist(cards):
 	with open(banlistPath, 'w', encoding="utf-8") as outfile:
 		outfile.write("#[Disco Inferno]\n")
 		outfile.write("!Disco Inferno %s\n\n" % today.strftime("%m.%Y"))
@@ -238,20 +191,76 @@ def buildEverything():
 				except TypeError:
 					print(card)
 
-
+def dumpJson():
 	with open(jsonPath, 'w', encoding="utf-8") as file:
 		json.dump(jsonData, file, indent=4)
 
+def applyCutOff(cards):
+	for card in cards:
+		cardName = card.get(NAME)
+		if card[PRICE] > cutoffPoint:
+			card[STATUS] = -1
+		if cardName in forceIllegal:
+			card[STATUS] = -1
+
+def generatePriceData(cards):
+	for card in cards:
+		if card.get(CARD_SETS) == None:
+			continue
+		if card.get(CARD_TYPE) == SKILL or card.get(CARD_TYPE) == TOKEN:
+			continue
+
+		cardName = card.get(NAME)
+		images = card.get(CARD_IMAGES)
+
+		avgPrice = getPrice(card)
+		banTcg = getBanInfo(card)
+
+		if runs == 0:
+			newAverage = avgPrice
+			ids = []
+
+			for variant in images:
+				ids.append(variant.get(CARD_ID))
+			entry = {}
+			entry[NAME] = cardName
+			entry[CARD_IDS] = ids
+			entry[PRICE] = newAverage
+			entry[STATUS] = banTcg
+			jsonData[DATA].append(entry)
+		else:
+			for entry in jsonData.get(DATA):
+				if entry.get(NAME) == card.get(NAME):
+					previousAverage = entry.get(PRICE)
+					newAverage = (previousAverage * runs + avgPrice)/(runs+1)
+					entry[PRICE] = float("{:.2f}".format(newAverage))
+					entry[STATUS] = banTcg
+					break
+
+def buildEverything():
+
+	loadConstants()
+
+	runs = jsonData.get(PREVIOUS_RUNS)
+	jsonData[PREVIOUS_RUNS] = (runs + 1)
+
+	cards = getCardsFromAPI()
+
+	generatePriceData(cards)
+
+	cards = jsonData.get(DATA)
+
+	applyCutOff(cards)
+
+	buildLflist(cards)
+
 	with open(previousDataPath) as file:
 		previousPriceData = json.load(file)
-
-	with open(differencesPath, 'w', encoding="utf-8") as outfile:
 		cardDifferences = []
 		previousPrice = 0
 		newPrice = 0
 		for cardData1 in jsonData.get(DATA):
 			found = False
-			
 			for cardData2 in previousPriceData.get(DATA):
 				if (cardData1.get(NAME) == cardData2.get(NAME)):
 					previousStatus = cardData2.get(STATUS)
@@ -280,7 +289,9 @@ def buildEverything():
 					diffCard[NAME] = cardData1.get(NAME)
 					diffCard[STATUS] = cardData1.get(STATUS)
 					diffCard[PREVIOUS_STATUS] = -3
+					cardDifferences.append(diffCard)
 
+	with open(differencesPath, 'w', encoding="utf-8") as outfile:
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
 		outfile.write("\n\nPlease keep in mind these changes are not definitive and are only based on past prices. We cannot predict the future changes in the market.")
