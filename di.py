@@ -3,6 +3,7 @@ from os.path import exists
 from datetime import date
 from apscheduler.schedulers.background import BlockingScheduler
 import sys
+import subprocess
 sys.stdout.reconfigure(encoding='utf-8')
 
 header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ' 
@@ -260,17 +261,6 @@ def buildEverything():
 					diffCard[STATUS] = cardData1.get(STATUS)
 					diffCard[PREVIOUS_STATUS] = -3
 
-		ratio = newPrice / previousPrice
-
-		if ratio > 1:
-			ratio-=1
-			print("Average card price went up by %.2f%%"%(ratio * 100), flush=True)
-		elif ratio == 1:
-			print("Average card price stayed exactly the same", flush=True)
-		elif ratio < 1:
-			ratio = 1 - ratio
-			print("Average card price went down by %.2f%%"%(ratio * 100), flush=True)
-
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
 		outfile.write("\n\nPlease keep in mind these changes are not definitive and are only based on past prices. We cannot predict the future changes in the market.")
@@ -344,11 +334,12 @@ def buildEverything():
 
 		outfile.write("\n\n###### [Back home](index)")
 
-	print("Executed a run", flush=True)
 
-	os.system('git add .')
-	os.system('git commit -m \"%s\"'%formatted)
-	os.system('git push')
+	subprocess.call('git add .')
+	subprocess.call('git commit -m \"%s\"'%formatted)
+	subprocess.call('git push')
+
+	print("Executed a run", flush=True)
 
 buildEverything()
 
