@@ -1,5 +1,5 @@
 {
-    "previousRuns": 142,
+    "previousRuns": 143,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -10374,7 +10374,7 @@
             ],
             "price": 0.88,
             "status": -1,
-            "last_price": 0.88
+            "last_price": 0.44
         },
         {
             "name": "Borrelend Dragon",
@@ -12886,9 +12886,9 @@
             "ids": [
                 48589580
             ],
-            "price": 1.36,
+            "price": 1.35,
             "status": -1,
-            "last_price": 1.36
+            "last_price": 0.36
         },
         {
             "name": "Celestial Observatory",
@@ -15223,7 +15223,7 @@
             ],
             "price": 1.0,
             "status": -1,
-            "last_price": 1.0
+            "last_price": 0.5
         },
         {
             "name": "Condemned Maiden",
@@ -16429,7 +16429,7 @@
             ],
             "price": 0.69,
             "status": -1,
-            "last_price": 0.69
+            "last_price": 0.34
         },
         {
             "name": "Cross-Sword Beetle",
@@ -25145,9 +25145,9 @@
             "ids": [
                 146746
             ],
-            "price": 1.51,
+            "price": 1.5,
             "status": -1,
-            "last_price": 1.51
+            "last_price": 0.51
         },
         {
             "name": "Double Hero Attack",
@@ -43568,7 +43568,7 @@
             ],
             "price": 0.9,
             "status": -1,
-            "last_price": 0.9
+            "last_price": 0.45
         },
         {
             "name": "Hibernation Dragon",
@@ -55681,7 +55681,7 @@
             "ids": [
                 43735670
             ],
-            "price": 1.44,
+            "price": 1.43,
             "status": -1,
             "last_price": 0.46
         },
@@ -59258,7 +59258,7 @@
             ],
             "price": 0.7,
             "status": -1,
-            "last_price": 0.7
+            "last_price": 0.35
         },
         {
             "name": "Mist Archfiend",
@@ -93844,9 +93844,9 @@
             "ids": [
                 47163170
             ],
-            "price": 1.03,
+            "price": 1.02,
             "status": -1,
-            "last_price": 1.03
+            "last_price": 0.03
         },
         {
             "name": "Tri-Brigade Ferrijit the Barren Blossom",
@@ -94276,7 +94276,7 @@
             "ids": [
                 14365823
             ],
-            "price": 1.51,
+            "price": 1.5,
             "status": -1,
             "last_price": 0.52
         },
@@ -101791,7 +101791,7 @@
             ],
             "price": 0.9,
             "status": -1,
-            "last_price": 0.9
+            "last_price": 0.45
         },
         {
             "name": "Xtra HERO Infernal Devicer",
@@ -101807,7 +101807,7 @@
             "ids": [
                 1948619
             ],
-            "price": 1.32,
+            "price": 1.31,
             "status": -1,
             "last_price": 0.33
         },
