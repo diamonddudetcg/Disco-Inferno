@@ -43,6 +43,7 @@ CARD_IDS = 'ids'
 STATUS = 'status'
 PREVIOUS_STATUS = 'previous_status'
 PRICE = 'price'
+LAST_PRICE = 'last_price'
 PREVIOUS_RUNS = 'previousRuns'
 
 #Banlist status
@@ -231,6 +232,7 @@ def generatePriceData(cards):
 			entry[NAME] = cardName
 			entry[CARD_IDS] = ids
 			entry[PRICE] = newAverage
+			entry[LAST_PRICE] = newAverage
 			entry[STATUS] = banTcg
 			jsonData[DATA].append(entry)
 		else:
@@ -239,8 +241,10 @@ def generatePriceData(cards):
 					previousAverage = entry.get(PRICE)
 					newAverage = (previousAverage * runs + avgPrice)/(runs+1)
 					entry[PRICE] = float("{:.2f}".format(newAverage))
+					entry[LAST_PRICE] = float("{:.2f}".format(avgPrice))
 					entry[STATUS] = banTcg
 					break
+
 
 def generatePriceDifferences():
 	priceDifferences = []
