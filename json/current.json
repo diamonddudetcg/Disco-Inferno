@@ -1,5 +1,5 @@
 {
-    "previousRuns": 102,
+    "previousRuns": 103,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -351,7 +351,7 @@
                 1966438
             ],
             "price": 0.54,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Abomination's Prison",
@@ -928,7 +928,7 @@
                 9464441
             ],
             "price": 0.56,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Adamancipator Risen - Leonite",
@@ -2040,7 +2040,7 @@
             "ids": [
                 662855
             ],
-            "price": 23.96,
+            "price": 23.97,
             "status": -1
         },
         {
@@ -23134,7 +23134,7 @@
                 53184342
             ],
             "price": 0.98,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Dragunity Arma Leyvaten",
@@ -23190,7 +23190,7 @@
                 60004971
             ],
             "price": 0.6,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Dragunity Draft",
@@ -29058,7 +29058,7 @@
                 99267150,
                 99267151
             ],
-            "price": 1.15,
+            "price": 1.14,
             "status": 3
         },
         {
@@ -57473,7 +57473,7 @@
                 56832966
             ],
             "price": 0.59,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Number Wall",
@@ -68140,7 +68140,7 @@
             "ids": [
                 92107604
             ],
-            "price": 16.45,
+            "price": 16.46,
             "status": -1
         },
         {
@@ -69045,7 +69045,7 @@
             "ids": [
                 662853
             ],
-            "price": 14.88,
+            "price": 14.89,
             "status": -1
         },
         {
@@ -70910,7 +70910,7 @@
             "ids": [
                 27416701
             ],
-            "price": 29.5,
+            "price": 29.51,
             "status": -1
         },
         {
@@ -79649,7 +79649,7 @@
             "ids": [
                 501000004
             ],
-            "price": 236.56,
+            "price": 236.65,
             "status": -1
         },
         {
@@ -85010,7 +85010,7 @@
             "ids": [
                 501000000
             ],
-            "price": 96.08,
+            "price": 96.12,
             "status": -1
         },
         {
@@ -89849,7 +89849,7 @@
                 87571563
             ],
             "price": 0.59,
-            "status": -1
+            "status": 3
         },
         {
             "name": "World Legacy Guardragon Mardark",

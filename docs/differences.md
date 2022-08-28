@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 281
+Estimated number of changes: 287
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -31,8 +31,10 @@ Estimated number of changes: 281
 |[Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | Forbidden | Limited |
 |[Salamangreat Gazelle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Gazelle) | Limited | Semi-Limited |
 |[A Cat of Ill Omen](https://db.ygoprodeck.com/card/?search=A%20Cat%20of%20Ill%20Omen) | Illegal | Unlimited |
+|[Abominable Unchained Soul](https://db.ygoprodeck.com/card/?search=Abominable%20Unchained%20Soul) | Illegal | Unlimited |
 |[Achichi @Ignister](https://db.ygoprodeck.com/card/?search=Achichi%20@Ignister) | Illegal | Unlimited |
 |[Ad Libitum of Despia](https://db.ygoprodeck.com/card/?search=Ad%20Libitum%20of%20Despia) | Illegal | Unlimited |
+|[Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | Illegal | Unlimited |
 |[Alien Warrior](https://db.ygoprodeck.com/card/?search=Alien%20Warrior) | Illegal | Unlimited |
 |[Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | Illegal | Unlimited |
 |[Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | Illegal | Unlimited |
@@ -84,6 +86,8 @@ Estimated number of changes: 281
 |[Draco Face-Off](https://db.ygoprodeck.com/card/?search=Draco%20Face-Off) | Limited | Unlimited |
 |[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | Illegal | Unlimited |
 |[Dragonmaid Ernus](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Ernus) | Illegal | Unlimited |
+|[Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | Illegal | Unlimited |
+|[Dragunity Divine Lance](https://db.ygoprodeck.com/card/?search=Dragunity%20Divine%20Lance) | Illegal | Unlimited |
 |[Dragunity Glow](https://db.ygoprodeck.com/card/?search=Dragunity%20Glow) | Illegal | Unlimited |
 |[Earthbound Immortal Aslla piscu](https://db.ygoprodeck.com/card/?search=Earthbound%20Immortal%20Aslla%20piscu) | Illegal | Unlimited |
 |[Ebon Illusion Magician](https://db.ygoprodeck.com/card/?search=Ebon%20Illusion%20Magician) | Illegal | Unlimited |
@@ -192,6 +196,7 @@ Estimated number of changes: 281
 |[Number 99: Utopia Dragonar](https://db.ygoprodeck.com/card/?search=Number%2099:%20Utopia%20Dragonar) | Illegal | Unlimited |
 |[Number C40: Gimmick Puppet of Dark Strings](https://db.ygoprodeck.com/card/?search=Number%20C40:%20Gimmick%20Puppet%20of%20Dark%20Strings) | Illegal | Unlimited |
 |[Number S39: Utopia Prime](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20Prime) | Illegal | Unlimited |
+|[Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | Illegal | Unlimited |
 |[Odd-Eyes Rebellion Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Rebellion%20Dragon) | Illegal | Unlimited |
 |[Odd-Eyes Revolution Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Revolution%20Dragon) | Illegal | Unlimited |
 |[Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | Illegal | Unlimited |
@@ -289,6 +294,7 @@ Estimated number of changes: 281
 |[White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Illegal | Unlimited |
 |[Winged Kuriboh LV10](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10) | Illegal | Unlimited |
 |[Witchcrafter Pittore](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Pittore) | Illegal | Unlimited |
+|[World Legacy Guardragon](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Guardragon) | Illegal | Unlimited |
 |[Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | Illegal | Unlimited |
 |[XX-Saber Boggart Knight](https://db.ygoprodeck.com/card/?search=XX-Saber%20Boggart%20Knight) | Illegal | Unlimited |
 |[Yellow Ninja](https://db.ygoprodeck.com/card/?search=Yellow%20Ninja) | Illegal | Unlimited |
