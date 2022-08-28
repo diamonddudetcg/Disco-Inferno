@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 287
+Estimated number of changes: 297
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -34,6 +34,7 @@ Estimated number of changes: 287
 |[Abominable Unchained Soul](https://db.ygoprodeck.com/card/?search=Abominable%20Unchained%20Soul) | Illegal | Unlimited |
 |[Achichi @Ignister](https://db.ygoprodeck.com/card/?search=Achichi%20@Ignister) | Illegal | Unlimited |
 |[Ad Libitum of Despia](https://db.ygoprodeck.com/card/?search=Ad%20Libitum%20of%20Despia) | Illegal | Unlimited |
+|[Adamancipator Researcher](https://db.ygoprodeck.com/card/?search=Adamancipator%20Researcher) | Illegal | Unlimited |
 |[Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | Illegal | Unlimited |
 |[Alien Warrior](https://db.ygoprodeck.com/card/?search=Alien%20Warrior) | Illegal | Unlimited |
 |[Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | Illegal | Unlimited |
@@ -49,10 +50,12 @@ Estimated number of changes: 287
 |[Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal | Unlimited |
 |[Beatrice, Lady of the Eternal](https://db.ygoprodeck.com/card/?search=Beatrice,%20Lady%20of%20the%20Eternal) | Limited | Unlimited |
 |[Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | Illegal | Unlimited |
+|[Black Metal Dragon](https://db.ygoprodeck.com/card/?search=Black%20Metal%20Dragon) | Illegal | Unlimited |
 |[Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gram%20the%20Shining%20Star) | Illegal | Unlimited |
 |[Blackwing Armed Wing](https://db.ygoprodeck.com/card/?search=Blackwing%20Armed%20Wing) | Illegal | Unlimited |
 |[Blocker](https://db.ygoprodeck.com/card/?search=Blocker) | Illegal | Unlimited |
 |[Catapult Warrior](https://db.ygoprodeck.com/card/?search=Catapult%20Warrior) | Illegal | Unlimited |
+|[Charge of the Light Brigade](https://db.ygoprodeck.com/card/?search=Charge%20of%20the%20Light%20Brigade) | Illegal | Unlimited |
 |[Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | Illegal | Unlimited |
 |[Cosmic Cyclone](https://db.ygoprodeck.com/card/?search=Cosmic%20Cyclone) | Illegal | Unlimited |
 |[Cosmic Horror Gangi'el](https://db.ygoprodeck.com/card/?search=Cosmic%20Horror%20Gangi'el) | Illegal | Unlimited |
@@ -83,6 +86,7 @@ Estimated number of changes: 287
 |[Dinomight Knight, the True Dracofighter](https://db.ygoprodeck.com/card/?search=Dinomight%20Knight,%20the%20True%20Dracofighter) | Semi-Limited | Unlimited |
 |[Divine Dragon - Excelion](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20-%20Excelion) | Illegal | Unlimited |
 |[Divine Wind of Mist Valley](https://db.ygoprodeck.com/card/?search=Divine%20Wind%20of%20Mist%20Valley) | Limited | Unlimited |
+|[Dogmatika Punishment](https://db.ygoprodeck.com/card/?search=Dogmatika%20Punishment) | Illegal | Unlimited |
 |[Draco Face-Off](https://db.ygoprodeck.com/card/?search=Draco%20Face-Off) | Limited | Unlimited |
 |[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | Illegal | Unlimited |
 |[Dragonmaid Ernus](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Ernus) | Illegal | Unlimited |
@@ -173,6 +177,7 @@ Estimated number of changes: 287
 |[Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Forbidden | Unlimited |
 |[Metalsilver Armor](https://db.ygoprodeck.com/card/?search=Metalsilver%20Armor) | Illegal | Unlimited |
 |[Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Limited | Unlimited |
+|[Minerva, Lightsworn Maiden](https://db.ygoprodeck.com/card/?search=Minerva,%20Lightsworn%20Maiden) | Illegal | Unlimited |
 |[Miscellaneousaurus](https://db.ygoprodeck.com/card/?search=Miscellaneousaurus) | Limited | Unlimited |
 |[Mist Valley Apex Avian](https://db.ygoprodeck.com/card/?search=Mist%20Valley%20Apex%20Avian) | Illegal | Unlimited |
 |[Monster Gate](https://db.ygoprodeck.com/card/?search=Monster%20Gate) | Limited | Unlimited |
@@ -191,6 +196,7 @@ Estimated number of changes: 287
 |[Number 32: Shark Drake](https://db.ygoprodeck.com/card/?search=Number%2032:%20Shark%20Drake) | Illegal | Unlimited |
 |[Number 53: Heart-eartH](https://db.ygoprodeck.com/card/?search=Number%2053:%20Heart-eartH) | Illegal | Unlimited |
 |[Number 6: Chronomaly Atlandis](https://db.ygoprodeck.com/card/?search=Number%206:%20Chronomaly%20Atlandis) | Illegal | Unlimited |
+|[Number 70: Malevolent Sin](https://db.ygoprodeck.com/card/?search=Number%2070:%20Malevolent%20Sin) | Illegal | Unlimited |
 |[Number 8: Heraldic King Genom-Heritage](https://db.ygoprodeck.com/card/?search=Number%208:%20Heraldic%20King%20Genom-Heritage) | Illegal | Unlimited |
 |[Number 97: Draglubion](https://db.ygoprodeck.com/card/?search=Number%2097:%20Draglubion) | Illegal | Unlimited |
 |[Number 99: Utopia Dragonar](https://db.ygoprodeck.com/card/?search=Number%2099:%20Utopia%20Dragonar) | Illegal | Unlimited |
@@ -224,6 +230,7 @@ Estimated number of changes: 287
 |[Raidraptor - Necro Vulture](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Necro%20Vulture) | Illegal | Unlimited |
 |[Reasoning](https://db.ygoprodeck.com/card/?search=Reasoning) | Limited | Unlimited |
 |[Red Resonator](https://db.ygoprodeck.com/card/?search=Red%20Resonator) | Illegal | Unlimited |
+|[Red-Eyes Black Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Dragon) | Illegal | Unlimited |
 |[Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | Illegal | Unlimited |
 |[Red-Eyes Wyvern](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern) | Illegal | Unlimited |
 |[Runick Allure](https://db.ygoprodeck.com/card/?search=Runick%20Allure) | Illegal | Unlimited |
@@ -241,6 +248,7 @@ Estimated number of changes: 287
 |[Scrubbed Raid](https://db.ygoprodeck.com/card/?search=Scrubbed%20Raid) | Illegal | Unlimited |
 |[Sekka's Light](https://db.ygoprodeck.com/card/?search=Sekka's%20Light) | Limited | Unlimited |
 |[Servant of Endymion](https://db.ygoprodeck.com/card/?search=Servant%20of%20Endymion) | Limited | Unlimited |
+|[Serziel, Watcher of the Evil Eye](https://db.ygoprodeck.com/card/?search=Serziel,%20Watcher%20of%20the%20Evil%20Eye) | Illegal | Unlimited |
 |[Seven Swords Warrior](https://db.ygoprodeck.com/card/?search=Seven%20Swords%20Warrior) | Illegal | Unlimited |
 |[Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | Illegal | Unlimited |
 |[Shien's Dojo](https://db.ygoprodeck.com/card/?search=Shien's%20Dojo) | Illegal | Unlimited |
@@ -251,6 +259,7 @@ Estimated number of changes: 287
 |[Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | Illegal | Unlimited |
 |[Sky Striker Mecha Modules - Multirole](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20Modules%20-%20Multirole) | Limited | Unlimited |
 |[Slash Draw](https://db.ygoprodeck.com/card/?search=Slash%20Draw) | Limited | Unlimited |
+|[Solar Recharge](https://db.ygoprodeck.com/card/?search=Solar%20Recharge) | Illegal | Unlimited |
 |[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Illegal | Unlimited |
 |[Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | Illegal | Unlimited |
 |[Spiritualism](https://db.ygoprodeck.com/card/?search=Spiritualism) | Illegal | Unlimited |
@@ -299,5 +308,6 @@ Estimated number of changes: 287
 |[XX-Saber Boggart Knight](https://db.ygoprodeck.com/card/?search=XX-Saber%20Boggart%20Knight) | Illegal | Unlimited |
 |[Yellow Ninja](https://db.ygoprodeck.com/card/?search=Yellow%20Ninja) | Illegal | Unlimited |
 |[Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | Illegal | Unlimited |
+|[Zoodiac Whiptail](https://db.ygoprodeck.com/card/?search=Zoodiac%20Whiptail) | Illegal | Unlimited |
 
 ###### [Back home](index)

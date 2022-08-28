@@ -1,5 +1,5 @@
 {
-    "previousRuns": 103,
+    "previousRuns": 104,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -912,7 +912,7 @@
                 85914562
             ],
             "price": 0.73,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Adamancipator Resonance",
@@ -2040,7 +2040,7 @@
             "ids": [
                 662855
             ],
-            "price": 23.97,
+            "price": 23.98,
             "status": -1
         },
         {
@@ -7677,7 +7677,7 @@
                 93969023
             ],
             "price": 0.59,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Black Pendant",
@@ -12093,7 +12093,7 @@
                 94886282
             ],
             "price": 0.56,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Charged-Up Heraldry",
@@ -21902,7 +21902,7 @@
                 82956214
             ],
             "price": 0.56,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Dogmatika Theo, the Iron Punch",
@@ -29058,7 +29058,7 @@
                 99267150,
                 99267151
             ],
-            "price": 1.14,
+            "price": 1.13,
             "status": 3
         },
         {
@@ -52292,7 +52292,7 @@
                 40164421
             ],
             "price": 0.99,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Minerva, Scholar of the Sky",
@@ -56945,7 +56945,7 @@
                 80796456
             ],
             "price": 0.57,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Number 71: Rebarian Shark",
@@ -65817,7 +65817,7 @@
                 74677427
             ],
             "price": 0.57,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Red-Eyes Black Dragon Sword",
@@ -68140,7 +68140,7 @@
             "ids": [
                 92107604
             ],
-            "price": 16.46,
+            "price": 16.47,
             "status": -1
         },
         {
@@ -69045,7 +69045,7 @@
             "ids": [
                 662853
             ],
-            "price": 14.89,
+            "price": 14.9,
             "status": -1
         },
         {
@@ -70511,7 +70511,7 @@
                 82466274
             ],
             "price": 0.6,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Set Rotation",
@@ -70910,7 +70910,7 @@
             "ids": [
                 27416701
             ],
-            "price": 29.51,
+            "price": 29.52,
             "status": -1
         },
         {
@@ -73002,7 +73002,7 @@
                 691925
             ],
             "price": 0.62,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Solar Wind Jammer",
@@ -79649,7 +79649,7 @@
             "ids": [
                 501000004
             ],
-            "price": 236.65,
+            "price": 236.74,
             "status": -1
         },
         {
@@ -85010,7 +85010,7 @@
             "ids": [
                 501000000
             ],
-            "price": 96.12,
+            "price": 96.16,
             "status": -1
         },
         {
@@ -92003,7 +92003,7 @@
                 31755044
             ],
             "price": 0.56,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Zoroa, the Magistus Conflagrant Calamity",
