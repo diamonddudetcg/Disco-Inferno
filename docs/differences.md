@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 325
+Estimated number of changes: 326
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -109,6 +109,7 @@ Estimated number of changes: 325
 |[Ebon Illusion Magician](https://db.ygoprodeck.com/card/?search=Ebon%20Illusion%20Magician) | Illegal | Unlimited |
 |[Elemental Absorber](https://db.ygoprodeck.com/card/?search=Elemental%20Absorber) | Illegal | Unlimited |
 |[Elemental HERO Captain Gold](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Captain%20Gold) | Illegal | Unlimited |
+|[Elemental HERO Grandmerge](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Grandmerge) | Illegal | Unlimited |
 |[Elemental HERO Shining Neos Wingman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Shining%20Neos%20Wingman) | Illegal | Unlimited |
 |[Eva](https://db.ygoprodeck.com/card/?search=Eva) | Forbidden | Unlimited |
 |[Evigishki Mind Augus](https://db.ygoprodeck.com/card/?search=Evigishki%20Mind%20Augus) | Illegal | Unlimited |
