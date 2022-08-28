@@ -14,6 +14,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Breakthrough Skill](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [Chain Strike](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [Chronicle Magician](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
+[D/D Gryphon](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [D/D/D Flame King Genghis](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [D/D/D Oracle King d'Arc](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
 [Devotee of Nephthys](https://db.ygoprodeck.com/card/?search=name) | 0.45 |
@@ -41,7 +42,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Beast-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=name) | 0.46 |
 [Black Feather Beacon](https://db.ygoprodeck.com/card/?search=name) | 0.46 |
 [Chain Material](https://db.ygoprodeck.com/card/?search=name) | 0.46 |
-[D/D Gryphon](https://db.ygoprodeck.com/card/?search=name) | 0.46 |
 [Damage Polarizer](https://db.ygoprodeck.com/card/?search=name) | 0.46 |
 [Dance Princess of the Nekroz](https://db.ygoprodeck.com/card/?search=name) | 0.46 |
 [Dark Infant @Ignister](https://db.ygoprodeck.com/card/?search=name) | 0.46 |
@@ -203,6 +203,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Armored Kappa](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Assault Beast](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Dragonmaid Ernus](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
+[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
 [Hundred Dragon](https://db.ygoprodeck.com/card/?search=name) | 0.52 |
@@ -223,7 +224,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Dante, Traveler of the Burning Abyss](https://db.ygoprodeck.com/card/?search=name) | 0.53 |
 [Emes the Infinity](https://db.ygoprodeck.com/card/?search=name) | 0.53 |
 [Evilswarm Ophion](https://db.ygoprodeck.com/card/?search=name) | 0.53 |
-[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=name) | 0.53 |
 [Gem-Knight Aquamarine](https://db.ygoprodeck.com/card/?search=name) | 0.53 |
 [Generation Force](https://db.ygoprodeck.com/card/?search=name) | 0.53 |
 [Gravekeeper's Shaman](https://db.ygoprodeck.com/card/?search=name) | 0.53 |
