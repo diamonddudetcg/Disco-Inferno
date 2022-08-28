@@ -2,6 +2,8 @@ import urllib.request, json, operator, os, time, datetime, random
 from os.path import exists
 from datetime import date
 from apscheduler.schedulers.background import BlockingScheduler
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 header= {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ' 
 			'AppleWebKit/537.11 (KHTML, like Gecko) '
@@ -51,7 +53,6 @@ FORCE_LEGAL = "ForceLegal"
 FORCE_ILLEGAL = "ForceIllegal"
 ADDITIONAL_REMOVED_IDS = "RemovedAnimeShit"
 
-ongoingBanlistSite = 'docs/ongoing.md'
 diBanlistPath = 'json/banlist/di_banlist.json'
 
 jsonData = {}
@@ -218,8 +219,6 @@ def buildEverything():
 					print(card)
 
 
-
-
 	with open(jsonPath, 'w', encoding="utf-8") as file:
 		json.dump(jsonData, file, indent=4)
 
@@ -235,6 +234,8 @@ def buildEverything():
 				if (cardData1.get(NAME) == cardData2.get(NAME)):
 					previousStatus = cardData2.get(STATUS)
 					currentStatus = cardData1.get(STATUS)
+					if (previousStatus > currentStatus):
+						print(cardData1.get(NAME))
 					if (previousStatus < 0):
 						previousStatus = -1
 					if (currentStatus < 0):
@@ -262,8 +263,9 @@ def buildEverything():
 		outfile.write("\n\nThese are the projected changes between the current banlist and the next one.")
 		outfile.write("\n\nPlease keep in mind these changes are not definitive and are only based on past prices. We cannot predict the future changes in the market.")
 		outfile.write("\n\nFor a list of cards that are likely to move, go [HERE](closeprices)")
-		outfile.write("\n\n| Card name | Previous Status | New Status | Avg $ |")
-		outfile.write("\n| :-- | :-- | :-- |")
+		outfile.write("\n\nEstimated number of changes: %d"% len(cardDifferences))
+		outfile.write("\n\n| Card name | Previous Status | New Status |")
+		outfile.write("\n| :-- | :-- |")
 
 		for card in sorted(cardDifferences, key=operator.itemgetter(STATUS)):
 			cardStatus = card.get(STATUS)
@@ -273,7 +275,7 @@ def buildEverything():
 			cardName = card.get(NAME)
 			cardUrl = getCardUrl(cardName)
 
-			outfile.write("\n|[%s](%s) | %s | %s | %s |"%(cardName, cardUrl, previousCardStatusAsText, cardStatusAsText, "{:.2f}".format(card.get(PRICE))))
+			outfile.write("\n|[%s](%s) | %s | %s |"%(cardName, cardUrl, previousCardStatusAsText, cardStatusAsText))
 
 		outfile.write("\n\n###### [Back home](index)")
 
@@ -296,24 +298,6 @@ def buildEverything():
 			cardStatus = card.get(STATUS)
 			if cardStatus != 0:
 				outfile.write("\n[%s](%s) | %s |"%(cardName, cardUrl, "{:.2f}".format(cardPrice)))
-
-		outfile.write("\n\n###### [Back home](index)")
-
-	with open(ongoingBanlistSite, 'w', encoding="utf-8") as outfile:
-		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
-		outfile.write("\n\nThis is the current status for every card for next month as it stands right now. This is not binding, but it gets more accurate as the month goes on.")
-		outfile.write("\n\nTo avoid market manipulation, we regularly check the prices for every card in both CardMarket and TCGPlayer. Instead of looking at the prices of the market once, we compound the average for the entire month to define legality during the next one.")
-		outfile.write("\n\nNote that these prices might not (and probably will not) reflect reality at any single point except the first run of the month. These are average prices for an entire month, not a snapshot of any single moment in time.")
-		outfile.write("\n\n| Card name | Status | Average Price |")
-		outfile.write("\n| :-- | :-- | :-- |")
-
-		for card in sorted(cards, key=operator.itemgetter(STATUS)):
-			cardStatus = card.get(STATUS)
-			cardStatusAsText = getCardStatusAsString(cardStatus)
-			cardName = card.get(NAME)
-			cardUrl = getCardUrl(cardName)
-
-			outfile.write("\n| [%s](%s) | %s | %s |"%(cardName, cardUrl, cardStatusAsText, "{:.2f}".format(card.get(PRICE))))
 
 		outfile.write("\n\n###### [Back home](index)")
 
