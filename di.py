@@ -82,7 +82,7 @@ commit = True
 def getCardStatusAsString(cardStatus):
 	cardStatusAsText = "Unlimited"
 	if (cardStatus == -3):
-		cardStatusAsText = "Card did not exist in the last banlist"
+		cardStatusAsText = "Didn't exist"
 	if (cardStatus == -2):
 		cardStatusAsText = "Illegal"
 	elif (cardStatus == -1):
@@ -272,7 +272,7 @@ def generatePriceDifferences():
 							diffCard[PRICE] = cardData1.get(PRICE)
 							priceDifferences.append(diffCard)
 							found = True
-					break
+							break
 			
 			if not found:
 				if cardData1.get(STATUS) > 0:
