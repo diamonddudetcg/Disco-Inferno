@@ -1,5 +1,5 @@
 {
-    "previousRuns": 139,
+    "previousRuns": 140,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -25120,7 +25120,7 @@
             ],
             "price": 0.86,
             "status": -1,
-            "last_price": 0.86
+            "last_price": 0.43
         },
         {
             "name": "Double Exposure",
@@ -70371,7 +70371,7 @@
             ],
             "price": 0.69,
             "status": -1,
-            "last_price": 0.69
+            "last_price": 0.34
         },
         {
             "name": "Predaplant Spider Orchid",
