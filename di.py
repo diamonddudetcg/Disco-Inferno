@@ -236,8 +236,9 @@ def buildEverything():
 				if (cardData1.get(NAME) == cardData2.get(NAME)):
 					previousStatus = cardData2.get(STATUS)
 					currentStatus = cardData1.get(STATUS)
-					previousPrice += cardData2.get(PRICE)
-					newPrice += cardData1.get(PRICE)
+					if (cardData2.get(PRICE) < 1):
+						previousPrice += cardData2.get(PRICE)
+						newPrice += cardData1.get(PRICE)
 					if (previousStatus < 0):
 						previousStatus = -1
 					if (currentStatus < 0):
