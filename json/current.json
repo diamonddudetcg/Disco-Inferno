@@ -1,5 +1,5 @@
 {
-    "previousRuns": 99,
+    "previousRuns": 100,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -2040,7 +2040,7 @@
             "ids": [
                 662855
             ],
-            "price": 23.93,
+            "price": 23.94,
             "status": -1
         },
         {
@@ -29058,8 +29058,8 @@
                 99267150,
                 99267151
             ],
-            "price": 1.18,
-            "status": -1
+            "price": 1.17,
+            "status": 3
         },
         {
             "name": "Five-Headed Link Dragon",
@@ -39407,7 +39407,7 @@
             "ids": [
                 55990317
             ],
-            "price": 13.45,
+            "price": 13.46,
             "status": -1
         },
         {
@@ -46121,7 +46121,7 @@
                 23898021
             ],
             "price": 0.56,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Lillybot",
@@ -59256,7 +59256,7 @@
                 38761908
             ],
             "price": 0.57,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Paleozoic Eldonia",
@@ -59296,7 +59296,7 @@
                 35035481
             ],
             "price": 0.69,
-            "status": -1
+            "status": 3
         },
         {
             "name": "Paleozoic Opabinia",
@@ -68140,7 +68140,7 @@
             "ids": [
                 92107604
             ],
-            "price": 16.42,
+            "price": 16.43,
             "status": -1
         },
         {
@@ -68180,7 +68180,7 @@
             "ids": [
                 31562086
             ],
-            "price": 13.22,
+            "price": 13.23,
             "status": -1
         },
         {
@@ -69045,7 +69045,7 @@
             "ids": [
                 662853
             ],
-            "price": 14.85,
+            "price": 14.86,
             "status": -1
         },
         {
@@ -70910,7 +70910,7 @@
             "ids": [
                 27416701
             ],
-            "price": 29.47,
+            "price": 29.48,
             "status": -1
         },
         {
@@ -79649,7 +79649,7 @@
             "ids": [
                 501000004
             ],
-            "price": 236.26,
+            "price": 236.36,
             "status": -1
         },
         {
@@ -85010,7 +85010,7 @@
             "ids": [
                 501000000
             ],
-            "price": 95.96,
+            "price": 96.0,
             "status": -1
         },
         {
