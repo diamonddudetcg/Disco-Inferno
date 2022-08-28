@@ -12,6 +12,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Chronomaly Vimana](https://db.ygoprodeck.com/card/?search=Chronomaly%20Vimana) | 0.47 |
 [D.D. Dynamite](https://db.ygoprodeck.com/card/?search=D.D.%20Dynamite) | 0.47 |
 [Divine Dragon Ragnarok](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Ragnarok) | 0.47 |
+[Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 0.47 |
 [Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | 0.47 |
 [Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | 0.47 |
 [Heart of the Underdog](https://db.ygoprodeck.com/card/?search=Heart%20of%20the%20Underdog) | 0.47 |
@@ -33,7 +34,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Cubic Karma](https://db.ygoprodeck.com/card/?search=Cubic%20Karma) | 0.48 |
 [D - Force](https://db.ygoprodeck.com/card/?search=D%20-%20Force) | 0.48 |
 [Danger! Response Team](https://db.ygoprodeck.com/card/?search=Danger!%20Response%20Team) | 0.48 |
-[Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 0.48 |
 [Fossil Warrior Skull Bone](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20Bone) | 0.48 |
 [Kozmo Goodwitch](https://db.ygoprodeck.com/card/?search=Kozmo%20Goodwitch) | 0.48 |
 [Magical King Moonstar](https://db.ygoprodeck.com/card/?search=Magical%20King%20Moonstar) | 0.48 |
@@ -200,6 +200,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Magical Mallet](https://db.ygoprodeck.com/card/?search=Magical%20Mallet) | 0.55 |
 [Nekroz of Trishula](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Trishula) | 0.55 |
 [Pumpking the King of Ghosts](https://db.ygoprodeck.com/card/?search=Pumpking%20the%20King%20of%20Ghosts) | 0.55 |
+[Virtual World Mai-Hime - Lulu](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Mai-Hime%20-%20Lulu) | 0.55 |
 [7](https://db.ygoprodeck.com/card/?search=7) | 0.56 |
 [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.56 |
 [B-Buster Drake](https://db.ygoprodeck.com/card/?search=B-Buster%20Drake) | 0.56 |
@@ -218,7 +219,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Slacker Magician](https://db.ygoprodeck.com/card/?search=Slacker%20Magician) | 0.56 |
 [Ultimate Obedient Fiend](https://db.ygoprodeck.com/card/?search=Ultimate%20Obedient%20Fiend) | 0.56 |
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.56 |
-[Virtual World Mai-Hime - Lulu](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Mai-Hime%20-%20Lulu) | 0.56 |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.56 |
 [Assault Blackwing - Chidori the Rain Sprinkling](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Chidori%20the%20Rain%20Sprinkling) | 0.57 |
 [CXyz Coach Lord Ultimatrainer](https://db.ygoprodeck.com/card/?search=CXyz%20Coach%20Lord%20Ultimatrainer) | 0.57 |
@@ -229,6 +229,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | 0.57 |
 [Number 80: Rhapsody in Berserk](https://db.ygoprodeck.com/card/?search=Number%2080:%20Rhapsody%20in%20Berserk) | 0.57 |
 [Number C107: Neo Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20C107:%20Neo%20Galaxy-Eyes%20Tachyon%20Dragon) | 0.57 |
+[Nurse Dragonmaid](https://db.ygoprodeck.com/card/?search=Nurse%20Dragonmaid) | 0.57 |
 [Sinister Serpent](https://db.ygoprodeck.com/card/?search=Sinister%20Serpent) | 0.57 |
 [Wiseman's Chalice](https://db.ygoprodeck.com/card/?search=Wiseman's%20Chalice) | 0.57 |
 [Abyss Actor - Evil Heel](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Evil%20Heel) | 0.58 |
@@ -246,7 +247,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Judgment, the Dragon of Heaven](https://db.ygoprodeck.com/card/?search=Judgment,%20the%20Dragon%20of%20Heaven) | 0.58 |
 [Koa'ki Meiru Powerhand](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Powerhand) | 0.58 |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.58 |
-[Nurse Dragonmaid](https://db.ygoprodeck.com/card/?search=Nurse%20Dragonmaid) | 0.58 |
 [Pot of Benevolence](https://db.ygoprodeck.com/card/?search=Pot%20of%20Benevolence) | 0.58 |
 [Prinzessin](https://db.ygoprodeck.com/card/?search=Prinzessin) | 0.58 |
 [Ritual Beast Tamer Lara](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Lara) | 0.58 |
