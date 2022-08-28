@@ -1,5 +1,5 @@
 {
-    "previousRuns": 141,
+    "previousRuns": 142,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -35773,7 +35773,7 @@
             ],
             "price": 0.7,
             "status": -1,
-            "last_price": 0.7
+            "last_price": 0.35
         },
         {
             "name": "Gale Dogra",
@@ -49195,7 +49195,7 @@
             ],
             "price": 0.59,
             "status": -1,
-            "last_price": 0.59
+            "last_price": 0.29
         },
         {
             "name": "Knightmare Unicorn",
@@ -49205,7 +49205,7 @@
             ],
             "price": 0.54,
             "status": -1,
-            "last_price": 0.54
+            "last_price": 0.27
         },
         {
             "name": "Koa'ki Meiru Beetle",
@@ -54153,7 +54153,7 @@
             ],
             "price": 0.78,
             "status": -1,
-            "last_price": 0.78
+            "last_price": 0.39
         },
         {
             "name": "Magical Musketeer Starfire",
@@ -55681,7 +55681,7 @@
             "ids": [
                 43735670
             ],
-            "price": 1.45,
+            "price": 1.44,
             "status": -1,
             "last_price": 0.46
         },
@@ -85779,7 +85779,7 @@
             ],
             "price": 0.68,
             "status": -1,
-            "last_price": 0.68
+            "last_price": 0.34
         },
         {
             "name": "Striping Partner",
@@ -94276,9 +94276,9 @@
             "ids": [
                 14365823
             ],
-            "price": 1.52,
+            "price": 1.51,
             "status": -1,
-            "last_price": 1.52
+            "last_price": 0.52
         },
         {
             "name": "Trickstar Festival",
@@ -101807,9 +101807,9 @@
             "ids": [
                 1948619
             ],
-            "price": 1.33,
+            "price": 1.32,
             "status": -1,
-            "last_price": 1.33
+            "last_price": 0.33
         },
         {
             "name": "XX-clusion",
