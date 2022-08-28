@@ -27,7 +27,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Abyss-sphere](https://db.ygoprodeck.com/card/?search=Abyss-sphere) | Illegal |
 | [Abyss-squall](https://db.ygoprodeck.com/card/?search=Abyss-squall) | Illegal |
 | [Accesscode Talker](https://db.ygoprodeck.com/card/?search=Accesscode%20Talker) | Illegal |
-| [Adamancipator Researcher](https://db.ygoprodeck.com/card/?search=Adamancipator%20Researcher) | Illegal |
 | [Adreus, Keeper of Armageddon](https://db.ygoprodeck.com/card/?search=Adreus,%20Keeper%20of%20Armageddon) | Illegal |
 | [Alba-Lenatus the Abyss Dragon](https://db.ygoprodeck.com/card/?search=Alba-Lenatus%20the%20Abyss%20Dragon) | Illegal |
 | [Alchemic Magician](https://db.ygoprodeck.com/card/?search=Alchemic%20Magician) | Illegal |
@@ -548,7 +547,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Evenly Matched](https://db.ygoprodeck.com/card/?search=Evenly%20Matched) | Illegal |
 | [Evigishki Gustkraken](https://db.ygoprodeck.com/card/?search=Evigishki%20Gustkraken) | Illegal |
 | [Evigishki Merrowgeist](https://db.ygoprodeck.com/card/?search=Evigishki%20Merrowgeist) | Illegal |
-| [Evigishki Mind Augus](https://db.ygoprodeck.com/card/?search=Evigishki%20Mind%20Augus) | Illegal |
 | [Evil HERO Adusted Gold](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Adusted%20Gold) | Illegal |
 | [Evil HERO Malicious Bane](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Malicious%20Bane) | Illegal |
 | [Evilswarm Bahamut](https://db.ygoprodeck.com/card/?search=Evilswarm%20Bahamut) | Illegal |
@@ -694,7 +692,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Gimmick Puppet Gear Changer](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Gear%20Changer) | Illegal |
 | [Gimmick Puppet Scissor Arms](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Scissor%20Arms) | Illegal |
 | [Girsu, the Orcust Mekk-Knight](https://db.ygoprodeck.com/card/?search=Girsu,%20the%20Orcust%20Mekk-Knight) | Illegal |
-| [Gishki Aquamirror](https://db.ygoprodeck.com/card/?search=Gishki%20Aquamirror) | Illegal |
 | [Gishki Zielgigas](https://db.ygoprodeck.com/card/?search=Gishki%20Zielgigas) | Illegal |
 | [Gizmek Naganaki, the Sunrise Signaler](https://db.ygoprodeck.com/card/?search=Gizmek%20Naganaki,%20the%20Sunrise%20Signaler) | Illegal |
 | [Gladiator Beast Alexander](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Alexander) | Illegal |
@@ -1246,7 +1243,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Overmind Archfiend](https://db.ygoprodeck.com/card/?search=Overmind%20Archfiend) | Illegal |
 | [Overwhelm](https://db.ygoprodeck.com/card/?search=Overwhelm) | Illegal |
 | [Painful Choice](https://db.ygoprodeck.com/card/?search=Painful%20Choice) | Illegal |
-| [Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | Illegal |
 | [Palladium Oracle Mahad](https://db.ygoprodeck.com/card/?search=Palladium%20Oracle%20Mahad) | Illegal |
 | [Pantheism of the Monarchs](https://db.ygoprodeck.com/card/?search=Pantheism%20of%20the%20Monarchs) | Illegal |
 | [Parallel eXceed](https://db.ygoprodeck.com/card/?search=Parallel%20eXceed) | Illegal |
@@ -1717,7 +1713,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Tuner's Scheme](https://db.ygoprodeck.com/card/?search=Tuner's%20Scheme) | Illegal |
 | [Turtle Bird](https://db.ygoprodeck.com/card/?search=Turtle%20Bird) | Illegal |
 | [Turu-Purun](https://db.ygoprodeck.com/card/?search=Turu-Purun) | Illegal |
-| [Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Illegal |
 | [Twin-Headed Thunder Dragon](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Thunder%20Dragon) | Illegal |
 | [Twinheaded Beast](https://db.ygoprodeck.com/card/?search=Twinheaded%20Beast) | Illegal |
 | [Tyler the Great Warrior](https://db.ygoprodeck.com/card/?search=Tyler%20the%20Great%20Warrior) | Illegal |
@@ -2062,6 +2057,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Adamancipator Friends](https://db.ygoprodeck.com/card/?search=Adamancipator%20Friends) | Unlimited |
 | [Adamancipator Laputite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Laputite) | Unlimited |
 | [Adamancipator Relief](https://db.ygoprodeck.com/card/?search=Adamancipator%20Relief) | Unlimited |
+| [Adamancipator Researcher](https://db.ygoprodeck.com/card/?search=Adamancipator%20Researcher) | Unlimited |
 | [Adamancipator Resonance](https://db.ygoprodeck.com/card/?search=Adamancipator%20Resonance) | Unlimited |
 | [Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | Unlimited |
 | [Adamancipator Risen - Leonite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Leonite) | Unlimited |
@@ -4679,6 +4675,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Everlasting Alloy](https://db.ygoprodeck.com/card/?search=Everlasting%20Alloy) | Unlimited |
 | [Everliving Underworld Cannon](https://db.ygoprodeck.com/card/?search=Everliving%20Underworld%20Cannon) | Unlimited |
 | [Evigishki Levianima](https://db.ygoprodeck.com/card/?search=Evigishki%20Levianima) | Unlimited |
+| [Evigishki Mind Augus](https://db.ygoprodeck.com/card/?search=Evigishki%20Mind%20Augus) | Unlimited |
 | [Evigishki Soul Ogre](https://db.ygoprodeck.com/card/?search=Evigishki%20Soul%20Ogre) | Unlimited |
 | [Evigishki Tetrogre](https://db.ygoprodeck.com/card/?search=Evigishki%20Tetrogre) | Unlimited |
 | [Evil Blast](https://db.ygoprodeck.com/card/?search=Evil%20Blast) | Unlimited |
@@ -5499,6 +5496,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Gingerbread House](https://db.ygoprodeck.com/card/?search=Gingerbread%20House) | Unlimited |
 | [Girochin Kuwagata](https://db.ygoprodeck.com/card/?search=Girochin%20Kuwagata) | Unlimited |
 | [Gishki Abyss](https://db.ygoprodeck.com/card/?search=Gishki%20Abyss) | Unlimited |
+| [Gishki Aquamirror](https://db.ygoprodeck.com/card/?search=Gishki%20Aquamirror) | Unlimited |
 | [Gishki Ariel](https://db.ygoprodeck.com/card/?search=Gishki%20Ariel) | Unlimited |
 | [Gishki Avance](https://db.ygoprodeck.com/card/?search=Gishki%20Avance) | Unlimited |
 | [Gishki Beast](https://db.ygoprodeck.com/card/?search=Gishki%20Beast) | Unlimited |
@@ -8059,6 +8057,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Paleozoic Hallucigenia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Hallucigenia) | Unlimited |
 | [Paleozoic Leanchoilia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Leanchoilia) | Unlimited |
 | [Paleozoic Marrella](https://db.ygoprodeck.com/card/?search=Paleozoic%20Marrella) | Unlimited |
+| [Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | Unlimited |
 | [Paleozoic Opabinia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Opabinia) | Unlimited |
 | [Paleozoic Pikaia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Pikaia) | Unlimited |
 | [Palladium Oracle Mana](https://db.ygoprodeck.com/card/?search=Palladium%20Oracle%20Mana) | Unlimited |
@@ -10706,6 +10705,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Twin Photon Lizard](https://db.ygoprodeck.com/card/?search=Twin%20Photon%20Lizard) | Unlimited |
 | [Twin Swords of Flashing Light - Tryce](https://db.ygoprodeck.com/card/?search=Twin%20Swords%20of%20Flashing%20Light%20-%20Tryce) | Unlimited |
 | [Twin Triangle Dragon](https://db.ygoprodeck.com/card/?search=Twin%20Triangle%20Dragon) | Unlimited |
+| [Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Unlimited |
 | [Twin-Barrel Dragon](https://db.ygoprodeck.com/card/?search=Twin-Barrel%20Dragon) | Unlimited |
 | [Twin-Headed Behemoth](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Behemoth) | Unlimited |
 | [Twin-Headed Fire Dragon](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Fire%20Dragon) | Unlimited |

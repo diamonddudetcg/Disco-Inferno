@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 300
+Estimated number of changes: 305
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -36,6 +36,7 @@ Estimated number of changes: 300
 |[Abominable Unchained Soul](https://db.ygoprodeck.com/card/?search=Abominable%20Unchained%20Soul) | Illegal | Unlimited |
 |[Achichi @Ignister](https://db.ygoprodeck.com/card/?search=Achichi%20@Ignister) | Illegal | Unlimited |
 |[Ad Libitum of Despia](https://db.ygoprodeck.com/card/?search=Ad%20Libitum%20of%20Despia) | Illegal | Unlimited |
+|[Adamancipator Researcher](https://db.ygoprodeck.com/card/?search=Adamancipator%20Researcher) | Illegal | Unlimited |
 |[Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | Illegal | Unlimited |
 |[Alien Warrior](https://db.ygoprodeck.com/card/?search=Alien%20Warrior) | Illegal | Unlimited |
 |[Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | Illegal | Unlimited |
@@ -103,6 +104,7 @@ Estimated number of changes: 300
 |[Elemental HERO Captain Gold](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Captain%20Gold) | Illegal | Unlimited |
 |[Elemental HERO Shining Neos Wingman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Shining%20Neos%20Wingman) | Illegal | Unlimited |
 |[Eva](https://db.ygoprodeck.com/card/?search=Eva) | Forbidden | Unlimited |
+|[Evigishki Mind Augus](https://db.ygoprodeck.com/card/?search=Evigishki%20Mind%20Augus) | Illegal | Unlimited |
 |[Evigishki Soul Ogre](https://db.ygoprodeck.com/card/?search=Evigishki%20Soul%20Ogre) | Illegal | Unlimited |
 |[Evil HERO Inferno Wing](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Inferno%20Wing) | Illegal | Unlimited |
 |[Evil HERO Lightning Golem](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Lightning%20Golem) | Illegal | Unlimited |
@@ -133,6 +135,7 @@ Estimated number of changes: 300
 |[Ghostrick Renovation](https://db.ygoprodeck.com/card/?search=Ghostrick%20Renovation) | Illegal | Unlimited |
 |[Ghoti of the Deep Beyond](https://db.ygoprodeck.com/card/?search=Ghoti%20of%20the%20Deep%20Beyond) | Illegal | Unlimited |
 |[Gishki Abyss](https://db.ygoprodeck.com/card/?search=Gishki%20Abyss) | Illegal | Unlimited |
+|[Gishki Aquamirror](https://db.ygoprodeck.com/card/?search=Gishki%20Aquamirror) | Illegal | Unlimited |
 |[Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | Forbidden | Unlimited |
 |[Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Limited | Unlimited |
 |[Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | Illegal | Unlimited |
@@ -213,6 +216,7 @@ Estimated number of changes: 300
 |[Orcust Harp Horror](https://db.ygoprodeck.com/card/?search=Orcust%20Harp%20Horror) | Forbidden | Unlimited |
 |[Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | Illegal | Unlimited |
 |[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | Illegal | Unlimited |
+|[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | Illegal | Unlimited |
 |[Palladium Oracle Mana](https://db.ygoprodeck.com/card/?search=Palladium%20Oracle%20Mana) | Illegal | Unlimited |
 |[Pendulum Fusion](https://db.ygoprodeck.com/card/?search=Pendulum%20Fusion) | Illegal | Unlimited |
 |[Performage Plushfire](https://db.ygoprodeck.com/card/?search=Performage%20Plushfire) | Forbidden | Unlimited |
@@ -289,6 +293,7 @@ Estimated number of changes: 300
 |[Toon Cyber Dragon](https://db.ygoprodeck.com/card/?search=Toon%20Cyber%20Dragon) | Illegal | Unlimited |
 |[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited |
 |[Tribute Burial](https://db.ygoprodeck.com/card/?search=Tribute%20Burial) | Illegal | Unlimited |
+|[Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Illegal | Unlimited |
 |[Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal | Unlimited |
 |[Vaylantz Dominator Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20Duke) | Illegal | Unlimited |
 |[Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal | Unlimited |
