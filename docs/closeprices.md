@@ -147,6 +147,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [The Great Emperor Penguin](https://db.ygoprodeck.com/card/?search=The%20Great%20Emperor%20Penguin) | 0.52 |
 [Thousand-Eyes Restrict](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Restrict) | 0.52 |
 [Vampire Baby](https://db.ygoprodeck.com/card/?search=Vampire%20Baby) | 0.52 |
+[Virtual World Mai-Hime - Lulu](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Mai-Hime%20-%20Lulu) | 0.52 |
 [Vylon Sphere](https://db.ygoprodeck.com/card/?search=Vylon%20Sphere) | 0.52 |
 [A-to-Z-Dragon Buster Cannon](https://db.ygoprodeck.com/card/?search=A-to-Z-Dragon%20Buster%20Cannon) | 0.53 |
 [Blackwing - Silverwind the Ascendant](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Silverwind%20the%20Ascendant) | 0.53 |
@@ -168,7 +169,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Shining Friendship](https://db.ygoprodeck.com/card/?search=Shining%20Friendship) | 0.53 |
 [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | 0.53 |
 [Toon Mask](https://db.ygoprodeck.com/card/?search=Toon%20Mask) | 0.53 |
-[Virtual World Mai-Hime - Lulu](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Mai-Hime%20-%20Lulu) | 0.53 |
 [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | 0.53 |
 [Winged Kuriboh LV9](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV9) | 0.53 |
 [Burglar](https://db.ygoprodeck.com/card/?search=Burglar) | 0.54 |
@@ -186,6 +186,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Naturia Beast](https://db.ygoprodeck.com/card/?search=Naturia%20Beast) | 0.54 |
 [Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.54 |
 [Number 14: Greedy Sarameya](https://db.ygoprodeck.com/card/?search=Number%2014:%20Greedy%20Sarameya) | 0.54 |
+[Nurse Dragonmaid](https://db.ygoprodeck.com/card/?search=Nurse%20Dragonmaid) | 0.54 |
 [Onomatopia](https://db.ygoprodeck.com/card/?search=Onomatopia) | 0.54 |
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.54 |
 [Sacred Scrolls of the Gizmek Legend](https://db.ygoprodeck.com/card/?search=Sacred%20Scrolls%20of%20the%20Gizmek%20Legend) | 0.54 |
@@ -199,7 +200,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Koa'ki Meiru Valafar](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Valafar) | 0.55 |
 [Magical Mallet](https://db.ygoprodeck.com/card/?search=Magical%20Mallet) | 0.55 |
 [Nekroz of Trishula](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Trishula) | 0.55 |
-[Nurse Dragonmaid](https://db.ygoprodeck.com/card/?search=Nurse%20Dragonmaid) | 0.55 |
 [Pumpking the King of Ghosts](https://db.ygoprodeck.com/card/?search=Pumpking%20the%20King%20of%20Ghosts) | 0.55 |
 [7](https://db.ygoprodeck.com/card/?search=7) | 0.56 |
 [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.56 |
