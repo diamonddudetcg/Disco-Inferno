@@ -8,29 +8,13 @@ Every time a new banlist is created, we check TCGPlayer for prices for every sin
 
 In the case that a TCG banlist drops, a new one will be generated for the remainder of the month.
 
-In addition to this, some additional cards have been forbidden (regardless of price, some of these might already be illegal due to price constraints when a new banlist gets generated) to ensure a good experience. Additional cards might and probably will get hit in the future. We will strive to keep this list as small as possible, but we really want to keep FTKs, infinite loops and summon-restricting floodgates to a minimum.
+## Custom banlist
 
-| Card Name | Status |
-| :-- | :-- |
-| Amazoness Archer | Forbidden |
-| Artifact Scythe | Forbidden |
-| Cannon Soldier | Forbidden |
-| Cannon Soldier MK-2 | Forbidden |
-| Fairy Tail - Snow | Forbidden |
-| Morphtronic Telefon | Forbidden |
-| Toon Cannon Soldier | Forbidden |
-| Gouki the Powerload Ogre | Forbidden |
-| Number 33: Chronomaly Machu Mech | Forbidden |
-| Hot Red Dragon Archfiend King Calamity | Forbidden |
-| Numeron Calling | Forbidden |
-| Anti-Spell Fragrance | Forbidden |
-| Dimensional Barrier | Forbidden |
-| Gozen Match | Forbidden |
-| Harpie's Feather Storm | Forbidden |
-| Rivalry of Warlords | Forbidden |
-| Summon Limit | Forbidden |
-| There Can Be Only One | Forbidden |
-
+In addition to all of these stipulations, we have decided to make some additional changes to the banlist because a lot of the advanced hits do not make sense without access to some expensive cards, and some cards are kind of overpowered when you remove some checks and balances Advanced has. The full banlist can be found in our Discord server.
 
 ## How to install the banlist:
-Just drop the DiscoInferno.lflist.conf file into ProjectIgnis/lflists, close any instances of EDOPRO and open a new one. 
+Just drop the DiscoInferno.lflist.conf file into ProjectIgnis/lflists, close any instances of EDOPRO and open a new one.
+
+## I want to join the Discord Server
+
+[Sure, welcome and have fun!](https://discord.gg/FjVyuXRQQm) 
