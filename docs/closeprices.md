@@ -31,7 +31,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | 0.40 |
 [Invoked Caliga](https://db.ygoprodeck.com/card/?search=Invoked%20Caliga) | 0.40 |
 [Kiwi Magician Girl](https://db.ygoprodeck.com/card/?search=Kiwi%20Magician%20Girl) | 0.40 |
-[Laundry Dragonmaid](https://db.ygoprodeck.com/card/?search=Laundry%20Dragonmaid) | 0.40 |
 [Laval the Greater](https://db.ygoprodeck.com/card/?search=Laval%20the%20Greater) | 0.40 |
 [Magical Musketeer Kidbrave](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Kidbrave) | 0.40 |
 [Mask of Restrict](https://db.ygoprodeck.com/card/?search=Mask%20of%20Restrict) | 0.40 |
@@ -39,6 +38,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Number 8: Heraldic King Genom-Heritage](https://db.ygoprodeck.com/card/?search=Number%208:%20Heraldic%20King%20Genom-Heritage) | 0.40 |
 [Odd-Eyes Vortex Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Vortex%20Dragon) | 0.40 |
 [Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | 0.40 |
+[Secret Skills of the Six Samurai](https://db.ygoprodeck.com/card/?search=Secret%20Skills%20of%20the%20Six%20Samurai) | 0.40 |
 [Shiranui Style Swallow's Slash](https://db.ygoprodeck.com/card/?search=Shiranui%20Style%20Swallow's%20Slash) | 0.40 |
 [Silent Burning](https://db.ygoprodeck.com/card/?search=Silent%20Burning) | 0.40 |
 [Silent Sword Slash](https://db.ygoprodeck.com/card/?search=Silent%20Sword%20Slash) | 0.40 |
@@ -75,7 +75,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Number 56: Gold Rat](https://db.ygoprodeck.com/card/?search=Number%2056:%20Gold%20Rat) | 0.41 |
 [Prologue of the Destruction Swordsman](https://db.ygoprodeck.com/card/?search=Prologue%20of%20the%20Destruction%20Swordsman) | 0.41 |
 [Psi-Beast](https://db.ygoprodeck.com/card/?search=Psi-Beast) | 0.41 |
-[Secret Skills of the Six Samurai](https://db.ygoprodeck.com/card/?search=Secret%20Skills%20of%20the%20Six%20Samurai) | 0.41 |
 [Shovel Crusher](https://db.ygoprodeck.com/card/?search=Shovel%20Crusher) | 0.41 |
 [Six Strike - Thunder Blast](https://db.ygoprodeck.com/card/?search=Six%20Strike%20-%20Thunder%20Blast) | 0.41 |
 [Solemn Warning](https://db.ygoprodeck.com/card/?search=Solemn%20Warning) | 0.41 |
@@ -96,6 +95,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Core Overclock](https://db.ygoprodeck.com/card/?search=Core%20Overclock) | 0.42 |
 [Destruction Jammer](https://db.ygoprodeck.com/card/?search=Destruction%20Jammer) | 0.42 |
 [Don Zaloog](https://db.ygoprodeck.com/card/?search=Don%20Zaloog) | 0.42 |
+[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.42 |
 [Evilswarm Castor](https://db.ygoprodeck.com/card/?search=Evilswarm%20Castor) | 0.42 |
 [Evoltile Westlo](https://db.ygoprodeck.com/card/?search=Evoltile%20Westlo) | 0.42 |
 [Fusion Guard](https://db.ygoprodeck.com/card/?search=Fusion%20Guard) | 0.42 |
@@ -103,6 +103,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Guardian Ceal](https://db.ygoprodeck.com/card/?search=Guardian%20Ceal) | 0.42 |
 [Hazy Flame Hyppogrif](https://db.ygoprodeck.com/card/?search=Hazy%20Flame%20Hyppogrif) | 0.42 |
 [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.42 |
+[Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | 0.42 |
 [Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | 0.42 |
 [Labrynth Set-Up](https://db.ygoprodeck.com/card/?search=Labrynth%20Set-Up) | 0.42 |
 [Machina Metalcruncher](https://db.ygoprodeck.com/card/?search=Machina%20Metalcruncher) | 0.42 |
@@ -137,7 +138,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Dark Beckoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Beckoning%20Beast) | 0.43 |
 [Dark Hunter](https://db.ygoprodeck.com/card/?search=Dark%20Hunter) | 0.43 |
 [Divine Knight Ishzark](https://db.ygoprodeck.com/card/?search=Divine%20Knight%20Ishzark) | 0.43 |
-[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.43 |
 [Duelist Alliance](https://db.ygoprodeck.com/card/?search=Duelist%20Alliance) | 0.43 |
 [Earth Golem @Ignister](https://db.ygoprodeck.com/card/?search=Earth%20Golem%20@Ignister) | 0.43 |
 [Elemental HERO Wild Wingman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wild%20Wingman) | 0.43 |
@@ -145,7 +145,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Evilswarm Ouroboros](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ouroboros) | 0.43 |
 [Glacial Beast Polar Penguin](https://db.ygoprodeck.com/card/?search=Glacial%20Beast%20Polar%20Penguin) | 0.43 |
 [Heavy Freight Train Derricrane](https://db.ygoprodeck.com/card/?search=Heavy%20Freight%20Train%20Derricrane) | 0.43 |
-[Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | 0.43 |
 [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Interrupted%20Kaiju%20Slumber) | 0.43 |
 [Jowls of Dark Demise](https://db.ygoprodeck.com/card/?search=Jowls%20of%20Dark%20Demise) | 0.43 |
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.43 |
@@ -202,6 +201,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Subterror Behemoth Fiendess](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Fiendess) | 0.44 |
 [The Dragon Dwelling in the Deep](https://db.ygoprodeck.com/card/?search=The%20Dragon%20Dwelling%20in%20the%20Deep) | 0.44 |
 [Watthydra](https://db.ygoprodeck.com/card/?search=Watthydra) | 0.44 |
+[Altergeist Memorygant](https://db.ygoprodeck.com/card/?search=Altergeist%20Memorygant) | 0.45 |
 [Altergeist Pookuery](https://db.ygoprodeck.com/card/?search=Altergeist%20Pookuery) | 0.45 |
 [Angmarl the Fiendish Monarch](https://db.ygoprodeck.com/card/?search=Angmarl%20the%20Fiendish%20Monarch) | 0.45 |
 [Apoqliphort Skybase](https://db.ygoprodeck.com/card/?search=Apoqliphort%20Skybase) | 0.45 |
@@ -234,13 +234,13 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Wattcastle](https://db.ygoprodeck.com/card/?search=Wattcastle) | 0.45 |
 [Winged Kuriboh LV10](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10) | 0.45 |
 [Zombie Reborn](https://db.ygoprodeck.com/card/?search=Zombie%20Reborn) | 0.45 |
-[Altergeist Memorygant](https://db.ygoprodeck.com/card/?search=Altergeist%20Memorygant) | 0.46 |
 [Beast-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Beast-Eyes%20Pendulum%20Dragon) | 0.46 |
 [Black Feather Beacon](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Beacon) | 0.46 |
 [Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.46 |
 [Damage Polarizer](https://db.ygoprodeck.com/card/?search=Damage%20Polarizer) | 0.46 |
 [Dance Princess of the Nekroz](https://db.ygoprodeck.com/card/?search=Dance%20Princess%20of%20the%20Nekroz) | 0.46 |
 [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | 0.46 |
+[Gadarla, the Mystery Dust Kaiju](https://db.ygoprodeck.com/card/?search=Gadarla,%20the%20Mystery%20Dust%20Kaiju) | 0.46 |
 [Gimmick Puppet Shadow Feeler](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Shadow%20Feeler) | 0.46 |
 [Gladiator Beast's Respite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Respite) | 0.46 |
 [Goblin Black Ops](https://db.ygoprodeck.com/card/?search=Goblin%20Black%20Ops) | 0.46 |
@@ -273,7 +273,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Chronomaly Vimana](https://db.ygoprodeck.com/card/?search=Chronomaly%20Vimana) | 0.47 |
 [D.D. Dynamite](https://db.ygoprodeck.com/card/?search=D.D.%20Dynamite) | 0.47 |
 [Divine Dragon Ragnarok](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Ragnarok) | 0.47 |
-[Gadarla, the Mystery Dust Kaiju](https://db.ygoprodeck.com/card/?search=Gadarla,%20the%20Mystery%20Dust%20Kaiju) | 0.47 |
 [Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | 0.47 |
 [Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | 0.47 |
 [Heart of the Underdog](https://db.ygoprodeck.com/card/?search=Heart%20of%20the%20Underdog) | 0.47 |
@@ -428,6 +427,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | 0.54 |
 [Elemental HERO Nebula Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Nebula%20Neos) | 0.54 |
 [HERO's Bond](https://db.ygoprodeck.com/card/?search=HERO's%20Bond) | 0.54 |
+[House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | 0.54 |
 [King of the Skull Servants](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants) | 0.54 |
 [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.54 |
 [Limit Overdrive](https://db.ygoprodeck.com/card/?search=Limit%20Overdrive) | 0.54 |
@@ -438,19 +438,18 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Onomatopia](https://db.ygoprodeck.com/card/?search=Onomatopia) | 0.54 |
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.54 |
 [Sacred Scrolls of the Gizmek Legend](https://db.ygoprodeck.com/card/?search=Sacred%20Scrolls%20of%20the%20Gizmek%20Legend) | 0.54 |
+[Tri-Brigade Kerass](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kerass) | 0.54 |
 [Vijam the Cubic Seed](https://db.ygoprodeck.com/card/?search=Vijam%20the%20Cubic%20Seed) | 0.54 |
+[Vision HERO Increase](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Increase) | 0.54 |
 [Ancient Tool](https://db.ygoprodeck.com/card/?search=Ancient%20Tool) | 0.55 |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.55 |
 [Cyber Laser Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Laser%20Dragon) | 0.55 |
 [Dark Eradicator Warlock](https://db.ygoprodeck.com/card/?search=Dark%20Eradicator%20Warlock) | 0.55 |
 [Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | 0.55 |
 [Graceful Dice](https://db.ygoprodeck.com/card/?search=Graceful%20Dice) | 0.55 |
-[House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | 0.55 |
 [Koa'ki Meiru Valafar](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Valafar) | 0.55 |
 [Magical Mallet](https://db.ygoprodeck.com/card/?search=Magical%20Mallet) | 0.55 |
 [Pumpking the King of Ghosts](https://db.ygoprodeck.com/card/?search=Pumpking%20the%20King%20of%20Ghosts) | 0.55 |
-[Tri-Brigade Kerass](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kerass) | 0.55 |
-[Vision HERO Increase](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Increase) | 0.55 |
 [7](https://db.ygoprodeck.com/card/?search=7) | 0.56 |
 [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.56 |
 [Elemental HERO Grandmerge](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Grandmerge) | 0.56 |
@@ -502,6 +501,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Ritual Beast Tamer Lara](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Lara) | 0.58 |
 [Ritual Beast Tamer Wen](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Wen) | 0.58 |
 [S-Force Justify](https://db.ygoprodeck.com/card/?search=S-Force%20Justify) | 0.58 |
+[Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.58 |
 [True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | 0.58 |
 [Wind-Up Factory](https://db.ygoprodeck.com/card/?search=Wind-Up%20Factory) | 0.58 |
 [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | 0.59 |
@@ -516,7 +516,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | 0.59 |
 [Neo-Spacian Dark Panther](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Dark%20Panther) | 0.59 |
 [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | 0.59 |
-[Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.59 |
+[Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | 0.59 |
 [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | 0.59 |
 [B.E.S. Crystal Core](https://db.ygoprodeck.com/card/?search=B.E.S.%20Crystal%20Core) | 0.60 |
 [Black Return](https://db.ygoprodeck.com/card/?search=Black%20Return) | 0.60 |

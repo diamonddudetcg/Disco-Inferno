@@ -335,9 +335,9 @@ def buildEverything():
 		outfile.write("\n\n###### [Back home](index)")
 
 
-	subprocess.call('git add .')
-	subprocess.call('git commit -m \"%s\"'%formatted)
-	subprocess.call('git push')
+	subprocess.check_output('git add .')
+	subprocess.check_output('git commit -m \"%s\"'%formatted)
+	subprocess.check_output('git push')
 
 	print("Executed a run", flush=True)
 
