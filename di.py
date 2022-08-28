@@ -190,6 +190,7 @@ def buildEverything():
 							newAverage = cutoffPoint/2
 						entry[PRICE] = float("{:.2f}".format(newAverage))
 						entry[STATUS] = banTcg
+						break
 
 	cards = jsonData.get(DATA)
 
@@ -234,8 +235,6 @@ def buildEverything():
 				if (cardData1.get(NAME) == cardData2.get(NAME)):
 					previousStatus = cardData2.get(STATUS)
 					currentStatus = cardData1.get(STATUS)
-					if (previousStatus > currentStatus):
-						print(cardData1.get(NAME))
 					if (previousStatus < 0):
 						previousStatus = -1
 					if (currentStatus < 0):
@@ -265,7 +264,7 @@ def buildEverything():
 		outfile.write("\n\nFor a list of cards that are likely to move, go [HERE](closeprices)")
 		outfile.write("\n\nEstimated number of changes: %d"% len(cardDifferences))
 		outfile.write("\n\n| Card name | Previous Status | New Status |")
-		outfile.write("\n| :-- | :-- |")
+		outfile.write("\n| :-- |")
 
 		for card in sorted(cardDifferences, key=operator.itemgetter(STATUS)):
 			cardStatus = card.get(STATUS)
@@ -283,8 +282,11 @@ def buildEverything():
 		closeCards = []
 		for card in jsonData.get(DATA):
 			price = card.get(PRICE)
-			if price >= 0.45 and price <=0.55:
-				closeCards.append(card)
+			if price >= 0.40 and price <=0.60:
+				if price <=0.50 and card.get(STATUS) == -1:
+					closeCards.append(card)
+				elif price > 0.50 and card.get(STATUS) > 0:
+					closeCards.append(card)
 
 		outfile.write("---\ntitle:  \"Disco Inferno\"\n---")
 		outfile.write("\n\nThese are just cards that are bordering around the $0.50 limit. They are the closest to moving on the next banlist.")

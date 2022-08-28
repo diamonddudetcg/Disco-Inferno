@@ -11,7 +11,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 Estimated number of changes: 268
 
 | Card name | Previous Status | New Status |
-| :-- | :-- |
+| :-- |
 |[Amorphactor Pain, the Imagination Dracoverlord](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) | Unlimited | Forbidden |
 |[Archlord Kristya](https://db.ygoprodeck.com/card/?search=Archlord%20Kristya) | Unlimited | Forbidden |
 |[Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Unlimited | Forbidden |
