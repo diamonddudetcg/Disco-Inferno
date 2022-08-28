@@ -206,6 +206,9 @@ def applyCutOff(cards):
 			card[STATUS] = -1
 		if cardName in forceIllegal:
 			card[STATUS] = -1
+		if card[LAST_PRICE] <= cutoffPoint:
+			if card[PRICE] > cutoffPoint:
+				print("%s is going down"%card[NAME]) 
 
 def generatePriceData(cards):
 	runs = jsonData.get(PREVIOUS_RUNS)
@@ -244,7 +247,6 @@ def generatePriceData(cards):
 					entry[LAST_PRICE] = float("{:.2f}".format(avgPrice))
 					entry[STATUS] = banTcg
 					break
-
 
 def generatePriceDifferences():
 	priceDifferences = []
