@@ -789,7 +789,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [High Ritual Art](https://db.ygoprodeck.com/card/?search=High%20Ritual%20Art) | Illegal |
 | [Hino-Kagu-Tsuchi](https://db.ygoprodeck.com/card/?search=Hino-Kagu-Tsuchi) | Illegal |
 | [Horus the Black Flame Dragon LV8](https://db.ygoprodeck.com/card/?search=Horus%20the%20Black%20Flame%20Dragon%20LV8) | Illegal |
-| [House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | Illegal |
 | [Hugin the Runick Wings](https://db.ygoprodeck.com/card/?search=Hugin%20the%20Runick%20Wings) | Illegal |
 | [Hundred Dragon](https://db.ygoprodeck.com/card/?search=Hundred%20Dragon) | Illegal |
 | [Hyper Psychic Blaster](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster) | Illegal |
@@ -1681,7 +1680,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | Illegal |
 | [Tri-Brigade Ferrijit the Barren Blossom](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Ferrijit%20the%20Barren%20Blossom) | Illegal |
 | [Tri-Brigade Fraktall](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Fraktall) | Illegal |
-| [Tri-Brigade Kerass](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kerass) | Illegal |
 | [Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | Illegal |
 | [Tri-Brigade Shuraig the Ominous Omen](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Shuraig%20the%20Ominous%20Omen) | Illegal |
 | [Tri-Horned Dragon](https://db.ygoprodeck.com/card/?search=Tri-Horned%20Dragon) | Illegal |
@@ -1758,7 +1756,6 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Visas Starfrost](https://db.ygoprodeck.com/card/?search=Visas%20Starfrost) | Illegal |
 | [Vision HERO Adoration](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Adoration) | Illegal |
 | [Vision HERO Faris](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Faris) | Illegal |
-| [Vision HERO Increase](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Increase) | Illegal |
 | [Void Imagination](https://db.ygoprodeck.com/card/?search=Void%20Imagination) | Illegal |
 | [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | Illegal |
 | [Void Vanishment](https://db.ygoprodeck.com/card/?search=Void%20Vanishment) | Illegal |
@@ -6039,6 +6036,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Hot Red Dragon Archfiend Abyss](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20Abyss) | Unlimited |
 | [Hot Red Dragon Archfiend Bane](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20Bane) | Unlimited |
 | [Hourglass of Courage](https://db.ygoprodeck.com/card/?search=Hourglass%20of%20Courage) | Unlimited |
+| [House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | Unlimited |
 | [House Duston](https://db.ygoprodeck.com/card/?search=House%20Duston) | Unlimited |
 | [House of Adhesive Tape](https://db.ygoprodeck.com/card/?search=House%20of%20Adhesive%20Tape) | Unlimited |
 | [Howl of the Wild](https://db.ygoprodeck.com/card/?search=Howl%20of%20the%20Wild) | Unlimited |
@@ -10598,6 +10596,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Trent](https://db.ygoprodeck.com/card/?search=Trent) | Unlimited |
 | [Tri-Blaze Accelerator](https://db.ygoprodeck.com/card/?search=Tri-Blaze%20Accelerator) | Unlimited |
 | [Tri-Brigade Airborne Assault](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Airborne%20Assault) | Unlimited |
+| [Tri-Brigade Kerass](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kerass) | Unlimited |
 | [Tri-Brigade Mercourier](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Mercourier) | Unlimited |
 | [Tri-Brigade Nervall](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Nervall) | Unlimited |
 | [Tri-Brigade Oath](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Oath) | Unlimited |
@@ -10984,6 +10983,7 @@ EDOPRO will not recognize a change in banlists while it is open. You will have t
 | [Viser Des](https://db.ygoprodeck.com/card/?search=Viser%20Des) | Unlimited |
 | [Vision Fusion](https://db.ygoprodeck.com/card/?search=Vision%20Fusion) | Unlimited |
 | [Vision HERO Gravito](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Gravito) | Unlimited |
+| [Vision HERO Increase](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Increase) | Unlimited |
 | [Vision HERO Minimum Ray](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Minimum%20Ray) | Unlimited |
 | [Vision HERO Multiply Guy](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Multiply%20Guy) | Unlimited |
 | [Vision HERO Poisoner](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Poisoner) | Unlimited |

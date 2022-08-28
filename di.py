@@ -165,7 +165,10 @@ def buildEverything():
 
 
 			if cardName in forceLegal:
-				avgPrice /=2
+				if (avgPrice > 1):
+					avgPrice -=1
+				else:
+					avgPrice /=2
 
 			if runs == 0:
 				newAverage = avgPrice
