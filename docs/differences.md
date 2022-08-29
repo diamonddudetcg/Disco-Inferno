@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 411
+Estimated number of changes: 412
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -313,6 +313,7 @@ Estimated number of changes: 411
 |[Psi-Blocker](https://db.ygoprodeck.com/card/?search=Psi-Blocker) | Illegal | Unlimited |
 |[Psi-Reflector](https://db.ygoprodeck.com/card/?search=Psi-Reflector) | Illegal | Unlimited |
 |[Psychic Feel Zone](https://db.ygoprodeck.com/card/?search=Psychic%20Feel%20Zone) | Illegal | Unlimited |
+|[Qliphort Cephalopod](https://db.ygoprodeck.com/card/?search=Qliphort%20Cephalopod) | Illegal | Unlimited |
 |[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | Illegal | Unlimited |
 |[Raidraptor - Necro Vulture](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Necro%20Vulture) | Illegal | Unlimited |
 |[Reasoning](https://db.ygoprodeck.com/card/?search=Reasoning) | Limited | Unlimited |
