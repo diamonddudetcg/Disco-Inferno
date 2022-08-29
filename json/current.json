@@ -1,5 +1,5 @@
 {
-    "previousRuns": 146,
+    "previousRuns": 35,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -240,7 +240,7 @@
             "ids": [
                 30012506
             ],
-            "price": 0.5,
+            "price": 0.33,
             "status": 3,
             "last_price": 0.32
         },
@@ -393,7 +393,7 @@
             "ids": [
                 1966438
             ],
-            "price": 0.3,
+            "price": 0.28,
             "status": 3,
             "last_price": 0.27
         },
@@ -780,7 +780,7 @@
             "ids": [
                 34707034
             ],
-            "price": 0.44,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -1024,7 +1024,7 @@
             "ids": [
                 85914562
             ],
-            "price": 0.4,
+            "price": 0.37,
             "status": 3,
             "last_price": 0.36
         },
@@ -1042,7 +1042,7 @@
             "ids": [
                 9464441
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -1664,7 +1664,7 @@
             "ids": [
                 98719226
             ],
-            "price": 0.34,
+            "price": 0.35,
             "status": 3,
             "last_price": 0.35
         },
@@ -2159,7 +2159,7 @@
             "ids": [
                 23790299
             ],
-            "price": 0.45,
+            "price": 0.36,
             "status": 3,
             "last_price": 0.36
         },
@@ -2294,7 +2294,7 @@
             "ids": [
                 662855
             ],
-            "price": 24.91,
+            "price": 24.92,
             "status": -1,
             "last_price": 24.98
         },
@@ -3752,7 +3752,7 @@
             "ids": [
                 97120394
             ],
-            "price": 0.33,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.29
         },
@@ -4447,7 +4447,7 @@
             "ids": [
                 57624336
             ],
-            "price": 0.33,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.29
         },
@@ -5897,7 +5897,7 @@
             "ids": [
                 74311226
             ],
-            "price": 0.33,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.29
         },
@@ -6320,8 +6320,8 @@
             "ids": [
                 77411244
             ],
-            "price": 0.56,
-            "status": -1,
+            "price": 0.37,
+            "status": 3,
             "last_price": 0.36
         },
         {
@@ -8634,7 +8634,7 @@
             "ids": [
                 93969023
             ],
-            "price": 0.33,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.29
         },
@@ -9202,8 +9202,8 @@
             "ids": [
                 33236860
             ],
-            "price": 0.53,
-            "status": -1,
+            "price": 0.39,
+            "status": 3,
             "last_price": 0.38
         },
         {
@@ -9301,7 +9301,7 @@
             "ids": [
                 82944432
             ],
-            "price": 0.49,
+            "price": 0.34,
             "status": 3,
             "last_price": 0.34
         },
@@ -9994,7 +9994,7 @@
                 89631145,
                 89631146
             ],
-            "price": 0.16,
+            "price": 0.14,
             "status": 3,
             "last_price": 0.14
         },
@@ -10372,8 +10372,8 @@
             "ids": [
                 67288539
             ],
-            "price": 0.88,
-            "status": -1,
+            "price": 0.45,
+            "status": 3,
             "last_price": 0.44
         },
         {
@@ -10427,7 +10427,7 @@
             "ids": [
                 7987191
             ],
-            "price": 0.33,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.29
         },
@@ -11247,8 +11247,8 @@
             "ids": [
                 75132317
             ],
-            "price": 0.66,
-            "status": -1,
+            "price": 0.46,
+            "status": 3,
             "last_price": 0.46
         },
         {
@@ -12130,7 +12130,7 @@
             "ids": [
                 3405259
             ],
-            "price": 0.49,
+            "price": 0.32,
             "status": 3,
             "last_price": 0.31
         },
@@ -12886,7 +12886,7 @@
             "ids": [
                 48589580
             ],
-            "price": 1.33,
+            "price": 0.61,
             "status": -1,
             "last_price": 0.61
         },
@@ -13600,7 +13600,7 @@
             "ids": [
                 94886282
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -15221,9 +15221,9 @@
             "ids": [
                 35306215
             ],
-            "price": 1.0,
-            "status": -1,
-            "last_price": 0.5
+            "price": 0.48,
+            "status": 3,
+            "last_price": 0.48
         },
         {
             "name": "Condemned Maiden",
@@ -15896,7 +15896,7 @@
             "ids": [
                 8267140
             ],
-            "price": 0.3,
+            "price": 0.31,
             "status": 3,
             "last_price": 0.32
         },
@@ -16427,8 +16427,8 @@
             "ids": [
                 50277355
             ],
-            "price": 0.69,
-            "status": -1,
+            "price": 0.35,
+            "status": 3,
             "last_price": 0.34
         },
         {
@@ -16526,8 +16526,8 @@
             "ids": [
                 45002991
             ],
-            "price": 0.63,
-            "status": -1,
+            "price": 0.32,
+            "status": 3,
             "last_price": 0.32
         },
         {
@@ -18915,7 +18915,7 @@
             "ids": [
                 39153655
             ],
-            "price": 0.23,
+            "price": 0.22,
             "status": 3,
             "last_price": 0.21
         },
@@ -18951,7 +18951,7 @@
             "ids": [
                 28406301
             ],
-            "price": 0.43,
+            "price": 0.46,
             "status": 3,
             "last_price": 0.46
         },
@@ -19122,7 +19122,7 @@
             "ids": [
                 9024198
             ],
-            "price": 0.29,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.3
         },
@@ -19230,7 +19230,7 @@
             "ids": [
                 6766208
             ],
-            "price": 0.3,
+            "price": 0.31,
             "status": 3,
             "last_price": 0.32
         },
@@ -19365,7 +19365,7 @@
             "ids": [
                 79559912
             ],
-            "price": 0.41,
+            "price": 0.43,
             "status": 3,
             "last_price": 0.44
         },
@@ -19698,8 +19698,8 @@
             "ids": [
                 83518674
             ],
-            "price": 0.56,
-            "status": -1,
+            "price": 0.43,
+            "status": 3,
             "last_price": 0.42
         },
         {
@@ -20409,7 +20409,7 @@
             "ids": [
                 74567889
             ],
-            "price": 0.24,
+            "price": 0.23,
             "status": 3,
             "last_price": 0.23
         },
@@ -20534,7 +20534,7 @@
                 46986420,
                 46986421
             ],
-            "price": 0.09,
+            "price": 0.08,
             "status": 3,
             "last_price": 0.07
         },
@@ -23056,7 +23056,7 @@
             "ids": [
                 95169481
             ],
-            "price": 0.26,
+            "price": 0.27,
             "status": 3,
             "last_price": 0.27
         },
@@ -24632,7 +24632,7 @@
             "ids": [
                 82956214
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -25118,8 +25118,8 @@
             "ids": [
                 38179121
             ],
-            "price": 0.86,
-            "status": -1,
+            "price": 0.43,
+            "status": 3,
             "last_price": 0.43
         },
         {
@@ -25145,7 +25145,7 @@
             "ids": [
                 146746
             ],
-            "price": 1.48,
+            "price": 0.77,
             "status": -1,
             "last_price": 0.76
         },
@@ -25838,7 +25838,7 @@
             "ids": [
                 40110009
             ],
-            "price": 0.36,
+            "price": 0.26,
             "status": 3,
             "last_price": 0.25
         },
@@ -25865,7 +25865,7 @@
             "ids": [
                 78231355
             ],
-            "price": 0.4,
+            "price": 0.38,
             "status": 3,
             "last_price": 0.38
         },
@@ -25883,7 +25883,7 @@
             "ids": [
                 49575521
             ],
-            "price": 0.71,
+            "price": 0.7,
             "status": -1,
             "last_price": 0.7
         },
@@ -26018,8 +26018,8 @@
             "ids": [
                 53184342
             ],
-            "price": 0.54,
-            "status": -1,
+            "price": 0.49,
+            "status": 3,
             "last_price": 0.49
         },
         {
@@ -26081,7 +26081,7 @@
             "ids": [
                 60004971
             ],
-            "price": 0.34,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.3
         },
@@ -28266,7 +28266,7 @@
             "ids": [
                 36841733
             ],
-            "price": 0.49,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -29583,7 +29583,7 @@
             "ids": [
                 11877465
             ],
-            "price": 0.4,
+            "price": 0.36,
             "status": 3,
             "last_price": 0.36
         },
@@ -29592,7 +29592,7 @@
             "ids": [
                 57272170
             ],
-            "price": 0.34,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.3
         },
@@ -32681,7 +32681,7 @@
                 99267150,
                 99267151
             ],
-            "price": 0.39,
+            "price": 0.42,
             "status": 3,
             "last_price": 0.43
         },
@@ -34240,7 +34240,7 @@
             "ids": [
                 96897184
             ],
-            "price": 0.31,
+            "price": 0.33,
             "status": 3,
             "last_price": 0.33
         },
@@ -34249,7 +34249,7 @@
             "ids": [
                 59531356
             ],
-            "price": 0.15,
+            "price": 0.14,
             "status": 3,
             "last_price": 0.13
         },
@@ -35077,7 +35077,7 @@
             "ids": [
                 36956512
             ],
-            "price": 0.42,
+            "price": 0.33,
             "status": 3,
             "last_price": 0.32
         },
@@ -35771,8 +35771,8 @@
             "ids": [
                 3356494
             ],
-            "price": 0.7,
-            "status": -1,
+            "price": 0.35,
+            "status": 3,
             "last_price": 0.35
         },
         {
@@ -36563,7 +36563,7 @@
             "ids": [
                 39512984
             ],
-            "price": 0.44,
+            "price": 0.41,
             "status": 1,
             "last_price": 0.4
         },
@@ -36572,7 +36572,7 @@
             "ids": [
                 19163116
             ],
-            "price": 0.36,
+            "price": 0.34,
             "status": 3,
             "last_price": 0.33
         },
@@ -37275,7 +37275,7 @@
             "ids": [
                 15248594
             ],
-            "price": 0.44,
+            "price": 0.41,
             "status": 3,
             "last_price": 0.4
         },
@@ -38352,7 +38352,7 @@
             "ids": [
                 46159582
             ],
-            "price": 0.41,
+            "price": 0.38,
             "status": 3,
             "last_price": 0.38
         },
@@ -38712,8 +38712,8 @@
             "ids": [
                 25924653
             ],
-            "price": 0.7,
-            "status": -1,
+            "price": 0.35,
+            "status": 3,
             "last_price": 0.35
         },
         {
@@ -38775,8 +38775,8 @@
             "ids": [
                 48156348
             ],
-            "price": 0.83,
-            "status": -1,
+            "price": 0.42,
+            "status": 3,
             "last_price": 0.41
         },
         {
@@ -38784,8 +38784,8 @@
             "ids": [
                 27346636
             ],
-            "price": 0.65,
-            "status": -1,
+            "price": 0.33,
+            "status": 3,
             "last_price": 0.33
         },
         {
@@ -38811,8 +38811,8 @@
             "ids": [
                 78868776
             ],
-            "price": 0.72,
-            "status": -1,
+            "price": 0.36,
+            "status": 3,
             "last_price": 0.36
         },
         {
@@ -38820,8 +38820,8 @@
             "ids": [
                 5975022
             ],
-            "price": 0.77,
-            "status": -1,
+            "price": 0.39,
+            "status": 3,
             "last_price": 0.39
         },
         {
@@ -38946,8 +38946,8 @@
             "ids": [
                 96216229
             ],
-            "price": 0.84,
-            "status": -1,
+            "price": 0.42,
+            "status": 3,
             "last_price": 0.42
         },
         {
@@ -40099,7 +40099,7 @@
             "ids": [
                 98637386
             ],
-            "price": 0.33,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.29
         },
@@ -43566,8 +43566,8 @@
             "ids": [
                 72813401
             ],
-            "price": 0.9,
-            "status": -1,
+            "price": 0.46,
+            "status": 3,
             "last_price": 0.45
         },
         {
@@ -44241,7 +44241,7 @@
             "ids": [
                 41232647
             ],
-            "price": 0.45,
+            "price": 0.33,
             "status": 3,
             "last_price": 0.32
         },
@@ -45250,7 +45250,7 @@
             "ids": [
                 31226177
             ],
-            "price": 0.39,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.29
         },
@@ -49193,8 +49193,8 @@
             "ids": [
                 2857636
             ],
-            "price": 0.59,
-            "status": -1,
+            "price": 0.3,
+            "status": 3,
             "last_price": 0.29
         },
         {
@@ -49203,8 +49203,8 @@
                 38342335,
                 38342336
             ],
-            "price": 0.54,
-            "status": -1,
+            "price": 0.28,
+            "status": 3,
             "last_price": 0.27
         },
         {
@@ -50469,7 +50469,7 @@
             "ids": [
                 13171876
             ],
-            "price": 0.34,
+            "price": 0.24,
             "status": 3,
             "last_price": 0.23
         },
@@ -50793,7 +50793,7 @@
             "ids": [
                 7902349
             ],
-            "price": 0.33,
+            "price": 0.3,
             "status": 1,
             "last_price": 0.29
         },
@@ -50811,7 +50811,7 @@
             "ids": [
                 44519536
             ],
-            "price": 0.34,
+            "price": 0.3,
             "status": 1,
             "last_price": 0.3
         },
@@ -50982,8 +50982,8 @@
             "ids": [
                 75116619
             ],
-            "price": 0.52,
-            "status": -1,
+            "price": 0.37,
+            "status": 3,
             "last_price": 0.36
         },
         {
@@ -51000,8 +51000,8 @@
             "ids": [
                 49721904
             ],
-            "price": 0.66,
-            "status": -1,
+            "price": 0.48,
+            "status": 3,
             "last_price": 0.48
         },
         {
@@ -51306,7 +51306,7 @@
             "ids": [
                 39752820
             ],
-            "price": 0.45,
+            "price": 0.47,
             "status": 3,
             "last_price": 0.47
         },
@@ -51873,7 +51873,7 @@
             "ids": [
                 23898021
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -52260,7 +52260,7 @@
             "ids": [
                 35487920
             ],
-            "price": 0.03,
+            "price": 0.01,
             "status": 3,
             "last_price": 0.0
         },
@@ -52269,7 +52269,7 @@
             "ids": [
                 8083925
             ],
-            "price": 0.03,
+            "price": 0.01,
             "status": 3,
             "last_price": 0.0
         },
@@ -52278,7 +52278,7 @@
             "ids": [
                 36326160
             ],
-            "price": 0.03,
+            "price": 0.01,
             "status": 3,
             "last_price": 0.0
         },
@@ -52314,7 +52314,7 @@
             "ids": [
                 37582948
             ],
-            "price": 0.03,
+            "price": 0.01,
             "status": 3,
             "last_price": 0.0
         },
@@ -53296,7 +53296,7 @@
             "ids": [
                 46033517
             ],
-            "price": 0.27,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.29
         },
@@ -54061,8 +54061,8 @@
             "ids": [
                 66149377
             ],
-            "price": 0.79,
-            "status": -1,
+            "price": 0.4,
+            "status": 3,
             "last_price": 0.4
         },
         {
@@ -54151,8 +54151,8 @@
             "ids": [
                 71791814
             ],
-            "price": 0.78,
-            "status": -1,
+            "price": 0.4,
+            "status": 3,
             "last_price": 0.39
         },
         {
@@ -55681,7 +55681,7 @@
             "ids": [
                 43735670
             ],
-            "price": 1.41,
+            "price": 0.71,
             "status": -1,
             "last_price": 0.71
         },
@@ -56113,7 +56113,7 @@
             "ids": [
                 59642500
             ],
-            "price": 0.26,
+            "price": 0.27,
             "status": 3,
             "last_price": 0.27
         },
@@ -56455,7 +56455,7 @@
             "ids": [
                 36521307
             ],
-            "price": 0.35,
+            "price": 0.32,
             "status": 3,
             "last_price": 0.32
         },
@@ -56491,7 +56491,7 @@
             "ids": [
                 14393464
             ],
-            "price": 0.28,
+            "price": 0.26,
             "status": 3,
             "last_price": 0.25
         },
@@ -58815,9 +58815,9 @@
             "ids": [
                 40164421
             ],
-            "price": 0.54,
-            "status": -1,
-            "last_price": 0.49
+            "price": 0.48,
+            "status": 3,
+            "last_price": 0.48
         },
         {
             "name": "Minerva, Scholar of the Sky",
@@ -59256,8 +59256,8 @@
             "ids": [
                 3987233
             ],
-            "price": 0.7,
-            "status": -1,
+            "price": 0.35,
+            "status": 3,
             "last_price": 0.35
         },
         {
@@ -59301,7 +59301,7 @@
             "ids": [
                 29587993
             ],
-            "price": 0.26,
+            "price": 0.27,
             "status": 3,
             "last_price": 0.27
         },
@@ -60400,7 +60400,7 @@
             "ids": [
                 80863132
             ],
-            "price": 0.03,
+            "price": 0.01,
             "status": 3,
             "last_price": 0.0
         },
@@ -61247,8 +61247,8 @@
             "ids": [
                 33198837
             ],
-            "price": 0.54,
-            "status": -1,
+            "price": 0.33,
+            "status": 3,
             "last_price": 0.32
         },
         {
@@ -61688,7 +61688,7 @@
             "ids": [
                 61454890
             ],
-            "price": 0.03,
+            "price": 0.01,
             "status": 3,
             "last_price": 0.0
         },
@@ -61922,7 +61922,7 @@
             "ids": [
                 39468724
             ],
-            "price": 0.48,
+            "price": 0.32,
             "status": 3,
             "last_price": 0.31
         },
@@ -61985,8 +61985,8 @@
             "ids": [
                 52068432
             ],
-            "price": 0.55,
-            "status": -1,
+            "price": 0.38,
+            "status": 3,
             "last_price": 0.37
         },
         {
@@ -62003,7 +62003,7 @@
             "ids": [
                 25857246
             ],
-            "price": 0.47,
+            "price": 0.31,
             "status": 3,
             "last_price": 0.3
         },
@@ -64049,7 +64049,7 @@
             "ids": [
                 80796456
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -64643,7 +64643,7 @@
             "ids": [
                 56832966
             ],
-            "price": 0.33,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.29
         },
@@ -64778,8 +64778,8 @@
             "ids": [
                 40398073
             ],
-            "price": 0.51,
-            "status": -1,
+            "price": 0.49,
+            "status": 3,
             "last_price": 0.49
         },
         {
@@ -66359,7 +66359,7 @@
             "ids": [
                 41782653
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -66648,7 +66648,7 @@
             "ids": [
                 38761908
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -66693,7 +66693,7 @@
             "ids": [
                 35035481
             ],
-            "price": 0.38,
+            "price": 0.35,
             "status": 3,
             "last_price": 0.34
         },
@@ -68739,7 +68739,7 @@
             "ids": [
                 25542642
             ],
-            "price": 0.49,
+            "price": 0.44,
             "status": 3,
             "last_price": 0.43
         },
@@ -70351,8 +70351,8 @@
             "ids": [
                 35272499
             ],
-            "price": 0.68,
-            "status": -1,
+            "price": 0.43,
+            "status": 3,
             "last_price": 0.42
         },
         {
@@ -70369,8 +70369,8 @@
             "ids": [
                 53819028
             ],
-            "price": 0.69,
-            "status": -1,
+            "price": 0.35,
+            "status": 3,
             "last_price": 0.34
         },
         {
@@ -70558,7 +70558,7 @@
             "ids": [
                 96729612
             ],
-            "price": 0.59,
+            "price": 0.54,
             "status": -1,
             "last_price": 0.53
         },
@@ -70675,7 +70675,7 @@
             "ids": [
                 85692042
             ],
-            "price": 0.34,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.3
         },
@@ -74028,7 +74028,7 @@
                 74677426,
                 74677427
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },
@@ -75372,7 +75372,7 @@
             "ids": [
                 70903634
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 1,
             "last_price": 0.28
         },
@@ -75381,7 +75381,7 @@
             "ids": [
                 8124921
             ],
-            "price": 0.27,
+            "price": 0.24,
             "status": 1,
             "last_price": 0.24
         },
@@ -78902,7 +78902,7 @@
             "ids": [
                 7291576
             ],
-            "price": 0.48,
+            "price": 0.34,
             "status": 3,
             "last_price": 0.34
         },
@@ -78938,7 +78938,7 @@
             "ids": [
                 79968632
             ],
-            "price": 0.34,
+            "price": 0.23,
             "status": 3,
             "last_price": 0.23
         },
@@ -79001,8 +79001,8 @@
             "ids": [
                 99111753
             ],
-            "price": 0.52,
-            "status": -1,
+            "price": 0.31,
+            "status": 3,
             "last_price": 0.3
         },
         {
@@ -79308,7 +79308,7 @@
             "ids": [
                 82466274
             ],
-            "price": 0.34,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.3
         },
@@ -79758,7 +79758,7 @@
             "ids": [
                 27416701
             ],
-            "price": 30.66,
+            "price": 30.68,
             "status": -1,
             "last_price": 30.73
         },
@@ -80190,8 +80190,8 @@
             "ids": [
                 86926989
             ],
-            "price": 1.11,
-            "status": -1,
+            "price": 0.39,
+            "status": 3,
             "last_price": 0.39
         },
         {
@@ -81333,7 +81333,7 @@
             "ids": [
                 67750322
             ],
-            "price": 0.49,
+            "price": 0.36,
             "status": 3,
             "last_price": 0.36
         },
@@ -81387,7 +81387,7 @@
             "ids": [
                 36776089
             ],
-            "price": 0.28,
+            "price": 0.26,
             "status": 3,
             "last_price": 0.25
         },
@@ -82110,7 +82110,7 @@
             "ids": [
                 691925
             ],
-            "price": 0.34,
+            "price": 0.32,
             "status": 3,
             "last_price": 0.31
         },
@@ -82173,7 +82173,7 @@
             "ids": [
                 40605147
             ],
-            "price": 0.34,
+            "price": 0.31,
             "status": 3,
             "last_price": 0.3
         },
@@ -85219,7 +85219,7 @@
             "ids": [
                 94942656
             ],
-            "price": 0.26,
+            "price": 0.27,
             "status": 3,
             "last_price": 0.27
         },
@@ -85777,8 +85777,8 @@
             "ids": [
                 73539069
             ],
-            "price": 0.68,
-            "status": -1,
+            "price": 0.34,
+            "status": 1,
             "last_price": 0.34
         },
         {
@@ -86986,7 +86986,7 @@
             "ids": [
                 56910167
             ],
-            "price": 0.26,
+            "price": 0.27,
             "status": 3,
             "last_price": 0.27
         },
@@ -88777,8 +88777,8 @@
             "ids": [
                 50750868
             ],
-            "price": 0.74,
-            "status": -1,
+            "price": 0.38,
+            "status": 3,
             "last_price": 0.37
         },
         {
@@ -89588,7 +89588,7 @@
             "ids": [
                 501000004
             ],
-            "price": 246.01,
+            "price": 246.12,
             "status": -1,
             "last_price": 246.22
         },
@@ -89795,7 +89795,7 @@
             "ids": [
                 38529357
             ],
-            "price": 0.33,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.29
         },
@@ -90020,7 +90020,7 @@
             "ids": [
                 92719314
             ],
-            "price": 0.28,
+            "price": 0.26,
             "status": 3,
             "last_price": 0.25
         },
@@ -90867,7 +90867,7 @@
             "ids": [
                 26692769
             ],
-            "price": 0.36,
+            "price": 0.34,
             "status": 3,
             "last_price": 0.33
         },
@@ -91416,8 +91416,8 @@
             "ids": [
                 95515518
             ],
-            "price": 0.65,
-            "status": -1,
+            "price": 0.33,
+            "status": 3,
             "last_price": 0.33
         },
         {
@@ -92914,7 +92914,7 @@
             "ids": [
                 83629030
             ],
-            "price": 0.26,
+            "price": 0.27,
             "status": 3,
             "last_price": 0.27
         },
@@ -93466,8 +93466,8 @@
             "ids": [
                 46947713
             ],
-            "price": 0.92,
-            "status": -1,
+            "price": 0.46,
+            "status": 3,
             "last_price": 0.46
         },
         {
@@ -93628,7 +93628,7 @@
             "ids": [
                 80101899
             ],
-            "price": 0.3,
+            "price": 0.32,
             "status": 3,
             "last_price": 0.32
         },
@@ -93844,8 +93844,8 @@
             "ids": [
                 47163170
             ],
-            "price": 1.0,
-            "status": -1,
+            "price": 0.29,
+            "status": 3,
             "last_price": 0.28
         },
         {
@@ -93871,7 +93871,7 @@
             "ids": [
                 50810455
             ],
-            "price": 0.45,
+            "price": 0.33,
             "status": 3,
             "last_price": 0.32
         },
@@ -94276,7 +94276,7 @@
             "ids": [
                 14365823
             ],
-            "price": 1.48,
+            "price": 0.78,
             "status": -1,
             "last_price": 0.77
         },
@@ -95078,7 +95078,7 @@
             "ids": [
                 43898403
             ],
-            "price": 0.41,
+            "price": 0.38,
             "status": 3,
             "last_price": 0.38
         },
@@ -95618,7 +95618,7 @@
             "ids": [
                 501000000
             ],
-            "price": 99.87,
+            "price": 99.92,
             "status": -1,
             "last_price": 100.0
         },
@@ -97968,9 +97968,9 @@
             "ids": [
                 49088914
             ],
-            "price": 0.51,
-            "status": -1,
-            "last_price": 0.5
+            "price": 0.48,
+            "status": 3,
+            "last_price": 0.48
         },
         {
             "name": "Virtual World Oto-Hime - Toutou",
@@ -98068,7 +98068,7 @@
             "ids": [
                 18094166
             ],
-            "price": 1.01,
+            "price": 1.02,
             "status": -1,
             "last_price": 1.02
         },
@@ -98086,7 +98086,7 @@
             "ids": [
                 22865492
             ],
-            "price": 0.46,
+            "price": 0.34,
             "status": 3,
             "last_price": 0.34
         },
@@ -99528,7 +99528,7 @@
             "ids": [
                 23147658
             ],
-            "price": 0.4,
+            "price": 0.41,
             "status": 3,
             "last_price": 0.42
         },
@@ -101060,7 +101060,7 @@
             "ids": [
                 87571563
             ],
-            "price": 0.33,
+            "price": 0.3,
             "status": 3,
             "last_price": 0.29
         },
@@ -101789,8 +101789,8 @@
             "ids": [
                 63813056
             ],
-            "price": 0.9,
-            "status": -1,
+            "price": 0.46,
+            "status": 3,
             "last_price": 0.45
         },
         {
@@ -101807,7 +101807,7 @@
             "ids": [
                 1948619
             ],
-            "price": 1.29,
+            "price": 0.58,
             "status": -1,
             "last_price": 0.58
         },
@@ -103483,7 +103483,7 @@
             "ids": [
                 31755044
             ],
-            "price": 0.32,
+            "price": 0.29,
             "status": 3,
             "last_price": 0.28
         },

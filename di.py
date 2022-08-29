@@ -143,6 +143,8 @@ def getCardPrice(card):
 			avgPrice -=0.75
 		else:
 			avgPrice /=2
+		if avgPrice < 0.51 and avgPrice > 0.49:
+			avgPrice = 0.48
 	return avgPrice
 
 def loadConstants():
@@ -200,7 +202,6 @@ def dumpJson():
 		json.dump(jsonData, file, indent=4)
 
 def applyCutOff(cards):
-	print("\n")
 	for card in cards:
 		cardName = card.get(NAME)
 		cardPrice = card.get(PRICE)
@@ -213,8 +214,7 @@ def applyCutOff(cards):
 			if cardPrice > cutoffPoint:
 				p1 = "{:.2f}".format(cardPrice)
 				p2 = "{:.2f}".format(cardLastPrice)
-				print("%s is going down from %s to %s"%(card[NAME], p1, p2), flush=True) 
-	print("\n")
+				print("	%s is going down from %s to %s"%(card[NAME], p1, p2), flush=True) 
 
 def generatePriceData(cards):
 	runs = jsonData.get(PREVIOUS_RUNS)
@@ -248,7 +248,10 @@ def generatePriceData(cards):
 			for entry in jsonData.get(DATA):
 				if entry.get(NAME) == card.get(NAME):
 					previousAverage = entry.get(PRICE)
-					newAverage = (previousAverage * runs + avgPrice)/(runs+1)
+					if entry.get(NAME) in forceLegal:
+						newAverage = (previousAverage + avgPrice)/2
+					else:
+						newAverage = (previousAverage * runs + avgPrice)/(runs+1)
 					entry[PRICE] = float("{:.2f}".format(newAverage))
 					entry[LAST_PRICE] = float("{:.2f}".format(avgPrice))
 					entry[STATUS] = banTcg
@@ -359,8 +362,8 @@ def buildEverything():
 	cards = getCardsFromAPI()
 
 	print("Generating price data...", flush=True)
-	generatePriceData(cards)
 
+	generatePriceData(cards)
 	cards = jsonData.get(DATA)
 
 	print("Applying price cutoff...", flush=True)
@@ -380,15 +383,17 @@ def buildEverything():
 	closeCards = generateCloseCards()
 	buildCloseCardsPage(closeCards)
 
-	print("Uploading to git...", flush=True)
-	uploadToGit()
-
-	print("Done", flush=True)
-
 buildEverything()
 
+def buildAndUpload():
+	buildEverything()
+	print("Uploading to git...", flush=True)
+	uploadToGit()
+	print("Uploaded\n")
 
-sched = BlockingScheduler()
-sched.daemonic = False
-sched.add_job(buildEverything, 'interval', minutes=5)
-sched.start()
+schedule = True
+if (schedule):
+	sched = BlockingScheduler()
+	sched.daemonic = False
+	sched.add_job(buildAndUpload, 'interval', minutes=5)
+	sched.start()
