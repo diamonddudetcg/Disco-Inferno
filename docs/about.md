@@ -10,13 +10,12 @@ It is loosely based on the MTG fanmade format [Penny Dreadful](http://www.pennyd
 
 Since we don't have something like Magic Online that allows really good cards to be insanely cheap and have to rely on both TCGPlayer and Cardmarket prices, we had to settle for a higher price point than they do. After a lot of tinkering, we settled for $0.50 as the cutoff point. This means, everything that is $0.50 or cheaper when the banlist is generated will remain legal until the next banlist.
 
-There are three instances where a banlist will be generated:
+There are two instances where a banlist will be generated:
 
 * A new official TCG banlist is released
-* A week after a new TCG product is released (to allow the market to stabilize)
 * The first day of a month
 
-The monthly banlists will only be generated if no official banlist has dropped a week before the first day of a month and no product release banlist is scheduled to be released before the 7th of that month.
+The monthly banlists will only be generated if no official banlist has dropped a week before the first day of a month.
 
 Strictly delimitated banlists are something other budget formats did not have, and they allow for a clear cut definition of what is legal and what isn't. While they leave less flexibility to the deckbuilder, they make tournaments easier to organize.
 
