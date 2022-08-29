@@ -26,6 +26,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Runick Flashing Fire](https://db.ygoprodeck.com/card/?search=Runick%20Flashing%20Fire) | 0.47 |
 [Runick Freezing Curses](https://db.ygoprodeck.com/card/?search=Runick%20Freezing%20Curses) | 0.47 |
 [The Dark Door](https://db.ygoprodeck.com/card/?search=The%20Dark%20Door) | 0.47 |
+[Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | 0.47 |
 [Ultimate Dragonic Utopia Ray](https://db.ygoprodeck.com/card/?search=Ultimate%20Dragonic%20Utopia%20Ray) | 0.47 |
 [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | 0.47 |
 [Watapon](https://db.ygoprodeck.com/card/?search=Watapon) | 0.47 |
