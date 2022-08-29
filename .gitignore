@@ -3,5 +3,7 @@
 /.tmp.drivedownload
 banlist/.tmp.driveupload
 banlist/.tmp.drivedownload
+banlist/
+json/
 di.py
 DiBot.py
