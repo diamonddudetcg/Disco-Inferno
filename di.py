@@ -140,7 +140,7 @@ def getCardPrice(card):
 		avgPrice = (tcgplayerPrice + cardmarketPrice)/2
 	if card.get(NAME) in forceLegal:
 		if (avgPrice > 1):
-			avgPrice -=1
+			avgPrice -=0.75
 		else:
 			avgPrice /=2
 	return avgPrice

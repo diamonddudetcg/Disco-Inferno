@@ -1,5 +1,5 @@
 {
-    "previousRuns": 145,
+    "previousRuns": 146,
     "data": [
         {
             "name": "\"A\" Cell Breeding Device",
@@ -5196,7 +5196,7 @@
             ],
             "price": 0.93,
             "status": -1,
-            "last_price": 0.67
+            "last_price": 0.92
         },
         {
             "name": "Aromage Cananga",
@@ -12888,7 +12888,7 @@
             ],
             "price": 1.33,
             "status": -1,
-            "last_price": 0.36
+            "last_price": 0.61
         },
         {
             "name": "Celestial Observatory",
@@ -25147,7 +25147,7 @@
             ],
             "price": 1.48,
             "status": -1,
-            "last_price": 0.51
+            "last_price": 0.76
         },
         {
             "name": "Double Hero Attack",
@@ -25867,7 +25867,7 @@
             ],
             "price": 0.4,
             "status": 3,
-            "last_price": 0.13
+            "last_price": 0.38
         },
         {
             "name": "Dragonmaid Lorpar",
@@ -25885,7 +25885,7 @@
             ],
             "price": 0.71,
             "status": -1,
-            "last_price": 0.45
+            "last_price": 0.7
         },
         {
             "name": "Dragonmaid Send-Off",
@@ -32683,7 +32683,7 @@
             ],
             "price": 0.39,
             "status": 3,
-            "last_price": 0.18
+            "last_price": 0.43
         },
         {
             "name": "Five-Headed Link Dragon",
@@ -53298,7 +53298,7 @@
             ],
             "price": 0.27,
             "status": 3,
-            "last_price": 0.04
+            "last_price": 0.29
         },
         {
             "name": "Machina Sniper",
@@ -55683,7 +55683,7 @@
             ],
             "price": 1.41,
             "status": -1,
-            "last_price": 0.46
+            "last_price": 0.71
         },
         {
             "name": "Marincess Blue Tang",
@@ -64780,7 +64780,7 @@
             ],
             "price": 0.51,
             "status": -1,
-            "last_price": 0.24
+            "last_price": 0.49
         },
         {
             "name": "Nutrient Z",
@@ -70560,7 +70560,7 @@
             ],
             "price": 0.59,
             "status": -1,
-            "last_price": 0.28
+            "last_price": 0.53
         },
         {
             "name": "Prepare to Strike Back",
@@ -80190,9 +80190,9 @@
             "ids": [
                 86926989
             ],
-            "price": 1.12,
+            "price": 1.11,
             "status": -1,
-            "last_price": 0.14
+            "last_price": 0.39
         },
         {
             "name": "Shiranui Smith",
@@ -93846,7 +93846,7 @@
             ],
             "price": 1.0,
             "status": -1,
-            "last_price": 0.03
+            "last_price": 0.28
         },
         {
             "name": "Tri-Brigade Ferrijit the Barren Blossom",
@@ -94278,7 +94278,7 @@
             ],
             "price": 1.48,
             "status": -1,
-            "last_price": 0.52
+            "last_price": 0.77
         },
         {
             "name": "Trickstar Festival",
@@ -97970,7 +97970,7 @@
             ],
             "price": 0.51,
             "status": -1,
-            "last_price": 0.25
+            "last_price": 0.5
         },
         {
             "name": "Virtual World Oto-Hime - Toutou",
@@ -98070,7 +98070,7 @@
             ],
             "price": 1.01,
             "status": -1,
-            "last_price": 0.77
+            "last_price": 1.02
         },
         {
             "name": "Vision HERO Gravito",
@@ -101809,7 +101809,7 @@
             ],
             "price": 1.29,
             "status": -1,
-            "last_price": 0.33
+            "last_price": 0.58
         },
         {
             "name": "XX-clusion",
