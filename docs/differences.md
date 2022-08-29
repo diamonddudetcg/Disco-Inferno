@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 367
+Estimated number of changes: 389
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -28,6 +28,7 @@ Estimated number of changes: 367
 |[Gem-Knight Master Diamond](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Master%20Diamond) | Illegal | Limited |
 |[Left Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Arm%20of%20the%20Forbidden%20One) | Illegal | Limited |
 |[Left Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Leg%20of%20the%20Forbidden%20One) | Illegal | Limited |
+|[Red Rose Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rose%20Dragon) | Illegal | Limited |
 |[Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | Illegal | Limited |
 |[Right Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Leg%20of%20the%20Forbidden%20One) | Illegal | Limited |
 |[Shooting Riser Dragon](https://db.ygoprodeck.com/card/?search=Shooting%20Riser%20Dragon) | Illegal | Limited |
@@ -58,6 +59,7 @@ Estimated number of changes: 367
 |[Ascator, Dawnwalker](https://db.ygoprodeck.com/card/?search=Ascator,%20Dawnwalker) | Illegal | Unlimited |
 |[Atlantean Dragoons](https://db.ygoprodeck.com/card/?search=Atlantean%20Dragoons) | Illegal | Unlimited |
 |[B-Buster Drake](https://db.ygoprodeck.com/card/?search=B-Buster%20Drake) | Illegal | Unlimited |
+|[Batteryman Fuel Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Fuel%20Cell) | Illegal | Unlimited |
 |[Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal | Unlimited |
 |[Beatrice, Lady of the Eternal](https://db.ygoprodeck.com/card/?search=Beatrice,%20Lady%20of%20the%20Eternal) | Limited | Unlimited |
 |[Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | Illegal | Unlimited |
@@ -96,6 +98,7 @@ Estimated number of changes: 367
 |[Damage Polarizer](https://db.ygoprodeck.com/card/?search=Damage%20Polarizer) | Illegal | Unlimited |
 |[Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | Illegal | Unlimited |
 |[Danger! Ogopogo!](https://db.ygoprodeck.com/card/?search=Danger!%20Ogopogo!) | Illegal | Unlimited |
+|[Dante, Pilgrim of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Dante,%20Pilgrim%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
 |[Dante, Traveler of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Dante,%20Traveler%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
 |[Dark Beckoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Beckoning%20Beast) | Illegal | Unlimited |
 |[Dark Grepher](https://db.ygoprodeck.com/card/?search=Dark%20Grepher) | Limited | Unlimited |
@@ -137,6 +140,7 @@ Estimated number of changes: 367
 |[Fairy Box](https://db.ygoprodeck.com/card/?search=Fairy%20Box) | Illegal | Unlimited |
 |[Faith Bird](https://db.ygoprodeck.com/card/?search=Faith%20Bird) | Illegal | Unlimited |
 |[Farewelcome Labrynth](https://db.ygoprodeck.com/card/?search=Farewelcome%20Labrynth) | Illegal | Unlimited |
+|[Ferret Flames](https://db.ygoprodeck.com/card/?search=Ferret%20Flames) | Illegal | Unlimited |
 |[Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Semi-Limited | Unlimited |
 |[Firewall Dragon](https://db.ygoprodeck.com/card/?search=Firewall%20Dragon) | Illegal | Unlimited |
 |[Five-Headed Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Dragon) | Illegal | Unlimited |
@@ -170,6 +174,7 @@ Estimated number of changes: 367
 |[Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Limited | Unlimited |
 |[Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | Illegal | Unlimited |
 |[Golden Ladybug](https://db.ygoprodeck.com/card/?search=Golden%20Ladybug) | Illegal | Unlimited |
+|[Good & Evil in the Burning Abyss](https://db.ygoprodeck.com/card/?search=Good%20%26%20Evil%20in%20the%20Burning%20Abyss) | Illegal | Unlimited |
 |[Goyo Predator](https://db.ygoprodeck.com/card/?search=Goyo%20Predator) | Illegal | Unlimited |
 |[Grave Ohja](https://db.ygoprodeck.com/card/?search=Grave%20Ohja) | Illegal | Unlimited |
 |[Greed](https://db.ygoprodeck.com/card/?search=Greed) | Illegal | Unlimited |
@@ -186,6 +191,7 @@ Estimated number of changes: 367
 |[Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | Illegal | Unlimited |
 |[Jet Synchron](https://db.ygoprodeck.com/card/?search=Jet%20Synchron) | Limited | Unlimited |
 |[Junk Converter](https://db.ygoprodeck.com/card/?search=Junk%20Converter) | Illegal | Unlimited |
+|[Junk Forward](https://db.ygoprodeck.com/card/?search=Junk%20Forward) | Illegal | Unlimited |
 |[Jurrac Guaiba](https://db.ygoprodeck.com/card/?search=Jurrac%20Guaiba) | Illegal | Unlimited |
 |[Kairyu-Shin](https://db.ygoprodeck.com/card/?search=Kairyu-Shin) | Illegal | Unlimited |
 |[Kaiser Glider - Golden Burst](https://db.ygoprodeck.com/card/?search=Kaiser%20Glider%20-%20Golden%20Burst) | Illegal | Unlimited |
@@ -202,24 +208,29 @@ Estimated number of changes: 367
 |[Legendary Six Samurai - Enishi](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Enishi) | Illegal | Unlimited |
 |[Legendary Six Samurai - Kizan](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kizan) | Illegal | Unlimited |
 |[Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | Illegal | Unlimited |
+|[Libic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Libic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
 |[Lilith, Lady of Lament](https://db.ygoprodeck.com/card/?search=Lilith,%20Lady%20of%20Lament) | Illegal | Unlimited |
 |[Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | Illegal | Unlimited |
 |[Live☆Twin Home](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Home) | Illegal | Unlimited |
 |[Live☆Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil) | Illegal | Unlimited |
 |[Live☆Twin Sunny's Snitch](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Sunny's%20Snitch) | Illegal | Unlimited |
+|[Lunalight Black Sheep](https://db.ygoprodeck.com/card/?search=Lunalight%20Black%20Sheep) | Illegal | Unlimited |
 |[Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | Illegal | Unlimited |
 |[Lyrilusc - Recital Starling](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling) | Limited | Unlimited |
 |[Machina Ruinforce](https://db.ygoprodeck.com/card/?search=Machina%20Ruinforce) | Illegal | Unlimited |
+|[Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | Illegal | Unlimited |
 |[Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | Illegal | Unlimited |
 |[Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | Illegal | Unlimited |
 |[Magical Musketeer Max](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Max) | Illegal | Unlimited |
 |[Majespecter Cyclone](https://db.ygoprodeck.com/card/?search=Majespecter%20Cyclone) | Illegal | Unlimited |
 |[Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | Illegal | Unlimited |
 |[Mask Change II](https://db.ygoprodeck.com/card/?search=Mask%20Change%20II) | Illegal | Unlimited |
+|[Masked HERO Acid](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Acid) | Illegal | Unlimited |
 |[Masked HERO Anki](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Anki) | Illegal | Unlimited |
 |[Master's Diploman](https://db.ygoprodeck.com/card/?search=Master's%20Diploman) | Illegal | Unlimited |
 |[Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | Illegal | Unlimited |
 |[Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | Illegal | Unlimited |
+|[Mayhem Fur Hire](https://db.ygoprodeck.com/card/?search=Mayhem%20Fur%20Hire) | Illegal | Unlimited |
 |[Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Forbidden | Unlimited |
 |[Metalsilver Armor](https://db.ygoprodeck.com/card/?search=Metalsilver%20Armor) | Illegal | Unlimited |
 |[Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Limited | Unlimited |
@@ -235,6 +246,7 @@ Estimated number of changes: 367
 |[Muko](https://db.ygoprodeck.com/card/?search=Muko) | Illegal | Unlimited |
 |[Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | Unlimited |
 |[Naturia Beast](https://db.ygoprodeck.com/card/?search=Naturia%20Beast) | Illegal | Unlimited |
+|[Naturia Exterio](https://db.ygoprodeck.com/card/?search=Naturia%20Exterio) | Illegal | Unlimited |
 |[Nazuki the Vaylantz Ninja](https://db.ygoprodeck.com/card/?search=Nazuki%20the%20Vaylantz%20Ninja) | Illegal | Unlimited |
 |[Necrolancer the Time-lord](https://db.ygoprodeck.com/card/?search=Necrolancer%20the%20Time-lord) | Illegal | Unlimited |
 |[Nekroz of Areadbhair](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Areadbhair) | Illegal | Unlimited |
@@ -244,6 +256,7 @@ Estimated number of changes: 367
 |[Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Illegal | Unlimited |
 |[Number 12: Crimson Shadow Armor Ninja](https://db.ygoprodeck.com/card/?search=Number%2012:%20Crimson%20Shadow%20Armor%20Ninja) | Illegal | Unlimited |
 |[Number 24: Dragulas the Vampiric Dragon](https://db.ygoprodeck.com/card/?search=Number%2024:%20Dragulas%20the%20Vampiric%20Dragon) | Illegal | Unlimited |
+|[Number 28: Titanic Moth](https://db.ygoprodeck.com/card/?search=Number%2028:%20Titanic%20Moth) | Illegal | Unlimited |
 |[Number 32: Shark Drake](https://db.ygoprodeck.com/card/?search=Number%2032:%20Shark%20Drake) | Illegal | Unlimited |
 |[Number 53: Heart-eartH](https://db.ygoprodeck.com/card/?search=Number%2053:%20Heart-eartH) | Illegal | Unlimited |
 |[Number 6: Chronomaly Atlandis](https://db.ygoprodeck.com/card/?search=Number%206:%20Chronomaly%20Atlandis) | Illegal | Unlimited |
@@ -289,6 +302,11 @@ Estimated number of changes: 367
 |[Red-Eyes Black Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Dragon) | Illegal | Unlimited |
 |[Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | Illegal | Unlimited |
 |[Red-Eyes Wyvern](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern) | Illegal | Unlimited |
+|[Ritual Beast Tamer Lara](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Lara) | Illegal | Unlimited |
+|[Ritual Beast Tamer Wen](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Wen) | Illegal | Unlimited |
+|[Ritual Beast Ulti-Apelio](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Ulti-Apelio) | Illegal | Unlimited |
+|[Ritual Beast Ulti-Cannahawk](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Ulti-Cannahawk) | Illegal | Unlimited |
+|[Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
 |[Runick Allure](https://db.ygoprodeck.com/card/?search=Runick%20Allure) | Illegal | Unlimited |
 |[Runick Destruction](https://db.ygoprodeck.com/card/?search=Runick%20Destruction) | Illegal | Unlimited |
 |[Runick Dispelling](https://db.ygoprodeck.com/card/?search=Runick%20Dispelling) | Illegal | Unlimited |
@@ -321,6 +339,7 @@ Estimated number of changes: 367
 |[Slash Draw](https://db.ygoprodeck.com/card/?search=Slash%20Draw) | Limited | Unlimited |
 |[Solar Recharge](https://db.ygoprodeck.com/card/?search=Solar%20Recharge) | Illegal | Unlimited |
 |[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Illegal | Unlimited |
+|[Spellbook of the Master](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20the%20Master) | Illegal | Unlimited |
 |[Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | Illegal | Unlimited |
 |[Spiritualism](https://db.ygoprodeck.com/card/?search=Spiritualism) | Illegal | Unlimited |
 |[SPYRAL Quik-Fix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Quik-Fix) | Limited | Unlimited |
@@ -352,7 +371,10 @@ Estimated number of changes: 367
 |[Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | Illegal | Unlimited |
 |[Tri-Brigade Kerass](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kerass) | Illegal | Unlimited |
 |[Tribute Burial](https://db.ygoprodeck.com/card/?search=Tribute%20Burial) | Illegal | Unlimited |
+|[True King's Return](https://db.ygoprodeck.com/card/?search=True%20King's%20Return) | Illegal | Unlimited |
 |[Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Illegal | Unlimited |
+|[Twin-Headed Thunder Dragon](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Thunder%20Dragon) | Illegal | Unlimited |
+|[U.A. Blockbacker](https://db.ygoprodeck.com/card/?search=U.A.%20Blockbacker) | Illegal | Unlimited |
 |[Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal | Unlimited |
 |[Vaylantz Dominator Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20Duke) | Illegal | Unlimited |
 |[Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal | Unlimited |
