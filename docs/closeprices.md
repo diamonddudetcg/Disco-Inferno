@@ -12,6 +12,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Chronomaly Vimana](https://db.ygoprodeck.com/card/?search=Chronomaly%20Vimana) | 0.47 |
 [D.D. Dynamite](https://db.ygoprodeck.com/card/?search=D.D.%20Dynamite) | 0.47 |
 [Divine Dragon Ragnarok](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Ragnarok) | 0.47 |
+[Filo, Messenger Fur Hire](https://db.ygoprodeck.com/card/?search=Filo,%20Messenger%20Fur%20Hire) | 0.47 |
 [Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | 0.47 |
 [Glow-Up Bulb](https://db.ygoprodeck.com/card/?search=Glow-Up%20Bulb) | 0.47 |
 [Heart of the Underdog](https://db.ygoprodeck.com/card/?search=Heart%20of%20the%20Underdog) | 0.47 |
@@ -21,6 +22,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Nephthys, the Sacred Preserver](https://db.ygoprodeck.com/card/?search=Nephthys,%20the%20Sacred%20Preserver) | 0.47 |
 [Number 60: Dugares the Timeless](https://db.ygoprodeck.com/card/?search=Number%2060:%20Dugares%20the%20Timeless) | 0.47 |
 [Predaplant Darlingtonia Cobra](https://db.ygoprodeck.com/card/?search=Predaplant%20Darlingtonia%20Cobra) | 0.47 |
+[Ritual Beast Tamer Elder](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Elder) | 0.47 |
 [Runick Flashing Fire](https://db.ygoprodeck.com/card/?search=Runick%20Flashing%20Fire) | 0.47 |
 [Runick Freezing Curses](https://db.ygoprodeck.com/card/?search=Runick%20Freezing%20Curses) | 0.47 |
 [The Dark Door](https://db.ygoprodeck.com/card/?search=The%20Dark%20Door) | 0.47 |
@@ -50,11 +52,9 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [One for One](https://db.ygoprodeck.com/card/?search=One%20for%20One) | 0.48 |
 [Palladium Oracle Mana](https://db.ygoprodeck.com/card/?search=Palladium%20Oracle%20Mana) | 0.48 |
 [Renewal of the World](https://db.ygoprodeck.com/card/?search=Renewal%20of%20the%20World) | 0.48 |
-[Ritual Beast Tamer Elder](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Elder) | 0.48 |
 [Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | 0.48 |
 [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | 0.48 |
 [Sylvan Charity](https://db.ygoprodeck.com/card/?search=Sylvan%20Charity) | 0.48 |
-[Virtual World Mai-Hime - Lulu](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Mai-Hime%20-%20Lulu) | 0.48 |
 [Virtual World Roshi - Laolao](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Roshi%20-%20Laolao) | 0.48 |
 [Vylon Omega](https://db.ygoprodeck.com/card/?search=Vylon%20Omega) | 0.48 |
 [Windwitch - Freeze Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Freeze%20Bell) | 0.48 |
