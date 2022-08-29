@@ -2,7 +2,7 @@
 
 ## What is Disco Inferno?
 
-Disco inferno is an alternate format for Yu-Gi-Oh. It changes slightly every first of the month, and you can always find the latest banlist [here](https://drive.google.com/file/d/1-U6SXZt7FY52GzoC8KNNx8pjdh0H91dA/view?usp=sharing).
+[Disco Inferno](https://diamonddudetcg.github.io/Disco-Inferno/) is an alternate format for Yu-Gi-Oh. It changes slightly every first of the month, and you can always find the latest banlist [here](https://drive.google.com/file/d/1-U6SXZt7FY52GzoC8KNNx8pjdh0H91dA/view?usp=sharing).
 
 Every time a new banlist is created, we check TCGPlayer for prices for every single Yu-Gi-Oh card. Those that are cheaper than $0.50 become legal for the next month. We use the TCG Advanced banlist otherwise.
 
