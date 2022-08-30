@@ -501,12 +501,12 @@
 [Roxrose Dragon](https://db.ygoprodeck.com/card/?search=Roxrose%20Dragon) | 1.0100 |
 [Ultimate Crystal Magic](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Magic) | 1.0100 |
 [Xyz Encore](https://db.ygoprodeck.com/card/?search=Xyz%20Encore) | 1.0100 |
-[Vision HERO Faris](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Faris) | 1.0200 |
 [Conquistador of the Golden Land](https://db.ygoprodeck.com/card/?search=Conquistador%20of%20the%20Golden%20Land) | 1.0200 |
 [Dictator of D.](https://db.ygoprodeck.com/card/?search=Dictator%20of%20D.) | 1.0200 |
 [Malefic World](https://db.ygoprodeck.com/card/?search=Malefic%20World) | 1.0200 |
 [Mushroom Man](https://db.ygoprodeck.com/card/?search=Mushroom%20Man) | 1.0200 |
 [Number 88: Gimmick Puppet of Leo](https://db.ygoprodeck.com/card/?search=Number%2088:%20Gimmick%20Puppet%20of%20Leo) | 1.0200 |
+[Vision HERO Faris](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Faris) | 1.0200 |
 [Millennium-Eyes Illusionist](https://db.ygoprodeck.com/card/?search=Millennium-Eyes%20Illusionist) | 1.0300 |
 [Blackwing - Simoon the Poison Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Simoon%20the%20Poison%20Wind) | 1.0300 |
 [Brotherhood of the Fire Fist - Swallow](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Swallow) | 1.0300 |
