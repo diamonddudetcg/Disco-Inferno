@@ -2,9 +2,9 @@
 title: "Disco Inferno Forbidden & Limited List"
 ---
 
-These are the changes we've implemented on the original Forbidden and Limited list.
+These are the changes we've implemented in addition to the original Forbidden and Limited list.
 
-
+Cards are still subject to the $0.50 cutoff point and, unless listed here, to the original F&L status.
 
 | Card name | Status |
 | :-- |
