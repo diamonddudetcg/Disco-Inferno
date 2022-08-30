@@ -19,7 +19,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [The Dark Door](https://db.ygoprodeck.com/card/?search=The%20Dark%20Door) | 0.4700 |
 [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | 0.4700 |
 [Watapon](https://db.ygoprodeck.com/card/?search=Watapon) | 0.4700 |
-[Blue-Eyes Chaos MAX Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Chaos%20MAX%20Dragon) | 0.4737 |
 [Charging Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Charging%20Gaia%20the%20Fierce%20Knight) | 0.4750 |
 [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | 0.4750 |
 [Filo, Messenger Fur Hire](https://db.ygoprodeck.com/card/?search=Filo,%20Messenger%20Fur%20Hire) | 0.4750 |
