@@ -374,6 +374,7 @@
 [Constellar Omega](https://db.ygoprodeck.com/card/?search=Constellar%20Omega) | 0.8400 |
 [Danger! Zone](https://db.ygoprodeck.com/card/?search=Danger!%20Zone) | 0.8400 |
 [Monster Tamer](https://db.ygoprodeck.com/card/?search=Monster%20Tamer) | 0.8400 |
+[Aromage Bergamot](https://db.ygoprodeck.com/card/?search=Aromage%20Bergamot) | 0.8400 |
 [Dark Magic Inheritance](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Inheritance) | 0.8400 |
 [Dark Strike Fighter](https://db.ygoprodeck.com/card/?search=Dark%20Strike%20Fighter) | 0.8400 |
 [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | 0.8400 |
@@ -381,7 +382,6 @@
 [Traptrix Cularia](https://db.ygoprodeck.com/card/?search=Traptrix%20Cularia) | 0.8400 |
 [Vampire Genesis](https://db.ygoprodeck.com/card/?search=Vampire%20Genesis) | 0.8400 |
 [White Aura Dolphin](https://db.ygoprodeck.com/card/?search=White%20Aura%20Dolphin) | 0.8400 |
-[Aromage Bergamot](https://db.ygoprodeck.com/card/?search=Aromage%20Bergamot) | 0.8400 |
 [Ancient Gear Reborn](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reborn) | 0.8500 |
 [Dark Magician Girl the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20Girl%20the%20Dragon%20Knight) | 0.8500 |
 [Mermail Abysstrite](https://db.ygoprodeck.com/card/?search=Mermail%20Abysstrite) | 0.8500 |
@@ -855,10 +855,10 @@
 [Takuhee](https://db.ygoprodeck.com/card/?search=Takuhee) | 1.6200 |
 [Erebus the Underworld Monarch](https://db.ygoprodeck.com/card/?search=Erebus%20the%20Underworld%20Monarch) | 1.6300 |
 [Trickstar Corobane](https://db.ygoprodeck.com/card/?search=Trickstar%20Corobane) | 1.6400 |
+[Predaplant Spinodionaea](https://db.ygoprodeck.com/card/?search=Predaplant%20Spinodionaea) | 1.6400 |
 [Infernoid Onuncu](https://db.ygoprodeck.com/card/?search=Infernoid%20Onuncu) | 1.6400 |
 [Protecting Spirit Loagaeth](https://db.ygoprodeck.com/card/?search=Protecting%20Spirit%20Loagaeth) | 1.6400 |
 [Royal Swamp Eel](https://db.ygoprodeck.com/card/?search=Royal%20Swamp%20Eel) | 1.6400 |
-[Predaplant Spinodionaea](https://db.ygoprodeck.com/card/?search=Predaplant%20Spinodionaea) | 1.6400 |
 [Mythical Beast Jackal King](https://db.ygoprodeck.com/card/?search=Mythical%20Beast%20Jackal%20King) | 1.6500 |
 [Brave-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Brave-Eyes%20Pendulum%20Dragon) | 1.6500 |
 [Trakodon](https://db.ygoprodeck.com/card/?search=Trakodon) | 1.6600 |
@@ -876,10 +876,10 @@
 [Needle Ceiling](https://db.ygoprodeck.com/card/?search=Needle%20Ceiling) | 1.7000 |
 [Adreus, Keeper of Armageddon](https://db.ygoprodeck.com/card/?search=Adreus,%20Keeper%20of%20Armageddon) | 1.7100 |
 [Colossal Fighter/Assault Mode](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter/Assault%20Mode) | 1.7100 |
-[Sunvine Thrasher](https://db.ygoprodeck.com/card/?search=Sunvine%20Thrasher) | 1.7100 |
-[Wolf](https://db.ygoprodeck.com/card/?search=Wolf) | 1.7100 |
 [Pot of Extravagance](https://db.ygoprodeck.com/card/?search=Pot%20of%20Extravagance) | 1.7100 |
 [Sales Ban](https://db.ygoprodeck.com/card/?search=Sales%20Ban) | 1.7100 |
+[Sunvine Thrasher](https://db.ygoprodeck.com/card/?search=Sunvine%20Thrasher) | 1.7100 |
+[Wolf](https://db.ygoprodeck.com/card/?search=Wolf) | 1.7100 |
 [Phantasmal Lord Ultimitl Bishbaalkin](https://db.ygoprodeck.com/card/?search=Phantasmal%20Lord%20Ultimitl%20Bishbaalkin) | 1.7200 |
 [Trickstar Candina](https://db.ygoprodeck.com/card/?search=Trickstar%20Candina) | 1.7300 |
 [Broken Bamboo Sword](https://db.ygoprodeck.com/card/?search=Broken%20Bamboo%20Sword) | 1.7300 |
@@ -1011,9 +1011,9 @@
 [Crystal Clear Wing Synchro Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Clear%20Wing%20Synchro%20Dragon) | 2.1400 |
 [Prime Material Falcon](https://db.ygoprodeck.com/card/?search=Prime%20Material%20Falcon) | 2.1400 |
 [Neptabyss, the Atlantean Prince](https://db.ygoprodeck.com/card/?search=Neptabyss,%20the%20Atlantean%20Prince) | 2.1500 |
+[Serial Spell](https://db.ygoprodeck.com/card/?search=Serial%20Spell) | 2.1500 |
 [Spirit Barrier](https://db.ygoprodeck.com/card/?search=Spirit%20Barrier) | 2.1500 |
 [Torrential Reborn](https://db.ygoprodeck.com/card/?search=Torrential%20Reborn) | 2.1500 |
-[Serial Spell](https://db.ygoprodeck.com/card/?search=Serial%20Spell) | 2.1500 |
 [Armed Dragon Flash](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Flash) | 2.1700 |
 [Darkfire Dragon](https://db.ygoprodeck.com/card/?search=Darkfire%20Dragon) | 2.1700 |
 [Igknight Crusader](https://db.ygoprodeck.com/card/?search=Igknight%20Crusader) | 2.1700 |
