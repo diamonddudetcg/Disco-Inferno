@@ -8,10 +8,11 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 424
+Estimated number of changes: 425
 
 | Card name | Previous Status | New Status |
 | :-- |
+|[King of Destruction - Xexex](https://db.ygoprodeck.com/card/?search=King%20of%20Destruction%20-%20Xexex) | Unlimited | Illegal |
 |[Number F0: Utopic Future Slash](https://db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Future%20Slash) | Unlimited | Illegal |
 |[Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | Unlimited | Illegal |
 |[Worm King](https://db.ygoprodeck.com/card/?search=Worm%20King) | Unlimited | Illegal |
