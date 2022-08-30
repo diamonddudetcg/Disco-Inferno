@@ -250,12 +250,12 @@
 [Synchro Control](https://db.ygoprodeck.com/card/?search=Synchro%20Control) | 0.7000 |
 [Takriminos](https://db.ygoprodeck.com/card/?search=Takriminos) | 0.7000 |
 [Dekoichi the Battlechanted Locomotive](https://db.ygoprodeck.com/card/?search=Dekoichi%20the%20Battlechanted%20Locomotive) | 0.7100 |
+[Marincess Blue Slug](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Slug) | 0.7100 |
 [Elemental HERO Neos Knight](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Neos%20Knight) | 0.7100 |
 [Fortune Lady Earth](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Earth) | 0.7100 |
 [Great Maju Garzett](https://db.ygoprodeck.com/card/?search=Great%20Maju%20Garzett) | 0.7100 |
 [Infinite Machine](https://db.ygoprodeck.com/card/?search=Infinite%20Machine) | 0.7100 |
 [Junk Servant](https://db.ygoprodeck.com/card/?search=Junk%20Servant) | 0.7100 |
-[Marincess Blue Slug](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Slug) | 0.7100 |
 [Soul of Silvermountain](https://db.ygoprodeck.com/card/?search=Soul%20of%20Silvermountain) | 0.7100 |
 [Traptrix Vesiculo](https://db.ygoprodeck.com/card/?search=Traptrix%20Vesiculo) | 0.7100 |
 [Twinheaded Beast](https://db.ygoprodeck.com/card/?search=Twinheaded%20Beast) | 0.7100 |
