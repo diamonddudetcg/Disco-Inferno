@@ -21,7 +21,7 @@ Strictly delimitated banlists are something other budget formats did not have, a
 
 ## Custom banlist
 
-In addition to all of these stipulations, we have decided to make some additional changes to the banlist because a lot of the advanced hits do not make sense without access to some expensive cards, and some cards are kind of overpowered when you remove some checks and balances Advanced has. The full banlist can be found in our Discord server.
+In addition to all of these stipulations, we have decided to make some additional changes to the banlist because a lot of the advanced hits do not make sense without access to some expensive cards, and some cards are kind of overpowered when you remove some checks and balances Advanced has. The full banlist can be found [here](legality).
 
 ## I want to join the Discord Server
 

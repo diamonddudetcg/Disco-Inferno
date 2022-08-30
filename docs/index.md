@@ -6,6 +6,8 @@ title:  "Disco Inferno"
 
 [What is Disco Inferno?](about)
 
-[Current Banlist](banlist)
+[Changes to the official F&L list](legality)
+
+[Card legality list](banlist)
 
 [Rotation Speculation](differences)
