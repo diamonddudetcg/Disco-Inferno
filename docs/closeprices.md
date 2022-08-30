@@ -141,8 +141,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Thousand-Eyes Restrict](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Restrict) | 0.5200 |
 [Vampire Baby](https://db.ygoprodeck.com/card/?search=Vampire%20Baby) | 0.5200 |
 [Vylon Sphere](https://db.ygoprodeck.com/card/?search=Vylon%20Sphere) | 0.5200 |
-[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | 0.5300 |
-[Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.5300 |
 [Emes the Infinity](https://db.ygoprodeck.com/card/?search=Emes%20the%20Infinity) | 0.5300 |
 [Gem-Knight Aquamarine](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Aquamarine) | 0.5300 |
 [Generation Force](https://db.ygoprodeck.com/card/?search=Generation%20Force) | 0.5300 |
@@ -156,9 +154,11 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Moon Mirror Shield](https://db.ygoprodeck.com/card/?search=Moon%20Mirror%20Shield) | 0.5300 |
 [Neo-Spacian Marine Dolphin](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Marine%20Dolphin) | 0.5300 |
 [Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.5300 |
+[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | 0.5300 |
 [Shining Friendship](https://db.ygoprodeck.com/card/?search=Shining%20Friendship) | 0.5300 |
 [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | 0.5300 |
 [Toon Mask](https://db.ygoprodeck.com/card/?search=Toon%20Mask) | 0.5300 |
+[Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.5300 |
 [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | 0.5300 |
 [A-to-Z-Dragon Buster Cannon](https://db.ygoprodeck.com/card/?search=A-to-Z-Dragon%20Buster%20Cannon) | 0.5400 |
 [Winged Kuriboh LV9](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV9) | 0.5400 |
