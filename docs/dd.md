@@ -1633,7 +1633,6 @@
 [Droll Bird](https://db.ygoprodeck.com/card/?search=Droll%20Bird) | 46.0800 |
 [Obese Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Obese%20Marmot%20of%20Nefariousness) | 49.1700 |
 [Accesscode Talker](https://db.ygoprodeck.com/card/?search=Accesscode%20Talker) | 55.5200 |
-[Blood Mefist](https://db.ygoprodeck.com/card/?search=Blood%20Mefist) | 61.4100 |
 [Yu-Jo Friendship](https://db.ygoprodeck.com/card/?search=Yu-Jo%20Friendship) | 64.3900 |
 [Primeval Planet Perlereino](https://db.ygoprodeck.com/card/?search=Primeval%20Planet%20Perlereino) | 69.0300 |
 [Spright Blue](https://db.ygoprodeck.com/card/?search=Spright%20Blue) | 71.9700 |
@@ -1644,9 +1643,6 @@
 [Pot of Prosperity](https://db.ygoprodeck.com/card/?search=Pot%20of%20Prosperity) | 89.3800 |
 [Warrior of Tradition](https://db.ygoprodeck.com/card/?search=Warrior%20of%20Tradition) | 123.6500 |
 [Beautiful Headhuntress](https://db.ygoprodeck.com/card/?search=Beautiful%20Headhuntress) | 124.9500 |
-[Chimaera, the Master of Beasts](https://db.ygoprodeck.com/card/?search=Chimaera,%20the%20Master%20of%20Beasts) | 130.1700 |
-[Get Your Game On!](https://db.ygoprodeck.com/card/?search=Get%20Your%20Game%20On!) | 150.0000 |
-[Testament of the Arcane Lords](https://db.ygoprodeck.com/card/?search=Testament%20of%20the%20Arcane%20Lords) | 246.2150 |
 [Skull Guardian](https://db.ygoprodeck.com/card/?search=Skull%20Guardian) | 249.9500 |
 [Ten Thousand Dragon](https://db.ygoprodeck.com/card/?search=Ten%20Thousand%20Dragon) | 720.8900 |
 
