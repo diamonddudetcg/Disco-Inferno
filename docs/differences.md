@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 425
+Estimated number of changes: 426
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -73,6 +73,7 @@ Estimated number of changes: 425
 |[Blackwing Armed Wing](https://db.ygoprodeck.com/card/?search=Blackwing%20Armed%20Wing) | Illegal | Unlimited |
 |[Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | Illegal | Unlimited |
 |[Blocker](https://db.ygoprodeck.com/card/?search=Blocker) | Illegal | Unlimited |
+|[Blue-Eyes Chaos MAX Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Chaos%20MAX%20Dragon) | Illegal | Unlimited |
 |[Borrelcode Dragon](https://db.ygoprodeck.com/card/?search=Borrelcode%20Dragon) | Illegal | Unlimited |
 |[Borreload Riot Dragon](https://db.ygoprodeck.com/card/?search=Borreload%20Riot%20Dragon) | Illegal | Unlimited |
 |[Brotherhood of the Fire Fist - Snake](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Snake) | Illegal | Unlimited |
