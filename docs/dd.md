@@ -154,13 +154,13 @@
 [Ryu Senshi](https://db.ygoprodeck.com/card/?search=Ryu%20Senshi) | 0.6000 |
 [Elemental HERO Nebula Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Nebula%20Neos) | 0.6100 |
 [Judgment, the Dragon of Heaven](https://db.ygoprodeck.com/card/?search=Judgment,%20the%20Dragon%20of%20Heaven) | 0.6100 |
+[Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.6100 |
 [Laval Cannon](https://db.ygoprodeck.com/card/?search=Laval%20Cannon) | 0.6100 |
 [Lullaby of Obedience](https://db.ygoprodeck.com/card/?search=Lullaby%20of%20Obedience) | 0.6100 |
 [Successor Soul](https://db.ygoprodeck.com/card/?search=Successor%20Soul) | 0.6100 |
 [The Supremacy Sun](https://db.ygoprodeck.com/card/?search=The%20Supremacy%20Sun) | 0.6100 |
 [Witchcrafter Holiday](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Holiday) | 0.6100 |
 [Yubel](https://db.ygoprodeck.com/card/?search=Yubel) | 0.6100 |
-[Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.6100 |
 [Amazoness Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Tiger) | 0.6200 |
 [Dark Sacrifice](https://db.ygoprodeck.com/card/?search=Dark%20Sacrifice) | 0.6200 |
 [Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | 0.6200 |
