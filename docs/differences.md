@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 446
+Estimated number of changes: 447
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -454,6 +454,7 @@ Estimated number of changes: 446
 |[World Legacy Guardragon](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Guardragon) | Illegal | Unlimited |
 |[Xtra HERO Dread Decimator](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Dread%20Decimator) | Illegal | Unlimited |
 |[Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | Illegal | Unlimited |
+|[Xtra HERO Wonder Driver](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Wonder%20Driver) | Illegal | Unlimited |
 |[XX-Saber Boggart Knight](https://db.ygoprodeck.com/card/?search=XX-Saber%20Boggart%20Knight) | Illegal | Unlimited |
 |[Yellow Ninja](https://db.ygoprodeck.com/card/?search=Yellow%20Ninja) | Illegal | Unlimited |
 |[Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | Illegal | Unlimited |
