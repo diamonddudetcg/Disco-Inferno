@@ -310,8 +310,8 @@
 [The Phantom Knights of Torn Scales](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Torn%20Scales) | 0.7900 |
 [Disciple of Nephthys](https://db.ygoprodeck.com/card/?search=Disciple%20of%20Nephthys) | 0.7900 |
 [Ancient Gear Hunting Hound](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Hunting%20Hound) | 0.7900 |
-[Aromage Bergamot](https://db.ygoprodeck.com/card/?search=Aromage%20Bergamot) | 0.7900 |
 [Armades, Keeper of Boundaries](https://db.ygoprodeck.com/card/?search=Armades,%20Keeper%20of%20Boundaries) | 0.7900 |
+[Aromage Bergamot](https://db.ygoprodeck.com/card/?search=Aromage%20Bergamot) | 0.7900 |
 [Gren Maju Da Eiza](https://db.ygoprodeck.com/card/?search=Gren%20Maju%20Da%20Eiza) | 0.7900 |
 [Relinquished Fusion](https://db.ygoprodeck.com/card/?search=Relinquished%20Fusion) | 0.7900 |
 [Three-Legged Zombies](https://db.ygoprodeck.com/card/?search=Three-Legged%20Zombies) | 0.7900 |
