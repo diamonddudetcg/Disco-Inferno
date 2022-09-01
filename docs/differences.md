@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 479
+Estimated number of changes: 481
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -218,6 +218,7 @@ Estimated number of changes: 479
 |[Greed](https://db.ygoprodeck.com/card/?search=Greed) | Illegal | Unlimited |
 |[Grinning Grave Virus](https://db.ygoprodeck.com/card/?search=Grinning%20Grave%20Virus) | Illegal | Unlimited |
 |[Harpie Channeler](https://db.ygoprodeck.com/card/?search=Harpie%20Channeler) | Illegal | Unlimited |
+|[Harpie Oracle](https://db.ygoprodeck.com/card/?search=Harpie%20Oracle) | Illegal | Unlimited |
 |[Hi-Speedroid Hagoita](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Hagoita) | Illegal | Unlimited |
 |[Hi-Speedroid Rubber Band Shooter](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Rubber%20Band%20Shooter) | Illegal | Unlimited |
 |[Hojo the Vaylantz Warrior](https://db.ygoprodeck.com/card/?search=Hojo%20the%20Vaylantz%20Warrior) | Illegal | Unlimited |
@@ -453,6 +454,7 @@ Estimated number of changes: 479
 |[Tribute Burial](https://db.ygoprodeck.com/card/?search=Tribute%20Burial) | Illegal | Unlimited |
 |[True King Bahrastos, the Fathomer](https://db.ygoprodeck.com/card/?search=True%20King%20Bahrastos,%20the%20Fathomer) | Illegal | Unlimited |
 |[True King's Return](https://db.ygoprodeck.com/card/?search=True%20King's%20Return) | Illegal | Unlimited |
+|[True Light](https://db.ygoprodeck.com/card/?search=True%20Light) | Illegal | Unlimited |
 |[Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | Illegal | Unlimited |
 |[Twin-Headed Thunder Dragon](https://db.ygoprodeck.com/card/?search=Twin-Headed%20Thunder%20Dragon) | Illegal | Unlimited |
 |[U.A. Blockbacker](https://db.ygoprodeck.com/card/?search=U.A.%20Blockbacker) | Illegal | Unlimited |
