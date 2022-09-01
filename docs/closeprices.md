@@ -54,7 +54,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Windwitch - Freeze Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Freeze%20Bell) | 0.4800 |
 [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | 0.4800 |
 [Zoodiac Chakanine](https://db.ygoprodeck.com/card/?search=Zoodiac%20Chakanine) | 0.4800 |
-[Elemental HERO Blazeman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Blazeman) | 0.4813 |
+[Lunalight Reincarnation Dance](https://db.ygoprodeck.com/card/?search=Lunalight%20Reincarnation%20Dance) | 0.4875 |
 [Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | 0.4900 |
 [Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | 0.4900 |
 [Battlewasp - Sting the Poison](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Sting%20the%20Poison) | 0.4900 |
@@ -82,6 +82,8 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Volcanic Counter](https://db.ygoprodeck.com/card/?search=Volcanic%20Counter) | 0.4900 |
 [Vylon Omega](https://db.ygoprodeck.com/card/?search=Vylon%20Omega) | 0.4900 |
 [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4900 |
+[Libromancer Doombroker](https://db.ygoprodeck.com/card/?search=Libromancer%20Doombroker) | 0.4950 |
+[Solidarity](https://db.ygoprodeck.com/card/?search=Solidarity) | 0.4950 |
 [Archfiend's Call](https://db.ygoprodeck.com/card/?search=Archfiend's%20Call) | 0.5000 |
 [Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gram%20the%20Shining%20Star) | 0.5000 |
 [Daigusto Eguls](https://db.ygoprodeck.com/card/?search=Daigusto%20Eguls) | 0.5000 |
@@ -105,6 +107,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | 0.5000 |
 [Steelswarm Hercules](https://db.ygoprodeck.com/card/?search=Steelswarm%20Hercules) | 0.5000 |
 [Survival Instinct](https://db.ygoprodeck.com/card/?search=Survival%20Instinct) | 0.5000 |
+[Ultimate Fusion](https://db.ygoprodeck.com/card/?search=Ultimate%20Fusion) | 0.5000 |
 [Witchcrafter Pittore](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Pittore) | 0.5000 |
 [Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | 0.5000 |
 [Xtra HERO Wonder Driver](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Wonder%20Driver) | 0.5000 |
@@ -179,10 +182,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Magical Mallet](https://db.ygoprodeck.com/card/?search=Magical%20Mallet) | 0.5500 |
 [Pumpking the King of Ghosts](https://db.ygoprodeck.com/card/?search=Pumpking%20the%20King%20of%20Ghosts) | 0.5500 |
 [Rank-Up-Magic Revolution Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Revolution%20Force) | 0.5500 |
-[Number 103: Ragnazero](https://db.ygoprodeck.com/card/?search=Number%20103:%20Ragnazero) | 0.5550 |
-[Number 107: Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20107:%20Galaxy-Eyes%20Tachyon%20Dragon) | 0.5550 |
-[Sylvan Princessprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Princessprout) | 0.5550 |
-[The White Stone of Ancients](https://db.ygoprodeck.com/card/?search=The%20White%20Stone%20of%20Ancients) | 0.5550 |
 [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.5600 |
 [7](https://db.ygoprodeck.com/card/?search=7) | 0.5600 |
 [Fiend Skull Dragon](https://db.ygoprodeck.com/card/?search=Fiend%20Skull%20Dragon) | 0.5600 |
@@ -221,13 +220,9 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5800 |
 [Pot of Benevolence](https://db.ygoprodeck.com/card/?search=Pot%20of%20Benevolence) | 0.5800 |
 [Prinzessin](https://db.ygoprodeck.com/card/?search=Prinzessin) | 0.5800 |
-[S-Force Justify](https://db.ygoprodeck.com/card/?search=S-Force%20Justify) | 0.5800 |
 [True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | 0.5800 |
-[Wind-Up Factory](https://db.ygoprodeck.com/card/?search=Wind-Up%20Factory) | 0.5800 |
 [Magician of Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Chaos) | 0.5900 |
-[Number 80: Rhapsody in Berserk](https://db.ygoprodeck.com/card/?search=Number%2080:%20Rhapsody%20in%20Berserk) | 0.5900 |
 [Cobraman Sakuzy](https://db.ygoprodeck.com/card/?search=Cobraman%20Sakuzy) | 0.5900 |
-[Dogmatika Maximus](https://db.ygoprodeck.com/card/?search=Dogmatika%20Maximus) | 0.5900 |
 [Gravekeeper's Heretic](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Heretic) | 0.5900 |
 [Hyper Psychic Blaster/Assault Mode](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster/Assault%20Mode) | 0.5900 |
 [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5900 |
@@ -236,7 +231,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Neo-Spacian Dark Panther](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Dark%20Panther) | 0.5900 |
 [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | 0.5900 |
 [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | 0.5900 |
-[Revival Golem](https://db.ygoprodeck.com/card/?search=Revival%20Golem) | 0.5900 |
 [Helshaddoll Hollow](https://db.ygoprodeck.com/card/?search=Helshaddoll%20Hollow) | 0.6000 |
 [Hyper Psychic Blaster](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster) | 0.6000 |
 [March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | 0.6000 |
