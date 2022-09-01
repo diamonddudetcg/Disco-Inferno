@@ -314,6 +314,7 @@
 [Smashing Horn](https://db.ygoprodeck.com/card/?search=Smashing%20Horn) | 0.8300 |
 [The End of Anubis](https://db.ygoprodeck.com/card/?search=The%20End%20of%20Anubis) | 0.8300 |
 [Zoroa, the Magistus Conflagrant Calamity](https://db.ygoprodeck.com/card/?search=Zoroa,%20the%20Magistus%20Conflagrant%20Calamity) | 0.8300 |
+[Number 44: Sky Pegasus](https://db.ygoprodeck.com/card/?search=Number%2044:%20Sky%20Pegasus) | 0.8350 |
 [Constellar Omega](https://db.ygoprodeck.com/card/?search=Constellar%20Omega) | 0.8400 |
 [Danger! Zone](https://db.ygoprodeck.com/card/?search=Danger!%20Zone) | 0.8400 |
 [Monster Tamer](https://db.ygoprodeck.com/card/?search=Monster%20Tamer) | 0.8400 |
@@ -334,7 +335,6 @@
 [Toon Harpie Lady](https://db.ygoprodeck.com/card/?search=Toon%20Harpie%20Lady) | 0.8500 |
 [Urgent Schedule](https://db.ygoprodeck.com/card/?search=Urgent%20Schedule) | 0.8500 |
 [Convulsion of Nature](https://db.ygoprodeck.com/card/?search=Convulsion%20of%20Nature) | 0.8600 |
-[Number 44: Sky Pegasus](https://db.ygoprodeck.com/card/?search=Number%2044:%20Sky%20Pegasus) | 0.8600 |
 [Amazoness Fighter](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighter) | 0.8600 |
 [B.E.S. Tetran](https://db.ygoprodeck.com/card/?search=B.E.S.%20Tetran) | 0.8600 |
 [Banishment of the Darklords](https://db.ygoprodeck.com/card/?search=Banishment%20of%20the%20Darklords) | 0.8600 |
@@ -393,6 +393,7 @@
 [Red-Eyes Flare Metal Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Flare%20Metal%20Dragon) | 0.9300 |
 [S-Force Bridgehead](https://db.ygoprodeck.com/card/?search=S-Force%20Bridgehead) | 0.9300 |
 [T.G. Blade Blaster](https://db.ygoprodeck.com/card/?search=T.G.%20Blade%20Blaster) | 0.9300 |
+[Adreus, Keeper of Armageddon](https://db.ygoprodeck.com/card/?search=Adreus,%20Keeper%20of%20Armageddon) | 0.9350 |
 [Skull Stalker](https://db.ygoprodeck.com/card/?search=Skull%20Stalker) | 0.9400 |
 [Book of Taiyou](https://db.ygoprodeck.com/card/?search=Book%20of%20Taiyou) | 0.9400 |
 [Deep Sea Repetiteur](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Repetiteur) | 0.9400 |
@@ -407,7 +408,6 @@
 [Ancient Gear Catapult](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Catapult) | 0.9500 |
 [Rilliona, the Wondrous Magistus Witch Wardrobe](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Wondrous%20Magistus%20Witch%20Wardrobe) | 0.9500 |
 [Nemeses Corridor](https://db.ygoprodeck.com/card/?search=Nemeses%20Corridor) | 0.9600 |
-[Adreus, Keeper of Armageddon](https://db.ygoprodeck.com/card/?search=Adreus,%20Keeper%20of%20Armageddon) | 0.9600 |
 [Familiar-Possessed - Dharc](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Dharc) | 0.9600 |
 [Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20%26%20Snow%20Rabbit) | 0.9600 |
 [Jurrac Aeolo](https://db.ygoprodeck.com/card/?search=Jurrac%20Aeolo) | 0.9600 |
