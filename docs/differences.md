@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 449
+Estimated number of changes: 450
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -38,6 +38,7 @@ Estimated number of changes: 449
 |[Shooting Riser Dragon](https://db.ygoprodeck.com/card/?search=Shooting%20Riser%20Dragon) | Illegal | Limited |
 |[Striker Dragon](https://db.ygoprodeck.com/card/?search=Striker%20Dragon) | Illegal | Limited |
 |[Superdreadnought Rail Cannon Gustav Max](https://db.ygoprodeck.com/card/?search=Superdreadnought%20Rail%20Cannon%20Gustav%20Max) | Illegal | Limited |
+|[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Illegal | Limited |
 |[Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | Forbidden | Limited |
 |[Salamangreat Gazelle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Gazelle) | Limited | Semi-Limited |
 |[A Cat of Ill Omen](https://db.ygoprodeck.com/card/?search=A%20Cat%20of%20Ill%20Omen) | Illegal | Unlimited |

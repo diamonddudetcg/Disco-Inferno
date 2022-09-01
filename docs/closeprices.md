@@ -49,6 +49,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | 0.4800 |
 [Sword Breaker](https://db.ygoprodeck.com/card/?search=Sword%20Breaker) | 0.4800 |
 [Sylvan Charity](https://db.ygoprodeck.com/card/?search=Sylvan%20Charity) | 0.4800 |
+[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.4800 |
 [Virtual World Roshi - Laolao](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Roshi%20-%20Laolao) | 0.4800 |
 [Windwitch - Freeze Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Freeze%20Bell) | 0.4800 |
 [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | 0.4800 |
@@ -188,6 +189,10 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Slacker Magician](https://db.ygoprodeck.com/card/?search=Slacker%20Magician) | 0.5600 |
 [Ultimate Obedient Fiend](https://db.ygoprodeck.com/card/?search=Ultimate%20Obedient%20Fiend) | 0.5600 |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5600 |
+[Aromage Jasmine](https://db.ygoprodeck.com/card/?search=Aromage%20Jasmine) | 0.5625 |
+[Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | 0.5625 |
+[Girsu, the Orcust Mekk-Knight](https://db.ygoprodeck.com/card/?search=Girsu,%20the%20Orcust%20Mekk-Knight) | 0.5625 |
+[Yellow Baboon, Archer of the Forest](https://db.ygoprodeck.com/card/?search=Yellow%20Baboon,%20Archer%20of%20the%20Forest) | 0.5625 |
 [Worm King](https://db.ygoprodeck.com/card/?search=Worm%20King) | 0.5700 |
 [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.5700 |
 [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | 0.5700 |
@@ -201,6 +206,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Sinister Serpent](https://db.ygoprodeck.com/card/?search=Sinister%20Serpent) | 0.5700 |
 [Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5700 |
 [Wiseman's Chalice](https://db.ygoprodeck.com/card/?search=Wiseman's%20Chalice) | 0.5700 |
+[Elemental HERO Blazeman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Blazeman) | 0.5775 |
 [Abyss Actor - Evil Heel](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Evil%20Heel) | 0.5800 |
 [Daigusto Gulldos](https://db.ygoprodeck.com/card/?search=Daigusto%20Gulldos) | 0.5800 |
 [Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.5800 |
