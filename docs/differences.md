@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 491
+Estimated number of changes: 495
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -322,8 +322,11 @@ Estimated number of changes: 491
 |[Number 20: Giga-Brilliant](https://db.ygoprodeck.com/card/?search=Number%2020:%20Giga-Brilliant) | Illegal | Unlimited |
 |[Number 24: Dragulas the Vampiric Dragon](https://db.ygoprodeck.com/card/?search=Number%2024:%20Dragulas%20the%20Vampiric%20Dragon) | Illegal | Unlimited |
 |[Number 28: Titanic Moth](https://db.ygoprodeck.com/card/?search=Number%2028:%20Titanic%20Moth) | Illegal | Unlimited |
+|[Number 31: Embodiment of Punishment](https://db.ygoprodeck.com/card/?search=Number%2031:%20Embodiment%20of%20Punishment) | Illegal | Unlimited |
 |[Number 32: Shark Drake](https://db.ygoprodeck.com/card/?search=Number%2032:%20Shark%20Drake) | Illegal | Unlimited |
+|[Number 39: Utopia Beyond](https://db.ygoprodeck.com/card/?search=Number%2039:%20Utopia%20Beyond) | Illegal | Unlimited |
 |[Number 53: Heart-eartH](https://db.ygoprodeck.com/card/?search=Number%2053:%20Heart-eartH) | Illegal | Unlimited |
+|[Number 67: Pair-a-Dice Smasher](https://db.ygoprodeck.com/card/?search=Number%2067:%20Pair-a-Dice%20Smasher) | Illegal | Unlimited |
 |[Number 6: Chronomaly Atlandis](https://db.ygoprodeck.com/card/?search=Number%206:%20Chronomaly%20Atlandis) | Illegal | Unlimited |
 |[Number 70: Malevolent Sin](https://db.ygoprodeck.com/card/?search=Number%2070:%20Malevolent%20Sin) | Illegal | Unlimited |
 |[Number 75: Bamboozling Gossip Shadow](https://db.ygoprodeck.com/card/?search=Number%2075:%20Bamboozling%20Gossip%20Shadow) | Illegal | Unlimited |
@@ -404,6 +407,7 @@ Estimated number of changes: 491
 |[Satellarknight Alsahm](https://db.ygoprodeck.com/card/?search=Satellarknight%20Alsahm) | Illegal | Unlimited |
 |[Satellite Warrior](https://db.ygoprodeck.com/card/?search=Satellite%20Warrior) | Illegal | Unlimited |
 |[Sauravis, the Ancient and Ascended](https://db.ygoprodeck.com/card/?search=Sauravis,%20the%20Ancient%20and%20Ascended) | Illegal | Unlimited |
+|[Scrap Archfiend](https://db.ygoprodeck.com/card/?search=Scrap%20Archfiend) | Illegal | Unlimited |
 |[Scrubbed Raid](https://db.ygoprodeck.com/card/?search=Scrubbed%20Raid) | Illegal | Unlimited |
 |[Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | Illegal | Unlimited |
 |[Security Dragon](https://db.ygoprodeck.com/card/?search=Security%20Dragon) | Illegal | Unlimited |

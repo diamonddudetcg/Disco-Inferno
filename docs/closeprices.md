@@ -55,6 +55,9 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Windwitch - Freeze Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Freeze%20Bell) | 0.4800 |
 [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | 0.4800 |
 [Zoodiac Chakanine](https://db.ygoprodeck.com/card/?search=Zoodiac%20Chakanine) | 0.4800 |
+[Number 31: Embodiment of Punishment](https://db.ygoprodeck.com/card/?search=Number%2031:%20Embodiment%20of%20Punishment) | 0.4813 |
+[Number 39: Utopia Beyond](https://db.ygoprodeck.com/card/?search=Number%2039:%20Utopia%20Beyond) | 0.4813 |
+[Scrap Archfiend](https://db.ygoprodeck.com/card/?search=Scrap%20Archfiend) | 0.4813 |
 [Galatea, the Orcust Automaton](https://db.ygoprodeck.com/card/?search=Galatea,%20the%20Orcust%20Automaton) | 0.4850 |
 [Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | 0.4900 |
 [Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | 0.4900 |
@@ -96,7 +99,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Magical Musket Mastermind Zakiel](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20Mastermind%20Zakiel) | 0.5000 |
 [Magical Thorn](https://db.ygoprodeck.com/card/?search=Magical%20Thorn) | 0.5000 |
 [Metalsilver Armor](https://db.ygoprodeck.com/card/?search=Metalsilver%20Armor) | 0.5000 |
-[Number 75: Bamboozling Gossip Shadow](https://db.ygoprodeck.com/card/?search=Number%2075:%20Bamboozling%20Gossip%20Shadow) | 0.5000 |
+[Number 67: Pair-a-Dice Smasher](https://db.ygoprodeck.com/card/?search=Number%2067:%20Pair-a-Dice%20Smasher) | 0.5000 |
 [Pharaonic Protector](https://db.ygoprodeck.com/card/?search=Pharaonic%20Protector) | 0.5000 |
 [Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | 0.5000 |
 [Psychic Feel Zone](https://db.ygoprodeck.com/card/?search=Psychic%20Feel%20Zone) | 0.5000 |
@@ -202,9 +205,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Sinister Serpent](https://db.ygoprodeck.com/card/?search=Sinister%20Serpent) | 0.5700 |
 [Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5700 |
 [Wiseman's Chalice](https://db.ygoprodeck.com/card/?search=Wiseman's%20Chalice) | 0.5700 |
-[Number 31: Embodiment of Punishment](https://db.ygoprodeck.com/card/?search=Number%2031:%20Embodiment%20of%20Punishment) | 0.5775 |
-[Number 39: Utopia Beyond](https://db.ygoprodeck.com/card/?search=Number%2039:%20Utopia%20Beyond) | 0.5775 |
-[Scrap Archfiend](https://db.ygoprodeck.com/card/?search=Scrap%20Archfiend) | 0.5775 |
+[Number 82: Heartlandraco](https://db.ygoprodeck.com/card/?search=Number%2082:%20Heartlandraco) | 0.5750 |
 [Abyss Actor - Evil Heel](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Evil%20Heel) | 0.5800 |
 [Daigusto Gulldos](https://db.ygoprodeck.com/card/?search=Daigusto%20Gulldos) | 0.5800 |
 [Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.5800 |
