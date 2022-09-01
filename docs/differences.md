@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 488
+Estimated number of changes: 489
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -189,6 +189,7 @@ Estimated number of changes: 488
 |[Fossil Warrior Skull King](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20King) | Illegal | Unlimited |
 |[Gadarla, the Mystery Dust Kaiju](https://db.ygoprodeck.com/card/?search=Gadarla,%20the%20Mystery%20Dust%20Kaiju) | Illegal | Unlimited |
 |[Gagagadraw](https://db.ygoprodeck.com/card/?search=Gagagadraw) | Illegal | Unlimited |
+|[Galatea, the Orcust Automaton](https://db.ygoprodeck.com/card/?search=Galatea,%20the%20Orcust%20Automaton) | Illegal | Unlimited |
 |[Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | Illegal | Unlimited |
 |[Galaxy-Eyes Full Armor Photon Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Full%20Armor%20Photon%20Dragon) | Illegal | Unlimited |
 |[Galaxy-Eyes Solflare Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Solflare%20Dragon) | Illegal | Unlimited |

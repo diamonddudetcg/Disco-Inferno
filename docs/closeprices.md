@@ -19,12 +19,11 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [The Dark Door](https://db.ygoprodeck.com/card/?search=The%20Dark%20Door) | 0.4700 |
 [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | 0.4700 |
 [Watapon](https://db.ygoprodeck.com/card/?search=Watapon) | 0.4700 |
-[Gizmek Naganaki, the Sunrise Signaler](https://db.ygoprodeck.com/card/?search=Gizmek%20Naganaki,%20the%20Sunrise%20Signaler) | 0.4725 |
-[Harpie Oracle](https://db.ygoprodeck.com/card/?search=Harpie%20Oracle) | 0.4738 |
 [Charging Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Charging%20Gaia%20the%20Fierce%20Knight) | 0.4750 |
 [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | 0.4750 |
 [Filo, Messenger Fur Hire](https://db.ygoprodeck.com/card/?search=Filo,%20Messenger%20Fur%20Hire) | 0.4750 |
 [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | 0.4750 |
+[True Light](https://db.ygoprodeck.com/card/?search=True%20Light) | 0.4781 |
 [Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.4800 |
 [Cyberse Synchron](https://db.ygoprodeck.com/card/?search=Cyberse%20Synchron) | 0.4800 |
 [Legendary Six Samurai - Kizan](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kizan) | 0.4800 |
@@ -56,7 +55,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Windwitch - Freeze Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Freeze%20Bell) | 0.4800 |
 [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | 0.4800 |
 [Zoodiac Chakanine](https://db.ygoprodeck.com/card/?search=Zoodiac%20Chakanine) | 0.4800 |
-[True Light](https://db.ygoprodeck.com/card/?search=True%20Light) | 0.4812 |
 [Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | 0.4900 |
 [Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | 0.4900 |
 [Battlewasp - Sting the Poison](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Sting%20the%20Poison) | 0.4900 |
@@ -89,6 +87,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Daigusto Eguls](https://db.ygoprodeck.com/card/?search=Daigusto%20Eguls) | 0.5000 |
 [Elemental HERO Knospe](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Knospe) | 0.5000 |
 [Evigishki Tetrogre](https://db.ygoprodeck.com/card/?search=Evigishki%20Tetrogre) | 0.5000 |
+[Galatea, the Orcust Automaton](https://db.ygoprodeck.com/card/?search=Galatea,%20the%20Orcust%20Automaton) | 0.5000 |
 [Gem-Knight Citrine](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Citrine) | 0.5000 |
 [Gimmick Puppet Nightmare](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Nightmare) | 0.5000 |
 [Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | 0.5000 |
