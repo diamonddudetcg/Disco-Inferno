@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 470
+Estimated number of changes: 473
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -44,6 +44,7 @@ Estimated number of changes: 470
 |[A Cat of Ill Omen](https://db.ygoprodeck.com/card/?search=A%20Cat%20of%20Ill%20Omen) | Illegal | Unlimited |
 |[A-Assault Core](https://db.ygoprodeck.com/card/?search=A-Assault%20Core) | Illegal | Unlimited |
 |[Abominable Unchained Soul](https://db.ygoprodeck.com/card/?search=Abominable%20Unchained%20Soul) | Illegal | Unlimited |
+|[Abyss Dweller](https://db.ygoprodeck.com/card/?search=Abyss%20Dweller) | Illegal | Unlimited |
 |[Abyss-squall](https://db.ygoprodeck.com/card/?search=Abyss-squall) | Illegal | Unlimited |
 |[Achichi @Ignister](https://db.ygoprodeck.com/card/?search=Achichi%20@Ignister) | Illegal | Unlimited |
 |[Ad Libitum of Despia](https://db.ygoprodeck.com/card/?search=Ad%20Libitum%20of%20Despia) | Illegal | Unlimited |
@@ -126,6 +127,7 @@ Estimated number of changes: 470
 |[Dark Scorpion - Cliff the Trap Remover](https://db.ygoprodeck.com/card/?search=Dark%20Scorpion%20-%20Cliff%20the%20Trap%20Remover) | Illegal | Unlimited |
 |[Dark Spirit Art - Greed](https://db.ygoprodeck.com/card/?search=Dark%20Spirit%20Art%20-%20Greed) | Illegal | Unlimited |
 |[Darktellarknight Batlamyus](https://db.ygoprodeck.com/card/?search=Darktellarknight%20Batlamyus) | Illegal | Unlimited |
+|[Deck Devastation Virus](https://db.ygoprodeck.com/card/?search=Deck%20Devastation%20Virus) | Illegal | Unlimited |
 |[Deep Sea Diva](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Diva) | Illegal | Unlimited |
 |[Destruction Jammer](https://db.ygoprodeck.com/card/?search=Destruction%20Jammer) | Illegal | Unlimited |
 |[Destruction Sword Memories](https://db.ygoprodeck.com/card/?search=Destruction%20Sword%20Memories) | Illegal | Unlimited |
@@ -403,6 +405,7 @@ Estimated number of changes: 470
 |[Skull Archfiend of Lightning](https://db.ygoprodeck.com/card/?search=Skull%20Archfiend%20of%20Lightning) | Illegal | Unlimited |
 |[Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | Illegal | Unlimited |
 |[Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | Illegal | Unlimited |
+|[Sky Striker Maneuver - Afterburners!](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Maneuver%20-%20Afterburners!) | Illegal | Unlimited |
 |[Sky Striker Mecha Modules - Multirole](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20Modules%20-%20Multirole) | Limited | Unlimited |
 |[Slash Draw](https://db.ygoprodeck.com/card/?search=Slash%20Draw) | Limited | Unlimited |
 |[Solar Recharge](https://db.ygoprodeck.com/card/?search=Solar%20Recharge) | Illegal | Unlimited |
