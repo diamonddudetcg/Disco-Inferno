@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 505
+Estimated number of changes: 507
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -183,6 +183,7 @@ Estimated number of changes: 505
 |[Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Semi-Limited | Unlimited |
 |[Firewall Dragon](https://db.ygoprodeck.com/card/?search=Firewall%20Dragon) | Illegal | Unlimited |
 |[Five-Headed Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Dragon) | Illegal | Unlimited |
+|[Floowandereeze & Snowl](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Snowl) | Illegal | Unlimited |
 |[Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | Illegal | Unlimited |
 |[Formula Synchron](https://db.ygoprodeck.com/card/?search=Formula%20Synchron) | Illegal | Unlimited |
 |[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgios) | Illegal | Unlimited |
@@ -472,6 +473,7 @@ Estimated number of changes: 505
 |[Toon Cyber Dragon](https://db.ygoprodeck.com/card/?search=Toon%20Cyber%20Dragon) | Illegal | Unlimited |
 |[Transcode Talker](https://db.ygoprodeck.com/card/?search=Transcode%20Talker) | Illegal | Unlimited |
 |[Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited |
+|[Traptrix Cularia](https://db.ygoprodeck.com/card/?search=Traptrix%20Cularia) | Illegal | Unlimited |
 |[Traptrix Vesiculo](https://db.ygoprodeck.com/card/?search=Traptrix%20Vesiculo) | Illegal | Unlimited |
 |[Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | Illegal | Unlimited |
 |[Tri-Brigade Kerass](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kerass) | Illegal | Unlimited |

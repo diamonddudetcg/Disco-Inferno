@@ -91,6 +91,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Daigusto Eguls](https://db.ygoprodeck.com/card/?search=Daigusto%20Eguls) | 0.5000 |
 [Elemental HERO Knospe](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Knospe) | 0.5000 |
 [Evigishki Tetrogre](https://db.ygoprodeck.com/card/?search=Evigishki%20Tetrogre) | 0.5000 |
+[Floowandereeze & Snowl](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Snowl) | 0.5000 |
 [Gem-Knight Citrine](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Citrine) | 0.5000 |
 [Gimmick Puppet Nightmare](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Nightmare) | 0.5000 |
 [Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | 0.5000 |
@@ -109,7 +110,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | 0.5000 |
 [Steelswarm Hercules](https://db.ygoprodeck.com/card/?search=Steelswarm%20Hercules) | 0.5000 |
 [Survival Instinct](https://db.ygoprodeck.com/card/?search=Survival%20Instinct) | 0.5000 |
-[Traptrix Vesiculo](https://db.ygoprodeck.com/card/?search=Traptrix%20Vesiculo) | 0.5000 |
+[Traptrix Cularia](https://db.ygoprodeck.com/card/?search=Traptrix%20Cularia) | 0.5000 |
 [Witchcrafter Pittore](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Pittore) | 0.5000 |
 [Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | 0.5000 |
 [Xtra HERO Wonder Driver](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Wonder%20Driver) | 0.5000 |
