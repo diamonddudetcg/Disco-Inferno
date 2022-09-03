@@ -68,7 +68,7 @@
 [Kageningen](https://db.ygoprodeck.com/card/?search=Kageningen) | 0.5500 |
 [Magical Mallet](https://db.ygoprodeck.com/card/?search=Magical%20Mallet) | 0.5500 |
 [Pumpking the King of Ghosts](https://db.ygoprodeck.com/card/?search=Pumpking%20the%20King%20of%20Ghosts) | 0.5500 |
-[Bahalutiya, the Grand Radiance](https://db.ygoprodeck.com/card/?search=Bahalutiya,%20the%20Grand%20Radiance) | 0.5531 |
+[Bahalutiya, the Grand Radiance](https://db.ygoprodeck.com/card/?search=Bahalutiya,%20the%20Grand%20Radiance) | 0.5516 |
 [7](https://db.ygoprodeck.com/card/?search=7) | 0.5600 |
 [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.5600 |
 [Fiend Skull Dragon](https://db.ygoprodeck.com/card/?search=Fiend%20Skull%20Dragon) | 0.5600 |
@@ -366,7 +366,7 @@
 [Odd-Eyes Raging Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Raging%20Dragon) | 0.8900 |
 [The Seal of Orichalcos](https://db.ygoprodeck.com/card/?search=The%20Seal%20of%20Orichalcos) | 0.8900 |
 [Voltic Bicorn](https://db.ygoprodeck.com/card/?search=Voltic%20Bicorn) | 0.8900 |
-[Live☆Twin Lil-la Treat](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Lil-la%20Treat) | 0.8931 |
+[Live☆Twin Lil-la Treat](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Lil-la%20Treat) | 0.8916 |
 [Blackwing - Gladius the Midnight Sun](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gladius%20the%20Midnight%20Sun) | 0.9000 |
 [Bubble Blaster](https://db.ygoprodeck.com/card/?search=Bubble%20Blaster) | 0.9000 |
 [Castle of Dark Illusions](https://db.ygoprodeck.com/card/?search=Castle%20of%20Dark%20Illusions) | 0.9000 |
@@ -484,7 +484,7 @@
 [Salamangreat Almiraj](https://db.ygoprodeck.com/card/?search=Salamangreat%20Almiraj) | 1.0500 |
 [Soul Transition](https://db.ygoprodeck.com/card/?search=Soul%20Transition) | 1.0500 |
 [Vision HERO Adoration](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Adoration) | 1.0500 |
-[Book of Lunar Eclipse](https://db.ygoprodeck.com/card/?search=Book%20of%20Lunar%20Eclipse) | 1.0562 |
+[Book of Lunar Eclipse](https://db.ygoprodeck.com/card/?search=Book%20of%20Lunar%20Eclipse) | 1.0531 |
 [Blaze Cannon](https://db.ygoprodeck.com/card/?search=Blaze%20Cannon) | 1.0600 |
 [Barrel Behind the Door](https://db.ygoprodeck.com/card/?search=Barrel%20Behind%20the%20Door) | 1.0600 |
 [Blackwing - Blizzard the Far North](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North) | 1.0600 |
@@ -1093,7 +1093,7 @@
 [Number 54: Lion Heart](https://db.ygoprodeck.com/card/?search=Number%2054:%20Lion%20Heart) | 2.8500 |
 [Ursarctic Polari](https://db.ygoprodeck.com/card/?search=Ursarctic%20Polari) | 2.8500 |
 [Sage with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Sage%20with%20Eyes%20of%20Blue) | 2.8600 |
-[Dark Honest](https://db.ygoprodeck.com/card/?search=Dark%20Honest) | 2.8663 |
+[Dark Honest](https://db.ygoprodeck.com/card/?search=Dark%20Honest) | 2.8631 |
 [Coral Dragon](https://db.ygoprodeck.com/card/?search=Coral%20Dragon) | 2.8800 |
 [Genex Ally Duradark](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Duradark) | 2.8900 |
 [Sandaion, the Timelord](https://db.ygoprodeck.com/card/?search=Sandaion,%20the%20Timelord) | 2.8900 |
@@ -1162,8 +1162,8 @@
 [Trishula, the Dragon of Icy Imprisonment](https://db.ygoprodeck.com/card/?search=Trishula,%20the%20Dragon%20of%20Icy%20Imprisonment) | 3.4000 |
 [Zoa](https://db.ygoprodeck.com/card/?search=Zoa) | 3.4000 |
 [Borrelguard Dragon](https://db.ygoprodeck.com/card/?search=Borrelguard%20Dragon) | 3.4100 |
+[Beetrooper Scout Buggy](https://db.ygoprodeck.com/card/?search=Beetrooper%20Scout%20Buggy) | 3.4200 |
 [Darkness Metal, the Dragon of Dark Steel](https://db.ygoprodeck.com/card/?search=Darkness%20Metal,%20the%20Dragon%20of%20Dark%20Steel) | 3.4200 |
-[Beetrooper Scout Buggy](https://db.ygoprodeck.com/card/?search=Beetrooper%20Scout%20Buggy) | 3.4216 |
 [El Shaddoll Winda](https://db.ygoprodeck.com/card/?search=El%20Shaddoll%20Winda) | 3.4400 |
 [Horus the Black Flame Dragon LV8](https://db.ygoprodeck.com/card/?search=Horus%20the%20Black%20Flame%20Dragon%20LV8) | 3.4400 |
 [Number 65: Djinn Buster](https://db.ygoprodeck.com/card/?search=Number%2065:%20Djinn%20Buster) | 3.4500 |
@@ -1207,7 +1207,7 @@
 [Quick Launch](https://db.ygoprodeck.com/card/?search=Quick%20Launch) | 3.7100 |
 [Gokibore](https://db.ygoprodeck.com/card/?search=Gokibore) | 3.7300 |
 [Red Dragon Archfiend/Assault Mode](https://db.ygoprodeck.com/card/?search=Red%20Dragon%20Archfiend/Assault%20Mode) | 3.7300 |
-[Synchro Overtake](https://db.ygoprodeck.com/card/?search=Synchro%20Overtake) | 3.7463 |
+[Synchro Overtake](https://db.ygoprodeck.com/card/?search=Synchro%20Overtake) | 3.7431 |
 [Bujinki Ahashima](https://db.ygoprodeck.com/card/?search=Bujinki%20Ahashima) | 3.7700 |
 [Unchained Abomination](https://db.ygoprodeck.com/card/?search=Unchained%20Abomination) | 3.7800 |
 [Gladiator Beast Essedarii](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Essedarii) | 3.7900 |
@@ -1397,7 +1397,7 @@
 [Artifact Dagda](https://db.ygoprodeck.com/card/?search=Artifact%20Dagda) | 7.7100 |
 [Tyrant Red Dragon Archfiend](https://db.ygoprodeck.com/card/?search=Tyrant%20Red%20Dragon%20Archfiend) | 7.7500 |
 [Valkyrie Brunhilde](https://db.ygoprodeck.com/card/?search=Valkyrie%20Brunhilde) | 7.8500 |
-[Stardust Synchron](https://db.ygoprodeck.com/card/?search=Stardust%20Synchron) | 7.8616 |
+[Stardust Synchron](https://db.ygoprodeck.com/card/?search=Stardust%20Synchron) | 7.8600 |
 [Nekroz of Sophia](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Sophia) | 7.9200 |
 [Spright Elf](https://db.ygoprodeck.com/card/?search=Spright%20Elf) | 7.9500 |
 [Dried Winds](https://db.ygoprodeck.com/card/?search=Dried%20Winds) | 8.0300 |
@@ -1407,7 +1407,7 @@
 [Fish Sonar](https://db.ygoprodeck.com/card/?search=Fish%20Sonar) | 8.1600 |
 [Drytron Mu Beta Fafnir](https://db.ygoprodeck.com/card/?search=Drytron%20Mu%20Beta%20Fafnir) | 8.2000 |
 [Alien Kid](https://db.ygoprodeck.com/card/?search=Alien%20Kid) | 8.3400 |
-[Floowandereeze & Empen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Empen) | 8.3431 |
+[Floowandereeze & Empen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Empen) | 8.3416 |
 [Beautunaful Princess](https://db.ygoprodeck.com/card/?search=Beautunaful%20Princess) | 8.5600 |
 [Daigusto Phoenix](https://db.ygoprodeck.com/card/?search=Daigusto%20Phoenix) | 8.6000 |
 [Divine Dragon Knight Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Knight%20Felgrand) | 8.6000 |
