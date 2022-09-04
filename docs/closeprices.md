@@ -145,7 +145,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Thousand-Eyes Restrict](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Restrict) | 0.5200 |
 [Vampire Baby](https://db.ygoprodeck.com/card/?search=Vampire%20Baby) | 0.5200 |
 [Vylon Sphere](https://db.ygoprodeck.com/card/?search=Vylon%20Sphere) | 0.5200 |
-[Xtra HERO Wonder Driver](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Wonder%20Driver) | 0.5299 |
 [Emes the Infinity](https://db.ygoprodeck.com/card/?search=Emes%20the%20Infinity) | 0.5300 |
 [Gem-Knight Aquamarine](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Aquamarine) | 0.5300 |
 [Generation Force](https://db.ygoprodeck.com/card/?search=Generation%20Force) | 0.5300 |
@@ -163,6 +162,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | 0.5300 |
 [Toon Mask](https://db.ygoprodeck.com/card/?search=Toon%20Mask) | 0.5300 |
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.5300 |
+[Xtra HERO Wonder Driver](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Wonder%20Driver) | 0.5304 |
 [A-to-Z-Dragon Buster Cannon](https://db.ygoprodeck.com/card/?search=A-to-Z-Dragon%20Buster%20Cannon) | 0.5400 |
 [Winged Kuriboh LV9](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV9) | 0.5400 |
 [Ancient Tool](https://db.ygoprodeck.com/card/?search=Ancient%20Tool) | 0.5400 |
