@@ -8,12 +8,12 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 506
+Estimated number of changes: 507
 
 | Card name | Previous Status | New Status |
 | :-- |
 |[King of Destruction - Xexex](https://db.ygoprodeck.com/card/?search=King%20of%20Destruction%20-%20Xexex) | Unlimited | Illegal |
-|[Number F0: Utopic Future Slash](https://db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Future%20Slash) | Unlimited | Illegal |
+|[Rebellion](https://db.ygoprodeck.com/card/?search=Rebellion) | Unlimited | Illegal |
 |[Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | Unlimited | Illegal |
 |[Worm King](https://db.ygoprodeck.com/card/?search=Worm%20King) | Unlimited | Illegal |
 |[Amorphactor Pain, the Imagination Dracoverlord](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) | Unlimited | Forbidden |
@@ -82,6 +82,7 @@ Estimated number of changes: 506
 |[Borrelcode Dragon](https://db.ygoprodeck.com/card/?search=Borrelcode%20Dragon) | Illegal | Unlimited |
 |[Borreload Riot Dragon](https://db.ygoprodeck.com/card/?search=Borreload%20Riot%20Dragon) | Illegal | Unlimited |
 |[Brotherhood of the Fire Fist - Snake](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Snake) | Illegal | Unlimited |
+|[Buten](https://db.ygoprodeck.com/card/?search=Buten) | Illegal | Unlimited |
 |[C-Crush Wyvern](https://db.ygoprodeck.com/card/?search=C-Crush%20Wyvern) | Illegal | Unlimited |
 |[Catapult Warrior](https://db.ygoprodeck.com/card/?search=Catapult%20Warrior) | Illegal | Unlimited |
 |[Chaos Valkyria](https://db.ygoprodeck.com/card/?search=Chaos%20Valkyria) | Illegal | Unlimited |
@@ -372,7 +373,6 @@ Estimated number of changes: 506
 |[Pikari @Ignister](https://db.ygoprodeck.com/card/?search=Pikari%20@Ignister) | Illegal | Unlimited |
 |[Plaguespreader Zombie](https://db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie) | Illegal | Unlimited |
 |[Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | Illegal | Unlimited |
-|[Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | Illegal | Unlimited |
 |[Predaplant Ophrys Scorpio](https://db.ygoprodeck.com/card/?search=Predaplant%20Ophrys%20Scorpio) | Illegal | Unlimited |
 |[Predaplant Sarraceniant](https://db.ygoprodeck.com/card/?search=Predaplant%20Sarraceniant) | Illegal | Unlimited |
 |[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | Illegal | Unlimited |
@@ -501,6 +501,7 @@ Estimated number of changes: 506
 |[Volcanic Doomfire](https://db.ygoprodeck.com/card/?search=Volcanic%20Doomfire) | Illegal | Unlimited |
 |[Volcanic Queen](https://db.ygoprodeck.com/card/?search=Volcanic%20Queen) | Illegal | Unlimited |
 |[Voltic Kong](https://db.ygoprodeck.com/card/?search=Voltic%20Kong) | Illegal | Unlimited |
+|[Vylon Sphere](https://db.ygoprodeck.com/card/?search=Vylon%20Sphere) | Illegal | Unlimited |
 |[Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Illegal | Unlimited |
 |[Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | Illegal | Unlimited |
 |[Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | Illegal | Unlimited |
