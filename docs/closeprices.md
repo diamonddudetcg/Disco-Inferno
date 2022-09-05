@@ -23,6 +23,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | 0.4700 |
 [Watapon](https://db.ygoprodeck.com/card/?search=Watapon) | 0.4700 |
 [Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4700 |
+[Madolche Promenade](https://db.ygoprodeck.com/card/?search=Madolche%20Promenade) | 0.4734 |
 [Charging Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Charging%20Gaia%20the%20Fierce%20Knight) | 0.4750 |
 [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | 0.4750 |
 [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | 0.4750 |
@@ -56,7 +57,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | 0.4800 |
 [Chronomaly Vimana](https://db.ygoprodeck.com/card/?search=Chronomaly%20Vimana) | 0.4801 |
 [Zoodiac Chakanine](https://db.ygoprodeck.com/card/?search=Zoodiac%20Chakanine) | 0.4801 |
-[Floowandereeze & Snowl](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Snowl) | 0.4894 |
+[Floowandereeze & Snowl](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Snowl) | 0.4897 |
 [Archfiend's Call](https://db.ygoprodeck.com/card/?search=Archfiend's%20Call) | 0.4900 |
 [Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.4900 |
 [Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | 0.4900 |
@@ -108,7 +109,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Zefra Metaltron](https://db.ygoprodeck.com/card/?search=Zefra%20Metaltron) | 0.5000 |
 [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5000 |
 [Rebellion](https://db.ygoprodeck.com/card/?search=Rebellion) | 0.5000 |
-[Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | 0.5000 |
+[Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | 0.5001 |
 [Alector, Sovereign of Birds](https://db.ygoprodeck.com/card/?search=Alector,%20Sovereign%20of%20Birds) | 0.5100 |
 [Appointer of the Red Lotus](https://db.ygoprodeck.com/card/?search=Appointer%20of%20the%20Red%20Lotus) | 0.5100 |
 [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | 0.5100 |
@@ -126,7 +127,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | 0.5100 |
 [Tuner's Scheme](https://db.ygoprodeck.com/card/?search=Tuner's%20Scheme) | 0.5100 |
 [Vampire Hunter](https://db.ygoprodeck.com/card/?search=Vampire%20Hunter) | 0.5100 |
-[Indomitable Gladiator Beast](https://db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast) | 0.5100 |
+[Indomitable Gladiator Beast](https://db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast) | 0.5101 |
 [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | 0.5200 |
 [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | 0.5200 |
 [Armored Kappa](https://db.ygoprodeck.com/card/?search=Armored%20Kappa) | 0.5200 |
@@ -214,7 +215,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5800 |
 [Pot of Benevolence](https://db.ygoprodeck.com/card/?search=Pot%20of%20Benevolence) | 0.5800 |
 [Prinzessin](https://db.ygoprodeck.com/card/?search=Prinzessin) | 0.5800 |
-[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5800 |
+[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5801 |
 [True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | 0.5802 |
 [Cobraman Sakuzy](https://db.ygoprodeck.com/card/?search=Cobraman%20Sakuzy) | 0.5900 |
 [Hyper Psychic Blaster](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster) | 0.5900 |
