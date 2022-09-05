@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 507
+Estimated number of changes: 508
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -68,6 +68,7 @@ Estimated number of changes: 507
 |[Assault Beast](https://db.ygoprodeck.com/card/?search=Assault%20Beast) | Illegal | Unlimited |
 |[Atlantean Dragoons](https://db.ygoprodeck.com/card/?search=Atlantean%20Dragoons) | Illegal | Unlimited |
 |[B-Buster Drake](https://db.ygoprodeck.com/card/?search=B-Buster%20Drake) | Illegal | Unlimited |
+|[Bahalutiya, the Grand Radiance](https://db.ygoprodeck.com/card/?search=Bahalutiya,%20the%20Grand%20Radiance) | Illegal | Unlimited |
 |[Batteryman Fuel Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Fuel%20Cell) | Illegal | Unlimited |
 |[Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal | Unlimited |
 |[Beatrice, Lady of the Eternal](https://db.ygoprodeck.com/card/?search=Beatrice,%20Lady%20of%20the%20Eternal) | Limited | Unlimited |
@@ -85,6 +86,7 @@ Estimated number of changes: 507
 |[Buten](https://db.ygoprodeck.com/card/?search=Buten) | Illegal | Unlimited |
 |[C-Crush Wyvern](https://db.ygoprodeck.com/card/?search=C-Crush%20Wyvern) | Illegal | Unlimited |
 |[Catapult Warrior](https://db.ygoprodeck.com/card/?search=Catapult%20Warrior) | Illegal | Unlimited |
+|[Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | Illegal | Unlimited |
 |[Chaos Valkyria](https://db.ygoprodeck.com/card/?search=Chaos%20Valkyria) | Illegal | Unlimited |
 |[Charge of the Light Brigade](https://db.ygoprodeck.com/card/?search=Charge%20of%20the%20Light%20Brigade) | Illegal | Unlimited |
 |[Charging Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Charging%20Gaia%20the%20Fierce%20Knight) | Illegal | Unlimited |
@@ -367,7 +369,6 @@ Estimated number of changes: 507
 |[Pendulum Fusion](https://db.ygoprodeck.com/card/?search=Pendulum%20Fusion) | Illegal | Unlimited |
 |[Performage Plushfire](https://db.ygoprodeck.com/card/?search=Performage%20Plushfire) | Forbidden | Unlimited |
 |[Performapal Celestial Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Celestial%20Magician) | Illegal | Unlimited |
-|[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | Illegal | Unlimited |
 |[Phantom Knights' Fog Blade](https://db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Fog%20Blade) | Illegal | Unlimited |
 |[Phantom Skyblaster](https://db.ygoprodeck.com/card/?search=Phantom%20Skyblaster) | Limited | Unlimited |
 |[Pikari @Ignister](https://db.ygoprodeck.com/card/?search=Pikari%20@Ignister) | Illegal | Unlimited |
