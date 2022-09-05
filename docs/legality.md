@@ -51,7 +51,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 [Superdreadnought Rail Cannon Gustav Max](https://db.ygoprodeck.com/card/?search=Superdreadnought%20Rail%20Cannon%20Gustav%20Max) | Limited |
 [Salamangreat Gazelle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Gazelle) | Semi-Limited |
 [Armageddon Knight](https://db.ygoprodeck.com/card/?search=Armageddon%20Knight) | Unlimited |
-[Cyber Angel Benten](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Benten) | Unlimited |
 [Dark Grepher](https://db.ygoprodeck.com/card/?search=Dark%20Grepher) | Unlimited |
 [Dinomight Knight, the True Dracofighter](https://db.ygoprodeck.com/card/?search=Dinomight%20Knight,%20the%20True%20Dracofighter) | Unlimited |
 [Eva](https://db.ygoprodeck.com/card/?search=Eva) | Unlimited |

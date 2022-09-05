@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 507
+Estimated number of changes: 506
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -106,7 +106,6 @@ Estimated number of changes: 507
 |[Crusadia Equimax](https://db.ygoprodeck.com/card/?search=Crusadia%20Equimax) | Illegal | Unlimited |
 |[Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | Illegal | Unlimited |
 |[Crystal Pair](https://db.ygoprodeck.com/card/?search=Crystal%20Pair) | Illegal | Unlimited |
-|[Cyber Angel Benten](https://db.ygoprodeck.com/card/?search=Cyber%20Angel%20Benten) | Semi-Limited | Unlimited |
 |[Cyber Blader](https://db.ygoprodeck.com/card/?search=Cyber%20Blader) | Illegal | Unlimited |
 |[Cybernetic Magician](https://db.ygoprodeck.com/card/?search=Cybernetic%20Magician) | Illegal | Unlimited |
 |[Cyberse Synchron](https://db.ygoprodeck.com/card/?search=Cyberse%20Synchron) | Illegal | Unlimited |
