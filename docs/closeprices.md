@@ -171,8 +171,8 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [HERO's Bond](https://db.ygoprodeck.com/card/?search=HERO's%20Bond) | 0.5400 |
 [King of the Skull Servants](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants) | 0.5400 |
 [Worm King](https://db.ygoprodeck.com/card/?search=Worm%20King) | 0.5400 |
-[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | 0.5404 |
-[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.5440 |
+[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | 0.5408 |
+[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.5444 |
 [CXyz Coach Lord Ultimatrainer](https://db.ygoprodeck.com/card/?search=CXyz%20Coach%20Lord%20Ultimatrainer) | 0.5500 |
 [Cyber Laser Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Laser%20Dragon) | 0.5500 |
 [Dark Eradicator Warlock](https://db.ygoprodeck.com/card/?search=Dark%20Eradicator%20Warlock) | 0.5500 |
@@ -217,7 +217,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Pot of Benevolence](https://db.ygoprodeck.com/card/?search=Pot%20of%20Benevolence) | 0.5800 |
 [Prinzessin](https://db.ygoprodeck.com/card/?search=Prinzessin) | 0.5800 |
 [Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5811 |
-[True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | 0.5848 |
+[True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | 0.5849 |
 [Cobraman Sakuzy](https://db.ygoprodeck.com/card/?search=Cobraman%20Sakuzy) | 0.5900 |
 [Hyper Psychic Blaster](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster) | 0.5900 |
 [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5900 |
