@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 508
+Estimated number of changes: 509
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -21,6 +21,7 @@ Estimated number of changes: 508
 |[Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Unlimited | Forbidden |
 |[Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Unlimited | Forbidden |
 |[Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Unlimited | Forbidden |
+|[Magicalized Duston Mop](https://db.ygoprodeck.com/card/?search=Magicalized%20Duston%20Mop) | Unlimited | Forbidden |
 |[Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Limited | Forbidden |
 |[Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Unlimited | Forbidden |
 |[The Monarchs Erupt](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Erupt) | Unlimited | Forbidden |

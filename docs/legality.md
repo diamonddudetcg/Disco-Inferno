@@ -33,6 +33,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Forbidden |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magicalized Duston Mop](https://db.ygoprodeck.com/card/?search=Magicalized%20Duston%20Mop) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Numeron Calling](https://db.ygoprodeck.com/card/?search=Numeron%20Calling) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Anti-Spell Fragrance](https://db.ygoprodeck.com/card/?search=Anti-Spell%20Fragrance) | Forbidden |
