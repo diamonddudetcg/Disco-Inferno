@@ -30,7 +30,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Number 21: Frozen Lady Justice](https://db.ygoprodeck.com/card/?search=Number%2021:%20Frozen%20Lady%20Justice) | 0.4750 |
 [True Light](https://db.ygoprodeck.com/card/?search=True%20Light) | 0.4750 |
 [Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4777 |
-[Mega Fortress Whale](https://db.ygoprodeck.com/card/?search=Mega%20Fortress%20Whale) | 0.4785 |
+[Mega Fortress Whale](https://db.ygoprodeck.com/card/?search=Mega%20Fortress%20Whale) | 0.4786 |
 [Ancient Gear Wyvern](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Wyvern) | 0.4800 |
 [Aratama](https://db.ygoprodeck.com/card/?search=Aratama) | 0.4800 |
 [Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.4800 |
@@ -82,7 +82,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Timestar Magician](https://db.ygoprodeck.com/card/?search=Timestar%20Magician) | 0.4900 |
 [Volcanic Counter](https://db.ygoprodeck.com/card/?search=Volcanic%20Counter) | 0.4900 |
 [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4900 |
-[Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4908 |
+[Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4909 |
 [Ultimate Dragonic Utopia Ray](https://db.ygoprodeck.com/card/?search=Ultimate%20Dragonic%20Utopia%20Ray) | 0.4977 |
 [Bahalutiya, the Grand Radiance](https://db.ygoprodeck.com/card/?search=Bahalutiya,%20the%20Grand%20Radiance) | 0.5000 |
 [Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gram%20the%20Shining%20Star) | 0.5000 |
@@ -111,7 +111,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | 0.5000 |
 [Zefra Metaltron](https://db.ygoprodeck.com/card/?search=Zefra%20Metaltron) | 0.5000 |
 [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5000 |
-[Chronomaly Vimana](https://db.ygoprodeck.com/card/?search=Chronomaly%20Vimana) | 0.5031 |
+[Chronomaly Vimana](https://db.ygoprodeck.com/card/?search=Chronomaly%20Vimana) | 0.5032 |
 [Rebellion](https://db.ygoprodeck.com/card/?search=Rebellion) | 0.5077 |
 [Alector, Sovereign of Birds](https://db.ygoprodeck.com/card/?search=Alector,%20Sovereign%20of%20Birds) | 0.5100 |
 [Appointer of the Red Lotus](https://db.ygoprodeck.com/card/?search=Appointer%20of%20the%20Red%20Lotus) | 0.5100 |
@@ -131,7 +131,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Tuner's Scheme](https://db.ygoprodeck.com/card/?search=Tuner's%20Scheme) | 0.5100 |
 [Vampire Hunter](https://db.ygoprodeck.com/card/?search=Vampire%20Hunter) | 0.5100 |
 [Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | 0.5154 |
-[Ultimate Insect LV1](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV1) | 0.5193 |
+[Ultimate Insect LV1](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV1) | 0.5195 |
 [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | 0.5200 |
 [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | 0.5200 |
 [Armored Kappa](https://db.ygoprodeck.com/card/?search=Armored%20Kappa) | 0.5200 |
@@ -146,7 +146,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.5200 |
 [Vampire Baby](https://db.ygoprodeck.com/card/?search=Vampire%20Baby) | 0.5200 |
 [Indomitable Gladiator Beast](https://db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast) | 0.5254 |
-[Sacred Scrolls of the Gizmek Legend](https://db.ygoprodeck.com/card/?search=Sacred%20Scrolls%20of%20the%20Gizmek%20Legend) | 0.5285 |
+[Sacred Scrolls of the Gizmek Legend](https://db.ygoprodeck.com/card/?search=Sacred%20Scrolls%20of%20the%20Gizmek%20Legend) | 0.5286 |
 [A-to-Z-Dragon Buster Cannon](https://db.ygoprodeck.com/card/?search=A-to-Z-Dragon%20Buster%20Cannon) | 0.5300 |
 [Emes the Infinity](https://db.ygoprodeck.com/card/?search=Emes%20the%20Infinity) | 0.5300 |
 [Gem-Knight Aquamarine](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Aquamarine) | 0.5300 |
@@ -194,7 +194,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Slacker Magician](https://db.ygoprodeck.com/card/?search=Slacker%20Magician) | 0.5600 |
 [Ultimate Obedient Fiend](https://db.ygoprodeck.com/card/?search=Ultimate%20Obedient%20Fiend) | 0.5600 |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5600 |
-[Eldlixir of Black Awakening](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Black%20Awakening) | 0.5602 |
+[Eldlixir of Black Awakening](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Black%20Awakening) | 0.5608 |
 [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.5700 |
 [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | 0.5700 |
 [B.E.S. Covered Core](https://db.ygoprodeck.com/card/?search=B.E.S.%20Covered%20Core) | 0.5700 |
@@ -228,7 +228,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | 0.5900 |
 [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | 0.5900 |
 [Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.5900 |
-[Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5931 |
+[Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5932 |
 [Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5954 |
 [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | 0.5977 |
 
