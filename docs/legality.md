@@ -65,7 +65,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 [Miscellaneousaurus](https://db.ygoprodeck.com/card/?search=Miscellaneousaurus) | Unlimited |
 [Orcust Harp Horror](https://db.ygoprodeck.com/card/?search=Orcust%20Harp%20Horror) | Unlimited |
 [Performage Plushfire](https://db.ygoprodeck.com/card/?search=Performage%20Plushfire) | Unlimited |
-[Performage Monkeyboard](https://db.ygoprodeck.com/card/?search=Performage%20Monkeyboard) | Unlimited |
+[Performapal Monkeyboard](https://db.ygoprodeck.com/card/?search=Performapal%20Monkeyboard) | Unlimited |
 [Phantom Skyblaster](https://db.ygoprodeck.com/card/?search=Phantom%20Skyblaster) | Unlimited |
 [Servant of Endymion](https://db.ygoprodeck.com/card/?search=Servant%20of%20Endymion) | Unlimited |
 [SPYRAL Quik-Fix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Quik-Fix) | Unlimited |
