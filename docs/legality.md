@@ -9,7 +9,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 Forbidden:
 
 | Card name | Status |
-| :-- |
+| :-- | --: |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Archer](https://db.ygoprodeck.com/card/?search=Amazoness%20Archer) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archlord Kristya](https://db.ygoprodeck.com/card/?search=Archlord%20Kristya) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Artifact Scythe](https://db.ygoprodeck.com/card/?search=Artifact%20Scythe) | Forbidden |
@@ -49,7 +49,7 @@ Forbidden:
 Limited:
 
 | Card name | Status |
-| :-- |
+| :-- | --: |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Drytron Alpha Thuban](https://db.ygoprodeck.com/card/?search=Drytron%20Alpha%20Thuban) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Drytron Delta Altais](https://db.ygoprodeck.com/card/?search=Drytron%20Delta%20Altais) | Limited |
@@ -63,13 +63,13 @@ Limited:
 Semi-Limited:
 
 | Card name | Status |
-| :-- |
+| :-- | --: |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Gazelle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Gazelle) | Semi-Limited |
 
 Unlimited:
 
 | Card name | Status |
-| :-- |
+| :-- | --: |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armageddon Knight](https://db.ygoprodeck.com/card/?search=Armageddon%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Grepher](https://db.ygoprodeck.com/card/?search=Dark%20Grepher) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomight Knight, the True Dracofighter](https://db.ygoprodeck.com/card/?search=Dinomight%20Knight,%20the%20True%20Dracofighter) | Unlimited |
