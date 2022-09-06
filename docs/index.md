@@ -10,4 +10,9 @@ title:  "Disco Inferno"
 
 [Card legality list](banlist)
 
-[Rotation Speculation](differences)
+
+## Rotation Speculation
+
+[Card movements](differences)
+
+[Entire banlist](ongoingBanlist)
