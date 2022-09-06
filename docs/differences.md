@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 512
+Estimated number of changes: 514
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -209,6 +209,7 @@ Estimated number of changes: 512
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Night](https://db.ygoprodeck.com/card/?search=Ghostrick%20Night) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Renovation](https://db.ygoprodeck.com/card/?search=Ghostrick%20Renovation) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ghoti of the Deep Beyond](https://db.ygoprodeck.com/card/?search=Ghoti%20of%20the%20Deep%20Beyond) | Illegal | Unlimited |
+|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Giant Beetrooper Invincible Atlas](https://db.ygoprodeck.com/card/?search=Giant%20Beetrooper%20Invincible%20Atlas) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Girsu, the Orcust Mekk-Knight](https://db.ygoprodeck.com/card/?search=Girsu,%20the%20Orcust%20Mekk-Knight) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gishki Abyss](https://db.ygoprodeck.com/card/?search=Gishki%20Abyss) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gishki Aquamirror](https://db.ygoprodeck.com/card/?search=Gishki%20Aquamirror) | Illegal | Unlimited |
@@ -236,6 +237,7 @@ Estimated number of changes: 512
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Archfiend](https://db.ygoprodeck.com/card/?search=Infernity%20Archfiend) | Limited | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Avenger](https://db.ygoprodeck.com/card/?search=Infernity%20Avenger) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Beetle](https://db.ygoprodeck.com/card/?search=Infernity%20Beetle) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Destroyer](https://db.ygoprodeck.com/card/?search=Infernity%20Destroyer) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inferno Tempest](https://db.ygoprodeck.com/card/?search=Inferno%20Tempest) | Illegal | Unlimited |
