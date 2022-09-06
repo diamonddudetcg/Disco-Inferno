@@ -1065,6 +1065,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 99: Utopic Dragon](https://db.ygoprodeck.com/card/?search=Number%2099:%20Utopic%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C104: Umbral Horror Masquerade](https://db.ygoprodeck.com/card/?search=Number%20C104:%20Umbral%20Horror%20Masquerade) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C105: Battlin' Boxer Comet Cestus](https://db.ygoprodeck.com/card/?search=Number%20C105:%20Battlin'%20Boxer%20Comet%20Cestus) | Illegal |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C107: Neo Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20C107:%20Neo%20Galaxy-Eyes%20Tachyon%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C32: Shark Drake Veiss](https://db.ygoprodeck.com/card/?search=Number%20C32:%20Shark%20Drake%20Veiss) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C39: Utopia Ray Victory](https://db.ygoprodeck.com/card/?search=Number%20C39:%20Utopia%20Ray%20Victory) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C6: Chronomaly Chaos Atlandis](https://db.ygoprodeck.com/card/?search=Number%20C6:%20Chronomaly%20Chaos%20Atlandis) | Illegal |
@@ -1698,7 +1699,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 42: Galaxy Tomahawk](https://db.ygoprodeck.com/card/?search=Number%2042:%20Galaxy%20Tomahawk) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 59: Crooked Cook](https://db.ygoprodeck.com/card/?search=Number%2059:%20Crooked%20Cook) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 86: Heroic Champion - Rhongomyniad](https://db.ygoprodeck.com/card/?search=Number%2086:%20Heroic%20Champion%20-%20Rhongomyniad) | Forbidden |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C107: Neo Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20C107:%20Neo%20Galaxy-Eyes%20Tachyon%20Dragon) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number S0: Utopic ZEXAL](https://db.ygoprodeck.com/card/?search=Number%20S0:%20Utopic%20ZEXAL) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Numeron Calling](https://db.ygoprodeck.com/card/?search=Numeron%20Calling) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Outer Entity Azathot](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Azathot) | Forbidden |
