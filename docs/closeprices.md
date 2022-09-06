@@ -110,7 +110,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Zefra Metaltron](https://db.ygoprodeck.com/card/?search=Zefra%20Metaltron) | 0.5000 |
 [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5000 |
 [Rebellion](https://db.ygoprodeck.com/card/?search=Rebellion) | 0.5008 |
-[Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | 0.5015 |
+[Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | 0.5016 |
 [Alector, Sovereign of Birds](https://db.ygoprodeck.com/card/?search=Alector,%20Sovereign%20of%20Birds) | 0.5100 |
 [Appointer of the Red Lotus](https://db.ygoprodeck.com/card/?search=Appointer%20of%20the%20Red%20Lotus) | 0.5100 |
 [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | 0.5100 |
@@ -128,7 +128,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | 0.5100 |
 [Tuner's Scheme](https://db.ygoprodeck.com/card/?search=Tuner's%20Scheme) | 0.5100 |
 [Vampire Hunter](https://db.ygoprodeck.com/card/?search=Vampire%20Hunter) | 0.5100 |
-[Indomitable Gladiator Beast](https://db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast) | 0.5115 |
+[Indomitable Gladiator Beast](https://db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast) | 0.5116 |
 [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | 0.5200 |
 [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | 0.5200 |
 [Armored Kappa](https://db.ygoprodeck.com/card/?search=Armored%20Kappa) | 0.5200 |
@@ -189,8 +189,8 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Slacker Magician](https://db.ygoprodeck.com/card/?search=Slacker%20Magician) | 0.5600 |
 [Ultimate Obedient Fiend](https://db.ygoprodeck.com/card/?search=Ultimate%20Obedient%20Fiend) | 0.5600 |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5600 |
-[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | 0.5605 |
-[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.5647 |
+[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | 0.5609 |
+[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.5651 |
 [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.5700 |
 [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | 0.5700 |
 [B.E.S. Covered Core](https://db.ygoprodeck.com/card/?search=B.E.S.%20Covered%20Core) | 0.5700 |
@@ -216,7 +216,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5800 |
 [Pot of Benevolence](https://db.ygoprodeck.com/card/?search=Pot%20of%20Benevolence) | 0.5800 |
 [Prinzessin](https://db.ygoprodeck.com/card/?search=Prinzessin) | 0.5800 |
-[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5815 |
+[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5816 |
 [True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | 0.5870 |
 [Cobraman Sakuzy](https://db.ygoprodeck.com/card/?search=Cobraman%20Sakuzy) | 0.5900 |
 [Hyper Psychic Blaster](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster) | 0.5900 |
