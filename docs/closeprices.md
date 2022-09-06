@@ -82,7 +82,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.4900 |
 [Number F0: Utopic Future Slash](https://db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Future%20Slash) | 0.4900 |
 [Ultimate Dragonic Utopia Ray](https://db.ygoprodeck.com/card/?search=Ultimate%20Dragonic%20Utopia%20Ray) | 0.4909 |
-[Sacred Scrolls of the Gizmek Legend](https://db.ygoprodeck.com/card/?search=Sacred%20Scrolls%20of%20the%20Gizmek%20Legend) | 0.4944 |
+[Sacred Scrolls of the Gizmek Legend](https://db.ygoprodeck.com/card/?search=Sacred%20Scrolls%20of%20the%20Gizmek%20Legend) | 0.4945 |
 [Bahalutiya, the Grand Radiance](https://db.ygoprodeck.com/card/?search=Bahalutiya,%20the%20Grand%20Radiance) | 0.5000 |
 [Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gram%20the%20Shining%20Star) | 0.5000 |
 [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.5000 |
@@ -201,9 +201,9 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | 0.5700 |
 [Sinister Serpent](https://db.ygoprodeck.com/card/?search=Sinister%20Serpent) | 0.5700 |
 [Wiseman's Chalice](https://db.ygoprodeck.com/card/?search=Wiseman's%20Chalice) | 0.5700 |
-[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | 0.5702 |
+[Preparation of Rites](https://db.ygoprodeck.com/card/?search=Preparation%20of%20Rites) | 0.5705 |
 [Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5727 |
-[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.5747 |
+[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.5751 |
 [Abyss Actor - Evil Heel](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Evil%20Heel) | 0.5800 |
 [Daigusto Gulldos](https://db.ygoprodeck.com/card/?search=Daigusto%20Gulldos) | 0.5800 |
 [Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.5800 |

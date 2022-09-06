@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 511
+Estimated number of changes: 508
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -28,14 +28,11 @@ Estimated number of changes: 511
 |[Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Unlimited | Forbidden |
 |[Astrograph Sorcerer](https://db.ygoprodeck.com/card/?search=Astrograph%20Sorcerer) | Illegal | Limited |
 |[Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | Illegal | Limited |
-|[Drytron Alpha Thuban](https://db.ygoprodeck.com/card/?search=Drytron%20Alpha%20Thuban) | Unlimited | Limited |
-|[Drytron Delta Altais](https://db.ygoprodeck.com/card/?search=Drytron%20Delta%20Altais) | Unlimited | Limited |
-|[Drytron Zeta Aldhibah](https://db.ygoprodeck.com/card/?search=Drytron%20Zeta%20Aldhibah) | Unlimited | Limited |
 |[Eclipse Wyvern](https://db.ygoprodeck.com/card/?search=Eclipse%20Wyvern) | Forbidden | Limited |
 |[Gem-Knight Master Diamond](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Master%20Diamond) | Illegal | Limited |
-|[Impcantation Chalislime](https://db.ygoprodeck.com/card/?search=Impcantation%20Chalislime) | Unlimited | Limited |
 |[Left Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Arm%20of%20the%20Forbidden%20One) | Illegal | Limited |
 |[Left Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Leg%20of%20the%20Forbidden%20One) | Illegal | Limited |
+|[Megalith Unformed](https://db.ygoprodeck.com/card/?search=Megalith%20Unformed) | Unlimited | Limited |
 |[Red Rose Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rose%20Dragon) | Illegal | Limited |
 |[Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | Illegal | Limited |
 |[Right Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Leg%20of%20the%20Forbidden%20One) | Illegal | Limited |
