@@ -111,7 +111,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | 0.5000 |
 [Zefra Metaltron](https://db.ygoprodeck.com/card/?search=Zefra%20Metaltron) | 0.5000 |
 [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5000 |
-[Chronomaly Vimana](https://db.ygoprodeck.com/card/?search=Chronomaly%20Vimana) | 0.5084 |
+[Chronomaly Vimana](https://db.ygoprodeck.com/card/?search=Chronomaly%20Vimana) | 0.5085 |
 [Rebellion](https://db.ygoprodeck.com/card/?search=Rebellion) | 0.5095 |
 [Appointer of the Red Lotus](https://db.ygoprodeck.com/card/?search=Appointer%20of%20the%20Red%20Lotus) | 0.5100 |
 [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | 0.5100 |
@@ -160,7 +160,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Shining Friendship](https://db.ygoprodeck.com/card/?search=Shining%20Friendship) | 0.5300 |
 [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | 0.5300 |
 [Toon Mask](https://db.ygoprodeck.com/card/?search=Toon%20Mask) | 0.5300 |
-[Ultimate Insect LV1](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV1) | 0.5353 |
+[Ultimate Insect LV1](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV1) | 0.5354 |
 [Sacred Scrolls of the Gizmek Legend](https://db.ygoprodeck.com/card/?search=Sacred%20Scrolls%20of%20the%20Gizmek%20Legend) | 0.5374 |
 [Jurrac Monoloph](https://db.ygoprodeck.com/card/?search=Jurrac%20Monoloph) | 0.5395 |
 [Winged Kuriboh LV9](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV9) | 0.5400 |
@@ -226,7 +226,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | 0.5900 |
 [Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.5900 |
 [D/D/D Abyss King Gilgamesh](https://db.ygoprodeck.com/card/?search=D/D/D%20Abyss%20King%20Gilgamesh) | 0.5927 |
-[Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5984 |
+[Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5985 |
 [Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5990 |
 [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | 0.5995 |
 [Destroyersaurus](https://db.ygoprodeck.com/card/?search=Destroyersaurus) | 0.6000 |
