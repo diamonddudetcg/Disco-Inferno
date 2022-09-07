@@ -82,7 +82,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Timestar Magician](https://db.ygoprodeck.com/card/?search=Timestar%20Magician) | 0.4900 |
 [Volcanic Counter](https://db.ygoprodeck.com/card/?search=Volcanic%20Counter) | 0.4900 |
 [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4900 |
-[Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4977 |
+[Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4978 |
 [Ultimate Dragonic Utopia Ray](https://db.ygoprodeck.com/card/?search=Ultimate%20Dragonic%20Utopia%20Ray) | 0.4994 |
 [Bahalutiya, the Grand Radiance](https://db.ygoprodeck.com/card/?search=Bahalutiya,%20the%20Grand%20Radiance) | 0.5000 |
 [Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gram%20the%20Shining%20Star) | 0.5000 |
@@ -225,7 +225,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | 0.5900 |
 [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | 0.5900 |
 [Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.5900 |
-[D/D/D Abyss King Gilgamesh](https://db.ygoprodeck.com/card/?search=D/D/D%20Abyss%20King%20Gilgamesh) | 0.5911 |
+[D/D/D Abyss King Gilgamesh](https://db.ygoprodeck.com/card/?search=D/D/D%20Abyss%20King%20Gilgamesh) | 0.5912 |
 [Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5983 |
 [Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5989 |
 [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | 0.5994 |
