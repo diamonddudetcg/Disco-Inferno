@@ -82,7 +82,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Timestar Magician](https://db.ygoprodeck.com/card/?search=Timestar%20Magician) | 0.4900 |
 [Volcanic Counter](https://db.ygoprodeck.com/card/?search=Volcanic%20Counter) | 0.4900 |
 [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4900 |
-[Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4979 |
+[Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4980 |
 [Ultimate Dragonic Utopia Ray](https://db.ygoprodeck.com/card/?search=Ultimate%20Dragonic%20Utopia%20Ray) | 0.4995 |
 [Bahalutiya, the Grand Radiance](https://db.ygoprodeck.com/card/?search=Bahalutiya,%20the%20Grand%20Radiance) | 0.5000 |
 [Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gram%20the%20Shining%20Star) | 0.5000 |
