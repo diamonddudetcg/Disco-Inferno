@@ -8,11 +8,13 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 584
+Estimated number of changes: 585
 
 | Card name | Previous Status | New Status |
 | :-- |
+|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Garnecia Elefantis](https://db.ygoprodeck.com/card/?search=Garnecia%20Elefantis) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bi'an, Earth of the Yang Zing](https://db.ygoprodeck.com/card/?search=Bi'an,%20Earth%20of%20the%20Yang%20Zing) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Exxod, Master of The Guard](https://db.ygoprodeck.com/card/?search=Exxod,%20Master%20of%20The%20Guard) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [King of Destruction - Xexex](https://db.ygoprodeck.com/card/?search=King%20of%20Destruction%20-%20Xexex) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | Unlimited | Illegal |
@@ -475,7 +477,6 @@ Estimated number of changes: 584
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Good & Evil in the Burning Abyss](https://db.ygoprodeck.com/card/?search=Good%20%26%20Evil%20in%20the%20Burning%20Abyss) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [HERO's Bond](https://db.ygoprodeck.com/card/?search=HERO's%20Bond) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inferno Tempest](https://db.ygoprodeck.com/card/?search=Inferno%20Tempest) | Illegal | Unlimited |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jurassic World](https://db.ygoprodeck.com/card/?search=Jurassic%20World) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Labrynth Labyrinth](https://db.ygoprodeck.com/card/?search=Labrynth%20Labyrinth) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Labrynth Set-Up](https://db.ygoprodeck.com/card/?search=Labrynth%20Set-Up) | Illegal | Unlimited |

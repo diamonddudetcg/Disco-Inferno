@@ -22,6 +22,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Fairy's Gift](https://db.ygoprodeck.com/card/?search=Fairy's%20Gift) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Flame Viper](https://db.ygoprodeck.com/card/?search=Flame%20Viper) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Flying Penguin](https://db.ygoprodeck.com/card/?search=Flying%20Penguin) | Illegal |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Garnecia Elefantis](https://db.ygoprodeck.com/card/?search=Garnecia%20Elefantis) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Garoozis](https://db.ygoprodeck.com/card/?search=Garoozis) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gem-Knight Crystal](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Crystal) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Giant Flea](https://db.ygoprodeck.com/card/?search=Giant%20Flea) | Illegal |
@@ -281,6 +282,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Exodius the Ultimate Forbidden Lord](https://db.ygoprodeck.com/card/?search=Exodius%20the%20Ultimate%20Forbidden%20Lord) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Exosister Martha](https://db.ygoprodeck.com/card/?search=Exosister%20Martha) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Exosister Sophia](https://db.ygoprodeck.com/card/?search=Exosister%20Sophia) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Exxod, Master of The Guard](https://db.ygoprodeck.com/card/?search=Exxod,%20Master%20of%20The%20Guard) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fairy Tail - Snow](https://db.ygoprodeck.com/card/?search=Fairy%20Tail%20-%20Snow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Dharc](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Dharc) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fantastical Dragon Phantazmay](https://db.ygoprodeck.com/card/?search=Fantastical%20Dragon%20Phantazmay) | Illegal |
@@ -1323,6 +1325,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Indomitable Gladiator Beast](https://db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infernity Launcher](https://db.ygoprodeck.com/card/?search=Infernity%20Launcher) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infestation Pandemic](https://db.ygoprodeck.com/card/?search=Infestation%20Pandemic) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Intercept Wave](https://db.ygoprodeck.com/card/?search=Intercept%20Wave) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Into the Void](https://db.ygoprodeck.com/card/?search=Into%20the%20Void) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Invocation](https://db.ygoprodeck.com/card/?search=Invocation) | Illegal |
@@ -1871,7 +1874,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gaia The Fierce Knight](https://db.ygoprodeck.com/card/?search=Gaia%20The%20Fierce%20Knight) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Galaxy Serpent](https://db.ygoprodeck.com/card/?search=Galaxy%20Serpent) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gamma the Magnet Warrior](https://db.ygoprodeck.com/card/?search=Gamma%20the%20Magnet%20Warrior) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Garnecia Elefantis](https://db.ygoprodeck.com/card/?search=Garnecia%20Elefantis) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gatekeeper](https://db.ygoprodeck.com/card/?search=Gatekeeper) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gazelle the King of Mythical Beasts](https://db.ygoprodeck.com/card/?search=Gazelle%20the%20King%20of%20Mythical%20Beasts) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gem-Knight Garnet](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Garnet) | Unlimited |
@@ -3528,7 +3530,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Expressroid](https://db.ygoprodeck.com/card/?search=Expressroid) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Extra Veiler](https://db.ygoprodeck.com/card/?search=Extra%20Veiler) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Extraceratops](https://db.ygoprodeck.com/card/?search=Extraceratops) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Exxod, Master of The Guard](https://db.ygoprodeck.com/card/?search=Exxod,%20Master%20of%20The%20Guard) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [F.A. Auto Navigator](https://db.ygoprodeck.com/card/?search=F.A.%20Auto%20Navigator) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [F.A. Dark Dragster](https://db.ygoprodeck.com/card/?search=F.A.%20Dark%20Dragster) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [F.A. Hang On Mach](https://db.ygoprodeck.com/card/?search=F.A.%20Hang%20On%20Mach) | Unlimited |
@@ -8800,7 +8801,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Insect Imitation](https://db.ygoprodeck.com/card/?search=Insect%20Imitation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Insect Neglect](https://db.ygoprodeck.com/card/?search=Insect%20Neglect) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inspection](https://db.ygoprodeck.com/card/?search=Inspection) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Instant Neo Space](https://db.ygoprodeck.com/card/?search=Instant%20Neo%20Space) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Interrupted%20Kaiju%20Slumber) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Invigoration](https://db.ygoprodeck.com/card/?search=Invigoration) | Unlimited |
