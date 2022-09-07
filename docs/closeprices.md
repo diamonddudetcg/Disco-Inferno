@@ -82,7 +82,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Timestar Magician](https://db.ygoprodeck.com/card/?search=Timestar%20Magician) | 0.4900 |
 [Volcanic Counter](https://db.ygoprodeck.com/card/?search=Volcanic%20Counter) | 0.4900 |
 [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4900 |
-[Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4963 |
+[Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4964 |
 [Ultimate Dragonic Utopia Ray](https://db.ygoprodeck.com/card/?search=Ultimate%20Dragonic%20Utopia%20Ray) | 0.4991 |
 [Bahalutiya, the Grand Radiance](https://db.ygoprodeck.com/card/?search=Bahalutiya,%20the%20Grand%20Radiance) | 0.5000 |
 [Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gram%20the%20Shining%20Star) | 0.5000 |
@@ -206,7 +206,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | 0.5700 |
 [Sinister Serpent](https://db.ygoprodeck.com/card/?search=Sinister%20Serpent) | 0.5700 |
 [Wiseman's Chalice](https://db.ygoprodeck.com/card/?search=Wiseman's%20Chalice) | 0.5700 |
-[D/D/D Abyss King Gilgamesh](https://db.ygoprodeck.com/card/?search=D/D/D%20Abyss%20King%20Gilgamesh) | 0.5794 |
+[D/D/D Abyss King Gilgamesh](https://db.ygoprodeck.com/card/?search=D/D/D%20Abyss%20King%20Gilgamesh) | 0.5795 |
 [Abyss Actor - Evil Heel](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Evil%20Heel) | 0.5800 |
 [Daigusto Gulldos](https://db.ygoprodeck.com/card/?search=Daigusto%20Gulldos) | 0.5800 |
 [Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.5800 |
@@ -228,7 +228,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | 0.5900 |
 [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | 0.5900 |
 [Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.5900 |
-[Eldlixir of Black Awakening](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Black%20Awakening) | 0.5962 |
+[Eldlixir of Black Awakening](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Black%20Awakening) | 0.5963 |
 [Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | 0.5973 |
 [Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5982 |
 [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | 0.5991 |
