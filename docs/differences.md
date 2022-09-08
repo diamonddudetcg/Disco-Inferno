@@ -8,11 +8,12 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 591
+Estimated number of changes: 592
 
 | Card name | Previous Status | New Status |
 | :-- |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Garnecia Elefantis](https://db.ygoprodeck.com/card/?search=Garnecia%20Elefantis) | Unlimited | Illegal |
+|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gladiator Beast Andal](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bi'an, Earth of the Yang Zing](https://db.ygoprodeck.com/card/?search=Bi'an,%20Earth%20of%20the%20Yang%20Zing) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Makani](https://db.ygoprodeck.com/card/?search=Elementsaber%20Makani) | Unlimited | Illegal |

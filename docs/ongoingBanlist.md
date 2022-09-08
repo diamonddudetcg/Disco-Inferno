@@ -27,6 +27,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gem-Knight Crystal](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Crystal) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Giant Flea](https://db.ygoprodeck.com/card/?search=Giant%20Flea) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Giga Gagagigo](https://db.ygoprodeck.com/card/?search=Giga%20Gagagigo) | Illegal |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gladiator Beast Andal](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gokibore](https://db.ygoprodeck.com/card/?search=Gokibore) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Great Bill](https://db.ygoprodeck.com/card/?search=Great%20Bill) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gruesome Goo](https://db.ygoprodeck.com/card/?search=Gruesome%20Goo) | Illegal |
@@ -1898,7 +1899,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gigobyte](https://db.ygoprodeck.com/card/?search=Gigobyte) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gil Garth](https://db.ygoprodeck.com/card/?search=Gil%20Garth) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Girochin Kuwagata](https://db.ygoprodeck.com/card/?search=Girochin%20Kuwagata) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gladiator Beast Andal](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Goblin Calligrapher](https://db.ygoprodeck.com/card/?search=Goblin%20Calligrapher) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gogiga Gagagigo](https://db.ygoprodeck.com/card/?search=Gogiga%20Gagagigo) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gradius](https://db.ygoprodeck.com/card/?search=Gradius) | Unlimited |
