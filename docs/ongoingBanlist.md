@@ -958,7 +958,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Saryuja Skull Dread](https://db.ygoprodeck.com/card/?search=Saryuja%20Skull%20Dread) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Scareclaw Tri-Heart](https://db.ygoprodeck.com/card/?search=Scareclaw%20Tri-Heart) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Selene, Queen of the Master Magicians](https://db.ygoprodeck.com/card/?search=Selene,%20Queen%20of%20the%20Master%20Magicians) | Illegal |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Hayate](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Hayate) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Zeke](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Zeke) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Spright Elf](https://db.ygoprodeck.com/card/?search=Spright%20Elf) | Illegal |
@@ -7307,6 +7306,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shinobi Insect Hagakuremino](https://db.ygoprodeck.com/card/?search=Shinobi%20Insect%20Hagakuremino) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shiranui Skillsaga Supremacy](https://db.ygoprodeck.com/card/?search=Shiranui%20Skillsaga%20Supremacy) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shootingcode Talker](https://db.ygoprodeck.com/card/?search=Shootingcode%20Talker) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Hayate](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Hayate) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kaina](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kaina) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Some Summer Summoner](https://db.ygoprodeck.com/card/?search=Some%20Summer%20Summoner) | Unlimited |
