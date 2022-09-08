@@ -6,6 +6,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 
 |Card name | Status |
 | :-- | --: |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ancient Tool](https://db.ygoprodeck.com/card/?search=Ancient%20Tool) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Archfiend Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Archfiend%20Marmot%20of%20Nefariousness) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Bean Soldier](https://db.ygoprodeck.com/card/?search=Bean%20Soldier) | Illegal |
@@ -1757,7 +1758,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ally Mind](https://db.ygoprodeck.com/card/?search=Ally%20Mind) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ally of Justice Clausolas](https://db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Clausolas) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Alpha The Magnet Warrior](https://db.ygoprodeck.com/card/?search=Alpha%20The%20Magnet%20Warrior) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Amphibian Beast](https://db.ygoprodeck.com/card/?search=Amphibian%20Beast) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ancient Brain](https://db.ygoprodeck.com/card/?search=Ancient%20Brain) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ancient Elf](https://db.ygoprodeck.com/card/?search=Ancient%20Elf) | Unlimited |
