@@ -107,6 +107,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amabie](https://db.ygoprodeck.com/card/?search=Amabie) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Administrator Arlekino](https://db.ygoprodeck.com/card/?search=Amazement%20Administrator%20Arlekino) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Chain Master](https://db.ygoprodeck.com/card/?search=Amazoness%20Chain%20Master) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Fighter](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Queen](https://db.ygoprodeck.com/card/?search=Amazoness%20Queen) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Scouts](https://db.ygoprodeck.com/card/?search=Amazoness%20Scouts) | Illegal |
@@ -987,6 +988,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Armory Arm](https://db.ygoprodeck.com/card/?search=Armory%20Arm) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Aromaseraphy Rosemary](https://db.ygoprodeck.com/card/?search=Aromaseraphy%20Rosemary) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Chidori the Rain Sprinkling](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Chidori%20the%20Rain%20Sprinkling) | Illegal |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Onimaru the Divine Thunder](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Onimaru%20the%20Divine%20Thunder) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Raikiri the Rain Shower](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Raikiri%20the%20Rain%20Shower) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Avenging Knight Parshath](https://db.ygoprodeck.com/card/?search=Avenging%20Knight%20Parshath) | Illegal |
@@ -2308,7 +2310,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Assistant Delia](https://db.ygoprodeck.com/card/?search=Amazement%20Assistant%20Delia) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Attendant Comica](https://db.ygoprodeck.com/card/?search=Amazement%20Attendant%20Comica) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Blowpiper](https://db.ygoprodeck.com/card/?search=Amazoness%20Blowpiper) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Chain Master](https://db.ygoprodeck.com/card/?search=Amazoness%20Chain%20Master) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Paladin](https://db.ygoprodeck.com/card/?search=Amazoness%20Paladin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Princess](https://db.ygoprodeck.com/card/?search=Amazoness%20Princess) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Sage](https://db.ygoprodeck.com/card/?search=Amazoness%20Sage) | Unlimited |
@@ -7385,7 +7386,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Aromaseraphy Sweet Marjoram](https://db.ygoprodeck.com/card/?search=Aromaseraphy%20Sweet%20Marjoram) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ascension Sky Dragon](https://db.ygoprodeck.com/card/?search=Ascension%20Sky%20Dragon) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Askaan, the Bicorned Ghoti](https://db.ygoprodeck.com/card/?search=Askaan,%20the%20Bicorned%20Ghoti) | Unlimited |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Onimaru the Divine Thunder](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Onimaru%20the%20Divine%20Thunder) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Sayo the Rain Hider](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Sayo%20the%20Rain%20Hider) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Sohaya the Rain Storm](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Sohaya%20the%20Rain%20Storm) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Azure-Eyes Silver Dragon](https://db.ygoprodeck.com/card/?search=Azure-Eyes%20Silver%20Dragon) | Unlimited |

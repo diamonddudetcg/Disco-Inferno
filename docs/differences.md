@@ -8,12 +8,13 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 597
+Estimated number of changes: 599
 
 | Card name | Previous Status | New Status |
 | :-- |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Garnecia Elefantis](https://db.ygoprodeck.com/card/?search=Garnecia%20Elefantis) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gladiator Beast Andal](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Chain Master](https://db.ygoprodeck.com/card/?search=Amazoness%20Chain%20Master) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bi'an, Earth of the Yang Zing](https://db.ygoprodeck.com/card/?search=Bi'an,%20Earth%20of%20the%20Yang%20Zing) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Makani](https://db.ygoprodeck.com/card/?search=Elementsaber%20Makani) | Unlimited | Illegal |
@@ -29,6 +30,7 @@ Estimated number of changes: 597
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm King](https://db.ygoprodeck.com/card/?search=Worm%20King) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Orcustrion](https://db.ygoprodeck.com/card/?search=Orcustrion) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Dryatrentiay](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryatrentiay) | Unlimited | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Onimaru the Divine Thunder](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Onimaru%20the%20Divine%20Thunder) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Daigusto Eguls](https://db.ygoprodeck.com/card/?search=Daigusto%20Eguls) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Psychic Lifetrancer](https://db.ygoprodeck.com/card/?search=Psychic%20Lifetrancer) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Watthydra](https://db.ygoprodeck.com/card/?search=Watthydra) | Unlimited | Illegal |
