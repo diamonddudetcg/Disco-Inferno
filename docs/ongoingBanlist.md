@@ -707,6 +707,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wind-Up Rat](https://db.ygoprodeck.com/card/?search=Wind-Up%20Rat) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Windwitch - Freeze Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Freeze%20Bell) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Windwitch - Glass Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Glass%20Bell) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Winged Kuriboh LV10](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Winged Kuriboh LV9](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV9) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Witchcrafter Haine](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Haine) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Witchcrafter Pittore](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Pittore) | Illegal |
@@ -6605,7 +6606,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Windwitch - Ice Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Ice%20Bell) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Windwitch - Snow Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Snow%20Bell) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Winged Kuriboh](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Winged Kuriboh LV10](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Winged Minion](https://db.ygoprodeck.com/card/?search=Winged%20Minion) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Winged Rhynos](https://db.ygoprodeck.com/card/?search=Winged%20Rhynos) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Winged Sage Falcos](https://db.ygoprodeck.com/card/?search=Winged%20Sage%20Falcos) | Unlimited |

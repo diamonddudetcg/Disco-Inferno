@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 597
+Estimated number of changes: 596
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -304,7 +304,6 @@ Estimated number of changes: 597
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Voltic Kong](https://db.ygoprodeck.com/card/?search=Voltic%20Kong) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Windwitch - Snow Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Snow%20Bell) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Winged Kuriboh LV10](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Xiangke Magician](https://db.ygoprodeck.com/card/?search=Xiangke%20Magician) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Boggart Knight](https://db.ygoprodeck.com/card/?search=XX-Saber%20Boggart%20Knight) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yellow Baboon, Archer of the Forest](https://db.ygoprodeck.com/card/?search=Yellow%20Baboon,%20Archer%20of%20the%20Forest) | Illegal | Unlimited |
