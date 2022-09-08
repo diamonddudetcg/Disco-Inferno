@@ -1242,6 +1242,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Fortress](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Fortress) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Leaf](https://db.ygoprodeck.com/card/?search=Ancient%20Leaf) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Warriors Saga - Three Visits](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Three%20Visits) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armed Dragon Flash](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Flash) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Arrive in Light](https://db.ygoprodeck.com/card/?search=Arrive%20in%20Light) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Asymmetaphys](https://db.ygoprodeck.com/card/?search=Asymmetaphys) | Illegal |
@@ -8042,7 +8043,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Warriors Saga - Deception and Betrayal](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Deception%20and%20Betrayal) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Warriors Saga - East-by-South Winds](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20East-by-South%20Winds) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Warriors Saga - Sun-Liu Alliance](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Sun-Liu%20Alliance) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Warriors Saga - Three Visits](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Three%20Visits) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ante](https://db.ygoprodeck.com/card/?search=Ante) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Anti-Magic Arrows](https://db.ygoprodeck.com/card/?search=Anti-Magic%20Arrows) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Appliancer Conversion](https://db.ygoprodeck.com/card/?search=Appliancer%20Conversion) | Unlimited |
