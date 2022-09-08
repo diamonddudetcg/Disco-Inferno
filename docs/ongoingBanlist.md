@@ -1259,6 +1259,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Card of Demise](https://db.ygoprodeck.com/card/?search=Card%20of%20Demise) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cards of Consonance](https://db.ygoprodeck.com/card/?search=Cards%20of%20Consonance) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Catalyst Field](https://db.ygoprodeck.com/card/?search=Catalyst%20Field) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chaos Scepter Blast](https://db.ygoprodeck.com/card/?search=Chaos%20Scepter%20Blast) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chaos Space](https://db.ygoprodeck.com/card/?search=Chaos%20Space) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chicken Game](https://db.ygoprodeck.com/card/?search=Chicken%20Game) | Illegal |
@@ -1723,7 +1724,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Card Destruction](https://db.ygoprodeck.com/card/?search=Card%20Destruction) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chain Strike](https://db.ygoprodeck.com/card/?search=Chain%20Strike) | Limited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Burial](https://db.ygoprodeck.com/card/?search=Foolish%20Burial) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gateway of the Six](https://db.ygoprodeck.com/card/?search=Gateway%20of%20the%20Six) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infernity Launcher](https://db.ygoprodeck.com/card/?search=Infernity%20Launcher) | Limited |
