@@ -499,6 +499,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nehshaddoll Genius](https://db.ygoprodeck.com/card/?search=Nehshaddoll%20Genius) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neko Mane King](https://db.ygoprodeck.com/card/?search=Neko%20Mane%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemeses Corridor](https://db.ygoprodeck.com/card/?search=Nemeses%20Corridor) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemeses Flag](https://db.ygoprodeck.com/card/?search=Nemeses%20Flag) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemeses Keystone](https://db.ygoprodeck.com/card/?search=Nemeses%20Keystone) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo Space Pathfinder](https://db.ygoprodeck.com/card/?search=Neo%20Space%20Pathfinder) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo-Spacian Dark Panther](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Dark%20Panther) | Illegal |
@@ -5003,7 +5004,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nefarious Archfiend Eater of Nefariousness](https://db.ygoprodeck.com/card/?search=Nefarious%20Archfiend%20Eater%20of%20Nefariousness) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neiroy, the Dream Mirror Disciple](https://db.ygoprodeck.com/card/?search=Neiroy,%20the%20Dream%20Mirror%20Disciple) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neiroy, the Dream Mirror Traitor](https://db.ygoprodeck.com/card/?search=Neiroy,%20the%20Dream%20Mirror%20Traitor) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemeses Flag](https://db.ygoprodeck.com/card/?search=Nemeses%20Flag) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nemeses Umbrella](https://db.ygoprodeck.com/card/?search=Nemeses%20Umbrella) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo Flamvell Garuda](https://db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Garuda) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo Flamvell Hedgehog](https://db.ygoprodeck.com/card/?search=Neo%20Flamvell%20Hedgehog) | Unlimited |
