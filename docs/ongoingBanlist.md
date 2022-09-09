@@ -880,6 +880,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Secret Six Samurai - Rihan](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Rihan) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Skelgon](https://db.ygoprodeck.com/card/?search=Skelgon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Skullbird](https://db.ygoprodeck.com/card/?search=Skullbird) | Illegal |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Soul Hunter](https://db.ygoprodeck.com/card/?search=Soul%20Hunter) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Starving Venom Predapower Fusion Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venom%20Predapower%20Fusion%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Super Vehicroid Jumbo Drill](https://db.ygoprodeck.com/card/?search=Super%20Vehicroid%20Jumbo%20Drill) | Illegal |
@@ -7086,7 +7087,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Schuberta the Melodious Maestra](https://db.ygoprodeck.com/card/?search=Schuberta%20the%20Melodious%20Maestra) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Shura the Combat Star](https://db.ygoprodeck.com/card/?search=Shura%20the%20Combat%20Star) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Skull Knight](https://db.ygoprodeck.com/card/?search=Skull%20Knight) | Unlimited |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sprind the Irondash Dragon](https://db.ygoprodeck.com/card/?search=Sprind%20the%20Irondash%20Dragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [St. Joan](https://db.ygoprodeck.com/card/?search=St.%20Joan) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Starving Venemy Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venemy%20Dragon) | Unlimited |
