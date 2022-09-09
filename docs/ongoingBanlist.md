@@ -757,6 +757,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Saffira, Queen of Dragons](https://db.ygoprodeck.com/card/?search=Saffira,%20Queen%20of%20Dragons) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Shinato, King of a Higher Plane](https://db.ygoprodeck.com/card/?search=Shinato,%20King%20of%20a%20Higher%20Plane) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Skull Guardian](https://db.ygoprodeck.com/card/?search=Skull%20Guardian) | Illegal |
+<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [White Knight of Dogmatika](https://db.ygoprodeck.com/card/?search=White%20Knight%20of%20Dogmatika) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Alba-Lenatus the Abyss Dragon](https://db.ygoprodeck.com/card/?search=Alba-Lenatus%20the%20Abyss%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amphibious Bugroth](https://db.ygoprodeck.com/card/?search=Amphibious%20Bugroth) | Illegal |
@@ -6840,7 +6841,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Super War-Lion](https://db.ygoprodeck.com/card/?search=Super%20War-Lion) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [The Masked Beast](https://db.ygoprodeck.com/card/?search=The%20Masked%20Beast) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Transonic Bird](https://db.ygoprodeck.com/card/?search=Transonic%20Bird) | Unlimited |
-<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Chimera](https://db.ygoprodeck.com/card/?search=Vendread%20Chimera) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Scavenger](https://db.ygoprodeck.com/card/?search=Vendread%20Scavenger) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vennu, Bright Bird of Divinity](https://db.ygoprodeck.com/card/?search=Vennu,%20Bright%20Bird%20of%20Divinity) | Unlimited |
