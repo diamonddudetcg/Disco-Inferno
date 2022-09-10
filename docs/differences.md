@@ -39,6 +39,7 @@ Estimated number of changes: 648
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ultimate Insect LV1](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV1) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Witchcrafter Edel](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Edel) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm King](https://db.ygoprodeck.com/card/?search=Worm%20King) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Kama 3](https://db.ygoprodeck.com/card/?search=Yosenju%20Kama%203) | Unlimited | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Leo](https://db.ygoprodeck.com/card/?search=Frightfur%20Leo) | Unlimited | Illegal |
@@ -103,7 +104,6 @@ Estimated number of changes: 648
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | Forbidden | Limited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infernity Launcher](https://db.ygoprodeck.com/card/?search=Infernity%20Launcher) | Illegal | Limited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Megalith Unformed](https://db.ygoprodeck.com/card/?search=Megalith%20Unformed) | Unlimited | Limited |
-|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blocker](https://db.ygoprodeck.com/card/?search=Blocker) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Burglar](https://db.ygoprodeck.com/card/?search=Burglar) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Faith Bird](https://db.ygoprodeck.com/card/?search=Faith%20Bird) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Giga Gagagigo](https://db.ygoprodeck.com/card/?search=Giga%20Gagagigo) | Illegal | Unlimited |

@@ -11,6 +11,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Archfiend Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Archfiend%20Marmot%20of%20Nefariousness) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Bean Soldier](https://db.ygoprodeck.com/card/?search=Bean%20Soldier) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Beautiful Headhuntress](https://db.ygoprodeck.com/card/?search=Beautiful%20Headhuntress) | Illegal |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blocker](https://db.ygoprodeck.com/card/?search=Blocker) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Corroding Shark](https://db.ygoprodeck.com/card/?search=Corroding%20Shark) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Curtain of the Dark Ones](https://db.ygoprodeck.com/card/?search=Curtain%20of%20the%20Dark%20Ones) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Cyber Soldier of Darkworld](https://db.ygoprodeck.com/card/?search=Cyber%20Soldier%20of%20Darkworld) | Illegal |
@@ -720,6 +721,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Gardestrike](https://db.ygoprodeck.com/card/?search=XX-Saber%20Gardestrike) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yamata Dragon](https://db.ygoprodeck.com/card/?search=Yamata%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yata-Garasu](https://db.ygoprodeck.com/card/?search=Yata-Garasu) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Kama 3](https://db.ygoprodeck.com/card/?search=Yosenju%20Kama%203) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel](https://db.ygoprodeck.com/card/?search=Yubel) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel - Terror Incarnate](https://db.ygoprodeck.com/card/?search=Yubel%20-%20Terror%20Incarnate) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel - The Ultimate Nightmare](https://db.ygoprodeck.com/card/?search=Yubel%20-%20The%20Ultimate%20Nightmare) | Illegal |
@@ -1794,7 +1796,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blackland Fire Dragon](https://db.ygoprodeck.com/card/?search=Blackland%20Fire%20Dragon) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blade Skater](https://db.ygoprodeck.com/card/?search=Blade%20Skater) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blazing Inpachi](https://db.ygoprodeck.com/card/?search=Blazing%20Inpachi) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blocker](https://db.ygoprodeck.com/card/?search=Blocker) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blue-Eyed Silver Zombie](https://db.ygoprodeck.com/card/?search=Blue-Eyed%20Silver%20Zombie) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blue-Eyes White Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20White%20Dragon) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blue-Winged Crown](https://db.ygoprodeck.com/card/?search=Blue-Winged%20Crown) | Unlimited |
@@ -6708,7 +6709,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Izna](https://db.ygoprodeck.com/card/?search=Yosenju%20Izna) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Kama 1](https://db.ygoprodeck.com/card/?search=Yosenju%20Kama%201) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Kama 2](https://db.ygoprodeck.com/card/?search=Yosenju%20Kama%202) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Kama 3](https://db.ygoprodeck.com/card/?search=Yosenju%20Kama%203) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Kodam](https://db.ygoprodeck.com/card/?search=Yosenju%20Kodam) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Magat](https://db.ygoprodeck.com/card/?search=Yosenju%20Magat) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yosenju Misak](https://db.ygoprodeck.com/card/?search=Yosenju%20Misak) | Unlimited |
