@@ -130,8 +130,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ariane the Labrynth Servant](https://db.ygoprodeck.com/card/?search=Ariane%20the%20Labrynth%20Servant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Arianna the Labrynth Servant](https://db.ygoprodeck.com/card/?search=Arianna%20the%20Labrynth%20Servant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon LV10](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV10) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV10](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV10) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV7](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV7) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon, the Armored Dragon](https://db.ygoprodeck.com/card/?search=Armed%20Dragon,%20the%20Armored%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Aromage Bergamot](https://db.ygoprodeck.com/card/?search=Aromage%20Bergamot) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Aron, the Ogdoadic King](https://db.ygoprodeck.com/card/?search=Aron,%20the%20Ogdoadic%20King) | Illegal |
@@ -227,7 +225,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger!? Jackalope?](https://db.ygoprodeck.com/card/?search=Danger!?%20Jackalope?) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Elf](https://db.ygoprodeck.com/card/?search=Dark%20Elf) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Honest](https://db.ygoprodeck.com/card/?search=Dark%20Honest) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Magician Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Sage](https://db.ygoprodeck.com/card/?search=Dark%20Sage) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Voltanis](https://db.ygoprodeck.com/card/?search=Dark%20Voltanis) | Illegal |
@@ -371,7 +368,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hamon, Lord of Striking Thunder](https://db.ygoprodeck.com/card/?search=Hamon,%20Lord%20of%20Striking%20Thunder) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Harpie Perfumer](https://db.ygoprodeck.com/card/?search=Harpie%20Perfumer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Harpie's Pet Dragon - Fearsome Fire Blast](https://db.ygoprodeck.com/card/?search=Harpie's%20Pet%20Dragon%20-%20Fearsome%20Fire%20Blast) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavenly Zephyr - Miradora](https://db.ygoprodeck.com/card/?search=Heavenly%20Zephyr%20-%20Miradora) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helios Duo Megistus](https://db.ygoprodeck.com/card/?search=Helios%20Duo%20Megistus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Helshaddoll Hollow](https://db.ygoprodeck.com/card/?search=Helshaddoll%20Hollow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Herald of Orange Light](https://db.ygoprodeck.com/card/?search=Herald%20of%20Orange%20Light) | Illegal |
@@ -382,7 +378,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hundred Dragon](https://db.ygoprodeck.com/card/?search=Hundred%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hyper Psychic Blaster/Assault Mode](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster/Assault%20Mode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Kosmochlor](https://db.ygoprodeck.com/card/?search=Icejade%20Kosmochlor) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Tremora](https://db.ygoprodeck.com/card/?search=Icejade%20Tremora) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ido the Supreme Magical Force](https://db.ygoprodeck.com/card/?search=Ido%20the%20Supreme%20Magical%20Force) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ignis Heat, the True Dracowarrior](https://db.ygoprodeck.com/card/?search=Ignis%20Heat,%20the%20True%20Dracowarrior) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ikelos, the Dream Mirror Sprite](https://db.ygoprodeck.com/card/?search=Ikelos,%20the%20Dream%20Mirror%20Sprite) | Illegal |
@@ -1255,7 +1250,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Leaf](https://db.ygoprodeck.com/card/?search=Ancient%20Leaf) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Warriors Saga - Three Visits](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Three%20Visits) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armed Dragon Flash](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Flash) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Arrive in Light](https://db.ygoprodeck.com/card/?search=Arrive%20in%20Light) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Artifact Ignition](https://db.ygoprodeck.com/card/?search=Artifact%20Ignition) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Asymmetaphys](https://db.ygoprodeck.com/card/?search=Asymmetaphys) | Illegal |
@@ -1266,7 +1260,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bond Between Teacher and Student](https://db.ygoprodeck.com/card/?search=Bond%20Between%20Teacher%20and%20Student) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Book of Taiyou](https://db.ygoprodeck.com/card/?search=Book%20of%20Taiyou) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Fusion](https://db.ygoprodeck.com/card/?search=Branded%20Fusion) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in Red](https://db.ygoprodeck.com/card/?search=Branded%20in%20Red) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Opening](https://db.ygoprodeck.com/card/?search=Branded%20Opening) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Breath of Light](https://db.ygoprodeck.com/card/?search=Breath%20of%20Light) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | Illegal |
@@ -2431,8 +2424,10 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon LV3](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV3) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon LV5](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV5) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon LV7](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV7) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV10](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV10) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV3](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV3) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV5](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV5) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV7](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV7) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Ninja](https://db.ygoprodeck.com/card/?search=Armed%20Ninja) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Protector Dragon](https://db.ygoprodeck.com/card/?search=Armed%20Protector%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Samurai - Ben Kei](https://db.ygoprodeck.com/card/?search=Armed%20Samurai%20-%20Ben%20Kei) | Unlimited |
@@ -3101,6 +3096,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Garnex the Cubic Beast](https://db.ygoprodeck.com/card/?search=Dark%20Garnex%20the%20Cubic%20Beast) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark General Freed](https://db.ygoprodeck.com/card/?search=Dark%20General%20Freed) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Grepher](https://db.ygoprodeck.com/card/?search=Dark%20Grepher) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Honest](https://db.ygoprodeck.com/card/?search=Dark%20Honest) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Horus](https://db.ygoprodeck.com/card/?search=Dark%20Horus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Hunter](https://db.ygoprodeck.com/card/?search=Dark%20Hunter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Jeroid](https://db.ygoprodeck.com/card/?search=Dark%20Jeroid) | Unlimited |
@@ -4115,6 +4111,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hazy Flame Peryton](https://db.ygoprodeck.com/card/?search=Hazy%20Flame%20Peryton) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hazy Flame Sphynx](https://db.ygoprodeck.com/card/?search=Hazy%20Flame%20Sphynx) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Healing Wave Generator](https://db.ygoprodeck.com/card/?search=Healing%20Wave%20Generator) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavenly Zephyr - Miradora](https://db.ygoprodeck.com/card/?search=Heavenly%20Zephyr%20-%20Miradora) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Beetrooper Mighty Neptune](https://db.ygoprodeck.com/card/?search=Heavy%20Beetrooper%20Mighty%20Neptune) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Freight Train Derricrane](https://db.ygoprodeck.com/card/?search=Heavy%20Freight%20Train%20Derricrane) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavy Knight of the Flame](https://db.ygoprodeck.com/card/?search=Heavy%20Knight%20of%20the%20Flame) | Unlimited |
@@ -4213,6 +4210,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Creation Aegirocassis](https://db.ygoprodeck.com/card/?search=Icejade%20Creation%20Aegirocassis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Creation Kingfisher](https://db.ygoprodeck.com/card/?search=Icejade%20Creation%20Kingfisher) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Tinola](https://db.ygoprodeck.com/card/?search=Icejade%20Tinola) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Tremora](https://db.ygoprodeck.com/card/?search=Icejade%20Tremora) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Igknight Champion](https://db.ygoprodeck.com/card/?search=Igknight%20Champion) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Igknight Lancer](https://db.ygoprodeck.com/card/?search=Igknight%20Lancer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ignoble Knight of Black Laundsallyn](https://db.ygoprodeck.com/card/?search=Ignoble%20Knight%20of%20Black%20Laundsallyn) | Unlimited |
@@ -8061,6 +8059,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Archfiend's Staff of Despair](https://db.ygoprodeck.com/card/?search=Archfiend's%20Staff%20of%20Despair) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armed Changer](https://db.ygoprodeck.com/card/?search=Armed%20Changer) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armed Dragon Blitz](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Blitz) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armed Dragon Flash](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Flash) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armed Dragon Lightning](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Lightning) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armor Blast](https://db.ygoprodeck.com/card/?search=Armor%20Blast) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Armor Dragon Ritual](https://db.ygoprodeck.com/card/?search=Armor%20Dragon%20Ritual) | Unlimited |
@@ -8156,6 +8155,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Disciple](https://db.ygoprodeck.com/card/?search=Branded%20Disciple) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in Central Dogmatika](https://db.ygoprodeck.com/card/?search=Branded%20in%20Central%20Dogmatika) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in High Spirits](https://db.ygoprodeck.com/card/?search=Branded%20in%20High%20Spirits) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in Red](https://db.ygoprodeck.com/card/?search=Branded%20in%20Red) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in White](https://db.ygoprodeck.com/card/?search=Branded%20in%20White) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Loss](https://db.ygoprodeck.com/card/?search=Branded%20Loss) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Lost](https://db.ygoprodeck.com/card/?search=Branded%20Lost) | Unlimited |
