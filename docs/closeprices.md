@@ -34,7 +34,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Black Feather Beacon](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Beacon) | 0.4771 | 0.48 |
 [Stone Armadiller](https://db.ygoprodeck.com/card/?search=Stone%20Armadiller) | 0.4771 | 0.48 |
 [Rank-Up-Magic Skip Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Skip%20Force) | 0.4781 | 0.54 |
-[D.D. Assailant](https://db.ygoprodeck.com/card/?search=D.D.%20Assailant) | 0.4793 | 0.53 |
+[D.D. Assailant](https://db.ygoprodeck.com/card/?search=D.D.%20Assailant) | 0.4794 | 0.53 |
 [Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4799 | 0.48 |
 [Brotherhood of the Fire Fist - Snake](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Snake) | 0.4800 | 0.48 |
 [Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 0.4800 | 0.48 |
@@ -59,7 +59,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | 0.4853 | 0.55 |
 [Evilswarm Ouroboros](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ouroboros) | 0.4875 | 0.51 |
 [Sun God Unification](https://db.ygoprodeck.com/card/?search=Sun%20God%20Unification) | 0.4875 | 0.51 |
-[Attack Gainer](https://db.ygoprodeck.com/card/?search=Attack%20Gainer) | 0.4890 | 0.52 |
+[Attack Gainer](https://db.ygoprodeck.com/card/?search=Attack%20Gainer) | 0.4891 | 0.52 |
 [Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.4900 | 0.49 |
 [Gladiator Beast Laquari](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Laquari) | 0.4900 | 0.49 |
 [Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.4900 | 0.49 |
@@ -77,13 +77,13 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Karakuri Anatomy](https://db.ygoprodeck.com/card/?search=Karakuri%20Anatomy) | 0.4916 | 0.50 |
 [Dragunity Glow](https://db.ygoprodeck.com/card/?search=Dragunity%20Glow) | 0.4925 | 0.56 |
 [Fossil Warrior Skull Bone](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20Bone) | 0.4944 | 0.50 |
-[Super Quantum Green Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Green%20Layer) | 0.4965 | 0.55 |
-[Elemental Training](https://db.ygoprodeck.com/card/?search=Elemental%20Training) | 0.4968 | 0.57 |
+[Super Quantum Green Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Green%20Layer) | 0.4966 | 0.55 |
+[Elemental Training](https://db.ygoprodeck.com/card/?search=Elemental%20Training) | 0.4969 | 0.57 |
 [Acid Rain](https://db.ygoprodeck.com/card/?search=Acid%20Rain) | 0.4975 | 0.52 |
 [Old Entity Hastorr](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Hastorr) | 0.4978 | 0.54 |
-[Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | 0.4993 | 0.55 |
+[Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | 0.4994 | 0.55 |
 [Greed](https://db.ygoprodeck.com/card/?search=Greed) | 0.4995 | 0.50 |
-[Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.4999 | 0.59 |
+[Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.5000 | 0.59 |
 [A-to-Z-Dragon Buster Cannon](https://db.ygoprodeck.com/card/?search=A-to-Z-Dragon%20Buster%20Cannon) | 0.5000 | 0.50 |
 [Evigishki Tetrogre](https://db.ygoprodeck.com/card/?search=Evigishki%20Tetrogre) | 0.5000 | 0.50 |
 [Gem-Knight Citrine](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Citrine) | 0.5000 | 0.50 |
@@ -103,7 +103,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Yosenju Kama 3](https://db.ygoprodeck.com/card/?search=Yosenju%20Kama%203) | 0.5031 | 0.52 |
 [Gem-Knight Alexandrite](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Alexandrite) | 0.5037 | 0.56 |
 [Vernusylph of the Flourishing Hills](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flourishing%20Hills) | 0.5062 | 0.63 |
-[Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | 0.5065 | 0.56 |
+[Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | 0.5066 | 0.56 |
 [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.5072 | 0.51 |
 [Vylon Sphere](https://db.ygoprodeck.com/card/?search=Vylon%20Sphere) | 0.5072 | 0.51 |
 [Chain Strike](https://db.ygoprodeck.com/card/?search=Chain%20Strike) | 0.5075 | 0.53 |
@@ -115,11 +115,11 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5100 | 0.51 |
 [Toon Mask](https://db.ygoprodeck.com/card/?search=Toon%20Mask) | 0.5100 | 0.51 |
 [Shooting Star Dragon T.G. EX](https://db.ygoprodeck.com/card/?search=Shooting%20Star%20Dragon%20T.G.%20EX) | 0.5103 | 0.53 |
-[Hibernation Dragon](https://db.ygoprodeck.com/card/?search=Hibernation%20Dragon) | 0.5118 | 0.63 |
+[Hibernation Dragon](https://db.ygoprodeck.com/card/?search=Hibernation%20Dragon) | 0.5119 | 0.63 |
 [Constellar Praesepe](https://db.ygoprodeck.com/card/?search=Constellar%20Praesepe) | 0.5134 | 0.55 |
 [Magical Thorn](https://db.ygoprodeck.com/card/?search=Magical%20Thorn) | 0.5144 | 0.52 |
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.5162 | 0.55 |
-[Obliterate!!!](https://db.ygoprodeck.com/card/?search=Obliterate!!!) | 0.5193 | 0.57 |
+[Obliterate!!!](https://db.ygoprodeck.com/card/?search=Obliterate!!!) | 0.5194 | 0.57 |
 [Poseidra, the Atlantean Dragon](https://db.ygoprodeck.com/card/?search=Poseidra,%20the%20Atlantean%20Dragon) | 0.5197 | 0.52 |
 [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | 0.5200 | 0.52 |
 [Des Wombat](https://db.ygoprodeck.com/card/?search=Des%20Wombat) | 0.5200 | 0.52 |
@@ -133,9 +133,9 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Stygian Sergeants](https://db.ygoprodeck.com/card/?search=Stygian%20Sergeants) | 0.5247 | 0.55 |
 [Witchcrafter Edel](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Edel) | 0.5253 | 0.59 |
 [Gladiator Beast Andal](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal) | 0.5259 | 0.54 |
-[Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | 0.5265 | 0.58 |
+[Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | 0.5266 | 0.58 |
 [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | 0.5272 | 0.53 |
-[Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.5296 | 0.60 |
+[Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.5297 | 0.60 |
 [Indomitable Gladiator Beast](https://db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast) | 0.5297 | 0.53 |
 [Assault Blackwing - Chidori the Rain Sprinkling](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Chidori%20the%20Rain%20Sprinkling) | 0.5300 | 0.53 |
 [Cards of Consonance](https://db.ygoprodeck.com/card/?search=Cards%20of%20Consonance) | 0.5300 | 0.53 |
@@ -191,7 +191,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Dynatherium](https://db.ygoprodeck.com/card/?search=Dynatherium) | 0.5700 | 0.57 |
 [Hyper Psychic Blaster/Assault Mode](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster/Assault%20Mode) | 0.5700 | 0.57 |
 [Super Soldier Ritual](https://db.ygoprodeck.com/card/?search=Super%20Soldier%20Ritual) | 0.5700 | 0.57 |
-[Super Quantum Red Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Red%20Layer) | 0.5702 | 0.68 |
+[Super Quantum Red Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Red%20Layer) | 0.5703 | 0.68 |
 [Counselor Lily](https://db.ygoprodeck.com/card/?search=Counselor%20Lily) | 0.5712 | 0.65 |
 [CXyz Coach Lord Ultimatrainer](https://db.ygoprodeck.com/card/?search=CXyz%20Coach%20Lord%20Ultimatrainer) | 0.5716 | 0.58 |
 [Moon Mirror Shield](https://db.ygoprodeck.com/card/?search=Moon%20Mirror%20Shield) | 0.5731 | 0.59 |
@@ -202,7 +202,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Pot of Benevolence](https://db.ygoprodeck.com/card/?search=Pot%20of%20Benevolence) | 0.5800 | 0.58 |
 [Assault Blackwing - Onimaru the Divine Thunder](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Onimaru%20the%20Divine%20Thunder) | 0.5825 | 0.65 |
 [Watthydra](https://db.ygoprodeck.com/card/?search=Watthydra) | 0.5837 | 0.64 |
-[Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | 0.5840 | 0.66 |
+[Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | 0.5841 | 0.66 |
 [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | 0.5844 | 0.59 |
 [Wiseman's Chalice](https://db.ygoprodeck.com/card/?search=Wiseman's%20Chalice) | 0.5844 | 0.59 |
 [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | 0.5859 | 0.69 |
@@ -213,6 +213,6 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Hyper Psychic Blaster](https://db.ygoprodeck.com/card/?search=Hyper%20Psychic%20Blaster) | 0.5900 | 0.59 |
 [Contact with Gusto](https://db.ygoprodeck.com/card/?search=Contact%20with%20Gusto) | 0.5903 | 0.61 |
 [Dragon Queen of Tragic Endings](https://db.ygoprodeck.com/card/?search=Dragon%20Queen%20of%20Tragic%20Endings) | 0.5916 | 0.60 |
-[Stone Statue of the Aztecs](https://db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs) | 0.5952 | 0.75 |
+[Stone Statue of the Aztecs](https://db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs) | 0.5953 | 0.75 |
 
 ###### [Back home](index)
