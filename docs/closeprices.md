@@ -29,8 +29,8 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Rank-Up-Magic Skip Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Skip%20Force) | 0.4718 | 0.54 |
 [D.D. Assailant](https://db.ygoprodeck.com/card/?search=D.D.%20Assailant) | 0.4742 | 0.53 |
 [Aromage Jasmine](https://db.ygoprodeck.com/card/?search=Aromage%20Jasmine) | 0.4750 | 0.47 |
-[Black Feather Beacon](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Beacon) | 0.4767 | 0.48 |
-[Stone Armadiller](https://db.ygoprodeck.com/card/?search=Stone%20Armadiller) | 0.4767 | 0.48 |
+[Black Feather Beacon](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Beacon) | 0.4768 | 0.48 |
+[Stone Armadiller](https://db.ygoprodeck.com/card/?search=Stone%20Armadiller) | 0.4768 | 0.48 |
 [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | 0.4787 | 0.55 |
 [Archfiend's Manifestation](https://db.ygoprodeck.com/card/?search=Archfiend's%20Manifestation) | 0.4797 | 0.52 |
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.4797 | 0.52 |
@@ -76,7 +76,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.4908 | 0.59 |
 [Super Quantum Green Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Green%20Layer) | 0.4911 | 0.55 |
 [Old Entity Hastorr](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Hastorr) | 0.4935 | 0.54 |
-[Vernusylph of the Flourishing Hills](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flourishing%20Hills) | 0.4935 | 0.63 |
+[Vernusylph of the Flourishing Hills](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flourishing%20Hills) | 0.4937 | 0.63 |
 [Fossil Warrior Skull Bone](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20Bone) | 0.4938 | 0.50 |
 [Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | 0.4942 | 0.55 |
 [Acid Rain](https://db.ygoprodeck.com/card/?search=Acid%20Rain) | 0.4952 | 0.52 |
@@ -144,7 +144,7 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Graceful Dice](https://db.ygoprodeck.com/card/?search=Graceful%20Dice) | 0.5300 | 0.53 |
 [Mystic Swordsman LV2](https://db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV2) | 0.5300 | 0.53 |
 [Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.5300 | 0.53 |
-[Junk Destroyer](https://db.ygoprodeck.com/card/?search=Junk%20Destroyer) | 0.5335 | 0.67 |
+[Junk Destroyer](https://db.ygoprodeck.com/card/?search=Junk%20Destroyer) | 0.5337 | 0.67 |
 [Artifact Ignition](https://db.ygoprodeck.com/card/?search=Artifact%20Ignition) | 0.5349 | 0.60 |
 [Ancient Warriors Saga - Three Visits](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Three%20Visits) | 0.5366 | 0.58 |
 [Ceruli, Guru of Dark World](https://db.ygoprodeck.com/card/?search=Ceruli,%20Guru%20of%20Dark%20World) | 0.5373 | 0.59 |
@@ -196,9 +196,9 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Assault Blackwing - Onimaru the Divine Thunder](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Onimaru%20the%20Divine%20Thunder) | 0.5756 | 0.65 |
 [Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | 0.5763 | 0.66 |
 [Watthydra](https://db.ygoprodeck.com/card/?search=Watthydra) | 0.5780 | 0.64 |
-[Favorite Contact](https://db.ygoprodeck.com/card/?search=Favorite%20Contact) | 0.5788 | 0.83 |
-[Paces, Light of the Ghoti](https://db.ygoprodeck.com/card/?search=Paces,%20Light%20of%20the%20Ghoti) | 0.5788 | 0.83 |
-[Stone Statue of the Aztecs](https://db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs) | 0.5794 | 0.75 |
+[Favorite Contact](https://db.ygoprodeck.com/card/?search=Favorite%20Contact) | 0.5790 | 0.83 |
+[Paces, Light of the Ghoti](https://db.ygoprodeck.com/card/?search=Paces,%20Light%20of%20the%20Ghoti) | 0.5790 | 0.83 |
+[Stone Statue of the Aztecs](https://db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs) | 0.5796 | 0.75 |
 [Daigusto Gulldos](https://db.ygoprodeck.com/card/?search=Daigusto%20Gulldos) | 0.5800 | 0.58 |
 [Des Koala](https://db.ygoprodeck.com/card/?search=Des%20Koala) | 0.5800 | 0.58 |
 [Infinite Machine](https://db.ygoprodeck.com/card/?search=Infinite%20Machine) | 0.5800 | 0.58 |
