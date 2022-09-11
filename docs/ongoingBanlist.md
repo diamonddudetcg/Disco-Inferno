@@ -1332,7 +1332,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Glass Slippers](https://db.ygoprodeck.com/card/?search=Glass%20Slippers) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Graceful Charity](https://db.ygoprodeck.com/card/?search=Graceful%20Charity) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Graceful Dice](https://db.ygoprodeck.com/card/?search=Graceful%20Dice) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Greater Polymerization](https://db.ygoprodeck.com/card/?search=Greater%20Polymerization) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Greed Grado](https://db.ygoprodeck.com/card/?search=Greed%20Grado) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gust Fan](https://db.ygoprodeck.com/card/?search=Gust%20Fan) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Harpie's Feather Duster](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Duster) | Illegal |
@@ -8722,6 +8721,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gravity Lash](https://db.ygoprodeck.com/card/?search=Gravity%20Lash) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Graydle Impact](https://db.ygoprodeck.com/card/?search=Graydle%20Impact) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Great Sand Sea - Gold Golgonda](https://db.ygoprodeck.com/card/?search=Great%20Sand%20Sea%20-%20Gold%20Golgonda) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Greater Polymerization](https://db.ygoprodeck.com/card/?search=Greater%20Polymerization) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Grid Rod](https://db.ygoprodeck.com/card/?search=Grid%20Rod) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ground Collapse](https://db.ygoprodeck.com/card/?search=Ground%20Collapse) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gryphon's Feather Duster](https://db.ygoprodeck.com/card/?search=Gryphon's%20Feather%20Duster) | Unlimited |
