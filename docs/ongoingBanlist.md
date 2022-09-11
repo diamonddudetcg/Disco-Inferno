@@ -1325,6 +1325,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Frightfur Patchwork](https://db.ygoprodeck.com/card/?search=Frightfur%20Patchwork) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Frightfur Reborn](https://db.ygoprodeck.com/card/?search=Frightfur%20Reborn) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Destiny](https://db.ygoprodeck.com/card/?search=Fusion%20Destiny) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Expedition](https://db.ygoprodeck.com/card/?search=Galaxy%20Expedition) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Generation Force](https://db.ygoprodeck.com/card/?search=Generation%20Force) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Get Your Game On!](https://db.ygoprodeck.com/card/?search=Get%20Your%20Game%20On!) | Illegal |
@@ -8648,7 +8649,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagaku-P.U.N.K. Wild Picking](https://db.ygoprodeck.com/card/?search=Gagaku-P.U.N.K.%20Wild%20Picking) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gaia Power](https://db.ygoprodeck.com/card/?search=Gaia%20Power) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galactic Charity](https://db.ygoprodeck.com/card/?search=Galactic%20Charity) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Cyclone](https://db.ygoprodeck.com/card/?search=Galaxy%20Cyclone) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Queen's Light](https://db.ygoprodeck.com/card/?search=Galaxy%20Queen's%20Light) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Storm](https://db.ygoprodeck.com/card/?search=Galaxy%20Storm) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Trance](https://db.ygoprodeck.com/card/?search=Galaxy%20Trance) | Unlimited |
