@@ -2,35 +2,35 @@
 title:  "Disco Inferno"
 ---
 
-These are just cards that are bordering around the $0.50 limit. They are the closest to moving on the next banlist.
+This is a list of cards that, if the price were to stay where it currently is, will eventually get in or out of the format.
 
 | Card name | Avg $ | Last price |
 | :-- | :-- | :-- |
-[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.2742 | 0.53 |
-[Zoodiac Boarbow](https://db.ygoprodeck.com/card/?search=Zoodiac%20Boarbow) | 0.3418 | 0.55 |
-[System Down](https://db.ygoprodeck.com/card/?search=System%20Down) | 0.3685 | 0.55 |
-[Darklord Superbia](https://db.ygoprodeck.com/card/?search=Darklord%20Superbia) | 0.3697 | 0.51 |
-[Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.3802 | 0.57 |
-[Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.3962 | 0.52 |
-[Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | 0.4072 | 0.63 |
-[Jar of Greed](https://db.ygoprodeck.com/card/?search=Jar%20of%20Greed) | 0.4130 | 0.51 |
+[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.2744 | 0.53 |
+[Zoodiac Boarbow](https://db.ygoprodeck.com/card/?search=Zoodiac%20Boarbow) | 0.3419 | 0.55 |
+[System Down](https://db.ygoprodeck.com/card/?search=System%20Down) | 0.3686 | 0.55 |
+[Darklord Superbia](https://db.ygoprodeck.com/card/?search=Darklord%20Superbia) | 0.3698 | 0.51 |
+[Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.3803 | 0.57 |
+[Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.3963 | 0.52 |
+[Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | 0.4074 | 0.63 |
+[Jar of Greed](https://db.ygoprodeck.com/card/?search=Jar%20of%20Greed) | 0.4131 | 0.51 |
 [Dragon Seeker](https://db.ygoprodeck.com/card/?search=Dragon%20Seeker) | 0.4131 | 0.56 |
-[Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | 0.4150 | 0.58 |
+[Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | 0.4151 | 0.58 |
 [Darklord Ixchel](https://db.ygoprodeck.com/card/?search=Darklord%20Ixchel) | 0.4251 | 0.52 |
-[March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | 0.4357 | 0.51 |
+[March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | 0.4358 | 0.51 |
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.4418 | 0.51 |
-[Archfiend Heiress](https://db.ygoprodeck.com/card/?search=Archfiend%20Heiress) | 0.4432 | 0.60 |
-[Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | 0.4480 | 0.58 |
-[Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4512 | 0.74 |
-[War Rock Dignity](https://db.ygoprodeck.com/card/?search=War%20Rock%20Dignity) | 0.4543 | 0.60 |
+[Archfiend Heiress](https://db.ygoprodeck.com/card/?search=Archfiend%20Heiress) | 0.4433 | 0.60 |
+[Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | 0.4481 | 0.58 |
+[Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4514 | 0.74 |
+[War Rock Dignity](https://db.ygoprodeck.com/card/?search=War%20Rock%20Dignity) | 0.4544 | 0.60 |
 [Amazement Attendant Comica](https://db.ygoprodeck.com/card/?search=Amazement%20Attendant%20Comica) | 0.4559 | 0.52 |
-[Outer Entity Nyarla](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Nyarla) | 0.4622 | 0.56 |
+[Outer Entity Nyarla](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Nyarla) | 0.4623 | 0.56 |
 [Lavalval Dragun](https://db.ygoprodeck.com/card/?search=Lavalval%20Dragun) | 0.4640 | 0.53 |
-[Dark Horus](https://db.ygoprodeck.com/card/?search=Dark%20Horus) | 0.4677 | 0.51 |
-[Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | 0.4709 | 0.57 |
-[Elemental HERO Wild Wingman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wild%20Wingman) | 0.4710 | 0.63 |
-[War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | 0.4715 | 0.51 |
-[Psi-Blocker](https://db.ygoprodeck.com/card/?search=Psi-Blocker) | 0.4720 | 0.53 |
+[Dark Horus](https://db.ygoprodeck.com/card/?search=Dark%20Horus) | 0.4678 | 0.51 |
+[Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | 0.4710 | 0.57 |
+[Elemental HERO Wild Wingman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wild%20Wingman) | 0.4711 | 0.63 |
+[War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | 0.4716 | 0.51 |
+[Psi-Blocker](https://db.ygoprodeck.com/card/?search=Psi-Blocker) | 0.4721 | 0.53 |
 [Izanagi](https://db.ygoprodeck.com/card/?search=Izanagi) | 0.4721 | 0.52 |
 [Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | 0.4744 | 0.53 |
 [Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.4757 | 0.53 |
@@ -40,11 +40,11 @@ These are just cards that are bordering around the $0.50 limit. They are the clo
 [Edge Imp Sabres](https://db.ygoprodeck.com/card/?search=Edge%20Imp%20Sabres) | 0.4836 | 0.51 |
 [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | 0.4840 | 0.55 |
 [Insect Knight](https://db.ygoprodeck.com/card/?search=Insect%20Knight) | 0.4844 | 0.54 |
-[Red-Eyes Darkness Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Darkness%20Dragon) | 0.4848 | 0.55 |
-[Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4852 | 0.51 |
+[Red-Eyes Darkness Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Darkness%20Dragon) | 0.4849 | 0.55 |
+[Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4853 | 0.51 |
 [Number 102: Star Seraph Sentry](https://db.ygoprodeck.com/card/?search=Number%20102:%20Star%20Seraph%20Sentry) | 0.4854 | 0.54 |
 [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | 0.4856 | 0.55 |
-[Suijin](https://db.ygoprodeck.com/card/?search=Suijin) | 0.4857 | 0.57 |
+[Suijin](https://db.ygoprodeck.com/card/?search=Suijin) | 0.4858 | 0.57 |
 [Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.4868 | 0.51 |
 [Fluffal Mouse](https://db.ygoprodeck.com/card/?search=Fluffal%20Mouse) | 0.4870 | 0.52 |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.4875 | 0.57 |
