@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 663
+Estimated number of changes: 664
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -24,6 +24,7 @@ Estimated number of changes: 663
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Alexandrite](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Alexandrite) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hibernation Dragon](https://db.ygoprodeck.com/card/?search=Hibernation%20Dragon) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ipiria](https://db.ygoprodeck.com/card/?search=Ipiria) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [King of Destruction - Xexex](https://db.ygoprodeck.com/card/?search=King%20of%20Destruction%20-%20Xexex) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Paces, Light of the Ghoti](https://db.ygoprodeck.com/card/?search=Paces,%20Light%20of%20the%20Ghoti) | Unlimited | Illegal |

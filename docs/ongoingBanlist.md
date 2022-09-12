@@ -393,6 +393,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernoid Pirmais](https://db.ygoprodeck.com/card/?search=Infernoid%20Pirmais) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Anchor Drill](https://db.ygoprodeck.com/card/?search=Infinitrack%20Anchor%20Drill) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Harvester](https://db.ygoprodeck.com/card/?search=Infinitrack%20Harvester) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ipiria](https://db.ygoprodeck.com/card/?search=Ipiria) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jester Confit](https://db.ygoprodeck.com/card/?search=Jester%20Confit) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jiaotu, Darkness of the Yang Zing](https://db.ygoprodeck.com/card/?search=Jiaotu,%20Darkness%20of%20the%20Yang%20Zing) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jinzo the Machine Menace](https://db.ygoprodeck.com/card/?search=Jinzo%20the%20Machine%20Menace) | Illegal |
@@ -4280,7 +4281,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inzektor Hopper](https://db.ygoprodeck.com/card/?search=Inzektor%20Hopper) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inzektor Hornet](https://db.ygoprodeck.com/card/?search=Inzektor%20Hornet) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inzektor Ladybug](https://db.ygoprodeck.com/card/?search=Inzektor%20Ladybug) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ipiria](https://db.ygoprodeck.com/card/?search=Ipiria) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Iris, the Earth Mother](https://db.ygoprodeck.com/card/?search=Iris,%20the%20Earth%20Mother) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Iron Blacksmith Kotetsu](https://db.ygoprodeck.com/card/?search=Iron%20Blacksmith%20Kotetsu) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Iron Chain Blaster](https://db.ygoprodeck.com/card/?search=Iron%20Chain%20Blaster) | Unlimited |
