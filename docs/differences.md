@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 671
+Estimated number of changes: 670
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -428,7 +428,6 @@ Estimated number of changes: 671
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Lyna the Light Charmer, Lustrous](https://db.ygoprodeck.com/card/?search=Lyna%20the%20Light%20Charmer,%20Lustrous) | Illegal | Unlimited |
-|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Magical Musketeer Max](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Max) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [S-Force Justify](https://db.ygoprodeck.com/card/?search=S-Force%20Justify) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Security Dragon](https://db.ygoprodeck.com/card/?search=Security%20Dragon) | Illegal | Unlimited |

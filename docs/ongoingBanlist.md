@@ -930,6 +930,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Link Spider](https://db.ygoprodeck.com/card/?search=Link%20Spider) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Linkross](https://db.ygoprodeck.com/card/?search=Linkross) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Linkuriboh](https://db.ygoprodeck.com/card/?search=Linkuriboh) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Magical Musketeer Max](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Max) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Blue Slug](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Slug) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Coral Triangle](https://db.ygoprodeck.com/card/?search=Marincess%20Coral%20Triangle) | Illegal |
@@ -7245,7 +7246,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Longirsu, the Orcust Orchestrator](https://db.ygoprodeck.com/card/?search=Longirsu,%20the%20Orcust%20Orchestrator) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Lyna the Light Charmer, Lustrous](https://db.ygoprodeck.com/card/?search=Lyna%20the%20Light%20Charmer,%20Lustrous) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Madolche Fresh Sistart](https://db.ygoprodeck.com/card/?search=Madolche%20Fresh%20Sistart) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Magical Musketeer Max](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Max) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Coral Anemone](https://db.ygoprodeck.com/card/?search=Marincess%20Coral%20Anemone) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Crystal Heart](https://db.ygoprodeck.com/card/?search=Marincess%20Crystal%20Heart) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Great Bubble Reef](https://db.ygoprodeck.com/card/?search=Marincess%20Great%20Bubble%20Reef) | Unlimited |
