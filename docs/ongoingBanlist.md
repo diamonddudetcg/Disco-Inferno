@@ -1660,6 +1660,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Simorgh, Bird of Sovereignty](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Sovereignty) | Forbidden |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ancient Fairy Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Fairy%20Dragon) | Forbidden |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Hot Red Dragon Archfiend King Calamity](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20King%20Calamity) | Forbidden |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian) | Forbidden |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Kyubi - Shenshen](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Kyubi%20-%20Shenshen) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Duo-Dawn King Kali Yuga](https://db.ygoprodeck.com/card/?search=D/D/D%20Duo-Dawn%20King%20Kali%20Yuga) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 41: Bagooska the Terribly Tired Tapir](https://db.ygoprodeck.com/card/?search=Number%2041:%20Bagooska%20the%20Terribly%20Tired%20Tapir) | Forbidden |
@@ -1716,7 +1717,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Striker Dragon](https://db.ygoprodeck.com/card/?search=Striker%20Dragon) | Limited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [PSY-Framelord Omega](https://db.ygoprodeck.com/card/?search=PSY-Framelord%20Omega) | Limited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Shooting Riser Dragon](https://db.ygoprodeck.com/card/?search=Shooting%20Riser%20Dragon) | Limited |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian) | Limited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Daigusto Emeral](https://db.ygoprodeck.com/card/?search=Daigusto%20Emeral) | Limited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Superdreadnought Rail Cannon Gustav Max](https://db.ygoprodeck.com/card/?search=Superdreadnought%20Rail%20Cannon%20Gustav%20Max) | Limited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | Limited |
