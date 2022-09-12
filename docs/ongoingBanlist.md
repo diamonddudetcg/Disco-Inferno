@@ -1499,6 +1499,7 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zoodiac Barrage](https://db.ygoprodeck.com/card/?search=Zoodiac%20Barrage) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Abyss-sphere](https://db.ygoprodeck.com/card/?search=Abyss-sphere) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Horror House](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Horror%20House) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Shamanism](https://db.ygoprodeck.com/card/?search=Amazoness%20Shamanism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Willpower](https://db.ygoprodeck.com/card/?search=Amazoness%20Willpower) | Illegal |
@@ -9943,7 +9944,6 @@ This is the 2022 Megatins Disco Inferno banlist.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Haunted Rock](https://db.ygoprodeck.com/card/?search=Altergeist%20Haunted%20Rock) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Manifestation](https://db.ygoprodeck.com/card/?search=Altergeist%20Manifestation) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Protocol](https://db.ygoprodeck.com/card/?search=Altergeist%20Protocol) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Majestic Merry-Go-Round](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Majestic%20Merry-Go-Round) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Rapid Racing](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Rapid%20Racing) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Thrill Train](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Thrill%20Train) | Unlimited |
