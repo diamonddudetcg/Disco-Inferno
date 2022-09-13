@@ -365,6 +365,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Oracle](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Oracle) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Recruiter](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Recruiter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Shaman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Shaman) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravity Behemoth](https://db.ygoprodeck.com/card/?search=Gravity%20Behemoth) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Great Maju Garzett](https://db.ygoprodeck.com/card/?search=Great%20Maju%20Garzett) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Great Moth](https://db.ygoprodeck.com/card/?search=Great%20Moth) | Illegal |
@@ -866,6 +867,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gilti-Gearfried the Magical Steel Knight](https://db.ygoprodeck.com/card/?search=Gilti-Gearfried%20the%20Magical%20Steel%20Knight) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Essedarii](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Essedarii) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Gaiodiaz](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gaiodiaz) | Illegal |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Gyzarus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gyzarus) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Nerokius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Nerokius) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Tamer Editor](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Tamer%20Editor) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Greedy Venom Fusion Dragon](https://db.ygoprodeck.com/card/?search=Greedy%20Venom%20Fusion%20Dragon) | Illegal |
@@ -1379,6 +1381,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Frightfur Patchwork](https://db.ygoprodeck.com/card/?search=Frightfur%20Patchwork) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Frightfur Reborn](https://db.ygoprodeck.com/card/?search=Frightfur%20Reborn) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Destiny](https://db.ygoprodeck.com/card/?search=Fusion%20Destiny) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Expedition](https://db.ygoprodeck.com/card/?search=Galaxy%20Expedition) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Generation Force](https://db.ygoprodeck.com/card/?search=Generation%20Force) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Get Your Game On!](https://db.ygoprodeck.com/card/?search=Get%20Your%20Game%20On!) | Illegal |
@@ -1609,6 +1612,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forced Back](https://db.ygoprodeck.com/card/?search=Forced%20Back) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick-Go-Round](https://db.ygoprodeck.com/card/?search=Ghostrick-Go-Round) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gift Card](https://db.ygoprodeck.com/card/?search=Gift%20Card) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gozen Match](https://db.ygoprodeck.com/card/?search=Gozen%20Match) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravedigger's Trap Hole](https://db.ygoprodeck.com/card/?search=Gravedigger's%20Trap%20Hole) | Illegal |
@@ -4054,7 +4058,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Spiritualist](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Spiritualist) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Spy](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Spy) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Vassal](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Vassal) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Watcher](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Watcher) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravi-Crush Dragon](https://db.ygoprodeck.com/card/?search=Gravi-Crush%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravitic Orb](https://db.ygoprodeck.com/card/?search=Gravitic%20Orb) | Unlimited |
@@ -7018,7 +7021,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Giltia the D. Knight](https://db.ygoprodeck.com/card/?search=Giltia%20the%20D.%20Knight) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Andabata](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andabata) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Domitianus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Domitianus) | Unlimited |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Gyzarus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gyzarus) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Heraklinos](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Heraklinos) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Goddess Bow](https://db.ygoprodeck.com/card/?search=Goddess%20Bow) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Goyo Emperor](https://db.ygoprodeck.com/card/?search=Goyo%20Emperor) | Unlimited |
@@ -8650,7 +8652,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Fusion](https://db.ygoprodeck.com/card/?search=Future%20Fusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Glow](https://db.ygoprodeck.com/card/?search=Future%20Glow) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Visions](https://db.ygoprodeck.com/card/?search=Future%20Visions) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagagaback](https://db.ygoprodeck.com/card/?search=Gagagaback) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagagabolt](https://db.ygoprodeck.com/card/?search=Gagagabolt) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagagadraw](https://db.ygoprodeck.com/card/?search=Gagagadraw) | Unlimited |
@@ -10531,7 +10532,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gift of the Mystical Elf](https://db.ygoprodeck.com/card/?search=Gift%20of%20the%20Mystical%20Elf) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Give and Take](https://db.ygoprodeck.com/card/?search=Give%20and%20Take) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast Charge](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Charge) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Lash](https://db.ygoprodeck.com/card/?search=Gladiator%20Lash) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Naumachia](https://db.ygoprodeck.com/card/?search=Gladiator%20Naumachia) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gleipnir, the Fetters of Fenrir](https://db.ygoprodeck.com/card/?search=Gleipnir,%20the%20Fetters%20of%20Fenrir) | Unlimited |

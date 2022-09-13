@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 630
+Estimated number of changes: 628
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -73,6 +73,7 @@ Estimated number of changes: 630
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Battlin' Boxing Spirits](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxing%20Spirits) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chain Strike](https://db.ygoprodeck.com/card/?search=Chain%20Strike) | Limited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Room of Nightmare](https://db.ygoprodeck.com/card/?search=Dark%20Room%20of%20Nightmare) | Unlimited | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Beast's Respite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Respite) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Glass Slippers](https://db.ygoprodeck.com/card/?search=Glass%20Slippers) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heart of the Underdog](https://db.ygoprodeck.com/card/?search=Heart%20of%20the%20Underdog) | Unlimited | Illegal |
@@ -220,7 +221,6 @@ Estimated number of changes: 630
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden Ladybug](https://db.ygoprodeck.com/card/?search=Golden%20Ladybug) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Grave Ohja](https://db.ygoprodeck.com/card/?search=Grave%20Ohja) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Great Dezard](https://db.ygoprodeck.com/card/?search=Great%20Dezard) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Harpie Oracle](https://db.ygoprodeck.com/card/?search=Harpie%20Oracle) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heavenly Zephyr - Miradora](https://db.ygoprodeck.com/card/?search=Heavenly%20Zephyr%20-%20Miradora) | Illegal | Unlimited |
@@ -385,7 +385,6 @@ Estimated number of changes: 630
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Prismaura](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Prismaura) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Ruby) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Geri the Runick Fangs](https://db.ygoprodeck.com/card/?search=Geri%20the%20Runick%20Fangs) | Illegal | Unlimited |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Gyzarus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gyzarus) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Heraklinos](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Heraklinos) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | Illegal | Unlimited |
@@ -613,7 +612,6 @@ Estimated number of changes: 630
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghost of a Grudge](https://db.ygoprodeck.com/card/?search=Ghost%20of%20a%20Grudge) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Night](https://db.ygoprodeck.com/card/?search=Ghostrick%20Night) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Renovation](https://db.ygoprodeck.com/card/?search=Ghostrick%20Renovation) | Illegal | Unlimited |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gottoms' Emergency Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Emergency%20Call) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Greed](https://db.ygoprodeck.com/card/?search=Greed) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Grinning Grave Virus](https://db.ygoprodeck.com/card/?search=Grinning%20Grave%20Virus) | Illegal | Unlimited |
