@@ -6,8 +6,8 @@ This is a list of cards that, if the price were to stay where it currently is, w
 
 | Card name | Avg $ | Last price |
 | :-- | :-- | :-- |
-[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.3679 | 0.53 |
-[Darklord Superbia](https://db.ygoprodeck.com/card/?search=Darklord%20Superbia) | 0.4211 | 0.51 |
+[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.3680 | 0.53 |
+[Darklord Superbia](https://db.ygoprodeck.com/card/?search=Darklord%20Superbia) | 0.4212 | 0.51 |
 [System Down](https://db.ygoprodeck.com/card/?search=System%20Down) | 0.4350 | 0.55 |
 [Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.4416 | 0.52 |
 [Jar of Greed](https://db.ygoprodeck.com/card/?search=Jar%20of%20Greed) | 0.4486 | 0.51 |
@@ -30,7 +30,7 @@ This is a list of cards that, if the price were to stay where it currently is, w
 [Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | 0.4948 | 0.53 |
 [Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.4956 | 0.53 |
 [Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | 0.4964 | 0.58 |
-[Outer Entity Nyarla](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Nyarla) | 0.4980 | 0.56 |
+[Outer Entity Nyarla](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Nyarla) | 0.4981 | 0.56 |
 [Fluffal Mouse](https://db.ygoprodeck.com/card/?search=Fluffal%20Mouse) | 0.4991 | 0.52 |
 [Soul Devouring Bamboo Sword](https://db.ygoprodeck.com/card/?search=Soul%20Devouring%20Bamboo%20Sword) | 0.4995 | 0.51 |
 
