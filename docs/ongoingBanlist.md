@@ -940,6 +940,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Five-Headed Link Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Link%20Dragon) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Flash Charge Dragon](https://db.ygoprodeck.com/card/?search=Flash%20Charge%20Dragon) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Heavymetalfoes Electrumite](https://db.ygoprodeck.com/card/?search=Heavymetalfoes%20Electrumite) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hi-Speedroid Rubber Band Shooter](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Rubber%20Band%20Shooter) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hieratic Seal of the Heavenly Spheres](https://db.ygoprodeck.com/card/?search=Hieratic%20Seal%20of%20the%20Heavenly%20Spheres) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [I:P Masquerena](https://db.ygoprodeck.com/card/?search=I:P%20Masquerena) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Infinitrack Fortress Megaclops](https://db.ygoprodeck.com/card/?search=Infinitrack%20Fortress%20Megaclops) | Illegal |
@@ -1596,6 +1597,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Macro Cosmos](https://db.ygoprodeck.com/card/?search=Macro%20Cosmos) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Madolche Tea Break](https://db.ygoprodeck.com/card/?search=Madolche%20Tea%20Break) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Madolchepalooza](https://db.ygoprodeck.com/card/?search=Madolchepalooza) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Last Stand](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Last%20Stand) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Thorn](https://db.ygoprodeck.com/card/?search=Magical%20Thorn) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mathmech Superfactorial](https://db.ygoprodeck.com/card/?search=Mathmech%20Superfactorial) | Illegal |
@@ -7244,7 +7246,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Harpie Conductor](https://db.ygoprodeck.com/card/?search=Harpie%20Conductor) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Heavymetalfoes Amalgam](https://db.ygoprodeck.com/card/?search=Heavymetalfoes%20Amalgam) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Herald of Mirage Lights](https://db.ygoprodeck.com/card/?search=Herald%20of%20Mirage%20Lights) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hi-Speedroid Rubber Band Shooter](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Rubber%20Band%20Shooter) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hiita the Fire Charmer, Ablaze](https://db.ygoprodeck.com/card/?search=Hiita%20the%20Fire%20Charmer,%20Ablaze) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hip Hoshiningen](https://db.ygoprodeck.com/card/?search=Hip%20Hoshiningen) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Honeybot](https://db.ygoprodeck.com/card/?search=Honeybot) | Unlimited |
@@ -10744,7 +10745,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Cylinders](https://db.ygoprodeck.com/card/?search=Magical%20Cylinders) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Hats](https://db.ygoprodeck.com/card/?search=Magical%20Hats) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Crooked Crown](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Crooked%20Crown) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Fiendish Deal](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Fiendish%20Deal) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magician Navigation](https://db.ygoprodeck.com/card/?search=Magician%20Navigation) | Unlimited |

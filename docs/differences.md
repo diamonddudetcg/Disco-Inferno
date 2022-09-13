@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 659
+Estimated number of changes: 657
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -422,7 +422,6 @@ Estimated number of changes: 659
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Galaxy-Eyes Solflare Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Solflare%20Dragon) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Giant Beetrooper Invincible Atlas](https://db.ygoprodeck.com/card/?search=Giant%20Beetrooper%20Invincible%20Atlas) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Gouki The Powerload Ogre](https://db.ygoprodeck.com/card/?search=Gouki%20The%20Powerload%20Ogre) | Forbidden | Unlimited |
-|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hi-Speedroid Rubber Band Shooter](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Rubber%20Band%20Shooter) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Phoenix](https://db.ygoprodeck.com/card/?search=Knightmare%20Phoenix) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | Illegal | Unlimited |
@@ -649,7 +648,6 @@ Estimated number of changes: 659
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Labrynth Barrage](https://db.ygoprodeck.com/card/?search=Labrynth%20Barrage) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lunalight Reincarnation Dance](https://db.ygoprodeck.com/card/?search=Lunalight%20Reincarnation%20Dance) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Madolche Promenade](https://db.ygoprodeck.com/card/?search=Madolche%20Promenade) | Illegal | Unlimited |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Limited | Unlimited |
