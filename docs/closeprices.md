@@ -6,7 +6,7 @@ This is a list of cards that, if the price were to stay where it currently is, w
 
 | Card name | Avg $ | Last price |
 | :-- | :-- | :-- |
-[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.3713 | 0.53 |
+[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.3714 | 0.53 |
 [Darklord Superbia](https://db.ygoprodeck.com/card/?search=Darklord%20Superbia) | 0.4230 | 0.51 |
 [System Down](https://db.ygoprodeck.com/card/?search=System%20Down) | 0.4374 | 0.55 |
 [Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.4432 | 0.52 |
@@ -14,8 +14,8 @@ This is a list of cards that, if the price were to stay where it currently is, w
 [Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.4523 | 0.57 |
 [Darklord Ixchel](https://db.ygoprodeck.com/card/?search=Darklord%20Ixchel) | 0.4611 | 0.52 |
 [March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | 0.4639 | 0.51 |
-[Dragon Seeker](https://db.ygoprodeck.com/card/?search=Dragon%20Seeker) | 0.4688 | 0.56 |
-[Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | 0.4776 | 0.58 |
+[Dragon Seeker](https://db.ygoprodeck.com/card/?search=Dragon%20Seeker) | 0.4689 | 0.56 |
+[Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | 0.4777 | 0.58 |
 [Amazement Attendant Comica](https://db.ygoprodeck.com/card/?search=Amazement%20Attendant%20Comica) | 0.4802 | 0.52 |
 [Dark Horus](https://db.ygoprodeck.com/card/?search=Dark%20Horus) | 0.4838 | 0.51 |
 [War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | 0.4861 | 0.51 |
