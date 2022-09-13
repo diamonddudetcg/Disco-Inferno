@@ -29,13 +29,11 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Blaze Fenix, the Burning Bombardment Bird](https://db.ygoprodeck.com/card/?search=Blaze%20Fenix,%20the%20Burning%20Bombardment%20Bird) | Forbidden |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Gouki The Powerload Ogre](https://db.ygoprodeck.com/card/?search=Gouki%20The%20Powerload%20Ogre) | Forbidden |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Hot Red Dragon Archfiend King Calamity](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20King%20Calamity) | Forbidden |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian) | Forbidden |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Kyubi - Shenshen](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Kyubi%20-%20Shenshen) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Duo-Dawn King Kali Yuga](https://db.ygoprodeck.com/card/?search=D/D/D%20Duo-Dawn%20King%20Kali%20Yuga) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 33: Chronomaly Machu Mech](https://db.ygoprodeck.com/card/?search=Number%2033:%20Chronomaly%20Machu%20Mech) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 41: Bagooska the Terribly Tired Tapir](https://db.ygoprodeck.com/card/?search=Number%2041:%20Bagooska%20the%20Terribly%20Tired%20Tapir) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 59: Crooked Cook](https://db.ygoprodeck.com/card/?search=Number%2059:%20Crooked%20Cook) | Forbidden |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C107: Neo Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20C107:%20Neo%20Galaxy-Eyes%20Tachyon%20Dragon) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |

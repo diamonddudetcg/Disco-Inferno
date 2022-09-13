@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 659
+Estimated number of changes: 658
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -95,7 +95,6 @@ Estimated number of changes: 659
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Unlimited | Forbidden |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Amorphactor Pain, the Imagination Dracoverlord](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) | Unlimited | Forbidden |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Unlimited | Forbidden |
-|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian) | Limited | Forbidden |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Kyubi - Shenshen](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Kyubi%20-%20Shenshen) | Unlimited | Forbidden |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Duo-Dawn King Kali Yuga](https://db.ygoprodeck.com/card/?search=D/D/D%20Duo-Dawn%20King%20Kali%20Yuga) | Unlimited | Forbidden |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Unlimited | Forbidden |
