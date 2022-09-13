@@ -1732,6 +1732,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ice Dragon's Prison](https://db.ygoprodeck.com/card/?search=Ice%20Dragon's%20Prison) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infernity Barrier](https://db.ygoprodeck.com/card/?search=Infernity%20Barrier) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infinite Impermanence](https://db.ygoprodeck.com/card/?search=Infinite%20Impermanence) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jar of Greed](https://db.ygoprodeck.com/card/?search=Jar%20of%20Greed) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Judgment of the Pharaoh](https://db.ygoprodeck.com/card/?search=Judgment%20of%20the%20Pharaoh) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Karakuri Cash Shed](https://db.ygoprodeck.com/card/?search=Karakuri%20Cash%20Shed) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Karakuri Klock](https://db.ygoprodeck.com/card/?search=Karakuri%20Klock) | Illegal |
@@ -10661,7 +10662,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jam Defender](https://db.ygoprodeck.com/card/?search=Jam%20Defender) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jar of Avarice](https://db.ygoprodeck.com/card/?search=Jar%20of%20Avarice) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jar of Generosity](https://db.ygoprodeck.com/card/?search=Jar%20of%20Generosity) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jar of Greed](https://db.ygoprodeck.com/card/?search=Jar%20of%20Greed) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jelly Cannon](https://db.ygoprodeck.com/card/?search=Jelly%20Cannon) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Joker's Wild](https://db.ygoprodeck.com/card/?search=Joker's%20Wild) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jolt Counter](https://db.ygoprodeck.com/card/?search=Jolt%20Counter) | Unlimited |
