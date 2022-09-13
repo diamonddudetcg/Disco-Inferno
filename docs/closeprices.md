@@ -6,11 +6,11 @@ This is a list of cards that, if the price were to stay where it currently is, w
 
 | Card name | Avg $ | Last price |
 | :-- | :-- | :-- |
-[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.3697 | 0.53 |
+[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.3698 | 0.53 |
 [Darklord Superbia](https://db.ygoprodeck.com/card/?search=Darklord%20Superbia) | 0.4221 | 0.51 |
 [System Down](https://db.ygoprodeck.com/card/?search=System%20Down) | 0.4363 | 0.55 |
-[Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.4424 | 0.52 |
-[Jar of Greed](https://db.ygoprodeck.com/card/?search=Jar%20of%20Greed) | 0.4492 | 0.51 |
+[Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.4425 | 0.52 |
+[Jar of Greed](https://db.ygoprodeck.com/card/?search=Jar%20of%20Greed) | 0.4493 | 0.51 |
 [Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.4511 | 0.57 |
 [Darklord Ixchel](https://db.ygoprodeck.com/card/?search=Darklord%20Ixchel) | 0.4605 | 0.52 |
 [March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | 0.4635 | 0.51 |
@@ -27,7 +27,7 @@ This is a list of cards that, if the price were to stay where it currently is, w
 [Psi-Blocker](https://db.ygoprodeck.com/card/?search=Psi-Blocker) | 0.4937 | 0.53 |
 [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4945 | 0.51 |
 [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | 0.4949 | 0.52 |
-[Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | 0.4951 | 0.53 |
+[Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | 0.4952 | 0.53 |
 [Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.4960 | 0.53 |
 [Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | 0.4973 | 0.58 |
 [Outer Entity Nyarla](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Nyarla) | 0.4987 | 0.56 |
