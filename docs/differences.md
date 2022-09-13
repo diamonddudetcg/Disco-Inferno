@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 623
+Estimated number of changes: 615
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -137,7 +137,6 @@ Estimated number of changes: 623
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ad Libitum of Despia](https://db.ygoprodeck.com/card/?search=Ad%20Libitum%20of%20Despia) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Adamancipator Researcher](https://db.ygoprodeck.com/card/?search=Adamancipator%20Researcher) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Alector, Sovereign of Birds](https://db.ygoprodeck.com/card/?search=Alector,%20Sovereign%20of%20Birds) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Alien Warrior](https://db.ygoprodeck.com/card/?search=Alien%20Warrior) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Gear Frame](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Frame) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Arcana Force EX - The Light Ruler](https://db.ygoprodeck.com/card/?search=Arcana%20Force%20EX%20-%20The%20Light%20Ruler) | Illegal | Unlimited |
@@ -280,7 +279,6 @@ Estimated number of changes: 623
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orcust Harp Horror](https://db.ygoprodeck.com/card/?search=Orcust%20Harp%20Horror) | Forbidden | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Palladium Oracle Mana](https://db.ygoprodeck.com/card/?search=Palladium%20Oracle%20Mana) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Parallel eXceed](https://db.ygoprodeck.com/card/?search=Parallel%20eXceed) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performage Plushfire](https://db.ygoprodeck.com/card/?search=Performage%20Plushfire) | Forbidden | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Celestial Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Celestial%20Magician) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Dag Daggerman](https://db.ygoprodeck.com/card/?search=Performapal%20Dag%20Daggerman) | Illegal | Unlimited |
@@ -321,7 +319,6 @@ Estimated number of changes: 623
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Quik-Fix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Quik-Fix) | Limited | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stardust Synchron](https://db.ygoprodeck.com/card/?search=Stardust%20Synchron) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Stalagmo](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Stalagmo) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Princessprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Princessprout) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tardy Orc](https://db.ygoprodeck.com/card/?search=Tardy%20Orc) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Life - Neptune](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Life%20-%20Neptune) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Great Emperor Penguin](https://db.ygoprodeck.com/card/?search=The%20Great%20Emperor%20Penguin) | Illegal | Unlimited |
@@ -415,7 +412,6 @@ Estimated number of changes: 623
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [T.G. Trident Launcher](https://db.ygoprodeck.com/card/?search=T.G.%20Trident%20Launcher) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Weather Painter Moonbow](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Moonbow) | Illegal | Unlimited |
-|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Transcode Talker](https://db.ygoprodeck.com/card/?search=Transcode%20Talker) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Traptrix Cularia](https://db.ygoprodeck.com/card/?search=Traptrix%20Cularia) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | Illegal | Unlimited |
@@ -431,7 +427,6 @@ Estimated number of changes: 623
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ghoti of the Deep Beyond](https://db.ygoprodeck.com/card/?search=Ghoti%20of%20the%20Deep%20Beyond) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Goyo Predator](https://db.ygoprodeck.com/card/?search=Goyo%20Predator) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Hi-Speedroid Hagoita](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Hagoita) | Illegal | Unlimited |
-|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Lavalval Dragun](https://db.ygoprodeck.com/card/?search=Lavalval%20Dragun) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Naturia Beast](https://db.ygoprodeck.com/card/?search=Naturia%20Beast) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Old Entity Cthugua](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Cthugua) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Nova Dragon](https://db.ygoprodeck.com/card/?search=Red%20Nova%20Dragon) | Illegal | Unlimited |
@@ -453,7 +448,6 @@ Estimated number of changes: 623
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Wave High King Caesar](https://db.ygoprodeck.com/card/?search=D/D/D%20Wave%20High%20King%20Caesar) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Daigusto Emeral](https://db.ygoprodeck.com/card/?search=Daigusto%20Emeral) | Limited | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Dante, Traveler of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Dante,%20Traveler%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
-|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Diamond Dire Wolf](https://db.ygoprodeck.com/card/?search=Diamond%20Dire%20Wolf) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Ebon Illusion Magician](https://db.ygoprodeck.com/card/?search=Ebon%20Illusion%20Magician) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evolzar Dolkka](https://db.ygoprodeck.com/card/?search=Evolzar%20Dolkka) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | Illegal | Unlimited |
@@ -470,7 +464,6 @@ Estimated number of changes: 623
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 32: Shark Drake](https://db.ygoprodeck.com/card/?search=Number%2032:%20Shark%20Drake) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 39: Utopia Beyond](https://db.ygoprodeck.com/card/?search=Number%2039:%20Utopia%20Beyond) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 53: Heart-eartH](https://db.ygoprodeck.com/card/?search=Number%2053:%20Heart-eartH) | Illegal | Unlimited |
-|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 67: Pair-a-Dice Smasher](https://db.ygoprodeck.com/card/?search=Number%2067:%20Pair-a-Dice%20Smasher) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 6: Chronomaly Atlandis](https://db.ygoprodeck.com/card/?search=Number%206:%20Chronomaly%20Atlandis) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 70: Malevolent Sin](https://db.ygoprodeck.com/card/?search=Number%2070:%20Malevolent%20Sin) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 75: Bamboozling Gossip Shadow](https://db.ygoprodeck.com/card/?search=Number%2075:%20Bamboozling%20Gossip%20Shadow) | Illegal | Unlimited |
@@ -629,7 +622,6 @@ Estimated number of changes: 623
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap Trick](https://db.ygoprodeck.com/card/?search=Trap%20Trick) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [True King's Return](https://db.ygoprodeck.com/card/?search=True%20King's%20Return) | Illegal | Unlimited |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [True Light](https://db.ygoprodeck.com/card/?search=True%20Light) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Tuner's Scheme](https://db.ygoprodeck.com/card/?search=Tuner's%20Scheme) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | Illegal | Unlimited |
