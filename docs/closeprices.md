@@ -6,7 +6,7 @@ This is a list of cards that, if the price were to stay where it currently is, w
 
 | Card name | Avg $ | Last price |
 | :-- | :-- | :-- |
-[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.3723 | 0.53 |
+[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.3724 | 0.53 |
 [Darklord Superbia](https://db.ygoprodeck.com/card/?search=Darklord%20Superbia) | 0.4235 | 0.51 |
 [System Down](https://db.ygoprodeck.com/card/?search=System%20Down) | 0.4381 | 0.55 |
 [Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.4437 | 0.52 |
