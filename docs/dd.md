@@ -101,7 +101,7 @@
 [Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | 0.5545 |
 [Secret Skills of the Six Samurai](https://db.ygoprodeck.com/card/?search=Secret%20Skills%20of%20the%20Six%20Samurai) | 0.5545 |
 [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.5545 |
-[Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.5559 |
+[Zaphion, the Timelord](https://db.ygoprodeck.com/card/?search=Zaphion,%20the%20Timelord) | 0.5560 |
 [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | 0.5569 |
 [Toon Mask](https://db.ygoprodeck.com/card/?search=Toon%20Mask) | 0.5569 |
 [Tuning Magician](https://db.ygoprodeck.com/card/?search=Tuning%20Magician) | 0.5587 |
@@ -110,12 +110,12 @@
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5600 |
 [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | 0.5627 |
 [Suijin](https://db.ygoprodeck.com/card/?search=Suijin) | 0.5638 |
+[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5639 |
 [Dante, Traveler of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Dante,%20Traveler%20of%20the%20Burning%20Abyss) | 0.5639 |
 [Goyo Predator](https://db.ygoprodeck.com/card/?search=Goyo%20Predator) | 0.5639 |
 [Madolche Messengelato](https://db.ygoprodeck.com/card/?search=Madolche%20Messengelato) | 0.5639 |
 [Ritual Beast Ulti-Apelio](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Ulti-Apelio) | 0.5639 |
 [Twin Twisters](https://db.ygoprodeck.com/card/?search=Twin%20Twisters) | 0.5639 |
-[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5639 |
 [Elemental Training](https://db.ygoprodeck.com/card/?search=Elemental%20Training) | 0.5657 |
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.5668 |
 [Gearspring Spirit](https://db.ygoprodeck.com/card/?search=Gearspring%20Spirit) | 0.5669 |
@@ -283,9 +283,9 @@
 [Mirage Knight](https://db.ygoprodeck.com/card/?search=Mirage%20Knight) | 0.6900 |
 [Spirit of the Pharaoh](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pharaoh) | 0.6900 |
 [Magical Mallet](https://db.ygoprodeck.com/card/?search=Magical%20Mallet) | 0.6940 |
-[Mayhem Fur Hire](https://db.ygoprodeck.com/card/?search=Mayhem%20Fur%20Hire) | 0.6954 |
-[Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.6954 |
-[Solidarity](https://db.ygoprodeck.com/card/?search=Solidarity) | 0.6954 |
+[Mayhem Fur Hire](https://db.ygoprodeck.com/card/?search=Mayhem%20Fur%20Hire) | 0.6955 |
+[Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.6955 |
+[Solidarity](https://db.ygoprodeck.com/card/?search=Solidarity) | 0.6955 |
 [Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | 0.6955 |
 [Gem-Knight Master Diamond](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Master%20Diamond) | 0.6955 |
 [Vernusylph of the Flourishing Hills](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flourishing%20Hills) | 0.6979 |
@@ -315,10 +315,10 @@
 [Cyber-Stein](https://db.ygoprodeck.com/card/?search=Cyber-Stein) | 0.7200 |
 [Lightning Tricorn](https://db.ygoprodeck.com/card/?search=Lightning%20Tricorn) | 0.7200 |
 [Salamangreat Pyro Phoenix](https://db.ygoprodeck.com/card/?search=Salamangreat%20Pyro%20Phoenix) | 0.7200 |
-[Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.7224 |
-[Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | 0.7236 |
-[Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | 0.7236 |
-[The White Stone of Ancients](https://db.ygoprodeck.com/card/?search=The%20White%20Stone%20of%20Ancients) | 0.7236 |
+[Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.7225 |
+[Geomathmech Magma](https://db.ygoprodeck.com/card/?search=Geomathmech%20Magma) | 0.7237 |
+[Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | 0.7237 |
+[The White Stone of Ancients](https://db.ygoprodeck.com/card/?search=The%20White%20Stone%20of%20Ancients) | 0.7237 |
 [Crackdown](https://db.ygoprodeck.com/card/?search=Crackdown) | 0.7237 |
 [Dragocytos Corrupted Nethersoul Dragon](https://db.ygoprodeck.com/card/?search=Dragocytos%20Corrupted%20Nethersoul%20Dragon) | 0.7237 |
 [Naturia Beast](https://db.ygoprodeck.com/card/?search=Naturia%20Beast) | 0.7237 |
@@ -329,7 +329,7 @@
 [Fluffal Bear](https://db.ygoprodeck.com/card/?search=Fluffal%20Bear) | 0.7300 |
 [Ryu Senshi](https://db.ygoprodeck.com/card/?search=Ryu%20Senshi) | 0.7300 |
 [Vampire Dragon](https://db.ygoprodeck.com/card/?search=Vampire%20Dragon) | 0.7300 |
-[Assault Blackwing - Onimaru the Divine Thunder](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Onimaru%20the%20Divine%20Thunder) | 0.7305 |
+[Assault Blackwing - Onimaru the Divine Thunder](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Onimaru%20the%20Divine%20Thunder) | 0.7306 |
 [Borrelcode Dragon](https://db.ygoprodeck.com/card/?search=Borrelcode%20Dragon) | 0.7331 |
 [Gladiator Beast Heraklinos](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Heraklinos) | 0.7331 |
 [Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | 0.7331 |
@@ -342,8 +342,8 @@
 [Superheavy Samurai Ogre Shutendoji](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Ogre%20Shutendoji) | 0.7400 |
 [Trickstar Reincarnation](https://db.ygoprodeck.com/card/?search=Trickstar%20Reincarnation) | 0.7400 |
 [War Rock Meteoragon](https://db.ygoprodeck.com/card/?search=War%20Rock%20Meteoragon) | 0.7400 |
-[Parallel eXceed](https://db.ygoprodeck.com/card/?search=Parallel%20eXceed) | 0.7424 |
-[Sylvan Princessprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Princessprout) | 0.7424 |
+[Parallel eXceed](https://db.ygoprodeck.com/card/?search=Parallel%20eXceed) | 0.7425 |
+[Sylvan Princessprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Princessprout) | 0.7425 |
 [True Light](https://db.ygoprodeck.com/card/?search=True%20Light) | 0.7425 |
 [Eldlixir of Black Awakening](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Black%20Awakening) | 0.7454 |
 [Exodius the Ultimate Forbidden Lord](https://db.ygoprodeck.com/card/?search=Exodius%20the%20Ultimate%20Forbidden%20Lord) | 0.7482 |
@@ -368,7 +368,7 @@
 [Rank-Up-Magic Doom Double Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Doom%20Double%20Force) | 0.7600 |
 [Sunseed Genius Loci](https://db.ygoprodeck.com/card/?search=Sunseed%20Genius%20Loci) | 0.7600 |
 [Testudo erat Numen](https://db.ygoprodeck.com/card/?search=Testudo%20erat%20Numen) | 0.7600 |
-[Masked HERO Dark Law](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Dark%20Law) | 0.7612 |
+[Masked HERO Dark Law](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Dark%20Law) | 0.7613 |
 [Armored Kappa](https://db.ygoprodeck.com/card/?search=Armored%20Kappa) | 0.7650 |
 [Ancient Forest](https://db.ygoprodeck.com/card/?search=Ancient%20Forest) | 0.7651 |
 [Branded Banishment](https://db.ygoprodeck.com/card/?search=Branded%20Banishment) | 0.7663 |
@@ -377,10 +377,10 @@
 [Elemental Mistress Doriado](https://db.ygoprodeck.com/card/?search=Elemental%20Mistress%20Doriado) | 0.7700 |
 [Neo-Spacian Marine Dolphin](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Marine%20Dolphin) | 0.7700 |
 [Red-Eyes Alternative Black Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Alternative%20Black%20Dragon) | 0.7700 |
-[Chaos Valkyria](https://db.ygoprodeck.com/card/?search=Chaos%20Valkyria) | 0.7706 |
-[Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | 0.7706 |
-[Ferret Flames](https://db.ygoprodeck.com/card/?search=Ferret%20Flames) | 0.7706 |
-[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.7706 |
+[Chaos Valkyria](https://db.ygoprodeck.com/card/?search=Chaos%20Valkyria) | 0.7707 |
+[Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | 0.7707 |
+[Ferret Flames](https://db.ygoprodeck.com/card/?search=Ferret%20Flames) | 0.7707 |
+[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.7707 |
 [Super Quantum Green Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Green%20Layer) | 0.7722 |
 [Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | 0.7737 |
 [Aztekipede, the Worm Warrior](https://db.ygoprodeck.com/card/?search=Aztekipede,%20the%20Worm%20Warrior) | 0.7739 |
@@ -391,12 +391,12 @@
 [Convulsion of Nature](https://db.ygoprodeck.com/card/?search=Convulsion%20of%20Nature) | 0.7800 |
 [Evilswarm Bahamut](https://db.ygoprodeck.com/card/?search=Evilswarm%20Bahamut) | 0.7800 |
 [Karma Cut](https://db.ygoprodeck.com/card/?search=Karma%20Cut) | 0.7800 |
-[Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | 0.7800 |
+[Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | 0.7801 |
 [Jurassic World](https://db.ygoprodeck.com/card/?search=Jurassic%20World) | 0.7817 |
 [Sasuke Samurai #4](https://db.ygoprodeck.com/card/?search=Sasuke%20Samurai%20#4) | 0.7827 |
 [Infernity Barrier](https://db.ygoprodeck.com/card/?search=Infernity%20Barrier) | 0.7869 |
 [Michael, the Arch-Lightsworn](https://db.ygoprodeck.com/card/?search=Michael,%20the%20Arch-Lightsworn) | 0.7878 |
-[Gladiator Beast Gyzarus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gyzarus) | 0.7894 |
+[Gladiator Beast Gyzarus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gyzarus) | 0.7895 |
 [Ancient Gear Hunting Hound](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Hunting%20Hound) | 0.7900 |
 [Antihuman Intelligence ME-PSY-YA](https://db.ygoprodeck.com/card/?search=Antihuman%20Intelligence%20ME-PSY-YA) | 0.7900 |
 [Barrier Statue of the Stormwinds](https://db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Stormwinds) | 0.7900 |
@@ -405,8 +405,8 @@
 [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | 0.7900 |
 [Three-Legged Zombies](https://db.ygoprodeck.com/card/?search=Three-Legged%20Zombies) | 0.7900 |
 [Gren Maju Da Eiza](https://db.ygoprodeck.com/card/?search=Gren%20Maju%20Da%20Eiza) | 0.7976 |
-[Number 107: Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20107:%20Galaxy-Eyes%20Tachyon%20Dragon) | 0.7988 |
-[Predaplant Sarraceniant](https://db.ygoprodeck.com/card/?search=Predaplant%20Sarraceniant) | 0.7988 |
+[Number 107: Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20107:%20Galaxy-Eyes%20Tachyon%20Dragon) | 0.7989 |
+[Predaplant Sarraceniant](https://db.ygoprodeck.com/card/?search=Predaplant%20Sarraceniant) | 0.7989 |
 [Sectarian of Secrets](https://db.ygoprodeck.com/card/?search=Sectarian%20of%20Secrets) | 0.7999 |
 [Spirit Converter](https://db.ygoprodeck.com/card/?search=Spirit%20Converter) | 0.7999 |
 [Koa'ki Meiru Gravirose](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Gravirose) | 0.8000 |
@@ -422,7 +422,7 @@
 [Time-Space Trap Hole](https://db.ygoprodeck.com/card/?search=Time-Space%20Trap%20Hole) | 0.8051 |
 [Gabrion, the Timelord](https://db.ygoprodeck.com/card/?search=Gabrion,%20the%20Timelord) | 0.8071 |
 [Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.8082 |
-[Windwitch - Snow Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Snow%20Bell) | 0.8082 |
+[Windwitch - Snow Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Snow%20Bell) | 0.8083 |
 [Jinzo the Machine Menace](https://db.ygoprodeck.com/card/?search=Jinzo%20the%20Machine%20Menace) | 0.8094 |
 [Monster Tamer](https://db.ygoprodeck.com/card/?search=Monster%20Tamer) | 0.8094 |
 [Slifer the Sky Dragon](https://db.ygoprodeck.com/card/?search=Slifer%20the%20Sky%20Dragon) | 0.8096 |
@@ -432,8 +432,8 @@
 [Gishki Zielgigas](https://db.ygoprodeck.com/card/?search=Gishki%20Zielgigas) | 0.8166 |
 [Favorite Contact](https://db.ygoprodeck.com/card/?search=Favorite%20Contact) | 0.8167 |
 [Forbidden Chalice](https://db.ygoprodeck.com/card/?search=Forbidden%20Chalice) | 0.8176 |
-[Dreiath III, the True Dracocavalry General](https://db.ygoprodeck.com/card/?search=Dreiath%20III,%20the%20True%20Dracocavalry%20General) | 0.8176 |
-[Nekroz of Areadbhair](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Areadbhair) | 0.8176 |
+[Dreiath III, the True Dracocavalry General](https://db.ygoprodeck.com/card/?search=Dreiath%20III,%20the%20True%20Dracocavalry%20General) | 0.8177 |
+[Nekroz of Areadbhair](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Areadbhair) | 0.8177 |
 [Time Seal](https://db.ygoprodeck.com/card/?search=Time%20Seal) | 0.8182 |
 [Cerulean Sacred Phoenix of Nephthys](https://db.ygoprodeck.com/card/?search=Cerulean%20Sacred%20Phoenix%20of%20Nephthys) | 0.8200 |
 [Urgent Schedule](https://db.ygoprodeck.com/card/?search=Urgent%20Schedule) | 0.8229 |
@@ -515,7 +515,7 @@
 [Five-Headed Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Dragon) | 0.9022 |
 [Odd-Eyes Revolution Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Revolution%20Dragon) | 0.9022 |
 [Elemental HERO Nova Master](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Nova%20Master) | 0.9033 |
-[Maximum Six](https://db.ygoprodeck.com/card/?search=Maximum%20Six) | 0.9059 |
+[Maximum Six](https://db.ygoprodeck.com/card/?search=Maximum%20Six) | 0.9060 |
 [Relinquished Fusion](https://db.ygoprodeck.com/card/?search=Relinquished%20Fusion) | 0.9076 |
 [Brotherhood of the Fire Fist - Swallow](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Swallow) | 0.9100 |
 [Number 19: Freezadon](https://db.ygoprodeck.com/card/?search=Number%2019:%20Freezadon) | 0.9116 |
@@ -562,8 +562,8 @@
 [Tachyon Chaos Hole](https://db.ygoprodeck.com/card/?search=Tachyon%20Chaos%20Hole) | 0.9600 |
 [Ultimate Crystal Magic](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Magic) | 0.9600 |
 [Dark Magician Girl the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20Girl%20the%20Dragon%20Knight) | 0.9602 |
-[Hi-Speedroid Rubber Band Shooter](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Rubber%20Band%20Shooter) | 0.9602 |
-[Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | 0.9602 |
+[Hi-Speedroid Rubber Band Shooter](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Rubber%20Band%20Shooter) | 0.9603 |
+[Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | 0.9603 |
 [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | 0.9613 |
 [Dark Room of Nightmare](https://db.ygoprodeck.com/card/?search=Dark%20Room%20of%20Nightmare) | 0.9643 |
 [Saber Hole](https://db.ygoprodeck.com/card/?search=Saber%20Hole) | 0.9657 |
@@ -618,7 +618,7 @@
 [World Legacy's Secret](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Secret) | 1.0200 |
 [Cyberse Synchron](https://db.ygoprodeck.com/card/?search=Cyberse%20Synchron) | 1.0202 |
 [Evilswarm Ophion](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ophion) | 1.0202 |
-[Xtra HERO Dread Decimator](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Dread%20Decimator) | 1.0202 |
+[Xtra HERO Dread Decimator](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Dread%20Decimator) | 1.0203 |
 [Ghostrick Ghoul](https://db.ygoprodeck.com/card/?search=Ghostrick%20Ghoul) | 1.0204 |
 [Hundred Dragon](https://db.ygoprodeck.com/card/?search=Hundred%20Dragon) | 1.0207 |
 [Amaze Attraction Horror House](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Horror%20House) | 1.0227 |
@@ -628,8 +628,8 @@
 [Intercept Wave](https://db.ygoprodeck.com/card/?search=Intercept%20Wave) | 1.0300 |
 [Light and Darkness Dragon](https://db.ygoprodeck.com/card/?search=Light%20and%20Darkness%20Dragon) | 1.0300 |
 [Marincess Coral Triangle](https://db.ygoprodeck.com/card/?search=Marincess%20Coral%20Triangle) | 1.0300 |
-[Number 82: Heartlandraco](https://db.ygoprodeck.com/card/?search=Number%2082:%20Heartlandraco) | 1.0302 |
-[Tiras, Keeper of Genesis](https://db.ygoprodeck.com/card/?search=Tiras,%20Keeper%20of%20Genesis) | 1.0302 |
+[Number 82: Heartlandraco](https://db.ygoprodeck.com/card/?search=Number%2082:%20Heartlandraco) | 1.0303 |
+[Tiras, Keeper of Genesis](https://db.ygoprodeck.com/card/?search=Tiras,%20Keeper%20of%20Genesis) | 1.0303 |
 [Ocean Dragon Lord - Kairyu-Shin](https://db.ygoprodeck.com/card/?search=Ocean%20Dragon%20Lord%20-%20Kairyu-Shin) | 1.0369 |
 [Cloudian - Sheep Cloud](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Sheep%20Cloud) | 1.0400 |
 [Libromancer First Appearance](https://db.ygoprodeck.com/card/?search=Libromancer%20First%20Appearance) | 1.0400 |
@@ -812,7 +812,7 @@
 [Yubel - The Ultimate Nightmare](https://db.ygoprodeck.com/card/?search=Yubel%20-%20The%20Ultimate%20Nightmare) | 1.3200 |
 [Spiritualism](https://db.ygoprodeck.com/card/?search=Spiritualism) | 1.3243 |
 [Oppressed People](https://db.ygoprodeck.com/card/?search=Oppressed%20People) | 1.3300 |
-[Phantasmal Lord Ultimitl Bishbaalkin](https://db.ygoprodeck.com/card/?search=Phantasmal%20Lord%20Ultimitl%20Bishbaalkin) | 1.3304 |
+[Phantasmal Lord Ultimitl Bishbaalkin](https://db.ygoprodeck.com/card/?search=Phantasmal%20Lord%20Ultimitl%20Bishbaalkin) | 1.3305 |
 [Tsukuyomi](https://db.ygoprodeck.com/card/?search=Tsukuyomi) | 1.3325 |
 [Magical Musketeer Max](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Max) | 1.3329 |
 [Leviair the Sea Dragon](https://db.ygoprodeck.com/card/?search=Leviair%20the%20Sea%20Dragon) | 1.3372 |
@@ -881,7 +881,7 @@
 [The Phantom Knights of Shade Brigandine](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Shade%20Brigandine) | 1.4800 |
 [Nehshaddoll Genius](https://db.ygoprodeck.com/card/?search=Nehshaddoll%20Genius) | 1.4827 |
 [Sophia, Goddess of Rebirth](https://db.ygoprodeck.com/card/?search=Sophia,%20Goddess%20of%20Rebirth) | 1.4836 |
-[Cyber Dragon Nova](https://db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Nova) | 1.4859 |
+[Cyber Dragon Nova](https://db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Nova) | 1.4860 |
 [Machina Redeployment](https://db.ygoprodeck.com/card/?search=Machina%20Redeployment) | 1.4887 |
 [Amphibious Bugroth](https://db.ygoprodeck.com/card/?search=Amphibious%20Bugroth) | 1.4900 |
 [Emblem of the Plunder Patroll](https://db.ygoprodeck.com/card/?search=Emblem%20of%20the%20Plunder%20Patroll) | 1.4900 |
@@ -1011,7 +1011,7 @@
 [Fairy Knight Ingunar](https://db.ygoprodeck.com/card/?search=Fairy%20Knight%20Ingunar) | 1.8100 |
 [Alpha The Electromagnet Warrior](https://db.ygoprodeck.com/card/?search=Alpha%20The%20Electromagnet%20Warrior) | 1.8100 |
 [Arcana Triumph Joker](https://db.ygoprodeck.com/card/?search=Arcana%20Triumph%20Joker) | 1.8100 |
-[Evigishki Gustkraken](https://db.ygoprodeck.com/card/?search=Evigishki%20Gustkraken) | 1.8133 |
+[Evigishki Gustkraken](https://db.ygoprodeck.com/card/?search=Evigishki%20Gustkraken) | 1.8134 |
 [Despian Quaeritis](https://db.ygoprodeck.com/card/?search=Despian%20Quaeritis) | 1.8200 |
 [Dinomorphia Rexterm](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Rexterm) | 1.8200 |
 [Dragunity Arma Mystletainn](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Mystletainn) | 1.8200 |
@@ -1266,7 +1266,7 @@
 [Yuki-Onna, the Absolute Zero Mayakashi](https://db.ygoprodeck.com/card/?search=Yuki-Onna,%20the%20Absolute%20Zero%20Mayakashi) | 2.7984 |
 [Illegal Knight](https://db.ygoprodeck.com/card/?search=Illegal%20Knight) | 2.8083 |
 [Greedy Venom Fusion Dragon](https://db.ygoprodeck.com/card/?search=Greedy%20Venom%20Fusion%20Dragon) | 2.8176 |
-[Coral Dragon](https://db.ygoprodeck.com/card/?search=Coral%20Dragon) | 2.8204 |
+[Coral Dragon](https://db.ygoprodeck.com/card/?search=Coral%20Dragon) | 2.8205 |
 [Sky Striker Mobilize - Engage!](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mobilize%20-%20Engage!) | 2.8263 |
 [Puppet King](https://db.ygoprodeck.com/card/?search=Puppet%20King) | 2.8273 |
 [Ledger of Legerdemain](https://db.ygoprodeck.com/card/?search=Ledger%20of%20Legerdemain) | 2.8300 |
@@ -1276,7 +1276,7 @@
 [Madolchepalooza](https://db.ygoprodeck.com/card/?search=Madolchepalooza) | 2.8500 |
 [Ursarctic Polari](https://db.ygoprodeck.com/card/?search=Ursarctic%20Polari) | 2.8500 |
 [Majespecter Raccoon - Bunbuku](https://db.ygoprodeck.com/card/?search=Majespecter%20Raccoon%20-%20Bunbuku) | 2.8633 |
-[Libromancer Fire](https://db.ygoprodeck.com/card/?search=Libromancer%20Fire) | 2.8659 |
+[Libromancer Fire](https://db.ygoprodeck.com/card/?search=Libromancer%20Fire) | 2.8660 |
 [Sengenjin](https://db.ygoprodeck.com/card/?search=Sengenjin) | 2.8691 |
 [Genex Ally Duradark](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Duradark) | 2.8700 |
 [Quick Launch](https://db.ygoprodeck.com/card/?search=Quick%20Launch) | 2.8769 |
@@ -1387,7 +1387,7 @@
 [Flying Elephant](https://db.ygoprodeck.com/card/?search=Flying%20Elephant) | 3.6518 |
 [Mekk-Knight Blue Sky](https://db.ygoprodeck.com/card/?search=Mekk-Knight%20Blue%20Sky) | 3.6521 |
 [Benghalancer the Resurgent](https://db.ygoprodeck.com/card/?search=Benghalancer%20the%20Resurgent) | 3.6921 |
-[Astral Kuriboh](https://db.ygoprodeck.com/card/?search=Astral%20Kuriboh) | 3.7159 |
+[Astral Kuriboh](https://db.ygoprodeck.com/card/?search=Astral%20Kuriboh) | 3.7160 |
 [Perfect Machine King](https://db.ygoprodeck.com/card/?search=Perfect%20Machine%20King) | 3.7298 |
 [Red Dragon Archfiend/Assault Mode](https://db.ygoprodeck.com/card/?search=Red%20Dragon%20Archfiend/Assault%20Mode) | 3.7300 |
 [The Hidden City](https://db.ygoprodeck.com/card/?search=The%20Hidden%20City) | 3.7300 |
@@ -1404,7 +1404,7 @@
 [Gravekeeper's Recruiter](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Recruiter) | 3.8300 |
 [Performapal Odd-Eyes Synchron](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Synchron) | 3.8300 |
 [Madolche Queen Tiaramisu](https://db.ygoprodeck.com/card/?search=Madolche%20Queen%20Tiaramisu) | 3.8388 |
-[Psychic Nightmare](https://db.ygoprodeck.com/card/?search=Psychic%20Nightmare) | 3.8412 |
+[Psychic Nightmare](https://db.ygoprodeck.com/card/?search=Psychic%20Nightmare) | 3.8413 |
 [Branded Opening](https://db.ygoprodeck.com/card/?search=Branded%20Opening) | 3.8600 |
 [Danger!? Jackalope?](https://db.ygoprodeck.com/card/?search=Danger!?%20Jackalope?) | 3.8666 |
 [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | 3.8812 |
@@ -1542,7 +1542,7 @@
 [Red-Eyes Fang with Chain](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Fang%20with%20Chain) | 5.9541 |
 [Number 100: Numeron Dragon](https://db.ygoprodeck.com/card/?search=Number%20100:%20Numeron%20Dragon) | 6.0200 |
 [The Iris Swordsoul](https://db.ygoprodeck.com/card/?search=The%20Iris%20Swordsoul) | 6.0432 |
-[Joker's Knight](https://db.ygoprodeck.com/card/?search=Joker's%20Knight) | 6.1137 |
+[Joker's Knight](https://db.ygoprodeck.com/card/?search=Joker's%20Knight) | 6.1138 |
 [Chaos-End Master](https://db.ygoprodeck.com/card/?search=Chaos-End%20Master) | 6.1201 |
 [Bond Between Teacher and Student](https://db.ygoprodeck.com/card/?search=Bond%20Between%20Teacher%20and%20Student) | 6.1256 |
 [Graydle Dragon](https://db.ygoprodeck.com/card/?search=Graydle%20Dragon) | 6.1819 |
@@ -1588,7 +1588,7 @@
 [Scrapyard](https://db.ygoprodeck.com/card/?search=Scrapyard) | 7.8900 |
 [Diviner of the Herald](https://db.ygoprodeck.com/card/?search=Diviner%20of%20the%20Herald) | 7.9600 |
 [Rikka Petal](https://db.ygoprodeck.com/card/?search=Rikka%20Petal) | 7.9767 |
-[Fish Sonar](https://db.ygoprodeck.com/card/?search=Fish%20Sonar) | 8.0059 |
+[Fish Sonar](https://db.ygoprodeck.com/card/?search=Fish%20Sonar) | 8.0060 |
 [Number 93: Utopia Kaiser](https://db.ygoprodeck.com/card/?search=Number%2093:%20Utopia%20Kaiser) | 8.0263 |
 [Chamber Dragonmaid](https://db.ygoprodeck.com/card/?search=Chamber%20Dragonmaid) | 8.0300 |
 [Red-Eyes Baby Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Baby%20Dragon) | 8.0500 |
@@ -1610,7 +1610,7 @@
 [Daigusto Phoenix](https://db.ygoprodeck.com/card/?search=Daigusto%20Phoenix) | 8.6000 |
 [Crossout Designator](https://db.ygoprodeck.com/card/?search=Crossout%20Designator) | 8.6800 |
 [Marincess Dive](https://db.ygoprodeck.com/card/?search=Marincess%20Dive) | 8.9000 |
-[Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | 8.9459 |
+[Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | 8.9460 |
 [Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | 9.0000 |
 [Cyber Slash Harpie Lady](https://db.ygoprodeck.com/card/?search=Cyber%20Slash%20Harpie%20Lady) | 9.0000 |
 [Divine Dragon Knight Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Knight%20Felgrand) | 9.0100 |
@@ -1646,7 +1646,7 @@
 [Number 72: Shogi Rook](https://db.ygoprodeck.com/card/?search=Number%2072:%20Shogi%20Rook) | 10.6100 |
 [Blue-Eyes Jet Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Jet%20Dragon) | 10.6784 |
 [Visas Starfrost](https://db.ygoprodeck.com/card/?search=Visas%20Starfrost) | 10.7800 |
-[The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 10.8423 |
+[The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 10.8424 |
 [Arianna the Labrynth Servant](https://db.ygoprodeck.com/card/?search=Arianna%20the%20Labrynth%20Servant) | 11.0400 |
 [Infernoble Knight - Renaud](https://db.ygoprodeck.com/card/?search=Infernoble%20Knight%20-%20Renaud) | 11.1184 |
 [Gagaga Head](https://db.ygoprodeck.com/card/?search=Gagaga%20Head) | 11.1500 |
@@ -1692,7 +1692,7 @@
 [Number F0: Utopic Draco Future](https://db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Draco%20Future) | 17.7500 |
 [Elf's Light](https://db.ygoprodeck.com/card/?search=Elf's%20Light) | 17.9900 |
 [Swordsoul of Mo Ye](https://db.ygoprodeck.com/card/?search=Swordsoul%20of%20Mo%20Ye) | 18.2030 |
-[Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | 19.3354 |
+[Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | 19.3355 |
 [Ancient Chant](https://db.ygoprodeck.com/card/?search=Ancient%20Chant) | 19.9400 |
 [Gravity Behemoth](https://db.ygoprodeck.com/card/?search=Gravity%20Behemoth) | 19.9865 |
 [Forbidden Droplet](https://db.ygoprodeck.com/card/?search=Forbidden%20Droplet) | 20.0400 |
@@ -1710,7 +1710,7 @@
 [Wilmee](https://db.ygoprodeck.com/card/?search=Wilmee) | 25.3600 |
 [Runick Tip](https://db.ygoprodeck.com/card/?search=Runick%20Tip) | 25.5400 |
 [Toon Bookmark](https://db.ygoprodeck.com/card/?search=Toon%20Bookmark) | 25.6153 |
-[Number 90: Galaxy-Eyes Photon Lord](https://db.ygoprodeck.com/card/?search=Number%2090:%20Galaxy-Eyes%20Photon%20Lord) | 25.7771 |
+[Number 90: Galaxy-Eyes Photon Lord](https://db.ygoprodeck.com/card/?search=Number%2090:%20Galaxy-Eyes%20Photon%20Lord) | 25.7772 |
 [Judgment of the Pharaoh](https://db.ygoprodeck.com/card/?search=Judgment%20of%20the%20Pharaoh) | 26.8042 |
 [Shiba-Warrior Taro](https://db.ygoprodeck.com/card/?search=Shiba-Warrior%20Taro) | 28.4295 |
 [Triple Tactics Talent](https://db.ygoprodeck.com/card/?search=Triple%20Tactics%20Talent) | 29.2645 |
@@ -1737,10 +1737,10 @@
 [Novox's Prayer](https://db.ygoprodeck.com/card/?search=Novox's%20Prayer) | 77.3100 |
 [Sonic Maid](https://db.ygoprodeck.com/card/?search=Sonic%20Maid) | 79.9500 |
 [Garma Sword](https://db.ygoprodeck.com/card/?search=Garma%20Sword) | 81.7900 |
-[Primeval Planet Perlereino](https://db.ygoprodeck.com/card/?search=Primeval%20Planet%20Perlereino) | 87.9103 |
+[Primeval Planet Perlereino](https://db.ygoprodeck.com/card/?search=Primeval%20Planet%20Perlereino) | 87.9104 |
 [Warrior of Tradition](https://db.ygoprodeck.com/card/?search=Warrior%20of%20Tradition) | 123.6500 |
 [Beautiful Headhuntress](https://db.ygoprodeck.com/card/?search=Beautiful%20Headhuntress) | 124.9800 |
 [Skull Guardian](https://db.ygoprodeck.com/card/?search=Skull%20Guardian) | 249.9500 |
-[Ten Thousand Dragon](https://db.ygoprodeck.com/card/?search=Ten%20Thousand%20Dragon) | 981.6626 |
+[Ten Thousand Dragon](https://db.ygoprodeck.com/card/?search=Ten%20Thousand%20Dragon) | 981.6637 |
 
 ###### [Back home](index)
