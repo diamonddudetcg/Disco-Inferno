@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 535
+Estimated number of changes: 537
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -352,6 +352,7 @@ Estimated number of changes: 535
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Anki](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Anki) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Munin the Runick Wings](https://db.ygoprodeck.com/card/?search=Munin%20the%20Runick%20Wings) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Vaylantz Genesis Grand Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Genesis%20Grand%20Duke) | Illegal | Unlimited |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ultimate Crystal Rainbow Dragon Overdrive](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Rainbow%20Dragon%20Overdrive) | Didn't exist | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Crusadia Equimax](https://db.ygoprodeck.com/card/?search=Crusadia%20Equimax) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Firewall Dragon](https://db.ygoprodeck.com/card/?search=Firewall%20Dragon) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Giant Beetrooper Invincible Atlas](https://db.ygoprodeck.com/card/?search=Giant%20Beetrooper%20Invincible%20Atlas) | Illegal | Unlimited |
@@ -501,6 +502,7 @@ Estimated number of changes: 535
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vaylantz World - Shinra Bansho](https://db.ygoprodeck.com/card/?search=Vaylantz%20World%20-%20Shinra%20Bansho) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [World Legacy Guardragon](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Guardragon) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Duel Tower](https://db.ygoprodeck.com/card/?search=Duel%20Tower) | Didn't exist | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Archfiend's Ghastly Glitch](https://db.ygoprodeck.com/card/?search=Archfiend's%20Ghastly%20Glitch) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Pair](https://db.ygoprodeck.com/card/?search=Crystal%20Pair) | Illegal | Unlimited |

@@ -1688,6 +1688,9 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yu-Jo Friendship](https://db.ygoprodeck.com/card/?search=Yu-Jo%20Friendship) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [ZERO-MAX](https://db.ygoprodeck.com/card/?search=ZERO-MAX) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zoodiac Barrage](https://db.ygoprodeck.com/card/?search=Zoodiac%20Barrage) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Link into the VRAINS!](https://db.ygoprodeck.com/card/?search=Link%20into%20the%20VRAINS!) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Breaking Ruin God](https://db.ygoprodeck.com/card/?search=The%20Breaking%20Ruin%20God) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The True Sun God](https://db.ygoprodeck.com/card/?search=The%20True%20Sun%20God) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Abyss-sphere](https://db.ygoprodeck.com/card/?search=Abyss-sphere) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Abyss-squall](https://db.ygoprodeck.com/card/?search=Abyss-squall) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Illegal |
@@ -1827,6 +1830,9 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Witch's Strike](https://db.ygoprodeck.com/card/?search=Witch's%20Strike) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy's Secret](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Secret) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Xyz Reborn](https://db.ygoprodeck.com/card/?search=Xyz%20Reborn) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Soul Energy MAX!!!](https://db.ygoprodeck.com/card/?search=Soul%20Energy%20MAX!!!) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Revived Sky God](https://db.ygoprodeck.com/card/?search=The%20Revived%20Sky%20God) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Archer](https://db.ygoprodeck.com/card/?search=Amazoness%20Archer) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amorphage Goliath](https://db.ygoprodeck.com/card/?search=Amorphage%20Goliath) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amorphage Sloth](https://db.ygoprodeck.com/card/?search=Amorphage%20Sloth) | Forbidden |
@@ -7207,6 +7213,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [XYZ-Dragon Cannon](https://db.ygoprodeck.com/card/?search=XYZ-Dragon%20Cannon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [XZ-Tank Cannon](https://db.ygoprodeck.com/card/?search=XZ-Tank%20Cannon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [YZ-Tank Dragon](https://db.ygoprodeck.com/card/?search=YZ-Tank%20Dragon) | Unlimited |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ultimate Crystal Rainbow Dragon Overdrive](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Rainbow%20Dragon%20Overdrive) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Abyss Actor - Hyper Director](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Hyper%20Director) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Abyss Keeper](https://db.ygoprodeck.com/card/?search=Abyss%20Keeper) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Agave Dragon](https://db.ygoprodeck.com/card/?search=Agave%20Dragon) | Unlimited |
@@ -9930,6 +9937,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie Power Struggle](https://db.ygoprodeck.com/card/?search=Zombie%20Power%20Struggle) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie Reborn](https://db.ygoprodeck.com/card/?search=Zombie%20Reborn) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Duel Tower](https://db.ygoprodeck.com/card/?search=Duel%20Tower) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Feint Plan](https://db.ygoprodeck.com/card/?search=A%20Feint%20Plan) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Hero Emerges](https://db.ygoprodeck.com/card/?search=A%20Hero%20Emerges) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Major Upset](https://db.ygoprodeck.com/card/?search=A%20Major%20Upset) | Unlimited |
