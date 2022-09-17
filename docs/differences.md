@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 535
+Estimated number of changes: 541
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -501,6 +501,9 @@ Estimated number of changes: 535
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [World Legacy Guardragon](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Guardragon) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Duel Tower](https://db.ygoprodeck.com/card/?search=Duel%20Tower) | Didn't exist | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Awakening of the Crystal Ultimates](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Crystal%20Ultimates) | Didn't exist | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Aegis](https://db.ygoprodeck.com/card/?search=Crystal%20Aegis) | Didn't exist | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Bridge of the Heart](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20the%20Heart) | Didn't exist | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Archfiend's Ghastly Glitch](https://db.ygoprodeck.com/card/?search=Archfiend's%20Ghastly%20Glitch) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Pair](https://db.ygoprodeck.com/card/?search=Crystal%20Pair) | Illegal | Unlimited |
@@ -547,5 +550,8 @@ Estimated number of changes: 535
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | Illegal | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Boon](https://db.ygoprodeck.com/card/?search=Crystal%20Boon) | Didn't exist | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Brilliance](https://db.ygoprodeck.com/card/?search=Crystal%20Brilliance) | Didn't exist | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Miracle](https://db.ygoprodeck.com/card/?search=Crystal%20Miracle) | Didn't exist | Unlimited |
 
 ###### [Back home](index)
