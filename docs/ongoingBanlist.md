@@ -409,6 +409,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ido the Supreme Magical Force](https://db.ygoprodeck.com/card/?search=Ido%20the%20Supreme%20Magical%20Force) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ignis Heat, the True Dracowarrior](https://db.ygoprodeck.com/card/?search=Ignis%20Heat,%20the%20True%20Dracowarrior) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ikelos, the Dream Mirror Mara](https://db.ygoprodeck.com/card/?search=Ikelos,%20the%20Dream%20Mirror%20Mara) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ikelos, the Dream Mirror Sprite](https://db.ygoprodeck.com/card/?search=Ikelos,%20the%20Dream%20Mirror%20Sprite) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Illegal Knight](https://db.ygoprodeck.com/card/?search=Illegal%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Immortal Phoenix Gearfried](https://db.ygoprodeck.com/card/?search=Immortal%20Phoenix%20Gearfried) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Impcantation Candoll](https://db.ygoprodeck.com/card/?search=Impcantation%20Candoll) | Illegal |
@@ -4348,7 +4349,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Igknight Champion](https://db.ygoprodeck.com/card/?search=Igknight%20Champion) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Igknight Lancer](https://db.ygoprodeck.com/card/?search=Igknight%20Lancer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ignoble Knight of Black Laundsallyn](https://db.ygoprodeck.com/card/?search=Ignoble%20Knight%20of%20Black%20Laundsallyn) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ikelos, the Dream Mirror Sprite](https://db.ygoprodeck.com/card/?search=Ikelos,%20the%20Dream%20Mirror%20Sprite) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Il Blud](https://db.ygoprodeck.com/card/?search=Il%20Blud) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Illusionist Faceless Magician](https://db.ygoprodeck.com/card/?search=Illusionist%20Faceless%20Magician) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Illusory Snatcher](https://db.ygoprodeck.com/card/?search=Illusory%20Snatcher) | Unlimited |

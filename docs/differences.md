@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 561
+Estimated number of changes: 560
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -230,7 +230,6 @@ Estimated number of changes: 561
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hieratic Dragon of Gebeb](https://db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Gebeb) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hojo the Vaylantz Warrior](https://db.ygoprodeck.com/card/?search=Hojo%20the%20Vaylantz%20Warrior) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Tremora](https://db.ygoprodeck.com/card/?search=Icejade%20Tremora) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ikelos, the Dream Mirror Sprite](https://db.ygoprodeck.com/card/?search=Ikelos,%20the%20Dream%20Mirror%20Sprite) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Archfiend](https://db.ygoprodeck.com/card/?search=Infernity%20Archfiend) | Limited | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Beetle](https://db.ygoprodeck.com/card/?search=Infernity%20Beetle) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Destroyer](https://db.ygoprodeck.com/card/?search=Infernity%20Destroyer) | Illegal | Unlimited |
