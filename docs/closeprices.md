@@ -6,16 +6,16 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Number 89: Diablosis the Mind Hacker](https://db.ygoprodeck.com/card/?search=Number%2089:%20Diablosis%20the%20Mind%20Hacker) | 0.2915 | 1.43 | Illegal |
-[Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | 0.3213 | 2.30 | Illegal |
-[Naturia Sacred Tree](https://db.ygoprodeck.com/card/?search=Naturia%20Sacred%20Tree) | 0.3950 | 4.37 | Illegal |
-[Ikelos, the Dream Mirror Sprite](https://db.ygoprodeck.com/card/?search=Ikelos,%20the%20Dream%20Mirror%20Sprite) | 0.3974 | 3.34 | Illegal |
-[Phantom Knights' Fog Blade](https://db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Fog%20Blade) | 0.4315 | 0.83 | Illegal |
-[Breakthrough Skill](https://db.ygoprodeck.com/card/?search=Breakthrough%20Skill) | 0.4706 | 0.81 | Illegal |
-[Primathmech Alembertian](https://db.ygoprodeck.com/card/?search=Primathmech%20Alembertian) | 0.4847 | 0.78 | Illegal |
+[Number 89: Diablosis the Mind Hacker](https://db.ygoprodeck.com/card/?search=Number%2089:%20Diablosis%20the%20Mind%20Hacker) | 0.2918 | 1.43 | Illegal |
+[Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | 0.3217 | 2.30 | Illegal |
+[Naturia Sacred Tree](https://db.ygoprodeck.com/card/?search=Naturia%20Sacred%20Tree) | 0.3958 | 4.37 | Illegal |
+[Ikelos, the Dream Mirror Sprite](https://db.ygoprodeck.com/card/?search=Ikelos,%20the%20Dream%20Mirror%20Sprite) | 0.3980 | 3.34 | Illegal |
+[Phantom Knights' Fog Blade](https://db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Fog%20Blade) | 0.4316 | 0.83 | Illegal |
+[Breakthrough Skill](https://db.ygoprodeck.com/card/?search=Breakthrough%20Skill) | 0.4707 | 0.81 | Illegal |
+[Primathmech Alembertian](https://db.ygoprodeck.com/card/?search=Primathmech%20Alembertian) | 0.4848 | 0.78 | Illegal |
 [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | 0.5006 | 0.49 | Unlimited |
-[Witchcrafter Haine](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Haine) | 0.5010 | 0.25 | Unlimited |
-[Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | 0.5251 | 0.39 | Unlimited |
-[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5792 | 0.01 | Unlimited |
+[Witchcrafter Haine](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Haine) | 0.5009 | 0.25 | Unlimited |
+[Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | 0.5250 | 0.39 | Unlimited |
+[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5791 | 0.01 | Unlimited |
 
 ###### [Back home](index)
