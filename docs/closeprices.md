@@ -6,11 +6,11 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Number 89: Diablosis the Mind Hacker](https://db.ygoprodeck.com/card/?search=Number%2089:%20Diablosis%20the%20Mind%20Hacker) | 0.3593 | 1.43 | Illegal |
-[Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | 0.4390 | 2.30 | Illegal |
-[Phantom Knights' Fog Blade](https://db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Fog%20Blade) | 0.4552 | 0.83 | Illegal |
-[Breakthrough Skill](https://db.ygoprodeck.com/card/?search=Breakthrough%20Skill) | 0.4908 | 0.81 | Illegal |
+[Number 89: Diablosis the Mind Hacker](https://db.ygoprodeck.com/card/?search=Number%2089:%20Diablosis%20the%20Mind%20Hacker) | 0.3595 | 1.43 | Illegal |
+[Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | 0.4394 | 2.30 | Illegal |
+[Phantom Knights' Fog Blade](https://db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Fog%20Blade) | 0.4553 | 0.83 | Illegal |
+[Breakthrough Skill](https://db.ygoprodeck.com/card/?search=Breakthrough%20Skill) | 0.4909 | 0.81 | Illegal |
 [Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | 0.5170 | 0.39 | Unlimited |
-[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5454 | 0.01 | Unlimited |
+[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5453 | 0.01 | Unlimited |
 
 ###### [Back home](index)
