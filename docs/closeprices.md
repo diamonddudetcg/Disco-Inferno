@@ -6,10 +6,10 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Number 89: Diablosis the Mind Hacker](https://db.ygoprodeck.com/card/?search=Number%2089:%20Diablosis%20the%20Mind%20Hacker) | 0.3717 | 1.43 | Illegal |
-[Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | 0.4606 | 2.30 | Illegal |
-[Vampire Ghost](https://db.ygoprodeck.com/card/?search=Vampire%20Ghost) | 0.5145 | 0.36 | Unlimited |
-[Dark Infant @Ignister](https://db.ygoprodeck.com/card/?search=Dark%20Infant%20@Ignister) | 0.5228 | 0.07 | Unlimited |
-[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5392 | 0.01 | Unlimited |
+[Number 89: Diablosis the Mind Hacker](https://db.ygoprodeck.com/card/?search=Number%2089:%20Diablosis%20the%20Mind%20Hacker) | 0.3719 | 1.43 | Illegal |
+[Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | 0.4610 | 2.30 | Illegal |
+[Vampire Ghost](https://db.ygoprodeck.com/card/?search=Vampire%20Ghost) | 0.5144 | 0.35 | Unlimited |
+[Dark Infant @Ignister](https://db.ygoprodeck.com/card/?search=Dark%20Infant%20@Ignister) | 0.5227 | 0.00 | Unlimited |
+[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5391 | 0.01 | Unlimited |
 
 ###### [Back home](index)
