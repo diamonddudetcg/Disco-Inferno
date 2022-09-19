@@ -768,7 +768,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Warrior of Atlantis](https://db.ygoprodeck.com/card/?search=Warrior%20of%20Atlantis) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Water Dragon Cluster](https://db.ygoprodeck.com/card/?search=Water%20Dragon%20Cluster) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Water Enchantress of the Temple](https://db.ygoprodeck.com/card/?search=Water%20Enchantress%20of%20the%20Temple) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wind-Up Hunter](https://db.ygoprodeck.com/card/?search=Wind-Up%20Hunter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wind-Up Kitten](https://db.ygoprodeck.com/card/?search=Wind-Up%20Kitten) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wind-Up Rat](https://db.ygoprodeck.com/card/?search=Wind-Up%20Rat) | Illegal |
@@ -6669,6 +6668,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wattsychic Fighter](https://db.ygoprodeck.com/card/?search=Wattsychic%20Fighter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wattwoodpecker](https://db.ygoprodeck.com/card/?search=Wattwoodpecker) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Weather Report](https://db.ygoprodeck.com/card/?search=Weather%20Report) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Weeping Idol](https://db.ygoprodeck.com/card/?search=Weeping%20Idol) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wheel of Prophecy](https://db.ygoprodeck.com/card/?search=Wheel%20of%20Prophecy) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Whirlwind Prodigy](https://db.ygoprodeck.com/card/?search=Whirlwind%20Prodigy) | Unlimited |
