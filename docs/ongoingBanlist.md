@@ -663,6 +663,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Night, Starry Dragon](https://db.ygoprodeck.com/card/?search=Starry%20Night,%20Starry%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Steelswarm Caucastag](https://db.ygoprodeck.com/card/?search=Steelswarm%20Caucastag) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stone Statue of the Aztecs](https://db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Substitoad](https://db.ygoprodeck.com/card/?search=Substitoad) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Ultramafus](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Ultramafus) | Illegal |
@@ -6110,7 +6111,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Strength of Prophecy](https://db.ygoprodeck.com/card/?search=Strength%20of%20Prophecy) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Strike Ninja](https://db.ygoprodeck.com/card/?search=Strike%20Ninja) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Striping Partner](https://db.ygoprodeck.com/card/?search=Striping%20Partner) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stronghold Guardian](https://db.ygoprodeck.com/card/?search=Stronghold%20Guardian) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stygian Security](https://db.ygoprodeck.com/card/?search=Stygian%20Security) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stygian Street Patrol](https://db.ygoprodeck.com/card/?search=Stygian%20Street%20Patrol) | Unlimited |

@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 557
+Estimated number of changes: 556
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -305,7 +305,6 @@ Estimated number of changes: 557
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Terrortop](https://db.ygoprodeck.com/card/?search=Speedroid%20Terrortop) | Limited | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Quik-Fix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Quik-Fix) | Limited | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stardust Synchron](https://db.ygoprodeck.com/card/?search=Stardust%20Synchron) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Stalagmo](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Stalagmo) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tardy Orc](https://db.ygoprodeck.com/card/?search=Tardy%20Orc) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Life - Neptune](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Life%20-%20Neptune) | Illegal | Unlimited |
