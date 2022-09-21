@@ -764,7 +764,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Slicer](https://db.ygoprodeck.com/card/?search=Volcanic%20Slicer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Voltanis the Adjudicator](https://db.ygoprodeck.com/card/?search=Voltanis%20the%20Adjudicator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vylon Sphere](https://db.ygoprodeck.com/card/?search=Vylon%20Sphere) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [War Rock Meteoragon](https://db.ygoprodeck.com/card/?search=War%20Rock%20Meteoragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Warm Worm](https://db.ygoprodeck.com/card/?search=Warm%20Worm) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Warrior of Atlantis](https://db.ygoprodeck.com/card/?search=Warrior%20of%20Atlantis) | Illegal |
@@ -6646,6 +6645,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wandering Gryphon Rider](https://db.ygoprodeck.com/card/?search=Wandering%20Gryphon%20Rider) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wandering King Wildwind](https://db.ygoprodeck.com/card/?search=Wandering%20King%20Wildwind) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wandering Mummy](https://db.ygoprodeck.com/card/?search=Wandering%20Mummy) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [War Rock Fortia](https://db.ygoprodeck.com/card/?search=War%20Rock%20Fortia) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [War Rock Gactos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Gactos) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [War Rock Mammud](https://db.ygoprodeck.com/card/?search=War%20Rock%20Mammud) | Unlimited |
