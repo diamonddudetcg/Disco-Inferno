@@ -9,6 +9,7 @@ title:  "Disco Inferno"
 The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists
 
 EDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.
+
 |Card name | Status |
 | :-- | --: |
 | <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | Illegal |
