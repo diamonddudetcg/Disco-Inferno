@@ -1785,7 +1785,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Storming Mirror Force](https://db.ygoprodeck.com/card/?search=Storming%20Mirror%20Force) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stygian Dirge](https://db.ygoprodeck.com/card/?search=Stygian%20Dirge) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Summon Limit](https://db.ygoprodeck.com/card/?search=Summon%20Limit) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Sun God Unification](https://db.ygoprodeck.com/card/?search=Sun%20God%20Unification) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Tachyon Chaos Hole](https://db.ygoprodeck.com/card/?search=Tachyon%20Chaos%20Hole) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Gift of Greed](https://db.ygoprodeck.com/card/?search=The%20Gift%20of%20Greed) | Illegal |
@@ -11251,6 +11250,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Subterror Succession](https://db.ygoprodeck.com/card/?search=Subterror%20Succession) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Success Probability 0%](https://db.ygoprodeck.com/card/?search=Success%20Probability%200%) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Summon Gate](https://db.ygoprodeck.com/card/?search=Summon%20Gate) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Sun God Unification](https://db.ygoprodeck.com/card/?search=Sun%20God%20Unification) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Sunavalon Bloom](https://db.ygoprodeck.com/card/?search=Sunavalon%20Bloom) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Super Junior Confrontation](https://db.ygoprodeck.com/card/?search=Super%20Junior%20Confrontation) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Super Quantal Mech Sword - Magnaslayer](https://db.ygoprodeck.com/card/?search=Super%20Quantal%20Mech%20Sword%20-%20Magnaslayer) | Unlimited |
