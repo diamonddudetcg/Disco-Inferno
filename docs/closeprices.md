@@ -6,12 +6,11 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Number 89: Diablosis the Mind Hacker](https://db.ygoprodeck.com/card/?search=Number%2089:%20Diablosis%20the%20Mind%20Hacker) | 0.4834 | 2.13 | Illegal |
-[Evigishki Mind Augus](https://db.ygoprodeck.com/card/?search=Evigishki%20Mind%20Augus) | 0.4984 | 0.98 | Illegal |
+[Number 89: Diablosis the Mind Hacker](https://db.ygoprodeck.com/card/?search=Number%2089:%20Diablosis%20the%20Mind%20Hacker) | 0.4837 | 2.13 | Illegal |
+[Evigishki Mind Augus](https://db.ygoprodeck.com/card/?search=Evigishki%20Mind%20Augus) | 0.4985 | 0.98 | Illegal |
 [Evoltile Westlo](https://db.ygoprodeck.com/card/?search=Evoltile%20Westlo) | 0.4998 | 0.65 | Illegal |
-[War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | 0.5012 | 0.40 | Unlimited |
-[Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.5030 | 0.35 | Unlimited |
-[Vampire Ghost](https://db.ygoprodeck.com/card/?search=Vampire%20Ghost) | 0.5038 | 0.31 | Unlimited |
-[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5051 | 0.01 | Unlimited |
+[War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | 0.5011 | 0.40 | Unlimited |
+[Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | 0.5029 | 0.35 | Unlimited |
+[Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | 0.5050 | 0.01 | Unlimited |
 
 ###### [Back home](index)
