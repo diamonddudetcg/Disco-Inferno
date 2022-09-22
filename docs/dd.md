@@ -1066,7 +1066,6 @@
 [D/D/D Deviser King Deus Machinex](https://db.ygoprodeck.com/card/?search=D/D/D%20Deviser%20King%20Deus%20Machinex) | 1.8300 |
 [Gaia Dragon, the Thunder Charger](https://db.ygoprodeck.com/card/?search=Gaia%20Dragon,%20the%20Thunder%20Charger) | 1.8300 |
 [Dark Cavalry](https://db.ygoprodeck.com/card/?search=Dark%20Cavalry) | 1.8400 |
-[Dimension Shifter](https://db.ygoprodeck.com/card/?search=Dimension%20Shifter) | 1.8400 |
 [Kickfire](https://db.ygoprodeck.com/card/?search=Kickfire) | 1.8400 |
 [Koa'ki Meiru Maximus](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Maximus) | 1.8400 |
 [Power Tool Mecha Dragon](https://db.ygoprodeck.com/card/?search=Power%20Tool%20Mecha%20Dragon) | 1.8400 |
