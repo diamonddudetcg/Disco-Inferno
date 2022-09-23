@@ -289,7 +289,7 @@
 [Mirage Knight](https://db.ygoprodeck.com/card/?search=Mirage%20Knight) | 0.6900 |
 [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.6900 |
 [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | 0.6900 |
-[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.6948 |
+[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.6943 |
 [Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | 0.7000 |
 [Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.7000 |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.7000 |
