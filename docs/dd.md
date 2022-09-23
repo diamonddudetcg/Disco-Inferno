@@ -264,7 +264,7 @@
 [Girsu, the Orcust Mekk-Knight](https://db.ygoprodeck.com/card/?search=Girsu,%20the%20Orcust%20Mekk-Knight) | 0.6600 |
 [Gravity Collapse](https://db.ygoprodeck.com/card/?search=Gravity%20Collapse) | 0.6600 |
 [Killer Needle](https://db.ygoprodeck.com/card/?search=Killer%20Needle) | 0.6600 |
-[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.6615 |
+[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.6611 |
 [D/D/D Abyss King Gilgamesh](https://db.ygoprodeck.com/card/?search=D/D/D%20Abyss%20King%20Gilgamesh) | 0.6700 |
 [Danger! Ogopogo!](https://db.ygoprodeck.com/card/?search=Danger!%20Ogopogo!) | 0.6700 |
 [Malefic Parallel Gear](https://db.ygoprodeck.com/card/?search=Malefic%20Parallel%20Gear) | 0.6700 |
