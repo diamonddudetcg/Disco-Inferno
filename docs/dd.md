@@ -323,6 +323,7 @@
 [Present Card](https://db.ygoprodeck.com/card/?search=Present%20Card) | 0.7200 |
 [Starry Knight Flamel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Flamel) | 0.7200 |
 [Xiangke Magician](https://db.ygoprodeck.com/card/?search=Xiangke%20Magician) | 0.7200 |
+[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.7294 |
 [Angel of Zera](https://db.ygoprodeck.com/card/?search=Angel%20of%20Zera) | 0.7300 |
 [Aztekipede, the Worm Warrior](https://db.ygoprodeck.com/card/?search=Aztekipede,%20the%20Worm%20Warrior) | 0.7300 |
 [Infernity Avenger](https://db.ygoprodeck.com/card/?search=Infernity%20Avenger) | 0.7300 |
@@ -332,7 +333,6 @@
 [Number 75: Bamboozling Gossip Shadow](https://db.ygoprodeck.com/card/?search=Number%2075:%20Bamboozling%20Gossip%20Shadow) | 0.7300 |
 [Oboro-Guruma, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Oboro-Guruma,%20the%20Wheeled%20Mayakashi) | 0.7300 |
 [Vampire Dragon](https://db.ygoprodeck.com/card/?search=Vampire%20Dragon) | 0.7300 |
-[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.7302 |
 [Armityle the Chaos Phantasm - Phantom of Fury](https://db.ygoprodeck.com/card/?search=Armityle%20the%20Chaos%20Phantasm%20-%20Phantom%20of%20Fury) | 0.7400 |
 [Hibernation Dragon](https://db.ygoprodeck.com/card/?search=Hibernation%20Dragon) | 0.7400 |
 [Ignoble Knight of High Laundsallyn](https://db.ygoprodeck.com/card/?search=Ignoble%20Knight%20of%20High%20Laundsallyn) | 0.7400 |
