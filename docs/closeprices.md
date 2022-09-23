@@ -6,6 +6,6 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.7322 | 0.42 | Unlimited |
+[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.7316 | 0.46 | Unlimited |
 
 ###### [Back home](index)
