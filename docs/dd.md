@@ -269,7 +269,7 @@
 [Malefic Parallel Gear](https://db.ygoprodeck.com/card/?search=Malefic%20Parallel%20Gear) | 0.6700 |
 [Neo-Spacian Marine Dolphin](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Marine%20Dolphin) | 0.6700 |
 [Orcustrion](https://db.ygoprodeck.com/card/?search=Orcustrion) | 0.6700 |
-[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.6784 |
+[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.6779 |
 [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | 0.6800 |
 [Apprentice Illusion Magician](https://db.ygoprodeck.com/card/?search=Apprentice%20Illusion%20Magician) | 0.6800 |
 [Barrel Behind the Door](https://db.ygoprodeck.com/card/?search=Barrel%20Behind%20the%20Door) | 0.6800 |
