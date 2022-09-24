@@ -19,4 +19,6 @@ title:  "Disco Inferno"
 
 ## Side Format
 
-[Side Format Banlist](ongoingSideBanlist)
+The [side format](ongoingSideBanlist) cutoff for season 3 will be $0.10.
+
+There is no side format for season 2. Once we have a side format estabilished, the price cutoff will randomly change between $0.05 and $2.00 at the start of a season.

@@ -2,7 +2,7 @@
 title: "Disco Inferno Side Format Forbidden & Limited List"
 ---
 
-This is the Structure Deck: Legend of the Crystal Beasts Disco Inferno Side Format ($0.100000) banlist.
+This is the Structure Deck: Legend of the Crystal Beasts Disco Inferno Side Format ($0.10) banlist.
 
 You can find the most recent banlist file [HERE](https://drive.google.com/file/d/1EDYQRpYNfJhBynh0AvtlqkR0qbxbp3JO/view)
 
