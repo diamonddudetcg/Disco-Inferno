@@ -168,7 +168,7 @@
 [Scareclaw Tri-Heart](https://db.ygoprodeck.com/card/?search=Scareclaw%20Tri-Heart) | 0.5900 |
 [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | 0.5900 |
 [The Phantom Knights of Torn Scales](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Torn%20Scales) | 0.5900 |
-[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.5902 |
+[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.5901 |
 [Aluber the Jester of Despia](https://db.ygoprodeck.com/card/?search=Aluber%20the%20Jester%20of%20Despia) | 0.6000 |
 [D/D/D Wave High King Caesar](https://db.ygoprodeck.com/card/?search=D/D/D%20Wave%20High%20King%20Caesar) | 0.6000 |
 [Darklord Enchantment](https://db.ygoprodeck.com/card/?search=Darklord%20Enchantment) | 0.6000 |
