@@ -16,3 +16,7 @@ title:  "Disco Inferno"
 [Card movements](differences)
 
 [Entire banlist](ongoingBanlist)
+
+## Side Format
+
+[Side Format Banlist](ongoingSideBanlist)
