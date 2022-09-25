@@ -1176,6 +1176,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Blade Blaster](https://db.ygoprodeck.com/card/?search=T.G.%20Blade%20Blaster) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Halberd Cannon](https://db.ygoprodeck.com/card/?search=T.G.%20Halberd%20Cannon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Tempest Magician](https://db.ygoprodeck.com/card/?search=Tempest%20Magician) | Illegal |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Tengu, the Winged Mayakashi](https://db.ygoprodeck.com/card/?search=Tengu,%20the%20Winged%20Mayakashi) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Thunder Unicorn](https://db.ygoprodeck.com/card/?search=Thunder%20Unicorn) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Timelord Progenitor Vorpgate](https://db.ygoprodeck.com/card/?search=Timelord%20Progenitor%20Vorpgate) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Trident Dragion](https://db.ygoprodeck.com/card/?search=Trident%20Dragion) | Illegal |
@@ -7660,7 +7661,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Star Guardian](https://db.ygoprodeck.com/card/?search=T.G.%20Star%20Guardian) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Wonder Magician](https://db.ygoprodeck.com/card/?search=T.G.%20Wonder%20Magician) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Tatsunoko](https://db.ygoprodeck.com/card/?search=Tatsunoko) | Unlimited |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Tengu, the Winged Mayakashi](https://db.ygoprodeck.com/card/?search=Tengu,%20the%20Winged%20Mayakashi) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [The Executor of the Underworld - Pluto](https://db.ygoprodeck.com/card/?search=The%20Executor%20of%20the%20Underworld%20-%20Pluto) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [The Fabled Kudabbi](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Kudabbi) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [The Fabled Unicore](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Unicore) | Unlimited |
