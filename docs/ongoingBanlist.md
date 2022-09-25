@@ -1379,6 +1379,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bond Between Teacher and Student](https://db.ygoprodeck.com/card/?search=Bond%20Between%20Teacher%20and%20Student) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Book of Taiyou](https://db.ygoprodeck.com/card/?search=Book%20of%20Taiyou) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Fusion](https://db.ygoprodeck.com/card/?search=Branded%20Fusion) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in Red](https://db.ygoprodeck.com/card/?search=Branded%20in%20Red) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Opening](https://db.ygoprodeck.com/card/?search=Branded%20Opening) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Breath of Light](https://db.ygoprodeck.com/card/?search=Breath%20of%20Light) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | Illegal |
@@ -8184,7 +8185,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Disciple](https://db.ygoprodeck.com/card/?search=Branded%20Disciple) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in Central Dogmatika](https://db.ygoprodeck.com/card/?search=Branded%20in%20Central%20Dogmatika) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in High Spirits](https://db.ygoprodeck.com/card/?search=Branded%20in%20High%20Spirits) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in Red](https://db.ygoprodeck.com/card/?search=Branded%20in%20Red) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in White](https://db.ygoprodeck.com/card/?search=Branded%20in%20White) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Loss](https://db.ygoprodeck.com/card/?search=Branded%20Loss) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Lost](https://db.ygoprodeck.com/card/?search=Branded%20Lost) | Unlimited |
