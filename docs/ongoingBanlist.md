@@ -1753,7 +1753,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Soul Drain](https://db.ygoprodeck.com/card/?search=Soul%20Drain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spirit Barrier](https://db.ygoprodeck.com/card/?search=Spirit%20Barrier) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spiritual Light Art - Hijiri](https://db.ygoprodeck.com/card/?search=Spiritual%20Light%20Art%20-%20Hijiri) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stellarnova Alpha](https://db.ygoprodeck.com/card/?search=Stellarnova%20Alpha) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Storming Mirror Force](https://db.ygoprodeck.com/card/?search=Storming%20Mirror%20Force) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stygian Dirge](https://db.ygoprodeck.com/card/?search=Stygian%20Dirge) | Illegal |
@@ -11233,6 +11232,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Star Siphon](https://db.ygoprodeck.com/card/?search=Star%20Siphon) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stardust Flash](https://db.ygoprodeck.com/card/?search=Stardust%20Flash) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stardust Mirage](https://db.ygoprodeck.com/card/?search=Stardust%20Mirage) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stardust Wish](https://db.ygoprodeck.com/card/?search=Stardust%20Wish) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Starlight Road](https://db.ygoprodeck.com/card/?search=Starlight%20Road) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Starry Knight Arrival](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Arrival) | Unlimited |
