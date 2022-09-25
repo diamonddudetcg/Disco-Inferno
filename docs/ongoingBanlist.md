@@ -1775,6 +1775,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [True Light](https://db.ygoprodeck.com/card/?search=True%20Light) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Tyrant's Temper](https://db.ygoprodeck.com/card/?search=Tyrant's%20Temper) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ultimate Crystal Magic](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Magic) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vanity's Emptiness](https://db.ygoprodeck.com/card/?search=Vanity's%20Emptiness) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Welcome Labrynth](https://db.ygoprodeck.com/card/?search=Welcome%20Labrynth) | Illegal |
@@ -11414,7 +11415,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ultimate Fire Formation - Sinto](https://db.ygoprodeck.com/card/?search=Ultimate%20Fire%20Formation%20-%20Sinto) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ultimate Providence](https://db.ygoprodeck.com/card/?search=Ultimate%20Providence) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Unbreakable Spirit](https://db.ygoprodeck.com/card/?search=Unbreakable%20Spirit) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Underworld Egg Clutch](https://db.ygoprodeck.com/card/?search=Underworld%20Egg%20Clutch) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Unending Nightmare](https://db.ygoprodeck.com/card/?search=Unending%20Nightmare) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Unification](https://db.ygoprodeck.com/card/?search=Unification) | Unlimited |
