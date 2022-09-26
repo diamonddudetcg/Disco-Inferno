@@ -1637,6 +1637,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Guardian Sphinx](https://db.ygoprodeck.com/card/?search=Guardian%20Sphinx) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Guerilla Kite](https://db.ygoprodeck.com/card/?search=Guerilla%20Kite) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Guiding Ariadne](https://db.ygoprodeck.com/card/?search=Guiding%20Ariadne) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gusto Falco](https://db.ygoprodeck.com/card/?search=Gusto%20Falco) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gusto Griffin](https://db.ygoprodeck.com/card/?search=Gusto%20Griffin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gusto Gulldo](https://db.ygoprodeck.com/card/?search=Gusto%20Gulldo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gusto Squirro](https://db.ygoprodeck.com/card/?search=Gusto%20Squirro) | Illegal |
@@ -8234,7 +8235,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gussari @Ignister](https://db.ygoprodeck.com/card/?search=Gussari%20@Ignister) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gusto Codor](https://db.ygoprodeck.com/card/?search=Gusto%20Codor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gusto Egul](https://db.ygoprodeck.com/card/?search=Gusto%20Egul) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gusto Falco](https://db.ygoprodeck.com/card/?search=Gusto%20Falco) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gusto Vedir](https://db.ygoprodeck.com/card/?search=Gusto%20Vedir) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gyroid](https://db.ygoprodeck.com/card/?search=Gyroid) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hack Worm](https://db.ygoprodeck.com/card/?search=Hack%20Worm) | Unlimited |
