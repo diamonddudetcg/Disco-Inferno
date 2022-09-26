@@ -1856,7 +1856,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Anti-Spell Fragrance](https://db.ygoprodeck.com/card/?search=Anti-Spell%20Fragrance) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dimensional Barrier](https://db.ygoprodeck.com/card/?search=Dimensional%20Barrier) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | Forbidden |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Return from the Different Dimension](https://db.ygoprodeck.com/card/?search=Return%20from%20the%20Different%20Dimension) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Self-Destruct Button](https://db.ygoprodeck.com/card/?search=Self-Destruct%20Button) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Monarchs Erupt](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Erupt) | Forbidden |
@@ -1888,6 +1887,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Hornet Drones](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Hornet%20Drones) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Terraforming](https://db.ygoprodeck.com/card/?search=Terraforming) | Limited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Explosion](https://db.ygoprodeck.com/card/?search=Magical%20Explosion) | Limited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomight Knight, the True Dracofighter](https://db.ygoprodeck.com/card/?search=Dinomight%20Knight,%20the%20True%20Dracofighter) | Semi-Limited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [7 Colored Fish](https://db.ygoprodeck.com/card/?search=7%20Colored%20Fish) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Acrobat Monkey](https://db.ygoprodeck.com/card/?search=Acrobat%20Monkey) | Unlimited |

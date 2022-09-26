@@ -49,7 +49,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gozen Match](https://db.ygoprodeck.com/card/?search=Gozen%20Match) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Macro Cosmos](https://db.ygoprodeck.com/card/?search=Macro%20Cosmos) | Forbidden |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rivalry of Warlords](https://db.ygoprodeck.com/card/?search=Rivalry%20of%20Warlords) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Summon Limit](https://db.ygoprodeck.com/card/?search=Summon%20Limit) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Monarchs Erupt](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Erupt) | Forbidden |
