@@ -1450,6 +1450,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Destiny](https://db.ygoprodeck.com/card/?search=Fusion%20Destiny) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Expedition](https://db.ygoprodeck.com/card/?search=Galaxy%20Expedition) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gateway to Chaos](https://db.ygoprodeck.com/card/?search=Gateway%20to%20Chaos) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Generation Force](https://db.ygoprodeck.com/card/?search=Generation%20Force) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Get Your Game On!](https://db.ygoprodeck.com/card/?search=Get%20Your%20Game%20On!) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ghost Meets Girl - A Shiranui's Story](https://db.ygoprodeck.com/card/?search=Ghost%20Meets%20Girl%20-%20A%20Shiranui's%20Story) | Illegal |
@@ -8690,7 +8691,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Zero](https://db.ygoprodeck.com/card/?search=Galaxy%20Zero) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galloping Gaia](https://db.ygoprodeck.com/card/?search=Galloping%20Gaia) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Garma Sword Oath](https://db.ygoprodeck.com/card/?search=Garma%20Sword%20Oath) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gateway to Chaos](https://db.ygoprodeck.com/card/?search=Gateway%20to%20Chaos) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gateway to Dark World](https://db.ygoprodeck.com/card/?search=Gateway%20to%20Dark%20World) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gather Your Mind](https://db.ygoprodeck.com/card/?search=Gather%20Your%20Mind) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gearbreed](https://db.ygoprodeck.com/card/?search=Gearbreed) | Unlimited |
