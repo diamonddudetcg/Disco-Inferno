@@ -5771,6 +5771,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Prank-Kids Place](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Place) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Prank-Kids Pranks](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Pranks) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pre-Preparation of Rites](https://db.ygoprodeck.com/card/?search=Pre-Preparation%20of%20Rites) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Precious Cards from Beyond](https://db.ygoprodeck.com/card/?search=Precious%20Cards%20from%20Beyond) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predaprime Fusion](https://db.ygoprodeck.com/card/?search=Predaprime%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapruning](https://db.ygoprodeck.com/card/?search=Predapruning) | Illegal |
@@ -10350,7 +10351,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Power Bond](https://db.ygoprodeck.com/card/?search=Power%20Bond) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Power Capsule](https://db.ygoprodeck.com/card/?search=Power%20Capsule) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Power of Kaishin](https://db.ygoprodeck.com/card/?search=Power%20of%20Kaishin) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Precious Cards from Beyond](https://db.ygoprodeck.com/card/?search=Precious%20Cards%20from%20Beyond) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predaplast](https://db.ygoprodeck.com/card/?search=Predaplast) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predaponics](https://db.ygoprodeck.com/card/?search=Predaponics) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Prediction Ritual](https://db.ygoprodeck.com/card/?search=Prediction%20Ritual) | Unlimited |
