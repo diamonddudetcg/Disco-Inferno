@@ -4,7 +4,7 @@ title:  "About Disco Inferno"
 
 ## What is Disco Inferno?
 
-Disco Inferno is a budget-oriented, online only alt format that rotates once a month.
+Disco Inferno is a budget-oriented, online only alt format that rotates with every set release.
 
 It is loosely based on the MTG fanmade format [Penny Dreadful](http://www.pennydreadfulmagic.com)
 
@@ -12,10 +12,12 @@ Since we don't have something like Magic Online that allows really good cards to
 
 There are two instances where a banlist will be generated:
 
-* A new official TCG banlist is released
+* A week after the release of a major set (Everything except Speed Duel product, OTS packs and Structure Decks)
 * The first day of a month
 
 The monthly banlists will only be generated if no official banlist has dropped a week before the first day of a month.
+
+On average, formats tend to last 2-3 weeks, so if something is broken it will get dealt with pretty quickly.
 
 Strictly delimitated banlists are something other budget formats did not have, and they allow for a clear cut definition of what is legal and what isn't. While they leave less flexibility to the deckbuilder, they make tournaments easier to organize.
 
