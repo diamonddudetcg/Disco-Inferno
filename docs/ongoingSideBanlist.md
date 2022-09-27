@@ -6169,6 +6169,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vernusylph Corolla](https://db.ygoprodeck.com/card/?search=Vernusylph%20Corolla) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vessel for the Dragon Cycle](https://db.ygoprodeck.com/card/?search=Vessel%20for%20the%20Dragon%20Cycle) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vicious Claw](https://db.ygoprodeck.com/card/?search=Vicious%20Claw) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vile Germs](https://db.ygoprodeck.com/card/?search=Vile%20Germs) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Virtual World City - Kauwloon](https://db.ygoprodeck.com/card/?search=Virtual%20World%20City%20-%20Kauwloon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vision Fusion](https://db.ygoprodeck.com/card/?search=Vision%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vision with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Vision%20with%20Eyes%20of%20Blue) | Illegal |
@@ -10621,7 +10622,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vendread Nightmare](https://db.ygoprodeck.com/card/?search=Vendread%20Nightmare) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vengeful Servant](https://db.ygoprodeck.com/card/?search=Vengeful%20Servant) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vertical Landing](https://db.ygoprodeck.com/card/?search=Vertical%20Landing) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vile Germs](https://db.ygoprodeck.com/card/?search=Vile%20Germs) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Violet Crystal](https://db.ygoprodeck.com/card/?search=Violet%20Crystal) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Viper's Rebirth](https://db.ygoprodeck.com/card/?search=Viper's%20Rebirth) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Virtual World Gate - Qinglong](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Gate%20-%20Qinglong) | Unlimited |
