@@ -5825,6 +5825,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rikka Glamour](https://db.ygoprodeck.com/card/?search=Rikka%20Glamour) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rikka Konkon](https://db.ygoprodeck.com/card/?search=Rikka%20Konkon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ring of Defense](https://db.ygoprodeck.com/card/?search=Ring%20of%20Defense) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ring of Magnetism](https://db.ygoprodeck.com/card/?search=Ring%20of%20Magnetism) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rite of Aramesir](https://db.ygoprodeck.com/card/?search=Rite%20of%20Aramesir) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ritual Beast Return](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Return) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ritual Cage](https://db.ygoprodeck.com/card/?search=Ritual%20Cage) | Illegal |
@@ -10409,7 +10410,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reverse Breaker](https://db.ygoprodeck.com/card/?search=Reverse%20Breaker) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reverse of Neos](https://db.ygoprodeck.com/card/?search=Reverse%20of%20Neos) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ribbon of Rebirth](https://db.ygoprodeck.com/card/?search=Ribbon%20of%20Rebirth) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ring of Magnetism](https://db.ygoprodeck.com/card/?search=Ring%20of%20Magnetism) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Riryoku](https://db.ygoprodeck.com/card/?search=Riryoku) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rise of the Salamangreat](https://db.ygoprodeck.com/card/?search=Rise%20of%20the%20Salamangreat) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rising Air Current](https://db.ygoprodeck.com/card/?search=Rising%20Air%20Current) | Unlimited |
