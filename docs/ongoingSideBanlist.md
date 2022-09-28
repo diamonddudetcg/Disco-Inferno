@@ -4445,7 +4445,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [The Executor of the Underworld - Pluto](https://db.ygoprodeck.com/card/?search=The%20Executor%20of%20the%20Underworld%20-%20Pluto) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [The Fabled Unicore](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Unicore) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Thermal Genex](https://db.ygoprodeck.com/card/?search=Thermal%20Genex) | Illegal |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Thor, Lord of the Aesir](https://db.ygoprodeck.com/card/?search=Thor,%20Lord%20of%20the%20Aesir) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Thought Ruler Archfiend](https://db.ygoprodeck.com/card/?search=Thought%20Ruler%20Archfiend) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Thunder Unicorn](https://db.ygoprodeck.com/card/?search=Thunder%20Unicorn) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Timelord Progenitor Vorpgate](https://db.ygoprodeck.com/card/?search=Timelord%20Progenitor%20Vorpgate) | Illegal |
@@ -9714,6 +9713,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Superheavy Samurai Swordmaster Musashi](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Swordmaster%20Musashi) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Symphonic Warrior Rockks](https://db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20Rockks) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [The Fabled Kudabbi](https://db.ygoprodeck.com/card/?search=The%20Fabled%20Kudabbi) | Unlimited |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Thor, Lord of the Aesir](https://db.ygoprodeck.com/card/?search=Thor,%20Lord%20of%20the%20Aesir) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Aegaion the Sea Castrum](https://db.ygoprodeck.com/card/?search=Aegaion%20the%20Sea%20Castrum) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Battlecruiser Dianthus](https://db.ygoprodeck.com/card/?search=Battlecruiser%20Dianthus) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Battlin' Boxer Lead Yoke](https://db.ygoprodeck.com/card/?search=Battlin'%20Boxer%20Lead%20Yoke) | Unlimited |
