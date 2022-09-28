@@ -17,6 +17,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Artifact Scythe](https://db.ygoprodeck.com/card/?search=Artifact%20Scythe) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cannon Soldier](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cannon Soldier MK-2](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier%20MK-2) | Forbidden |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dimension Shifter](https://db.ygoprodeck.com/card/?search=Dimension%20Shifter) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinowrestler Pankratops](https://db.ygoprodeck.com/card/?search=Dinowrestler%20Pankratops) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inspector Boarder](https://db.ygoprodeck.com/card/?search=Inspector%20Boarder) | Forbidden |

@@ -1794,6 +1794,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cannon Soldier](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cannon Soldier MK-2](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier%20MK-2) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dandylion](https://db.ygoprodeck.com/card/?search=Dandylion) | Forbidden |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinowrestler Pankratops](https://db.ygoprodeck.com/card/?search=Dinowrestler%20Pankratops) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Djinn Releaser of Rituals](https://db.ygoprodeck.com/card/?search=Djinn%20Releaser%20of%20Rituals) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Eva](https://db.ygoprodeck.com/card/?search=Eva) | Forbidden |
@@ -3309,7 +3310,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Delta Flyer](https://db.ygoprodeck.com/card/?search=Delta%20Flyer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Delta The Magnet Warrior](https://db.ygoprodeck.com/card/?search=Delta%20The%20Magnet%20Warrior) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Delta Tri](https://db.ygoprodeck.com/card/?search=Delta%20Tri) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Depth Shark](https://db.ygoprodeck.com/card/?search=Depth%20Shark) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Des Dendle](https://db.ygoprodeck.com/card/?search=Des%20Dendle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Des Feral Imp](https://db.ygoprodeck.com/card/?search=Des%20Feral%20Imp) | Unlimited |
