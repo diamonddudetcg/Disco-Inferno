@@ -325,7 +325,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Octopus](https://db.ygoprodeck.com/card/?search=Fluffal%20Octopus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Penguin](https://db.ygoprodeck.com/card/?search=Fluffal%20Penguin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flying Elephant](https://db.ygoprodeck.com/card/?search=Flying%20Elephant) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fool of Prophecy](https://db.ygoprodeck.com/card/?search=Fool%20of%20Prophecy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fortune Lady Dark](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Dark) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | Illegal |
@@ -3808,6 +3807,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flying Red Carp](https://db.ygoprodeck.com/card/?search=Flying%20Red%20Carp) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flying Saucer Muusik'i](https://db.ygoprodeck.com/card/?search=Flying%20Saucer%20Muusik'i) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fool of Prophecy](https://db.ygoprodeck.com/card/?search=Fool%20of%20Prophecy) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Force Resonator](https://db.ygoprodeck.com/card/?search=Force%20Resonator) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Formud Skipper](https://db.ygoprodeck.com/card/?search=Formud%20Skipper) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fortress Warrior](https://db.ygoprodeck.com/card/?search=Fortress%20Warrior) | Unlimited |

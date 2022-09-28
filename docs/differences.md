@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 253
+Estimated number of changes: 254
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -155,6 +155,7 @@ Estimated number of changes: 253
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dupe Frog](https://db.ygoprodeck.com/card/?search=Dupe%20Frog) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | Illegal | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fool of Prophecy](https://db.ygoprodeck.com/card/?search=Fool%20of%20Prophecy) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Descendant](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Descendant) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Shaman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Shaman) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Great Moth](https://db.ygoprodeck.com/card/?search=Great%20Moth) | Illegal | Unlimited |
