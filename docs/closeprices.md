@@ -17,7 +17,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Humanoid Slime](https://db.ygoprodeck.com/card/?search=Humanoid%20Slime) | 0.4953 | 0.51 | Illegal |
 [Tuning Magician](https://db.ygoprodeck.com/card/?search=Tuning%20Magician) | 0.4991 | 0.63 | Illegal |
 [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | 0.5047 | 0.49 | Unlimited |
-[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.5068 | 0.45 | Unlimited |
+[Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | 0.5068 | 0.44 | Unlimited |
 [Elemental HERO Wild Wingman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wild%20Wingman) | 0.5082 | 0.42 | Unlimited |
 [Blackwing Armed Wing](https://db.ygoprodeck.com/card/?search=Blackwing%20Armed%20Wing) | 0.5086 | 0.44 | Unlimited |
 [D/D/D Super Doom King Bright Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Bright%20Armageddon) | 0.5090 | 0.46 | Unlimited |
