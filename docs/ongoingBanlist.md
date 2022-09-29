@@ -1845,6 +1845,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Numeron Calling](https://db.ygoprodeck.com/card/?search=Numeron%20Calling) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Premature Burial](https://db.ygoprodeck.com/card/?search=Premature%20Burial) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Forbidden |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Simorgh Repulsion](https://db.ygoprodeck.com/card/?search=Simorgh%20Repulsion) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Smoke Grenade of the Thief](https://db.ygoprodeck.com/card/?search=Smoke%20Grenade%20of%20the%20Thief) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Snatch Steal](https://db.ygoprodeck.com/card/?search=Snatch%20Steal) | Forbidden |
@@ -9414,7 +9415,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Self-Mummification](https://db.ygoprodeck.com/card/?search=Self-Mummification) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Senet Switch](https://db.ygoprodeck.com/card/?search=Senet%20Switch) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Senri Eye](https://db.ygoprodeck.com/card/?search=Senri%20Eye) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sextet Summon](https://db.ygoprodeck.com/card/?search=Sextet%20Summon) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shard of Greed](https://db.ygoprodeck.com/card/?search=Shard%20of%20Greed) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Share the Pain](https://db.ygoprodeck.com/card/?search=Share%20the%20Pain) | Unlimited |

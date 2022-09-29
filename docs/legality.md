@@ -117,7 +117,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Gate](https://db.ygoprodeck.com/card/?search=Monster%20Gate) | No Longer Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reasoning](https://db.ygoprodeck.com/card/?search=Reasoning) | No Longer Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sekka's Light](https://db.ygoprodeck.com/card/?search=Sekka's%20Light) | No Longer Limited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation) | No Longer Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha Modules - Multirole](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20Modules%20-%20Multirole) | No Longer Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Slash Draw](https://db.ygoprodeck.com/card/?search=Slash%20Draw) | No Longer Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [SPYRAL Resort](https://db.ygoprodeck.com/card/?search=SPYRAL%20Resort) | No Longer Limited |

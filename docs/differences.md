@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 259
+Estimated number of changes: 260
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -125,6 +125,7 @@ Estimated number of changes: 259
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Invoked Caliga](https://db.ygoprodeck.com/card/?search=Invoked%20Caliga) | Unlimited | Forbidden |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Herald of the Arc Light](https://db.ygoprodeck.com/card/?search=Herald%20of%20the%20Arc%20Light) | Unlimited | Forbidden |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Unlimited | Forbidden |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation) | Unlimited | Forbidden |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Simorgh Repulsion](https://db.ygoprodeck.com/card/?search=Simorgh%20Repulsion) | Unlimited | Forbidden |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eradicator Epidemic Virus](https://db.ygoprodeck.com/card/?search=Eradicator%20Epidemic%20Virus) | Unlimited | Forbidden |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Steam the Cloak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Steam%20the%20Cloak) | Forbidden | Limited |
