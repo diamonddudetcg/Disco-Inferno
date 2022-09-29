@@ -623,6 +623,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Satellarknight Deneb](https://db.ygoprodeck.com/card/?search=Satellarknight%20Deneb) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scareclaw Reichheart](https://db.ygoprodeck.com/card/?search=Scareclaw%20Reichheart) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scarm, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Scarm,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scary Moth](https://db.ygoprodeck.com/card/?search=Scary%20Moth) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Mind Reader](https://db.ygoprodeck.com/card/?search=Scrap%20Mind%20Reader) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Secret Six Samurai - Hatsume](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Hatsume) | Illegal |
@@ -1805,7 +1806,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mind Master](https://db.ygoprodeck.com/card/?search=Mind%20Master) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Morphtronic Telefon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Telefon) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Samsara Lotus](https://db.ygoprodeck.com/card/?search=Samsara%20Lotus) | Forbidden |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scary Moth](https://db.ygoprodeck.com/card/?search=Scary%20Moth) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Tyrant Neptune](https://db.ygoprodeck.com/card/?search=The%20Tyrant%20Neptune) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Cannon Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Cannon%20Soldier) | Forbidden |
