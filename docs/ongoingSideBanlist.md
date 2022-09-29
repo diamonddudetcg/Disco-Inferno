@@ -549,7 +549,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman D](https://db.ygoprodeck.com/card/?search=Batteryman%20D) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Fuel Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Fuel%20Cell) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Solar](https://db.ygoprodeck.com/card/?search=Batteryman%20Solar) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battle Fader](https://db.ygoprodeck.com/card/?search=Battle%20Fader) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlewasp - Arbalest the Rapidfire](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Arbalest%20the%20Rapidfire) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlewasp - Dart the Hunter](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Dart%20the%20Hunter) | Illegal |
@@ -6728,6 +6727,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metalhold the Moving Blockade](https://db.ygoprodeck.com/card/?search=Metalhold%20the%20Moving%20Blockade) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metalmorph](https://db.ygoprodeck.com/card/?search=Metalmorph) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metamorphortress](https://db.ygoprodeck.com/card/?search=Metamorphortress) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaphys Ascension](https://db.ygoprodeck.com/card/?search=Metaphys%20Ascension) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaphys Dimension](https://db.ygoprodeck.com/card/?search=Metaphys%20Dimension) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Meteor Flare](https://db.ygoprodeck.com/card/?search=Meteor%20Flare) | Illegal |
@@ -6865,6 +6865,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red-Eyes Fang with Chain](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Fang%20with%20Chain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red-Eyes Spirit](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Spirit) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reject Reborn](https://db.ygoprodeck.com/card/?search=Reject%20Reborn) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Release from Stone](https://db.ygoprodeck.com/card/?search=Release%20from%20Stone) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Relieve Monster](https://db.ygoprodeck.com/card/?search=Relieve%20Monster) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Remove Brainwashing](https://db.ygoprodeck.com/card/?search=Remove%20Brainwashing) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Resh Shaddoll Incarnation](https://db.ygoprodeck.com/card/?search=Resh%20Shaddoll%20Incarnation) | Illegal |
@@ -7534,6 +7535,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman AA](https://db.ygoprodeck.com/card/?search=Batteryman%20AA) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman C](https://db.ygoprodeck.com/card/?search=Batteryman%20C) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Micro-Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Micro-Cell) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Solar](https://db.ygoprodeck.com/card/?search=Batteryman%20Solar) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battle Survivor](https://db.ygoprodeck.com/card/?search=Battle%20Survivor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battleguard Cadet](https://db.ygoprodeck.com/card/?search=Battleguard%20Cadet) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battleguard King](https://db.ygoprodeck.com/card/?search=Battleguard%20King) | Unlimited |
@@ -11139,7 +11141,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metal Reflect Slime](https://db.ygoprodeck.com/card/?search=Metal%20Reflect%20Slime) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metalfoes Combination](https://db.ygoprodeck.com/card/?search=Metalfoes%20Combination) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metalfoes Counter](https://db.ygoprodeck.com/card/?search=Metalfoes%20Counter) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaphys Ascension](https://db.ygoprodeck.com/card/?search=Metaphys%20Ascension) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Michizure](https://db.ygoprodeck.com/card/?search=Michizure) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Micro Ray](https://db.ygoprodeck.com/card/?search=Micro%20Ray) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mimesis Elephant](https://db.ygoprodeck.com/card/?search=Mimesis%20Elephant) | Unlimited |
@@ -11274,7 +11275,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reinforced Space](https://db.ygoprodeck.com/card/?search=Reinforced%20Space) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reinforcements](https://db.ygoprodeck.com/card/?search=Reinforcements) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Relay Soul](https://db.ygoprodeck.com/card/?search=Relay%20Soul) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Release from Stone](https://db.ygoprodeck.com/card/?search=Release%20from%20Stone) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Release, Reverse, Burst](https://db.ygoprodeck.com/card/?search=Release,%20Reverse,%20Burst) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Remote Rebirth](https://db.ygoprodeck.com/card/?search=Remote%20Rebirth) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Remote Revenge](https://db.ygoprodeck.com/card/?search=Remote%20Revenge) | Unlimited |
