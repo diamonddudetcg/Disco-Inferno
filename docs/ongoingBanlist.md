@@ -1848,6 +1848,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Anti-Spell Fragrance](https://db.ygoprodeck.com/card/?search=Anti-Spell%20Fragrance) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dimensional Barrier](https://db.ygoprodeck.com/card/?search=Dimensional%20Barrier) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eradicator Epidemic Virus](https://db.ygoprodeck.com/card/?search=Eradicator%20Epidemic%20Virus) | Forbidden |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Give and Take](https://db.ygoprodeck.com/card/?search=Give%20and%20Take) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Return from the Different Dimension](https://db.ygoprodeck.com/card/?search=Return%20from%20the%20Different%20Dimension) | Forbidden |
@@ -10547,7 +10548,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Giant Starfall](https://db.ygoprodeck.com/card/?search=Giant%20Starfall) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Giant Trap Hole](https://db.ygoprodeck.com/card/?search=Giant%20Trap%20Hole) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gift of the Mystical Elf](https://db.ygoprodeck.com/card/?search=Gift%20of%20the%20Mystical%20Elf) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Give and Take](https://db.ygoprodeck.com/card/?search=Give%20and%20Take) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast Charge](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Charge) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Lash](https://db.ygoprodeck.com/card/?search=Gladiator%20Lash) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Naumachia](https://db.ygoprodeck.com/card/?search=Gladiator%20Naumachia) | Unlimited |

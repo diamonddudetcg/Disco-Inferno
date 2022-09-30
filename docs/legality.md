@@ -52,6 +52,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Anti-Spell Fragrance](https://db.ygoprodeck.com/card/?search=Anti-Spell%20Fragrance) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dimensional Barrier](https://db.ygoprodeck.com/card/?search=Dimensional%20Barrier) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eradicator Epidemic Virus](https://db.ygoprodeck.com/card/?search=Eradicator%20Epidemic%20Virus) | Forbidden |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Give and Take](https://db.ygoprodeck.com/card/?search=Give%20and%20Take) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gozen Match](https://db.ygoprodeck.com/card/?search=Gozen%20Match) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Macro Cosmos](https://db.ygoprodeck.com/card/?search=Macro%20Cosmos) | Forbidden |
