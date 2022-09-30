@@ -5761,6 +5761,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raidraptor - Call](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Call) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raigeki](https://db.ygoprodeck.com/card/?search=Raigeki) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raimei](https://db.ygoprodeck.com/card/?search=Raimei) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rain of Mercy](https://db.ygoprodeck.com/card/?search=Rain%20of%20Mercy) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Bridge](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Bridge of the Heart](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20the%20Heart) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Veil](https://db.ygoprodeck.com/card/?search=Rainbow%20Veil) | Illegal |
@@ -10385,7 +10386,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rage of Kairyu-Shin](https://db.ygoprodeck.com/card/?search=Rage%20of%20Kairyu-Shin) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raging Mad Plants](https://db.ygoprodeck.com/card/?search=Raging%20Mad%20Plants) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raidraptor - Nest](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Nest) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rain of Mercy](https://db.ygoprodeck.com/card/?search=Rain%20of%20Mercy) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Refraction](https://db.ygoprodeck.com/card/?search=Rainbow%20Refraction) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raise Body Heat](https://db.ygoprodeck.com/card/?search=Raise%20Body%20Heat) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic - The Seventh One](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20-%20The%20Seventh%20One) | Unlimited |
