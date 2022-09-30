@@ -21,8 +21,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | 0.5123 | 0.46 | Unlimited |
 [Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.5124 | 0.44 | Unlimited |
 [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.5142 | 0.47 | Unlimited |
-[NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5144 | 0.45 | Unlimited |
+[NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5143 | 0.45 | Unlimited |
 [Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | 0.5287 | 0.40 | Unlimited |
-[Odd-Eyes Venom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Venom%20Dragon) | 0.5308 | 0.39 | Unlimited |
+[Odd-Eyes Venom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Venom%20Dragon) | 0.5307 | 0.39 | Unlimited |
 
 ###### [Back home](index)
