@@ -16,13 +16,13 @@ This is a list of cards that are likely to change legality before the next rotat
 [Amazoness Chain Master](https://db.ygoprodeck.com/card/?search=Amazoness%20Chain%20Master) | 0.5030 | 0.45 | Unlimited |
 [Simorgh, Bird of Divinity](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Divinity) | 0.5030 | 0.45 | Unlimited |
 [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | 0.5049 | 0.46 | Unlimited |
-[King of the Skull Servants](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants) | 0.5094 | 0.44 | Unlimited |
+[King of the Skull Servants](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants) | 0.5093 | 0.44 | Unlimited |
 [Evilswarm Ophion](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ophion) | 0.5112 | 0.45 | Unlimited |
 [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | 0.5130 | 0.46 | Unlimited |
-[Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.5135 | 0.44 | Unlimited |
+[Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.5134 | 0.44 | Unlimited |
 [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.5149 | 0.47 | Unlimited |
 [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5153 | 0.45 | Unlimited |
-[Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | 0.5306 | 0.40 | Unlimited |
+[Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | 0.5305 | 0.40 | Unlimited |
 [Odd-Eyes Venom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Venom%20Dragon) | 0.5328 | 0.39 | Unlimited |
 
 ###### [Back home](index)
