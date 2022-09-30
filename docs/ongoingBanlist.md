@@ -884,7 +884,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Kraken](https://db.ygoprodeck.com/card/?search=Frightfur%20Kraken) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Leo](https://db.ygoprodeck.com/card/?search=Frightfur%20Leo) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Tiger](https://db.ygoprodeck.com/card/?search=Frightfur%20Tiger) | Illegal |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fullmetalfoes Alkahest](https://db.ygoprodeck.com/card/?search=Fullmetalfoes%20Alkahest) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gaia Drake, the Universal Force](https://db.ygoprodeck.com/card/?search=Gaia%20Drake,%20the%20Universal%20Force) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Garura, Wings of Resonant Life](https://db.ygoprodeck.com/card/?search=Garura,%20Wings%20of%20Resonant%20Life) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gatling Dragon](https://db.ygoprodeck.com/card/?search=Gatling%20Dragon) | Illegal |
@@ -7058,6 +7057,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Sabre-Tooth](https://db.ygoprodeck.com/card/?search=Frightfur%20Sabre-Tooth) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Sheep](https://db.ygoprodeck.com/card/?search=Frightfur%20Sheep) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Wolf](https://db.ygoprodeck.com/card/?search=Frightfur%20Wolf) | Unlimited |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fullmetalfoes Alkahest](https://db.ygoprodeck.com/card/?search=Fullmetalfoes%20Alkahest) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fusionist](https://db.ygoprodeck.com/card/?search=Fusionist) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Gaia%20the%20Dragon%20Champion) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gaia the Magical Knight of Dragons](https://db.ygoprodeck.com/card/?search=Gaia%20the%20Magical%20Knight%20of%20Dragons) | Unlimited |
