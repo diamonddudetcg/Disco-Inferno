@@ -692,7 +692,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Test Tiger](https://db.ygoprodeck.com/card/?search=Test%20Tiger) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Testament of the Arcane Lords](https://db.ygoprodeck.com/card/?search=Testament%20of%20the%20Arcane%20Lords) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Testudo erat Numen](https://db.ygoprodeck.com/card/?search=Testudo%20erat%20Numen) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Life - Neptune](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Life%20-%20Neptune) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Black Stone of Legend](https://db.ygoprodeck.com/card/?search=The%20Black%20Stone%20of%20Legend) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The End of Anubis](https://db.ygoprodeck.com/card/?search=The%20End%20of%20Anubis) | Illegal |
@@ -6259,6 +6258,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Entropy - Uranus](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Entropy%20-%20Uranus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Force - Mars](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Force%20-%20Mars) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Judgment - Saturn](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Judgment%20-%20Saturn) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Life - Neptune](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Life%20-%20Neptune) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Miracles - Jupiter](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Miracles%20-%20Jupiter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Mystery - Earth](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Mystery%20-%20Earth) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Agent of Wisdom - Mercury](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Wisdom%20-%20Mercury) | Unlimited |
