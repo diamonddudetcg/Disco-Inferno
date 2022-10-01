@@ -6,7 +6,11 @@ title:  "Disco Inferno"
 
 [You can find the EDOPRO banlist here](https://drive.google.com/file/d/1Df9PABZ7ygmywF9Sc3dOoblOz1YyMcwt/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.
 
-The banlist file goes into the lflists folder in your EDOPRO installation folder. Assuming you use Windows, it usually is C:/ProjectIgnis/lflists
+The banlist file goes into the lflists folder in your EDOPRO installation folder. 
+
+If you use Windows, it usually is C:/ProjectIgnis/lflists
+
+If you use Android, it usually is EDOPRO/lflists
 
 EDOPRO will not recognize a change in banlists while it is open. You will have to restart EDOPRO for the changes to be reflected.
 
