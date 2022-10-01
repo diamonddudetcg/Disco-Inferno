@@ -10,6 +10,9 @@ Starting with Season 3, we're doing something Konami hasn't done since 2012 and 
 
 ## Forbidden
 
+
+</br>
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka)
 
 Decks that don't need their Normal Summon have abused this card to beat backrow decks. We want control decks to be able to flip Trap cards, so we've decided to ban Denko Sekka to make the format a little less hostile to them.
@@ -62,6 +65,9 @@ Probably the funniest one, Beetrooper was using this to give their opponents a [
 
 ## Limited
 
+
+</br>
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen)
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Robina](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Robina)
@@ -87,6 +93,9 @@ Like Pendulum, Dragons have had a lot of tools at their disposal that somehow ha
 
 
 ## Unlimited
+
+
+</br>
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Megalith Unformed](https://db.ygoprodeck.com/card/?search=Megalith%20Unformed)
 
