@@ -35,6 +35,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Bio-Mage](https://db.ygoprodeck.com/card/?search=Bio-Mage) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blocker](https://db.ygoprodeck.com/card/?search=Blocker) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blue-Eyes White Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20White%20Dragon) | Illegal |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blue-Winged Crown](https://db.ygoprodeck.com/card/?search=Blue-Winged%20Crown) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Bottom Dweller](https://db.ygoprodeck.com/card/?search=Bottom%20Dweller) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Brave Scizzar](https://db.ygoprodeck.com/card/?search=Brave%20Scizzar) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Bujin Hiruko](https://db.ygoprodeck.com/card/?search=Bujin%20Hiruko) | Illegal |
@@ -2876,6 +2877,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Tough](https://db.ygoprodeck.com/card/?search=SPYRAL%20Tough) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Star Boy](https://db.ygoprodeck.com/card/?search=Star%20Boy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Star Seraph Scale](https://db.ygoprodeck.com/card/?search=Star%20Seraph%20Scale) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stardust Dragon/Assault Mode](https://db.ygoprodeck.com/card/?search=Stardust%20Dragon/Assault%20Mode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stardust Phantom](https://db.ygoprodeck.com/card/?search=Stardust%20Phantom) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stardust Synchron](https://db.ygoprodeck.com/card/?search=Stardust%20Synchron) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starduston](https://db.ygoprodeck.com/card/?search=Starduston) | Illegal |
@@ -7177,7 +7179,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blade Skater](https://db.ygoprodeck.com/card/?search=Blade%20Skater) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blazing Inpachi](https://db.ygoprodeck.com/card/?search=Blazing%20Inpachi) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blue-Eyed Silver Zombie](https://db.ygoprodeck.com/card/?search=Blue-Eyed%20Silver%20Zombie) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Blue-Winged Crown](https://db.ygoprodeck.com/card/?search=Blue-Winged%20Crown) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Bokoichi the Freightening Car](https://db.ygoprodeck.com/card/?search=Bokoichi%20the%20Freightening%20Car) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Bolt Penguin](https://db.ygoprodeck.com/card/?search=Bolt%20Penguin) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Boneheimer](https://db.ygoprodeck.com/card/?search=Boneheimer) | Unlimited |
@@ -9106,7 +9107,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Star Seraph Sovereignty](https://db.ygoprodeck.com/card/?search=Star%20Seraph%20Sovereignty) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Star Seraph Sword](https://db.ygoprodeck.com/card/?search=Star%20Seraph%20Sword) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Star Staring Starling](https://db.ygoprodeck.com/card/?search=Star%20Staring%20Starling) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stardust Dragon/Assault Mode](https://db.ygoprodeck.com/card/?search=Stardust%20Dragon/Assault%20Mode) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stardust Trail](https://db.ygoprodeck.com/card/?search=Stardust%20Trail) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stardust Xiaolong](https://db.ygoprodeck.com/card/?search=Stardust%20Xiaolong) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starfish](https://db.ygoprodeck.com/card/?search=Starfish) | Unlimited |

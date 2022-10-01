@@ -112,7 +112,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amabie](https://db.ygoprodeck.com/card/?search=Amabie) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Administrator Arlekino](https://db.ygoprodeck.com/card/?search=Amazement%20Administrator%20Arlekino) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Attendant Comica](https://db.ygoprodeck.com/card/?search=Amazement%20Attendant%20Comica) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Chain Master](https://db.ygoprodeck.com/card/?search=Amazoness%20Chain%20Master) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Fighter](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Scouts](https://db.ygoprodeck.com/card/?search=Amazoness%20Scouts) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Tiger) | Illegal |
@@ -637,7 +636,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Silent Swordsman](https://db.ygoprodeck.com/card/?search=Silent%20Swordsman) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Silent Wobby](https://db.ygoprodeck.com/card/?search=Silent%20Wobby) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Ancestry](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Ancestry) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Divinity](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Divinity) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sinister Serpent](https://db.ygoprodeck.com/card/?search=Sinister%20Serpent) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Flame](https://db.ygoprodeck.com/card/?search=Skull%20Flame) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | Illegal |
@@ -2450,6 +2448,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazement Assistant Delia](https://db.ygoprodeck.com/card/?search=Amazement%20Assistant%20Delia) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Baby Tiger](https://db.ygoprodeck.com/card/?search=Amazoness%20Baby%20Tiger) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Blowpiper](https://db.ygoprodeck.com/card/?search=Amazoness%20Blowpiper) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Chain Master](https://db.ygoprodeck.com/card/?search=Amazoness%20Chain%20Master) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Paladin](https://db.ygoprodeck.com/card/?search=Amazoness%20Paladin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Princess](https://db.ygoprodeck.com/card/?search=Amazoness%20Princess) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Queen](https://db.ygoprodeck.com/card/?search=Amazoness%20Queen) | Unlimited |
@@ -5890,6 +5889,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Beginning](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Beginning) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Bringing](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Bringing) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Calamity](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Calamity) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Divinity](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Divinity) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Perfection](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Perfection) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Protection](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Protection) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Lord of the Storm](https://db.ygoprodeck.com/card/?search=Simorgh,%20Lord%20of%20the%20Storm) | Unlimited |
