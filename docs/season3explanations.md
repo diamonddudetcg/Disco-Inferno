@@ -27,7 +27,7 @@ The reprint in the Crystal Beast structure deck makes this cheap enough to impac
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scary Moth](https://db.ygoprodeck.com/card/?search=Scary%20Moth)
 
-Scary Moth is just a searchable Winda that Beetrooper was abusing by reviving it with [Number 3: Cicada King](https://db.ygoprodeck.com/card/?search=Number%203:%20Cicada%20King). We think the Beetrooper core is fine in the format, but we are hitting the two most unfair endboard pieces to make it easier to deal with it. The deck is still alive and kicking and we expect it to be a huge competitor in Disco Inferno going forward, but it will be less reliant on floodgates now.
+Scary Moth is just a searchable [Winda](https://db.ygoprodeck.com/card/?search=El%20Shaddoll%20Winda) that Beetrooper was abusing by reviving it with [Number 3: Cicada King](https://db.ygoprodeck.com/card/?search=Number%203:%20Cicada%20King). We think the Beetrooper core is fine in the format, but we are hitting the two most unfair endboard pieces to make it easier to deal with it. The deck is still alive and kicking and we expect it to be a huge competitor in Disco Inferno going forward, but it will be less reliant on floodgates now.
 
 
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Invoked Caliga](https://db.ygoprodeck.com/card/?search=Invoked%20Caliga)
