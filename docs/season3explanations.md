@@ -8,7 +8,7 @@ title:  "Disco Inferno"
 Starting with Season 3, we're doing something Konami hasn't done since 2012 and we're explaining the banlist movements.
 
 
-# Forbidden
+## Forbidden
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka)
 
@@ -57,13 +57,15 @@ All my homies hate lingering floodgates that also give perfect hand knowledge
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Give and Take](https://db.ygoprodeck.com/card/?search=Give%20and%20Take)
 
-Probably the funniest one, Beetrooper was using this to give their opponents a [Beetrooper Scout Buggy](https://db.ygoprodeck.com/card/?search=Beetrooler%20Scout%2Buggy) and lock them from special summoning anything but Insects. The Insect pile is fine, floodgates are not.
+Probably the funniest one, Beetrooper was using this to give their opponents a [Beetrooper Scout Buggy](https://db.ygoprodeck.com/card/?search=Beetrooper%20Scout%20Buggy) and lock them from special summoning anything but Insects. The Insect pile is fine, floodgates are not.
 
 
-# Limited
+## Limited
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen)
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Robina](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Robina)
+
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Floowandereeze and the Magnificent Map](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map)
 
 Floowandereeze was one of the best decks last format, and we just don't want them in the format. We've had enough of them in Advanced, and them getting Map in addition to everything they already had was a recipe for a tier 0 format, and the only thing worse than a tier 0 format is one where the deck is both massively unfun to play against and has a terrible and very confusing mirror match. We just don't want Floowandereeze to be a top tier deck.
@@ -84,7 +86,7 @@ With no access to Double Helix or Magicians' Souls, we expect this to do nothing
 Like Pendulum, Dragons have had a lot of tools at their disposal that somehow haven't crystalized into a competitive deck. We banned the Amorphage monsters so no extra deck locks are possible with this, but we hope giving them access to a searchable Omni Dragon Brotaur (and in turn, making Levianeer searchable) will make Dragons strong enough to compete.
 
 
-# Unlimited
+## Unlimited
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Megalith Unformed](https://db.ygoprodeck.com/card/?search=Megalith%20Unformed)
 
@@ -93,4 +95,4 @@ This was an overreaction from Season 2. The finals was a Megalith Drytron mirror
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Jar](https://db.ygoprodeck.com/card/?search=Cyber%20Jar)
 
-Konami thinks it's fine at 1, I think it's fine at 3. We have had Morphing Jar legal at 3 for two formats and it has done nothing. Bring it on.
+Konami thinks it's fine at 1, we think it's fine at 3. We have had Morphing Jar legal at 3 for two formats and it has done nothing. Bring it on.
