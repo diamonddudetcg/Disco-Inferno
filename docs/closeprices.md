@@ -13,7 +13,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.4990 | 0.54 | Illegal |
 [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | 0.5010 | 0.46 | Unlimited |
 [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | 0.5012 | 0.49 | Unlimited |
-[King of the Skull Servants](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants) | 0.5034 | 0.44 | Unlimited |
+[King of the Skull Servants](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants) | 0.5033 | 0.44 | Unlimited |
 [Evilswarm Ophion](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ophion) | 0.5059 | 0.45 | Unlimited |
 [Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.5071 | 0.44 | Unlimited |
 [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | 0.5084 | 0.46 | Unlimited |
@@ -21,8 +21,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.5110 | 0.47 | Unlimited |
 [Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | 0.5192 | 0.40 | Unlimited |
 [Odd-Eyes Venom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Venom%20Dragon) | 0.5204 | 0.39 | Unlimited |
-[Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.5307 | 0.05 | Unlimited |
-[Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | 0.5729 | 0.26 | Unlimited |
-[Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | 0.6424 | 0.04 | Unlimited |
+[Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.5305 | 0.07 | Unlimited |
+[Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | 0.5728 | 0.29 | Unlimited |
+[Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | 0.6422 | 0.09 | Unlimited |
 
 ###### [Back home](index)
