@@ -7098,7 +7098,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Warning Point](https://db.ygoprodeck.com/card/?search=Warning%20Point) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Waterfall of Dragon Souls](https://db.ygoprodeck.com/card/?search=Waterfall%20of%20Dragon%20Souls) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wattcancel](https://db.ygoprodeck.com/card/?search=Wattcancel) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wattcannon](https://db.ygoprodeck.com/card/?search=Wattcannon) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wattkeeper](https://db.ygoprodeck.com/card/?search=Wattkeeper) | Illegal |
@@ -11494,6 +11493,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Disruption](https://db.ygoprodeck.com/card/?search=Wall%20of%20Disruption) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [War Rock Big Blow](https://db.ygoprodeck.com/card/?search=War%20Rock%20Big%20Blow) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [War Rock Generations](https://db.ygoprodeck.com/card/?search=War%20Rock%20Generations) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Waterfall of Dragon Souls](https://db.ygoprodeck.com/card/?search=Waterfall%20of%20Dragon%20Souls) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Weed Out](https://db.ygoprodeck.com/card/?search=Weed%20Out) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wicked Rebirth](https://db.ygoprodeck.com/card/?search=Wicked%20Rebirth) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wild Tornado](https://db.ygoprodeck.com/card/?search=Wild%20Tornado) | Unlimited |

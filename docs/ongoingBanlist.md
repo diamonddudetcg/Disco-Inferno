@@ -1517,7 +1517,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Opti-Camouflage Armor](https://db.ygoprodeck.com/card/?search=Opti-Camouflage%20Armor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Orcustrated Return](https://db.ygoprodeck.com/card/?search=Orcustrated%20Return) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Painful Choice](https://db.ygoprodeck.com/card/?search=Painful%20Choice) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pantheism of the Monarchs](https://db.ygoprodeck.com/card/?search=Pantheism%20of%20the%20Monarchs) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pendulum Call](https://db.ygoprodeck.com/card/?search=Pendulum%20Call) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Phalanx Pike](https://db.ygoprodeck.com/card/?search=Phalanx%20Pike) | Illegal |
@@ -1731,6 +1730,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rivalry of Warlords](https://db.ygoprodeck.com/card/?search=Rivalry%20of%20Warlords) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Royal Oppression](https://db.ygoprodeck.com/card/?search=Royal%20Oppression) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Saber Hole](https://db.ygoprodeck.com/card/?search=Saber%20Hole) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Secret Barrel](https://db.ygoprodeck.com/card/?search=Secret%20Barrel) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shaddoll Schism](https://db.ygoprodeck.com/card/?search=Shaddoll%20Schism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | Illegal |
@@ -9161,6 +9161,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Packet Swap](https://db.ygoprodeck.com/card/?search=Packet%20Swap) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Painful Decision](https://db.ygoprodeck.com/card/?search=Painful%20Decision) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Painful Return](https://db.ygoprodeck.com/card/?search=Painful%20Return) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pandemonium](https://db.ygoprodeck.com/card/?search=Pandemonium) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Parallel Panzer](https://db.ygoprodeck.com/card/?search=Parallel%20Panzer) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Parallel Twister](https://db.ygoprodeck.com/card/?search=Parallel%20Twister) | Unlimited |
@@ -11123,7 +11124,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scramble Egg](https://db.ygoprodeck.com/card/?search=Scramble%20Egg) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap Crash](https://db.ygoprodeck.com/card/?search=Scrap%20Crash) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap Rage](https://db.ygoprodeck.com/card/?search=Scrap%20Rage) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap-Iron Signal](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Signal) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap-Iron Statue](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Statue) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Screams of the Branded](https://db.ygoprodeck.com/card/?search=Screams%20of%20the%20Branded) | Unlimited |

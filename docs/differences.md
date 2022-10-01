@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 265
+Estimated number of changes: 267
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -116,6 +116,7 @@ Estimated number of changes: 265
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infinite Machine](https://db.ygoprodeck.com/card/?search=Infinite%20Machine) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | Unlimited | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [True King's Return](https://db.ygoprodeck.com/card/?search=True%20King's%20Return) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) | Unlimited | Forbidden |
@@ -253,6 +254,7 @@ Estimated number of changes: 265
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Megalith Unformed](https://db.ygoprodeck.com/card/?search=Megalith%20Unformed) | Limited | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Moray of Avarice](https://db.ygoprodeck.com/card/?search=Moray%20of%20Avarice) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Secret Skills of the Six Samurai](https://db.ygoprodeck.com/card/?search=Secret%20Skills%20of%20the%20Six%20Samurai) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spirit Converter](https://db.ygoprodeck.com/card/?search=Spirit%20Converter) | Illegal | Unlimited |
