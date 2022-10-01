@@ -37,7 +37,7 @@ With Tearlaments joining the format, making Caliga was as easy as fusing any Tea
 
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Herald of the Arc Light](https://db.ygoprodeck.com/card/?search=Herald%20of%20the%20Arc%20Light)
 
-Herald of the Arc Light was only legal because someone listed OCG copies on Cardmarket. It's a $2 card otherwise. Additionally, it made Megalith Drytron way better because they could use Extra Foolish Burial as a consistency tool.
+Herald of the Arc Light was only legal because someone listed OCG copies on Cardmarket. It's a $2 card otherwise. Additionally, it made Megalith Drytron way better because they could use [Extra-Foolish Burial](https://db.ygoprodeck.com/card/?search=Extra-Foolish%20Burial) as a consistency tool.
 
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus)
@@ -87,7 +87,7 @@ Shoutouts to Wren, though. You've gotten three cards banned.
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Floowandereeze and the Magnificent Map](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map)
 
-Floowandereeze was one of the best decks (if not the single best) last season, and we just don't want them in the format. We've had enough of them in Advanced, and them getting Map in addition to everything they already had was a recipe for a tier 0 format, and the only thing worse than a tier 0 format is one where the deck is both massively unfun to play against and has a terrible and very confusing mirror match. We just don't want Floowandereeze to be a top tier deck.
+Hits 4, 5 and 6 to Floowandereeze. It was one of the best decks (if not the single best) last season, and we just don't want them in the format. We've had enough of them in Advanced, and them getting Map in addition to everything they already had was a recipe for a tier 0 format, and the only thing worse than a tier 0 format is one where the deck is both massively unfun to play against and has a terrible and very confusing mirror match. We just don't want Floowandereeze to be a top tier deck.
 
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majespecter Unicorn - Kirin](https://db.ygoprodeck.com/card/?search=Majespecter%20Unicorn%20-%20Kirin)
