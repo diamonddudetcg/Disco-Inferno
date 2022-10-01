@@ -2,10 +2,10 @@
 title:  "Disco Inferno"
 ---
 
-## Disco Inferno Season 4 Banlist explanations:
+## Disco Inferno Season 3 Banlist explanations:
 
 
-Starting with Season 4, we're doing something Konami hasn't done since 2012 and we're explaining the banlist movements.
+Starting with Season 3, we're doing something Konami hasn't done since 2012 and we're explaining the banlist movements.
 
 The purpose of this banlist is hitting the unfair parts of certain decks that are perfectly fine to exist, but also to hopefully remove Floowandereeze from the format.
 
@@ -101,11 +101,13 @@ Like Pendulum, Dragons have had a lot of tools at their disposal that somehow ha
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Megalith Unformed](https://db.ygoprodeck.com/card/?search=Megalith%20Unformed)
 
-This was an overreaction from Season 2. The finals was a Megalith Drytron mirror match so we wanted to hit the deck somehow. Turns out the problem was [Amorphactor Pain](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) all along, and banning it pretty much killed the deck, so Unformed can come back.
+This was an overreaction from Season 2. The finals of <b>DICC 1</b> was a Megalith Drytron mirror match so we wanted to hit the deck somehow. Turns out the problem was [Amorphactor Pain](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) all along, and banning it pretty much killed the deck, so Unformed can come back.
 
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Jar](https://db.ygoprodeck.com/card/?search=Cyber%20Jar)
 
 Konami thinks it's fine at 1, we think it's fine at 3. We have had Morphing Jar legal at 3 for two formats and it has done nothing. Bring it on.
+
+<br>
 
 ###### [Back home](index)
