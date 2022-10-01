@@ -52,18 +52,29 @@ We don't expect this to be cheap anytime soon, but you know, just in case.
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation)
 
-Our bad. We didn't realize this could be used as a counter to decks that require a Field Spell to function. 
+Our bad. We didn't realize this could be used as a counter to decks that require a Field Spell to function.
+
+
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Different Dimension Ground](https://db.ygoprodeck.com/card/?search=Different%20Dimension%20Ground)
+
+A lingering floodgate that slipped through our fingers. Our bad.
 
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eradicator Epidemic Virus](https://db.ygoprodeck.com/card/?search=Eradicator%20Epidemic%20Virus)
 
-All my homies hate lingering floodgates that also give perfect hand knowledge
+Hit 2 to Floowandereeze. A multi-turn, one-sided lingering floodgate that also gives perfect hand information while making Control decks really bad. Don't think we need to explain this one a lot.
 
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Give and Take](https://db.ygoprodeck.com/card/?search=Give%20and%20Take)
 
-Probably the funniest one, Beetrooper was using this to give their opponents a [Beetrooper Scout Buggy](https://db.ygoprodeck.com/card/?search=Beetrooper%20Scout%20Buggy) and lock them from special summoning anything but Insects. The Insect pile is fine, floodgates are not.
+Probably the funniest ban, Beetrooper was using this to give their opponents a [Beetrooper Scout Buggy](https://db.ygoprodeck.com/card/?search=Beetrooper%20Scout%20Buggy) and lock them from special summoning anything but Insects. The Insect pile is fine, floodgates are not.
 
+
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lose 1 Turn](https://db.ygoprodeck.com/card/?search=Lose%201%20Turn)
+
+Hit 3 to Floowandereeze. It has proven to be insane in decks that can normal summon big bodies. We hoped it wouldn't be good in the format and we could leave some floodgates in, but sadly, it was and we cannot.
+
+Shoutouts to Wren, though. You've gotten three cards banned.
 
 ## Limited
 
