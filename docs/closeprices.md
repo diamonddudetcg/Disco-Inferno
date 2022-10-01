@@ -19,8 +19,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | 0.5088 | 0.46 | Unlimited |
 [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5101 | 0.45 | Unlimited |
 [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.5113 | 0.47 | Unlimited |
-[Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | 0.5202 | 0.40 | Unlimited |
+[Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | 0.5201 | 0.40 | Unlimited |
 [Odd-Eyes Venom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Venom%20Dragon) | 0.5214 | 0.39 | Unlimited |
-[Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | 0.6469 | 0.06 | Unlimited |
+[Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | 0.6467 | 0.06 | Unlimited |
 
 ###### [Back home](index)
