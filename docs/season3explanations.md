@@ -7,7 +7,7 @@ title:  "Disco Inferno"
 
 Starting with Season 3, we're doing something Konami hasn't done since 2012 and we're explaining the banlist movements.
 
-The purpose of this banlist is hitting the unfair parts of certain decks that are perfectly fine to exist, but also to hopefully remove Floowandereeze from the format.
+The purpose of this banlist is hitting the unfair parts of certain decks that are perfectly fine to exist, but also to hopefully remove Floowandereeze from the format, whose resource loop is incredibly good in a format with a smaller card pool than Advanced, and whose weakness to hand traps is largely removed in a format in which the only legal one is [Ghost Mourner](https://db.ygoprodeck.com/card/?search=Ghost%20Mourner%20%26%20Moonlit%20Chill).
 
 
 ## Forbidden
