@@ -6,7 +6,7 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Salamangreat Almiraj](https://db.ygoprodeck.com/card/?search=Salamangreat%20Almiraj) | 0.4603 | 1.13 | Illegal |
+[Salamangreat Almiraj](https://db.ygoprodeck.com/card/?search=Salamangreat%20Almiraj) | 0.4605 | 1.13 | Illegal |
 [Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | 0.4905 | 0.56 | Illegal |
 [Noble Knight Gwalchavad](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Gwalchavad) | 0.4971 | 0.53 | Illegal |
 [Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.4990 | 0.51 | Illegal |
@@ -18,12 +18,12 @@ This is a list of cards that are likely to change legality before the next rotat
 [Evilswarm Ophion](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ophion) | 0.5049 | 0.45 | Unlimited |
 [Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.5059 | 0.44 | Unlimited |
 [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | 0.5076 | 0.46 | Unlimited |
-[NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5086 | 0.45 | Unlimited |
+[NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5085 | 0.45 | Unlimited |
 [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.5103 | 0.47 | Unlimited |
 [Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | 0.5171 | 0.40 | Unlimited |
 [Odd-Eyes Venom Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Venom%20Dragon) | 0.5181 | 0.39 | Unlimited |
-[Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.5221 | 0.02 | Unlimited |
-[Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | 0.5672 | 0.21 | Unlimited |
-[Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | 0.6319 | 0.05 | Unlimited |
+[Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.5219 | 0.10 | Unlimited |
+[Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | 0.5670 | 0.24 | Unlimited |
+[Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | 0.6317 | 0.07 | Unlimited |
 
 ###### [Back home](index)
