@@ -5500,7 +5500,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Day of Witch](https://db.ygoprodeck.com/card/?search=Last%20Day%20of%20Witch) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Hope of Nephthys](https://db.ygoprodeck.com/card/?search=Last%20Hope%20of%20Nephthys) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Law of the Cosmos](https://db.ygoprodeck.com/card/?search=Law%20of%20the%20Cosmos) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ledger of Legerdemain](https://db.ygoprodeck.com/card/?search=Ledger%20of%20Legerdemain) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Leeching the Light](https://db.ygoprodeck.com/card/?search=Leeching%20the%20Light) | Illegal |
@@ -7140,6 +7139,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Forbidden |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Giant Trunade](https://db.ygoprodeck.com/card/?search=Giant%20Trunade) | Forbidden |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Simorgh Repulsion](https://db.ygoprodeck.com/card/?search=Simorgh%20Repulsion) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ultimate Offering](https://db.ygoprodeck.com/card/?search=Ultimate%20Offering) | Forbidden |
