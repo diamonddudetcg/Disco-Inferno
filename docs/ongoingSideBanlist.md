@@ -2569,6 +2569,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Prophecy Destroyer](https://db.ygoprodeck.com/card/?search=Prophecy%20Destroyer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Protecting Spirit Loagaeth](https://db.ygoprodeck.com/card/?search=Protecting%20Spirit%20Loagaeth) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Protector of the Sanctuary](https://db.ygoprodeck.com/card/?search=Protector%20of%20the%20Sanctuary) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Proxy Horse](https://db.ygoprodeck.com/card/?search=Proxy%20Horse) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Psi-Beast](https://db.ygoprodeck.com/card/?search=Psi-Beast) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Psi-Blocker](https://db.ygoprodeck.com/card/?search=Psi-Blocker) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Psi-Reflector](https://db.ygoprodeck.com/card/?search=Psi-Reflector) | Illegal |
@@ -8859,7 +8860,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Protective Soul Ailin](https://db.ygoprodeck.com/card/?search=Protective%20Soul%20Ailin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Protector with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Protector%20with%20Eyes%20of%20Blue) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Proto-Cyber Dragon](https://db.ygoprodeck.com/card/?search=Proto-Cyber%20Dragon) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Proxy Horse](https://db.ygoprodeck.com/card/?search=Proxy%20Horse) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Prufinesse, the Tactical Trapper](https://db.ygoprodeck.com/card/?search=Prufinesse,%20the%20Tactical%20Trapper) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Psychic Ace](https://db.ygoprodeck.com/card/?search=Psychic%20Ace) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Psychic Jumper](https://db.ygoprodeck.com/card/?search=Psychic%20Jumper) | Unlimited |
