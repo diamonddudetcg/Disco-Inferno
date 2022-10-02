@@ -1091,7 +1091,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doctor Cranium](https://db.ygoprodeck.com/card/?search=Doctor%20Cranium) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dodger Dragon](https://db.ygoprodeck.com/card/?search=Dodger%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dododo Warrior](https://db.ygoprodeck.com/card/?search=Dododo%20Warrior) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dodododwarf Gogogoglove](https://db.ygoprodeck.com/card/?search=Dodododwarf%20Gogogoglove) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doggy Diver](https://db.ygoprodeck.com/card/?search=Doggy%20Diver) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Adin, the Enlightened](https://db.ygoprodeck.com/card/?search=Dogmatika%20Adin,%20the%20Enlightened) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Ashiyan](https://db.ygoprodeck.com/card/?search=Dogmatika%20Ashiyan) | Illegal |
@@ -5591,6 +5590,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Light Barrier](https://db.ygoprodeck.com/card/?search=Light%20Barrier) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Light Laser](https://db.ygoprodeck.com/card/?search=Light%20Laser) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Light Wing Shield](https://db.ygoprodeck.com/card/?search=Light%20Wing%20Shield) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lightning Blade](https://db.ygoprodeck.com/card/?search=Lightning%20Blade) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lightning Storm](https://db.ygoprodeck.com/card/?search=Lightning%20Storm) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lightning Vortex](https://db.ygoprodeck.com/card/?search=Lightning%20Vortex) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lightsworn Sabre](https://db.ygoprodeck.com/card/?search=Lightsworn%20Sabre) | Illegal |
@@ -7970,6 +7970,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dododo Driver](https://db.ygoprodeck.com/card/?search=Dododo%20Driver) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dododo Swordsman](https://db.ygoprodeck.com/card/?search=Dododo%20Swordsman) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dododo Witch](https://db.ygoprodeck.com/card/?search=Dododo%20Witch) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dodododwarf Gogogoglove](https://db.ygoprodeck.com/card/?search=Dodododwarf%20Gogogoglove) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Nexus](https://db.ygoprodeck.com/card/?search=Dogmatika%20Nexus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Theo, the Iron Punch](https://db.ygoprodeck.com/card/?search=Dogmatika%20Theo,%20the%20Iron%20Punch) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doitsu](https://db.ygoprodeck.com/card/?search=Doitsu) | Unlimited |
@@ -10221,7 +10222,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Life Extreme](https://db.ygoprodeck.com/card/?search=Life%20Extreme) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Light of Redemption](https://db.ygoprodeck.com/card/?search=Light%20of%20Redemption) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lighten the Load](https://db.ygoprodeck.com/card/?search=Lighten%20the%20Load) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lightning Blade](https://db.ygoprodeck.com/card/?search=Lightning%20Blade) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lightwave Tuning](https://db.ygoprodeck.com/card/?search=Lightwave%20Tuning) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Limiter Removal](https://db.ygoprodeck.com/card/?search=Limiter%20Removal) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Linear Accelerator Cannon](https://db.ygoprodeck.com/card/?search=Linear%20Accelerator%20Cannon) | Unlimited |
