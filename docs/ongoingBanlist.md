@@ -1682,7 +1682,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hidden Soldiers](https://db.ygoprodeck.com/card/?search=Hidden%20Soldiers) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ice Dragon's Prison](https://db.ygoprodeck.com/card/?search=Ice%20Dragon's%20Prison) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infernity Barrier](https://db.ygoprodeck.com/card/?search=Infernity%20Barrier) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infestation Infection](https://db.ygoprodeck.com/card/?search=Infestation%20Infection) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infinite Impermanence](https://db.ygoprodeck.com/card/?search=Infinite%20Impermanence) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infinite Machine](https://db.ygoprodeck.com/card/?search=Infinite%20Machine) | Illegal |
@@ -1752,7 +1751,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Revived Sky God](https://db.ygoprodeck.com/card/?search=The%20Revived%20Sky%20God) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Ultimate Creature of Destruction](https://db.ygoprodeck.com/card/?search=The%20Ultimate%20Creature%20of%20Destruction) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Time Seal](https://db.ygoprodeck.com/card/?search=Time%20Seal) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Time-Space Trap Hole](https://db.ygoprodeck.com/card/?search=Time-Space%20Trap%20Hole) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Toon Mask](https://db.ygoprodeck.com/card/?search=Toon%20Mask) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Trap Dustshoot](https://db.ygoprodeck.com/card/?search=Trap%20Dustshoot) | Illegal |
@@ -10651,6 +10649,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infernity Inferno](https://db.ygoprodeck.com/card/?search=Infernity%20Inferno) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infernity Reflector](https://db.ygoprodeck.com/card/?search=Infernity%20Reflector) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infernity Suppression](https://db.ygoprodeck.com/card/?search=Infernity%20Suppression) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infestation Infection](https://db.ygoprodeck.com/card/?search=Infestation%20Infection) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infestation Ripples](https://db.ygoprodeck.com/card/?search=Infestation%20Ripples) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infestation Terminus](https://db.ygoprodeck.com/card/?search=Infestation%20Terminus) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infestation Tool](https://db.ygoprodeck.com/card/?search=Infestation%20Tool) | Unlimited |
@@ -11356,6 +11355,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Time Pendulumgraph](https://db.ygoprodeck.com/card/?search=Time%20Pendulumgraph) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Time Thief Flyback](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Flyback) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Time Thief Retrograde](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Retrograde) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Time-Space Trap Hole](https://db.ygoprodeck.com/card/?search=Time-Space%20Trap%20Hole) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Tindangle Delaunay](https://db.ygoprodeck.com/card/?search=Tindangle%20Delaunay) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Titanocider](https://db.ygoprodeck.com/card/?search=Titanocider) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Token Feastevil](https://db.ygoprodeck.com/card/?search=Token%20Feastevil) | Unlimited |
