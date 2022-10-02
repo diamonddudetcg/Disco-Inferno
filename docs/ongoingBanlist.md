@@ -185,6 +185,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Burning Skull Head](https://db.ygoprodeck.com/card/?search=Burning%20Skull%20Head) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bururu @Ignister](https://db.ygoprodeck.com/card/?search=Bururu%20@Ignister) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buster Whelp of the Destruction Swordsman](https://db.ygoprodeck.com/card/?search=Buster%20Whelp%20of%20the%20Destruction%20Swordsman) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buten](https://db.ygoprodeck.com/card/?search=Buten) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Caam, Serenity of Gusto](https://db.ygoprodeck.com/card/?search=Caam,%20Serenity%20of%20Gusto) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Castle of Dark Illusions](https://db.ygoprodeck.com/card/?search=Castle%20of%20Dark%20Illusions) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | Illegal |
@@ -809,7 +810,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Saffira, Queen of Dragons](https://db.ygoprodeck.com/card/?search=Saffira,%20Queen%20of%20Dragons) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Shinato, King of a Higher Plane](https://db.ygoprodeck.com/card/?search=Shinato,%20King%20of%20a%20Higher%20Plane) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Skull Guardian](https://db.ygoprodeck.com/card/?search=Skull%20Guardian) | Illegal |
-<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Alba-Lenatus the Abyss Dragon](https://db.ygoprodeck.com/card/?search=Alba-Lenatus%20the%20Abyss%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amphibious Bugroth](https://db.ygoprodeck.com/card/?search=Amphibious%20Bugroth) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ancient Gear Megaton Golem](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Megaton%20Golem) | Illegal |
@@ -1495,6 +1495,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mischief of the Time Goddess](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Time%20Goddess) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Moon Mirror Shield](https://db.ygoprodeck.com/card/?search=Moon%20Mirror%20Shield) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mooyan Curry](https://db.ygoprodeck.com/card/?search=Mooyan%20Curry) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Moray of Avarice](https://db.ygoprodeck.com/card/?search=Moray%20of%20Avarice) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Moray of Greed](https://db.ygoprodeck.com/card/?search=Moray%20of%20Greed) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Multiplication of Ants](https://db.ygoprodeck.com/card/?search=Multiplication%20of%20Ants) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mystic Mine](https://db.ygoprodeck.com/card/?search=Mystic%20Mine) | Illegal |
@@ -2865,7 +2866,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buster Blader, the Destruction Swordmaster](https://db.ygoprodeck.com/card/?search=Buster%20Blader,%20the%20Destruction%20Swordmaster) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buster Blaster](https://db.ygoprodeck.com/card/?search=Buster%20Blaster) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buster Gundil the Cubic Behemoth](https://db.ygoprodeck.com/card/?search=Buster%20Gundil%20the%20Cubic%20Behemoth) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buten](https://db.ygoprodeck.com/card/?search=Buten) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buzzsaw Shark](https://db.ygoprodeck.com/card/?search=Buzzsaw%20Shark) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Byser Shock](https://db.ygoprodeck.com/card/?search=Byser%20Shock) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [C-Crush Wyvern](https://db.ygoprodeck.com/card/?search=C-Crush%20Wyvern) | Unlimited |
@@ -6918,6 +6918,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Super War-Lion](https://db.ygoprodeck.com/card/?search=Super%20War-Lion) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [The Masked Beast](https://db.ygoprodeck.com/card/?search=The%20Masked%20Beast) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Transonic Bird](https://db.ygoprodeck.com/card/?search=Transonic%20Bird) | Unlimited |
+<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Chimera](https://db.ygoprodeck.com/card/?search=Vendread%20Chimera) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Scavenger](https://db.ygoprodeck.com/card/?search=Vendread%20Scavenger) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vennu, Bright Bird of Divinity](https://db.ygoprodeck.com/card/?search=Vennu,%20Bright%20Bird%20of%20Divinity) | Unlimited |
@@ -9048,7 +9049,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Reincarnation](https://db.ygoprodeck.com/card/?search=Monster%20Reincarnation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Slots](https://db.ygoprodeck.com/card/?search=Monster%20Slots) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Morale Boost](https://db.ygoprodeck.com/card/?search=Morale%20Boost) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Moray of Avarice](https://db.ygoprodeck.com/card/?search=Moray%20of%20Avarice) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mordschlag](https://db.ygoprodeck.com/card/?search=Mordschlag) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Morphtronic Accelerator](https://db.ygoprodeck.com/card/?search=Morphtronic%20Accelerator) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Morphtronic Converter](https://db.ygoprodeck.com/card/?search=Morphtronic%20Converter) | Unlimited |

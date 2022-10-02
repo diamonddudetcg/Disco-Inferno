@@ -111,9 +111,13 @@ Like Pendulum, Dragons have had a lot of tools at their disposal that somehow ha
 <br>
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Exodia the Forbidden One](https://db.ygoprodeck.com/card/?search=Exodia%20the%20Forbidden%20One)
+
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Left Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Leg%20of%20the%20Forbidden%20One)
+
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Left Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Arm%20of%20the%20Forbidden%20One)
+
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One)
+
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Right Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Leg%20of%20the%20Forbidden%20One)
 
 These are harmless, there's always a piece that is illegal and even if it weren't, you probably wouldn't want to run more than 1 of each.
