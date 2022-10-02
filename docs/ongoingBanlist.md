@@ -1054,6 +1054,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Armades, Keeper of Boundaries](https://db.ygoprodeck.com/card/?search=Armades,%20Keeper%20of%20Boundaries) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Armory Arm](https://db.ygoprodeck.com/card/?search=Armory%20Arm) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Aromaseraphy Rosemary](https://db.ygoprodeck.com/card/?search=Aromaseraphy%20Rosemary) | Illegal |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Chidori the Rain Sprinkling](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Chidori%20the%20Rain%20Sprinkling) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Onimaru the Divine Thunder](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Onimaru%20the%20Divine%20Thunder) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Raikiri the Rain Shower](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Raikiri%20the%20Rain%20Shower) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | Illegal |
@@ -7452,7 +7453,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Aromaseraphy Sweet Marjoram](https://db.ygoprodeck.com/card/?search=Aromaseraphy%20Sweet%20Marjoram) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ascension Sky Dragon](https://db.ygoprodeck.com/card/?search=Ascension%20Sky%20Dragon) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Askaan, the Bicorned Ghoti](https://db.ygoprodeck.com/card/?search=Askaan,%20the%20Bicorned%20Ghoti) | Unlimited |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Chidori the Rain Sprinkling](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Chidori%20the%20Rain%20Sprinkling) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Sayo the Rain Hider](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Sayo%20the%20Rain%20Hider) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Assault Blackwing - Sohaya the Rain Storm](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Sohaya%20the%20Rain%20Storm) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Azure-Eyes Silver Dragon](https://db.ygoprodeck.com/card/?search=Azure-Eyes%20Silver%20Dragon) | Unlimited |
