@@ -216,6 +216,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Creation Resonator](https://db.ygoprodeck.com/card/?search=Creation%20Resonator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystron Citree](https://db.ygoprodeck.com/card/?search=Crystron%20Citree) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Curse Necrofear](https://db.ygoprodeck.com/card/?search=Curse%20Necrofear) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Barrier Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Barrier%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Jar](https://db.ygoprodeck.com/card/?search=Cyber%20Jar) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber-Stein](https://db.ygoprodeck.com/card/?search=Cyber-Stein) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyberse Synchron](https://db.ygoprodeck.com/card/?search=Cyberse%20Synchron) | Illegal |
@@ -906,6 +907,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Kamionwizard](https://db.ygoprodeck.com/card/?search=Kamionwizard) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Mamonaka the Vaylantz United](https://db.ygoprodeck.com/card/?search=Mamonaka%20the%20Vaylantz%20United) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Man-Eating Black Shark](https://db.ygoprodeck.com/card/?search=Man-Eating%20Black%20Shark) | Illegal |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Acid](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Acid) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Dark Law](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Dark%20Law) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Master of Chaos](https://db.ygoprodeck.com/card/?search=Master%20of%20Chaos) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Mavelus](https://db.ygoprodeck.com/card/?search=Mavelus) | Illegal |
@@ -1725,6 +1727,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Smashing Horn](https://db.ygoprodeck.com/card/?search=Smashing%20Horn) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Judgment](https://db.ygoprodeck.com/card/?search=Solemn%20Judgment) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Scolding](https://db.ygoprodeck.com/card/?search=Solemn%20Scolding) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Wishes](https://db.ygoprodeck.com/card/?search=Solemn%20Wishes) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Soul Drain](https://db.ygoprodeck.com/card/?search=Soul%20Drain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Soul Energy MAX!!!](https://db.ygoprodeck.com/card/?search=Soul%20Energy%20MAX!!!) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spirit Barrier](https://db.ygoprodeck.com/card/?search=Spirit%20Barrier) | Illegal |
@@ -3091,7 +3094,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Curse of Dragonfire](https://db.ygoprodeck.com/card/?search=Curse%20of%20Dragonfire) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cursed Fig](https://db.ygoprodeck.com/card/?search=Cursed%20Fig) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Archfiend](https://db.ygoprodeck.com/card/?search=Cyber%20Archfiend) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Barrier Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Barrier%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Dinosaur](https://db.ygoprodeck.com/card/?search=Cyber%20Dinosaur) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Dragon Core](https://db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Core) | Unlimited |
@@ -7087,7 +7089,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Magikey Beast - Ansyalabolas](https://db.ygoprodeck.com/card/?search=Magikey%20Beast%20-%20Ansyalabolas) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Magikey Dragon - Andrabime](https://db.ygoprodeck.com/card/?search=Magikey%20Dragon%20-%20Andrabime) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | Unlimited |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Acid](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Acid) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Anki](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Anki) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Blast](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Blast) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Dian](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Dian) | Unlimited |
@@ -11186,7 +11187,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Authority](https://db.ygoprodeck.com/card/?search=Solemn%20Authority) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Warning](https://db.ygoprodeck.com/card/?search=Solemn%20Warning) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Wishes](https://db.ygoprodeck.com/card/?search=Solemn%20Wishes) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solfachord Formal](https://db.ygoprodeck.com/card/?search=Solfachord%20Formal) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solfachord Musica](https://db.ygoprodeck.com/card/?search=Solfachord%20Musica) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solomon's Lawbook](https://db.ygoprodeck.com/card/?search=Solomon's%20Lawbook) | Unlimited |
