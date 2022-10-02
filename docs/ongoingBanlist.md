@@ -1410,6 +1410,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Elf's Light](https://db.ygoprodeck.com/card/?search=Elf's%20Light) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emblem of the Plunder Patroll](https://db.ygoprodeck.com/card/?search=Emblem%20of%20the%20Plunder%20Patroll) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Endless Engine Argyro System](https://db.ygoprodeck.com/card/?search=Endless%20Engine%20Argyro%20System) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Exosister Pax](https://db.ygoprodeck.com/card/?search=Exosister%20Pax) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fateful Adventure](https://db.ygoprodeck.com/card/?search=Fateful%20Adventure) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fifth Hope](https://db.ygoprodeck.com/card/?search=Fifth%20Hope) | Illegal |
@@ -8529,7 +8530,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EN Wave](https://db.ygoprodeck.com/card/?search=EN%20Wave) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Enchanting Fitting Room](https://db.ygoprodeck.com/card/?search=Enchanting%20Fitting%20Room) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [End of the World](https://db.ygoprodeck.com/card/?search=End%20of%20the%20World) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Endless Engine Argyro System](https://db.ygoprodeck.com/card/?search=Endless%20Engine%20Argyro%20System) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Endymion's Lab](https://db.ygoprodeck.com/card/?search=Endymion's%20Lab) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Enemy Controller](https://db.ygoprodeck.com/card/?search=Enemy%20Controller) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Eradicating Aerosol](https://db.ygoprodeck.com/card/?search=Eradicating%20Aerosol) | Unlimited |
