@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 276
+Estimated number of changes: 278
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -36,6 +36,7 @@ Estimated number of changes: 276
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragonmaid Ernus](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Ernus) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emes the Infinity](https://db.ygoprodeck.com/card/?search=Emes%20the%20Infinity) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Exodia, the Legendary Defender](https://db.ygoprodeck.com/card/?search=Exodia,%20the%20Legendary%20Defender) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Galaxy-Eyes Photon Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Photon%20Dragon) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Gear Changer](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Gear%20Changer) | Unlimited | Illegal |
@@ -281,6 +282,7 @@ Estimated number of changes: 276
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ferret Flames](https://db.ygoprodeck.com/card/?search=Ferret%20Flames) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fire Lake of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Fire%20Lake%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick-Go-Round](https://db.ygoprodeck.com/card/?search=Ghostrick-Go-Round) | Illegal | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Ring](https://db.ygoprodeck.com/card/?search=Hero%20Ring) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Soul Transition](https://db.ygoprodeck.com/card/?search=Soul%20Transition) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | Illegal | Unlimited |

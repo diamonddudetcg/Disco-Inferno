@@ -4840,7 +4840,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 98: Antitopian](https://db.ygoprodeck.com/card/?search=Number%2098:%20Antitopian) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 99: Utopia Dragonar](https://db.ygoprodeck.com/card/?search=Number%2099:%20Utopia%20Dragonar) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 99: Utopic Dragon](https://db.ygoprodeck.com/card/?search=Number%2099:%20Utopic%20Dragon) | Illegal |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 9: Dyson Sphere](https://db.ygoprodeck.com/card/?search=Number%209:%20Dyson%20Sphere) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C1000: Numerounius](https://db.ygoprodeck.com/card/?search=Number%20C1000:%20Numerounius) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C102: Archfiend Seraph](https://db.ygoprodeck.com/card/?search=Number%20C102:%20Archfiend%20Seraph) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C103: Ragnafinity](https://db.ygoprodeck.com/card/?search=Number%20C103:%20Ragnafinity) | Illegal |
@@ -5751,7 +5750,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onomatopaira](https://db.ygoprodeck.com/card/?search=Onomatopaira) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onomatopia](https://db.ygoprodeck.com/card/?search=Onomatopia) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onomatopickup](https://db.ygoprodeck.com/card/?search=Onomatopickup) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onslaught of the Fire Kings](https://db.ygoprodeck.com/card/?search=Onslaught%20of%20the%20Fire%20Kings) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Opening of the Spirit Gates](https://db.ygoprodeck.com/card/?search=Opening%20of%20the%20Spirit%20Gates) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Opti-Camouflage Armor](https://db.ygoprodeck.com/card/?search=Opti-Camouflage%20Armor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Orcustrated Babel](https://db.ygoprodeck.com/card/?search=Orcustrated%20Babel) | Illegal |
@@ -6895,6 +6893,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Overwind](https://db.ygoprodeck.com/card/?search=Overwind) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Overworked](https://db.ygoprodeck.com/card/?search=Overworked) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Painful Escape](https://db.ygoprodeck.com/card/?search=Painful%20Escape) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Canadia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Canadia) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Hallucigenia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Hallucigenia) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Leanchoilia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Leanchoilia) | Illegal |
@@ -7013,7 +7012,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Self-Destruct Button](https://db.ygoprodeck.com/card/?search=Self-Destruct%20Button) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Sentence of Doom](https://db.ygoprodeck.com/card/?search=Sentence%20of%20Doom) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Serpent Suppression](https://db.ygoprodeck.com/card/?search=Serpent%20Suppression) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shaddoll Core](https://db.ygoprodeck.com/card/?search=Shaddoll%20Core) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shaddoll Schism](https://db.ygoprodeck.com/card/?search=Shaddoll%20Schism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shinobird Salvation](https://db.ygoprodeck.com/card/?search=Shinobird%20Salvation) | Illegal |
@@ -9781,6 +9779,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 71: Rebarian Shark](https://db.ygoprodeck.com/card/?search=Number%2071:%20Rebarian%20Shark) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 87: Queen of the Night](https://db.ygoprodeck.com/card/?search=Number%2087:%20Queen%20of%20the%20Night) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 96: Dark Mist](https://db.ygoprodeck.com/card/?search=Number%2096:%20Dark%20Mist) | Unlimited |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 9: Dyson Sphere](https://db.ygoprodeck.com/card/?search=Number%209:%20Dyson%20Sphere) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C101: Silent Honor DARK](https://db.ygoprodeck.com/card/?search=Number%20C101:%20Silent%20Honor%20DARK) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C106: Giant Red Hand](https://db.ygoprodeck.com/card/?search=Number%20C106:%20Giant%20Red%20Hand) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C39: Utopia Ray](https://db.ygoprodeck.com/card/?search=Number%20C39:%20Utopia%20Ray) | Unlimited |
@@ -10348,6 +10347,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [One-Shot Wand](https://db.ygoprodeck.com/card/?search=One-Shot%20Wand) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [One-Time Passcode](https://db.ygoprodeck.com/card/?search=One-Time%20Passcode) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Oni-Gami Combo](https://db.ygoprodeck.com/card/?search=Oni-Gami%20Combo) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onslaught of the Fire Kings](https://db.ygoprodeck.com/card/?search=Onslaught%20of%20the%20Fire%20Kings) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ookazi](https://db.ygoprodeck.com/card/?search=Ookazi) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Oracle of the Herald](https://db.ygoprodeck.com/card/?search=Oracle%20of%20the%20Herald) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Oracle of Zefra](https://db.ygoprodeck.com/card/?search=Oracle%20of%20Zefra) | Unlimited |
@@ -11207,7 +11207,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Over Limit](https://db.ygoprodeck.com/card/?search=Over%20Limit) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Overdoom Line](https://db.ygoprodeck.com/card/?search=Overdoom%20Line) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Packet Link](https://db.ygoprodeck.com/card/?search=Packet%20Link) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Canadia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Canadia) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Eldonia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Eldonia) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Parallel Port Armor](https://db.ygoprodeck.com/card/?search=Parallel%20Port%20Armor) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Parallel Selection](https://db.ygoprodeck.com/card/?search=Parallel%20Selection) | Unlimited |
@@ -11328,6 +11327,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Setuppercut](https://db.ygoprodeck.com/card/?search=Setuppercut) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Seven Tools of the Bandit](https://db.ygoprodeck.com/card/?search=Seven%20Tools%20of%20the%20Bandit) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Seventh Eternity](https://db.ygoprodeck.com/card/?search=Seventh%20Eternity) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shaddoll Core](https://db.ygoprodeck.com/card/?search=Shaddoll%20Core) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow Impulse](https://db.ygoprodeck.com/card/?search=Shadow%20Impulse) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow of Eyes](https://db.ygoprodeck.com/card/?search=Shadow%20of%20Eyes) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow Spell](https://db.ygoprodeck.com/card/?search=Shadow%20Spell) | Unlimited |
