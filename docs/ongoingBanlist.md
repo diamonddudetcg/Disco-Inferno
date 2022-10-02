@@ -480,6 +480,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lyrilusc - Celestine Wagtail](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Celestine%20Wagtail) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machine King](https://db.ygoprodeck.com/card/?search=Machine%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Anjelly](https://db.ygoprodeck.com/card/?search=Madolche%20Anjelly) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Messengelato](https://db.ygoprodeck.com/card/?search=Madolche%20Messengelato) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magicians' Souls](https://db.ygoprodeck.com/card/?search=Magicians'%20Souls) | Illegal |
@@ -1760,6 +1761,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Vanity's Emptiness](https://db.ygoprodeck.com/card/?search=Vanity's%20Emptiness) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Welcome Labrynth](https://db.ygoprodeck.com/card/?search=Welcome%20Labrynth) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Witch's Strike](https://db.ygoprodeck.com/card/?search=Witch's%20Strike) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy's Secret](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Secret) | Illegal |
@@ -4731,7 +4733,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Baaple](https://db.ygoprodeck.com/card/?search=Madolche%20Baaple) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Butlerusk](https://db.ygoprodeck.com/card/?search=Madolche%20Butlerusk) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Chickolates](https://db.ygoprodeck.com/card/?search=Madolche%20Chickolates) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Cruffssant](https://db.ygoprodeck.com/card/?search=Madolche%20Cruffssant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Hootcake](https://db.ygoprodeck.com/card/?search=Madolche%20Hootcake) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Marmalmaide](https://db.ygoprodeck.com/card/?search=Madolche%20Marmalmaide) | Unlimited |
@@ -11459,7 +11460,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Waboku](https://db.ygoprodeck.com/card/?search=Waboku) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Waking the Dragon](https://db.ygoprodeck.com/card/?search=Waking%20the%20Dragon) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Disruption](https://db.ygoprodeck.com/card/?search=Wall%20of%20Disruption) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Revealing Light](https://db.ygoprodeck.com/card/?search=Wall%20of%20Revealing%20Light) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [War Rock Big Blow](https://db.ygoprodeck.com/card/?search=War%20Rock%20Big%20Blow) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [War Rock Generations](https://db.ygoprodeck.com/card/?search=War%20Rock%20Generations) | Unlimited |
