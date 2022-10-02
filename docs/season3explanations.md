@@ -57,12 +57,12 @@ Our bad. We didn't realize this could be used as a counter to decks that require
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Different Dimension Ground](https://db.ygoprodeck.com/card/?search=Different%20Dimension%20Ground)
 
-A lingering floodgate that slipped through our fingers. Our bad.
+Hit 2 to Floowandereeze. A lingering floodgate that slipped through our fingers. Our bad.
 
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eradicator Epidemic Virus](https://db.ygoprodeck.com/card/?search=Eradicator%20Epidemic%20Virus)
 
-Hit 2 to Floowandereeze. A multi-turn, one-sided lingering floodgate that also gives perfect hand information while making Control decks really bad. Don't think we need to explain this one a lot.
+A multi-turn, one-sided lingering floodgate that also gives perfect hand information while making Control decks really bad. Don't think we need to explain this one a lot.
 
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Give and Take](https://db.ygoprodeck.com/card/?search=Give%20and%20Take)
