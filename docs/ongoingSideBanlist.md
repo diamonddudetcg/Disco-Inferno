@@ -3739,7 +3739,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragonecro Nethersoul Dragon](https://db.ygoprodeck.com/card/?search=Dragonecro%20Nethersoul%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragoness the Wicked Knight](https://db.ygoprodeck.com/card/?search=Dragoness%20the%20Wicked%20Knight) | Illegal |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dual Avatar - Empowered Kon-Gyo](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20-%20Empowered%20Kon-Gyo) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dual Avatar - Empowered Mitsu-Jaku](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20-%20Empowered%20Mitsu-Jaku) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dual Avatar Feet - Armored Un-Gyo](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Feet%20-%20Armored%20Un-Gyo) | Illegal |
@@ -9587,6 +9586,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dinowrestler Chimera T Wrextle](https://db.ygoprodeck.com/card/?search=Dinowrestler%20Chimera%20T%20Wrextle) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Diplexer Chimera](https://db.ygoprodeck.com/card/?search=Diplexer%20Chimera) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Doom Virus Dragon](https://db.ygoprodeck.com/card/?search=Doom%20Virus%20Dragon) | Unlimited |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Inferno](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Inferno) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Necroid Shaman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Necroid%20Shaman) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Empress Judge](https://db.ygoprodeck.com/card/?search=Empress%20Judge) | Unlimited |

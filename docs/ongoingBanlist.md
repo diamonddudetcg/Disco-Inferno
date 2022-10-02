@@ -1663,7 +1663,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fiend Comedian](https://db.ygoprodeck.com/card/?search=Fiend%20Comedian) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forced Back](https://db.ygoprodeck.com/card/?search=Forced%20Back) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick-Go-Round](https://db.ygoprodeck.com/card/?search=Ghostrick-Go-Round) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gift Card](https://db.ygoprodeck.com/card/?search=Gift%20Card) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gozen Match](https://db.ygoprodeck.com/card/?search=Gozen%20Match) | Illegal |
@@ -10543,6 +10542,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Renovation](https://db.ygoprodeck.com/card/?search=Ghostrick%20Renovation) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Scare](https://db.ygoprodeck.com/card/?search=Ghostrick%20Scare) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Vanish](https://db.ygoprodeck.com/card/?search=Ghostrick%20Vanish) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick-Go-Round](https://db.ygoprodeck.com/card/?search=Ghostrick-Go-Round) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghosts From the Past](https://db.ygoprodeck.com/card/?search=Ghosts%20From%20the%20Past) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghoti Chain](https://db.ygoprodeck.com/card/?search=Ghoti%20Chain) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Giant Starfall](https://db.ygoprodeck.com/card/?search=Giant%20Starfall) | Unlimited |

@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 273
+Estimated number of changes: 274
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -277,6 +277,7 @@ Estimated number of changes: 273
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Favorite Contact](https://db.ygoprodeck.com/card/?search=Favorite%20Contact) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ferret Flames](https://db.ygoprodeck.com/card/?search=Ferret%20Flames) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fire Lake of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Fire%20Lake%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick-Go-Round](https://db.ygoprodeck.com/card/?search=Ghostrick-Go-Round) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Multiple Destruction](https://db.ygoprodeck.com/card/?search=Multiple%20Destruction) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Wishes](https://db.ygoprodeck.com/card/?search=Solemn%20Wishes) | Illegal | Unlimited |
