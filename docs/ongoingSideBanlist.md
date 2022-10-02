@@ -3507,7 +3507,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Rakuyeh](https://db.ygoprodeck.com/card/?search=Worm%20Rakuyeh) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Tentacles](https://db.ygoprodeck.com/card/?search=Worm%20Tentacles) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Ugly](https://db.ygoprodeck.com/card/?search=Worm%20Ugly) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Victory](https://db.ygoprodeck.com/card/?search=Worm%20Victory) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Warlord](https://db.ygoprodeck.com/card/?search=Worm%20Warlord) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Xex](https://db.ygoprodeck.com/card/?search=Worm%20Xex) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Yagan](https://db.ygoprodeck.com/card/?search=Worm%20Yagan) | Illegal |
@@ -9494,6 +9493,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Jetelikpse](https://db.ygoprodeck.com/card/?search=Worm%20Jetelikpse) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Linx](https://db.ygoprodeck.com/card/?search=Worm%20Linx) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Solid](https://db.ygoprodeck.com/card/?search=Worm%20Solid) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Victory](https://db.ygoprodeck.com/card/?search=Worm%20Victory) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wrecker Panda](https://db.ygoprodeck.com/card/?search=Wrecker%20Panda) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wynn the Wind Charmer](https://db.ygoprodeck.com/card/?search=Wynn%20the%20Wind%20Charmer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [X-Saber Axel](https://db.ygoprodeck.com/card/?search=X-Saber%20Axel) | Unlimited |
