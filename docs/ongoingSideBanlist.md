@@ -1136,6 +1136,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragonmaid Lorpar](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Lorpar) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragonmaid Nudyarl](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Nudyarl) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragonmaid Tinkhec](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Tinkhec) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragonox, the Empowered Warrior](https://db.ygoprodeck.com/card/?search=Dragonox,%20the%20Empowered%20Warrior) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragonroid](https://db.ygoprodeck.com/card/?search=Dragonroid) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragunity Aklys](https://db.ygoprodeck.com/card/?search=Dragunity%20Aklys) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | Illegal |
@@ -2632,6 +2633,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raidraptor - Singing Lanius](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Singing%20Lanius) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raidraptor - Strangle Lanius](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Strangle%20Lanius) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raidraptor - Tribute Lanius](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Tribute%20Lanius) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rainbow Dark Dragon](https://db.ygoprodeck.com/card/?search=Rainbow%20Dark%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rainbow Flower](https://db.ygoprodeck.com/card/?search=Rainbow%20Flower) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rainbow Kuriboh](https://db.ygoprodeck.com/card/?search=Rainbow%20Kuriboh) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raiza the Mega Monarch](https://db.ygoprodeck.com/card/?search=Raiza%20the%20Mega%20Monarch) | Illegal |
@@ -7994,7 +7996,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragodies, the Empowered Warrior](https://db.ygoprodeck.com/card/?search=Dragodies,%20the%20Empowered%20Warrior) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragon Dowser](https://db.ygoprodeck.com/card/?search=Dragon%20Dowser) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragon Knight of Creation](https://db.ygoprodeck.com/card/?search=Dragon%20Knight%20of%20Creation) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragonox, the Empowered Warrior](https://db.ygoprodeck.com/card/?search=Dragonox,%20the%20Empowered%20Warrior) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragunity Angusticlavii](https://db.ygoprodeck.com/card/?search=Dragunity%20Angusticlavii) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragunity Brandistock](https://db.ygoprodeck.com/card/?search=Dragunity%20Brandistock) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragunity Corsesca](https://db.ygoprodeck.com/card/?search=Dragunity%20Corsesca) | Unlimited |
@@ -8903,7 +8904,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raidraptor - Vanishing Lanius](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Vanishing%20Lanius) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Raidraptor - Wild Vulture](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Wild%20Vulture) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rain Bozu](https://db.ygoprodeck.com/card/?search=Rain%20Bozu) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rainbow Dark Dragon](https://db.ygoprodeck.com/card/?search=Rainbow%20Dark%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Rainbow%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rallis the Star Bird](https://db.ygoprodeck.com/card/?search=Rallis%20the%20Star%20Bird) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [RAM Clouder](https://db.ygoprodeck.com/card/?search=RAM%20Clouder) | Unlimited |
