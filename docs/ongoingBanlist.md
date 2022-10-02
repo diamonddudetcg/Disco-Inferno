@@ -527,6 +527,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mythical Beast Jackal King](https://db.ygoprodeck.com/card/?search=Mythical%20Beast%20Jackal%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mythical Beast Master Cerberus](https://db.ygoprodeck.com/card/?search=Mythical%20Beast%20Master%20Cerberus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Myutant M-05](https://db.ygoprodeck.com/card/?search=Myutant%20M-05) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Necroworld Banshee](https://db.ygoprodeck.com/card/?search=Necroworld%20Banshee) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Needle Worm](https://db.ygoprodeck.com/card/?search=Needle%20Worm) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nehshaddoll Genius](https://db.ygoprodeck.com/card/?search=Nehshaddoll%20Genius) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neko Mane King](https://db.ygoprodeck.com/card/?search=Neko%20Mane%20King) | Illegal |
@@ -5106,7 +5107,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Necro Linker](https://db.ygoprodeck.com/card/?search=Necro%20Linker) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Necro Synchron](https://db.ygoprodeck.com/card/?search=Necro%20Synchron) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Necroface](https://db.ygoprodeck.com/card/?search=Necroface) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Necroworld Banshee](https://db.ygoprodeck.com/card/?search=Necroworld%20Banshee) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Needle Ball](https://db.ygoprodeck.com/card/?search=Needle%20Ball) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Needle Burrower](https://db.ygoprodeck.com/card/?search=Needle%20Burrower) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Needle Soldier](https://db.ygoprodeck.com/card/?search=Needle%20Soldier) | Unlimited |
