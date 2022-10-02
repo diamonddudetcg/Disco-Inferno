@@ -3366,6 +3366,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanity's Fiend](https://db.ygoprodeck.com/card/?search=Vanity's%20Fiend) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Mad Marquess](https://db.ygoprodeck.com/card/?search=Vaylantz%20Mad%20Marquess) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vendread Anima](https://db.ygoprodeck.com/card/?search=Vendread%20Anima) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vendread Core](https://db.ygoprodeck.com/card/?search=Vendread%20Core) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vendread Houndhorde](https://db.ygoprodeck.com/card/?search=Vendread%20Houndhorde) | Illegal |
@@ -4190,7 +4191,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Security Dragon](https://db.ygoprodeck.com/card/?search=Security%20Dragon) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Selene, Queen of the Master Magicians](https://db.ygoprodeck.com/card/?search=Selene,%20Queen%20of%20the%20Master%20Magicians) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Seraphim Papillion](https://db.ygoprodeck.com/card/?search=Seraphim%20Papillion) | Illegal |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shaman of the Tenyi](https://db.ygoprodeck.com/card/?search=Shaman%20of%20the%20Tenyi) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shiranui Skillsaga Supremacy](https://db.ygoprodeck.com/card/?search=Shiranui%20Skillsaga%20Supremacy) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Simorgh, Bird of Sovereignty](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Sovereignty) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Hayate](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Hayate) | Illegal |
@@ -4717,7 +4717,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Gigantic Spright](https://db.ygoprodeck.com/card/?search=Gigantic%20Spright) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Gimmick Puppet Gigantes Doll](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Gigantes%20Doll) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Gorgonic Guardian](https://db.ygoprodeck.com/card/?search=Gorgonic%20Guardian) | Illegal |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Gunkan Suship Uni-class Super-Dreadnought](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Uni-class%20Super-Dreadnought) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Harpie's Pet Phantasmal Dragon](https://db.ygoprodeck.com/card/?search=Harpie's%20Pet%20Phantasmal%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Hazy Flame Basiltrice](https://db.ygoprodeck.com/card/?search=Hazy%20Flame%20Basiltrice) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | Illegal |
@@ -5941,6 +5940,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Return of the Doomed](https://db.ygoprodeck.com/card/?search=Return%20of%20the%20Doomed) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Return of the Dragon Lords](https://db.ygoprodeck.com/card/?search=Return%20of%20the%20Dragon%20Lords) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Return of the Monarchs](https://db.ygoprodeck.com/card/?search=Return%20of%20the%20Monarchs) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Revendread Evolution](https://db.ygoprodeck.com/card/?search=Revendread%20Evolution) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Revendread Origin](https://db.ygoprodeck.com/card/?search=Revendread%20Origin) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reversal Quiz](https://db.ygoprodeck.com/card/?search=Reversal%20Quiz) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Revival of Dokurorider](https://db.ygoprodeck.com/card/?search=Revival%20of%20Dokurorider) | Illegal |
@@ -6028,6 +6028,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shien's Spy](https://db.ygoprodeck.com/card/?search=Shien's%20Spy) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shinato's Ark](https://db.ygoprodeck.com/card/?search=Shinato's%20Ark) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shine Palace](https://db.ygoprodeck.com/card/?search=Shine%20Palace) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shining Draw](https://db.ygoprodeck.com/card/?search=Shining%20Draw) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shining Hope Road](https://db.ygoprodeck.com/card/?search=Shining%20Hope%20Road) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shinobird Power Spot](https://db.ygoprodeck.com/card/?search=Shinobird%20Power%20Spot) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shinobird's Calling](https://db.ygoprodeck.com/card/?search=Shinobird's%20Calling) | Illegal |
@@ -9407,7 +9408,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanguard of the Dragon](https://db.ygoprodeck.com/card/?search=Vanguard%20of%20the%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanguard of the Underground Emperor](https://db.ygoprodeck.com/card/?search=Vanguard%20of%20the%20Underground%20Emperor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Dominator Duke](https://db.ygoprodeck.com/card/?search=Vaylantz%20Dominator%20Duke) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Mad Marquess](https://db.ygoprodeck.com/card/?search=Vaylantz%20Mad%20Marquess) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Voltage Viscount](https://db.ygoprodeck.com/card/?search=Vaylantz%20Voltage%20Viscount) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vengeful Shinobi](https://db.ygoprodeck.com/card/?search=Vengeful%20Shinobi) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vennominaga the Deity of Poisonous Snakes](https://db.ygoprodeck.com/card/?search=Vennominaga%20the%20Deity%20of%20Poisonous%20Snakes) | Unlimited |
@@ -9702,6 +9702,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Recovery Sorcerer](https://db.ygoprodeck.com/card/?search=Recovery%20Sorcerer) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Restoration Point Guard](https://db.ygoprodeck.com/card/?search=Restoration%20Point%20Guard) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shaddoll Construct](https://db.ygoprodeck.com/card/?search=Shaddoll%20Construct) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shaman of the Tenyi](https://db.ygoprodeck.com/card/?search=Shaman%20of%20the%20Tenyi) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shinobi Insect Hagakuremino](https://db.ygoprodeck.com/card/?search=Shinobi%20Insect%20Hagakuremino) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shootingcode Talker](https://db.ygoprodeck.com/card/?search=Shootingcode%20Talker) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Some Summer Summoner](https://db.ygoprodeck.com/card/?search=Some%20Summer%20Summoner) | Unlimited |
@@ -9796,6 +9797,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Grenosaurus](https://db.ygoprodeck.com/card/?search=Grenosaurus) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Gunkan Suship Ikura-class Dreadnought](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Ikura-class%20Dreadnought) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Gunkan Suship Shirauo-class Carrier](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Shirauo-class%20Carrier) | Unlimited |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Gunkan Suship Uni-class Super-Dreadnought](https://db.ygoprodeck.com/card/?search=Gunkan%20Suship%20Uni-class%20Super-Dreadnought) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Heroic Champion - Excalibur](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Excalibur) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Heroic Champion - Gandiva](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Gandiva) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Heroic Champion - Jarngreipr](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Jarngreipr) | Unlimited |
@@ -10454,7 +10456,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Resonator Command](https://db.ygoprodeck.com/card/?search=Resonator%20Command) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Resonator Engine](https://db.ygoprodeck.com/card/?search=Resonator%20Engine) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Restoration of the Monarchs](https://db.ygoprodeck.com/card/?search=Restoration%20of%20the%20Monarchs) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Revendread Evolution](https://db.ygoprodeck.com/card/?search=Revendread%20Evolution) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reverse Breaker](https://db.ygoprodeck.com/card/?search=Reverse%20Breaker) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reverse of Neos](https://db.ygoprodeck.com/card/?search=Reverse%20of%20Neos) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ribbon of Rebirth](https://db.ygoprodeck.com/card/?search=Ribbon%20of%20Rebirth) | Unlimited |
@@ -10496,7 +10497,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shield & Sword](https://db.ygoprodeck.com/card/?search=Shield%20%26%20Sword) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shien's Castle of Mist](https://db.ygoprodeck.com/card/?search=Shien's%20Castle%20of%20Mist) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shifting Shadows](https://db.ygoprodeck.com/card/?search=Shifting%20Shadows) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shining Draw](https://db.ygoprodeck.com/card/?search=Shining%20Draw) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shrink](https://db.ygoprodeck.com/card/?search=Shrink) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shuffle Reborn](https://db.ygoprodeck.com/card/?search=Shuffle%20Reborn) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Silent Doom](https://db.ygoprodeck.com/card/?search=Silent%20Doom) | Unlimited |
