@@ -1479,7 +1479,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magicalized Fusion](https://db.ygoprodeck.com/card/?search=Magicalized%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magician's Salvation](https://db.ygoprodeck.com/card/?search=Magician's%20Salvation) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Majespecter Cyclone](https://db.ygoprodeck.com/card/?search=Majespecter%20Cyclone) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Majesty's Pegasus](https://db.ygoprodeck.com/card/?search=Majesty's%20Pegasus) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Malefic World](https://db.ygoprodeck.com/card/?search=Malefic%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Marincess Dive](https://db.ygoprodeck.com/card/?search=Marincess%20Dive) | Illegal |
@@ -8970,6 +8969,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magnetic Field](https://db.ygoprodeck.com/card/?search=Magnetic%20Field) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magnificent Machine Angel](https://db.ygoprodeck.com/card/?search=Magnificent%20Machine%20Angel) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magnum Shield](https://db.ygoprodeck.com/card/?search=Magnum%20Shield) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Majespecter Cyclone](https://db.ygoprodeck.com/card/?search=Majespecter%20Cyclone) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Majespecter Sonics](https://db.ygoprodeck.com/card/?search=Majespecter%20Sonics) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Majespecter Storm](https://db.ygoprodeck.com/card/?search=Majespecter%20Storm) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Majestic Absorption](https://db.ygoprodeck.com/card/?search=Majestic%20Absorption) | Unlimited |
