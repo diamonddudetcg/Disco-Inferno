@@ -2,7 +2,7 @@
 title: "Disco Inferno Forbidden & Limited List"
 ---
 
-This is the Structure Deck: Legend of the Crystal Beasts Disco Inferno banlist.
+This is the October 2022 Disco Inferno banlist.
 
 You can find the most recent banlist file [HERE](https://drive.google.com/file/d/1E6Y4P6NovTzc6q9uiefR8b2fd3g6mbR2/view)
 
