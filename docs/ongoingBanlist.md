@@ -10,6 +10,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 
 |Card name | Status |
 | :-- | --: |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Bean Soldier](https://db.ygoprodeck.com/card/?search=Bean%20Soldier) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Beautiful Headhuntress](https://db.ygoprodeck.com/card/?search=Beautiful%20Headhuntress) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Corroding Shark](https://db.ygoprodeck.com/card/?search=Corroding%20Shark) | Illegal |
@@ -1884,7 +1885,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ally Mind](https://db.ygoprodeck.com/card/?search=Ally%20Mind) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ally of Justice Clausolas](https://db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Clausolas) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Alpha The Magnet Warrior](https://db.ygoprodeck.com/card/?search=Alpha%20The%20Magnet%20Warrior) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Amazon of the Seas](https://db.ygoprodeck.com/card/?search=Amazon%20of%20the%20Seas) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Amphibian Beast](https://db.ygoprodeck.com/card/?search=Amphibian%20Beast) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ancient Brain](https://db.ygoprodeck.com/card/?search=Ancient%20Brain) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ancient Elf](https://db.ygoprodeck.com/card/?search=Ancient%20Elf) | Unlimited |
