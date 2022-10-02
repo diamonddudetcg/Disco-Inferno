@@ -1590,7 +1590,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Gates of Dark World](https://db.ygoprodeck.com/card/?search=The%20Gates%20of%20Dark%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Grand Spellbook Tower](https://db.ygoprodeck.com/card/?search=The%20Grand%20Spellbook%20Tower) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Hidden City](https://db.ygoprodeck.com/card/?search=The%20Hidden%20City) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Melody of Awakening Dragon](https://db.ygoprodeck.com/card/?search=The%20Melody%20of%20Awakening%20Dragon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Seal of Orichalcos](https://db.ygoprodeck.com/card/?search=The%20Seal%20of%20Orichalcos) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Therion Discolosseum](https://db.ygoprodeck.com/card/?search=Therion%20Discolosseum) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunder Dragon Fusion](https://db.ygoprodeck.com/card/?search=Thunder%20Dragon%20Fusion) | Illegal |
@@ -1653,7 +1652,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dried Winds](https://db.ygoprodeck.com/card/?search=Dried%20Winds) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Empty Machine](https://db.ygoprodeck.com/card/?search=Empty%20Machine) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Evenly Matched](https://db.ygoprodeck.com/card/?search=Evenly%20Matched) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ferret Flames](https://db.ygoprodeck.com/card/?search=Ferret%20Flames) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fiend Comedian](https://db.ygoprodeck.com/card/?search=Fiend%20Comedian) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forced Back](https://db.ygoprodeck.com/card/?search=Forced%20Back) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Illegal |
@@ -9676,6 +9674,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Kaiju Files](https://db.ygoprodeck.com/card/?search=The%20Kaiju%20Files) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Law of the Normal](https://db.ygoprodeck.com/card/?search=The%20Law%20of%20the%20Normal) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Mask of Remnants](https://db.ygoprodeck.com/card/?search=The%20Mask%20of%20Remnants) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Melody of Awakening Dragon](https://db.ygoprodeck.com/card/?search=The%20Melody%20of%20Awakening%20Dragon) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Monarchs Stormforth](https://db.ygoprodeck.com/card/?search=The%20Monarchs%20Stormforth) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Most Distant, Deepest Depths](https://db.ygoprodeck.com/card/?search=The%20Most%20Distant,%20Deepest%20Depths) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Nordic Lights](https://db.ygoprodeck.com/card/?search=The%20Nordic%20Lights) | Unlimited |
@@ -10464,6 +10463,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fateful Hour](https://db.ygoprodeck.com/card/?search=Fateful%20Hour) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Favorite Contact](https://db.ygoprodeck.com/card/?search=Favorite%20Contact) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Feather Wind](https://db.ygoprodeck.com/card/?search=Feather%20Wind) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ferret Flames](https://db.ygoprodeck.com/card/?search=Ferret%20Flames) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fiend Griefing](https://db.ygoprodeck.com/card/?search=Fiend%20Griefing) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fiend's Hand Mirror](https://db.ygoprodeck.com/card/?search=Fiend's%20Hand%20Mirror) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fiendish Chain](https://db.ygoprodeck.com/card/?search=Fiendish%20Chain) | Unlimited |
