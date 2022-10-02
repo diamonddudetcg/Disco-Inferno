@@ -132,6 +132,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ariane the Labrynth Servant](https://db.ygoprodeck.com/card/?search=Ariane%20the%20Labrynth%20Servant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Arianna the Labrynth Servant](https://db.ygoprodeck.com/card/?search=Arianna%20the%20Labrynth%20Servant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon LV10](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV10) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon, the Armored Dragon](https://db.ygoprodeck.com/card/?search=Armed%20Dragon,%20the%20Armored%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Aromage Bergamot](https://db.ygoprodeck.com/card/?search=Aromage%20Bergamot) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Aromage Jasmine](https://db.ygoprodeck.com/card/?search=Aromage%20Jasmine) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Aron, the Ogdoadic King](https://db.ygoprodeck.com/card/?search=Aron,%20the%20Ogdoadic%20King) | Illegal |
@@ -2550,7 +2551,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV3](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV3) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV5](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV5) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon Thunder LV7](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20Thunder%20LV7) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Dragon, the Armored Dragon](https://db.ygoprodeck.com/card/?search=Armed%20Dragon,%20the%20Armored%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Ninja](https://db.ygoprodeck.com/card/?search=Armed%20Ninja) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Protector Dragon](https://db.ygoprodeck.com/card/?search=Armed%20Protector%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Armed Samurai - Ben Kei](https://db.ygoprodeck.com/card/?search=Armed%20Samurai%20-%20Ben%20Kei) | Unlimited |
