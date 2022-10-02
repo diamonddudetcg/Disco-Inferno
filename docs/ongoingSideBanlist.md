@@ -3920,6 +3920,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Rune-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Rune-Eyes%20Pendulum%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ryu Senshi](https://db.ygoprodeck.com/card/?search=Ryu%20Senshi) | Illegal |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sanwitch](https://db.ygoprodeck.com/card/?search=Sanwitch) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Schuberta the Melodious Maestra](https://db.ygoprodeck.com/card/?search=Schuberta%20the%20Melodious%20Maestra) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sea Monster of Theseus](https://db.ygoprodeck.com/card/?search=Sea%20Monster%20of%20Theseus) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Secret Six Samurai - Rihan](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Rihan) | Illegal |
@@ -4999,6 +5000,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Advanced Heraldry Art](https://db.ygoprodeck.com/card/?search=Advanced%20Heraldry%20Art) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Advanced Ritual Art](https://db.ygoprodeck.com/card/?search=Advanced%20Ritual%20Art) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [After the Struggle](https://db.ygoprodeck.com/card/?search=After%20the%20Struggle) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Against the Wind](https://db.ygoprodeck.com/card/?search=Against%20the%20Wind) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Allure of Darkness](https://db.ygoprodeck.com/card/?search=Allure%20of%20Darkness) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Alluring Mirror Split](https://db.ygoprodeck.com/card/?search=Alluring%20Mirror%20Split) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Amazement Precious Park](https://db.ygoprodeck.com/card/?search=Amazement%20Precious%20Park) | Illegal |
@@ -5271,6 +5273,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Disciples of the True Dracophoenix](https://db.ygoprodeck.com/card/?search=Disciples%20of%20the%20True%20Dracophoenix) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Divine Evolution](https://db.ygoprodeck.com/card/?search=Divine%20Evolution) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Divine Sword - Phoenix Blade](https://db.ygoprodeck.com/card/?search=Divine%20Sword%20-%20Phoenix%20Blade) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dogmatikalamity](https://db.ygoprodeck.com/card/?search=Dogmatikalamity) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Don Thousand's Throne](https://db.ygoprodeck.com/card/?search=Don%20Thousand's%20Throne) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Double Attack](https://db.ygoprodeck.com/card/?search=Double%20Attack) | Illegal |
@@ -9575,7 +9578,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Rocket Hermos Cannon](https://db.ygoprodeck.com/card/?search=Rocket%20Hermos%20Cannon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Rose Spectre of Dunn](https://db.ygoprodeck.com/card/?search=Rose%20Spectre%20of%20Dunn) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Salamangreat Violet Chimera](https://db.ygoprodeck.com/card/?search=Salamangreat%20Violet%20Chimera) | Unlimited |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sanwitch](https://db.ygoprodeck.com/card/?search=Sanwitch) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Skull Knight](https://db.ygoprodeck.com/card/?search=Skull%20Knight) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sprind the Irondash Dragon](https://db.ygoprodeck.com/card/?search=Sprind%20the%20Irondash%20Dragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Super Vehicroid - Mobile Base](https://db.ygoprodeck.com/card/?search=Super%20Vehicroid%20-%20Mobile%20Base) | Unlimited |
@@ -9826,7 +9828,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Advanced Dark](https://db.ygoprodeck.com/card/?search=Advanced%20Dark) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [After the Storm](https://db.ygoprodeck.com/card/?search=After%20the%20Storm) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Afterglow](https://db.ygoprodeck.com/card/?search=Afterglow) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Against the Wind](https://db.ygoprodeck.com/card/?search=Against%20the%20Wind) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Air Cracking Storm](https://db.ygoprodeck.com/card/?search=Air%20Cracking%20Storm) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Amazement Special Show](https://db.ygoprodeck.com/card/?search=Amazement%20Special%20Show) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Amazing Pendulum](https://db.ygoprodeck.com/card/?search=Amazing%20Pendulum) | Unlimited |
@@ -10017,7 +10018,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dodododraw](https://db.ygoprodeck.com/card/?search=Dodododraw) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dogmatika Nation](https://db.ygoprodeck.com/card/?search=Dogmatika%20Nation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dogmatikacism](https://db.ygoprodeck.com/card/?search=Dogmatikacism) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dogmatikalamity](https://db.ygoprodeck.com/card/?search=Dogmatikalamity) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dogmatikamacabre](https://db.ygoprodeck.com/card/?search=Dogmatikamacabre) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Doll Happiness](https://db.ygoprodeck.com/card/?search=Doll%20Happiness) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Doll House](https://db.ygoprodeck.com/card/?search=Doll%20House) | Unlimited |
