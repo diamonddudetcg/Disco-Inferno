@@ -1417,7 +1417,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Final Countdown](https://db.ygoprodeck.com/card/?search=Final%20Countdown) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fish Sonar](https://db.ygoprodeck.com/card/?search=Fish%20Sonar) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Floowandereeze and the Advent of Adventure](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Advent%20of%20Adventure) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Burial Goods](https://db.ygoprodeck.com/card/?search=Foolish%20Burial%20Goods) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forbidden Chalice](https://db.ygoprodeck.com/card/?search=Forbidden%20Chalice) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forbidden Droplet](https://db.ygoprodeck.com/card/?search=Forbidden%20Droplet) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Frightfur Patchwork](https://db.ygoprodeck.com/card/?search=Frightfur%20Patchwork) | Illegal |
@@ -8623,6 +8622,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flower Stacking](https://db.ygoprodeck.com/card/?search=Flower%20Stacking) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fog Control](https://db.ygoprodeck.com/card/?search=Fog%20Control) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Follow Wind](https://db.ygoprodeck.com/card/?search=Follow%20Wind) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Burial Goods](https://db.ygoprodeck.com/card/?search=Foolish%20Burial%20Goods) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forbidden Arts of the Gishki](https://db.ygoprodeck.com/card/?search=Forbidden%20Arts%20of%20the%20Gishki) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forbidden Dark Contract with the Swamp King](https://db.ygoprodeck.com/card/?search=Forbidden%20Dark%20Contract%20with%20the%20Swamp%20King) | Unlimited |
