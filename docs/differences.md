@@ -321,4 +321,6 @@ Estimated number of changes: 308
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Torrential Reborn](https://db.ygoprodeck.com/card/?search=Torrential%20Reborn) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ultimate Crystal Magic](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Magic) | Illegal | Unlimited |
 
+<br>
+
 ###### [Back home](index)

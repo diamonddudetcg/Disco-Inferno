@@ -11533,4 +11533,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zexal Alliance](https://db.ygoprodeck.com/card/?search=Zexal%20Alliance) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zoma the Spirit](https://db.ygoprodeck.com/card/?search=Zoma%20the%20Spirit) | Unlimited |
 
+<br>
+
 ###### [Back home](index)

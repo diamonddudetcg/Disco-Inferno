@@ -11533,4 +11533,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zoodiac Combo](https://db.ygoprodeck.com/card/?search=Zoodiac%20Combo) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zoodiac Gathering](https://db.ygoprodeck.com/card/?search=Zoodiac%20Gathering) | Unlimited |
 
+<br>
+
 ###### [Back home](index)

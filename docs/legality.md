@@ -133,4 +133,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | No Longer Limited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Time Seal](https://db.ygoprodeck.com/card/?search=Time%20Seal) | No Longer Limited |
 
+<br>
+
 ###### [Back home](index)
