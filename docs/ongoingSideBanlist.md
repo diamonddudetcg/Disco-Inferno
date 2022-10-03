@@ -2994,7 +2994,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swarm of Locusts](https://db.ygoprodeck.com/card/?search=Swarm%20of%20Locusts) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swarm of Scarabs](https://db.ygoprodeck.com/card/?search=Swarm%20of%20Scarabs) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swift Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Swift%20Gaia%20the%20Fierce%20Knight) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swift Scarecrow](https://db.ygoprodeck.com/card/?search=Swift%20Scarecrow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sword Hunter](https://db.ygoprodeck.com/card/?search=Sword%20Hunter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsman of Revealing Light](https://db.ygoprodeck.com/card/?search=Swordsman%20of%20Revealing%20Light) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Auspice Chunjun](https://db.ygoprodeck.com/card/?search=Swordsoul%20Auspice%20Chunjun) | Illegal |
@@ -4290,7 +4289,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Glacial Beast Iceberg Narwhal](https://db.ygoprodeck.com/card/?search=Glacial%20Beast%20Iceberg%20Narwhal) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Goyo Chaser](https://db.ygoprodeck.com/card/?search=Goyo%20Chaser) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Goyo Guardian](https://db.ygoprodeck.com/card/?search=Goyo%20Guardian) | Illegal |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Goyo King](https://db.ygoprodeck.com/card/?search=Goyo%20King) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Goyo Predator](https://db.ygoprodeck.com/card/?search=Goyo%20Predator) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Gravity Warrior](https://db.ygoprodeck.com/card/?search=Gravity%20Warrior) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Graydle Dragon](https://db.ygoprodeck.com/card/?search=Graydle%20Dragon) | Illegal |
@@ -9124,6 +9122,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swarm of Crows](https://db.ygoprodeck.com/card/?search=Swarm%20of%20Crows) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sweet Corn](https://db.ygoprodeck.com/card/?search=Sweet%20Corn) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swift Birdman Joe](https://db.ygoprodeck.com/card/?search=Swift%20Birdman%20Joe) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swift Scarecrow](https://db.ygoprodeck.com/card/?search=Swift%20Scarecrow) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sword Master](https://db.ygoprodeck.com/card/?search=Sword%20Master) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsman from a Distant Land](https://db.ygoprodeck.com/card/?search=Swordsman%20from%20a%20Distant%20Land) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Cherubsprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Cherubsprout) | Unlimited |
@@ -9651,6 +9650,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Fabled Valkyrus](https://db.ygoprodeck.com/card/?search=Fabled%20Valkyrus) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Gaiarmor Dragonshell](https://db.ygoprodeck.com/card/?search=Gaiarmor%20Dragonshell) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Goyo Defender](https://db.ygoprodeck.com/card/?search=Goyo%20Defender) | Unlimited |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Goyo King](https://db.ygoprodeck.com/card/?search=Goyo%20King) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Groza, Tyrant of Thunder](https://db.ygoprodeck.com/card/?search=Groza,%20Tyrant%20of%20Thunder) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Hi-Speedroid Chanbara](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Chanbara) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Hi-Speedroid Kitedrake](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Kitedrake) | Unlimited |
