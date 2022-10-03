@@ -1042,7 +1042,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Dogma](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dogma) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Doom Lord](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Doom%20Lord) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Double Dude](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Double%20Dude) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Drawhand](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Drawhand) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Dreadmaster](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dreadmaster) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Dreamer](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dreamer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Drilldark](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Drilldark) | Illegal |
@@ -2459,6 +2458,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Patchwork Fluffal](https://db.ygoprodeck.com/card/?search=Patchwork%20Fluffal) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Patrol Robo](https://db.ygoprodeck.com/card/?search=Patrol%20Robo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Penguin Knight](https://db.ygoprodeck.com/card/?search=Penguin%20Knight) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Penguin Soldier](https://db.ygoprodeck.com/card/?search=Penguin%20Soldier) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Penguin Torpedo](https://db.ygoprodeck.com/card/?search=Penguin%20Torpedo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Penumbral Soldier Lady](https://db.ygoprodeck.com/card/?search=Penumbral%20Soldier%20Lady) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Perfect Machine King](https://db.ygoprodeck.com/card/?search=Perfect%20Machine%20King) | Illegal |
@@ -5175,6 +5175,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crusadia Power](https://db.ygoprodeck.com/card/?search=Crusadia%20Power) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crusadia Revival](https://db.ygoprodeck.com/card/?search=Crusadia%20Revival) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Aegis](https://db.ygoprodeck.com/card/?search=Crystal%20Aegis) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Beacon](https://db.ygoprodeck.com/card/?search=Crystal%20Beacon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Bond](https://db.ygoprodeck.com/card/?search=Crystal%20Bond) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cubic Dharma](https://db.ygoprodeck.com/card/?search=Cubic%20Dharma) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cubic Karma](https://db.ygoprodeck.com/card/?search=Cubic%20Karma) | Illegal |
@@ -5218,7 +5219,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Energy](https://db.ygoprodeck.com/card/?search=Dark%20Energy) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Factory of Mass Production](https://db.ygoprodeck.com/card/?search=Dark%20Factory%20of%20Mass%20Production) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Fusion](https://db.ygoprodeck.com/card/?search=Dark%20Fusion) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Curtain](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Curtain) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Expanded](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Expanded) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Inheritance](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Inheritance) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Twin Burst](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Twin%20Burst) | Illegal |
@@ -7912,6 +7912,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Captain Tenacious](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Captain%20Tenacious) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Departed](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Departed) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Diamond Dude](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Diamond%20Dude) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Drawhand](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Drawhand) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Dread Servant](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dread%20Servant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destruction Cyclone](https://db.ygoprodeck.com/card/?search=Destruction%20Cyclone) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Devouring Sarcoughagus](https://db.ygoprodeck.com/card/?search=Devouring%20Sarcoughagus) | Unlimited |
@@ -8737,7 +8738,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pendulumucho](https://db.ygoprodeck.com/card/?search=Pendulumucho) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Penguin Cleric](https://db.ygoprodeck.com/card/?search=Penguin%20Cleric) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Penguin Ninja](https://db.ygoprodeck.com/card/?search=Penguin%20Ninja) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Penguin Soldier](https://db.ygoprodeck.com/card/?search=Penguin%20Soldier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Penguin Squire](https://db.ygoprodeck.com/card/?search=Penguin%20Squire) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Perditious Puppeteer](https://db.ygoprodeck.com/card/?search=Perditious%20Puppeteer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performage Damage Juggler](https://db.ygoprodeck.com/card/?search=Performage%20Damage%20Juggler) | Unlimited |
@@ -9943,7 +9943,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cross Over](https://db.ygoprodeck.com/card/?search=Cross%20Over) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crusadia Testament](https://db.ygoprodeck.com/card/?search=Crusadia%20Testament) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Abundance](https://db.ygoprodeck.com/card/?search=Crystal%20Abundance) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Beacon](https://db.ygoprodeck.com/card/?search=Crystal%20Beacon) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Blessing](https://db.ygoprodeck.com/card/?search=Crystal%20Blessing) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Promise](https://db.ygoprodeck.com/card/?search=Crystal%20Promise) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Release](https://db.ygoprodeck.com/card/?search=Crystal%20Release) | Unlimited |
@@ -9976,6 +9975,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Eruption](https://db.ygoprodeck.com/card/?search=Dark%20Eruption) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Hole](https://db.ygoprodeck.com/card/?search=Dark%20Hole) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Attack](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Attack) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Curtain](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Curtain) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magical Circle](https://db.ygoprodeck.com/card/?search=Dark%20Magical%20Circle) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Mambele](https://db.ygoprodeck.com/card/?search=Dark%20Mambele) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Sanctuary](https://db.ygoprodeck.com/card/?search=Dark%20Sanctuary) | Unlimited |
