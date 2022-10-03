@@ -6832,7 +6832,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Recoded Alive](https://db.ygoprodeck.com/card/?search=Recoded%20Alive) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Carpet](https://db.ygoprodeck.com/card/?search=Red%20Carpet) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Cocoon](https://db.ygoprodeck.com/card/?search=Red%20Cocoon) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Screen](https://db.ygoprodeck.com/card/?search=Red%20Screen) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Supremacy](https://db.ygoprodeck.com/card/?search=Red%20Supremacy) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red-Eyes Burn](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Burn) | Illegal |
@@ -7115,6 +7114,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Charge](https://db.ygoprodeck.com/card/?search=Soul%20Charge) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | Forbidden |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ultimate Offering](https://db.ygoprodeck.com/card/?search=Ultimate%20Offering) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Black Dragon Collapserpent](https://db.ygoprodeck.com/card/?search=Black%20Dragon%20Collapserpent) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [True King Lithosagym, the Disaster](https://db.ygoprodeck.com/card/?search=True%20King%20Lithosagym,%20the%20Disaster) | Limited |
