@@ -175,6 +175,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blue-Eyes Jet Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Jet%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blue-Eyes Solid Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Solid%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bonfire Colossus](https://db.ygoprodeck.com/card/?search=Bonfire%20Colossus) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brain Jacker](https://db.ygoprodeck.com/card/?search=Brain%20Jacker) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brotherhood of the Fire Fist - Elephant](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Elephant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brotherhood of the Fire Fist - Snake](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Snake) | Illegal |
@@ -2787,7 +2788,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bonze Alone](https://db.ygoprodeck.com/card/?search=Bonze%20Alone) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Boost Warrior](https://db.ygoprodeck.com/card/?search=Boost%20Warrior) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Boot Staggered](https://db.ygoprodeck.com/card/?search=Boot%20Staggered) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Boot-Up Corporal - Command Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Corporal%20-%20Command%20Dynamo) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Boot-Up Soldier - Dread Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Soldier%20-%20Dread%20Dynamo) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Botanical Girl](https://db.ygoprodeck.com/card/?search=Botanical%20Girl) | Unlimited |

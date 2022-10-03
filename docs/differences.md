@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 309
+Estimated number of changes: 310
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -24,6 +24,7 @@ Estimated number of changes: 309
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Adamancipator Researcher](https://db.ygoprodeck.com/card/?search=Adamancipator%20Researcher) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Heiress](https://db.ygoprodeck.com/card/?search=Archfiend%20Heiress) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [B-Buster Drake](https://db.ygoprodeck.com/card/?search=B-Buster%20Drake) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [C-Crush Wyvern](https://db.ygoprodeck.com/card/?search=C-Crush%20Wyvern) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Castle of Dark Illusions](https://db.ygoprodeck.com/card/?search=Castle%20of%20Dark%20Illusions) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | Unlimited | Illegal |
