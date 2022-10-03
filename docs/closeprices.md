@@ -6,34 +6,34 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Fairy Box](https://db.ygoprodeck.com/card/?search=Fairy%20Box) | 0.4459 | 0.52 | Illegal |
-[Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | 0.4709 | 0.59 | Illegal |
-[Tremendous Fire](https://db.ygoprodeck.com/card/?search=Tremendous%20Fire) | 0.4733 | 0.56 | Illegal |
-[Contact Out](https://db.ygoprodeck.com/card/?search=Contact%20Out) | 0.4773 | 0.51 | Illegal |
-[Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | 0.4803 | 0.54 | Illegal |
-[Spellbook of Secrets](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Secrets) | 0.4804 | 0.56 | Illegal |
-[Gagagadraw](https://db.ygoprodeck.com/card/?search=Gagagadraw) | 0.4858 | 0.51 | Illegal |
-[Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | 0.4858 | 0.53 | Illegal |
-[Devotee of Nephthys](https://db.ygoprodeck.com/card/?search=Devotee%20of%20Nephthys) | 0.4903 | 0.51 | Illegal |
-[Abominable Unchained Soul](https://db.ygoprodeck.com/card/?search=Abominable%20Unchained%20Soul) | 0.4913 | 0.51 | Illegal |
-[Red-Eyes Wyvern](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern) | 0.4915 | 0.52 | Illegal |
-[Abyss Actor - Evil Heel](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Evil%20Heel) | 0.4917 | 0.56 | Illegal |
+[Fairy Box](https://db.ygoprodeck.com/card/?search=Fairy%20Box) | 0.4462 | 0.52 | Illegal |
+[Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | 0.4715 | 0.59 | Illegal |
+[Tremendous Fire](https://db.ygoprodeck.com/card/?search=Tremendous%20Fire) | 0.4737 | 0.56 | Illegal |
+[Contact Out](https://db.ygoprodeck.com/card/?search=Contact%20Out) | 0.4775 | 0.51 | Illegal |
+[Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | 0.4806 | 0.54 | Illegal |
+[Spellbook of Secrets](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Secrets) | 0.4808 | 0.56 | Illegal |
+[Gagagadraw](https://db.ygoprodeck.com/card/?search=Gagagadraw) | 0.4859 | 0.51 | Illegal |
+[Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | 0.4861 | 0.53 | Illegal |
+[Devotee of Nephthys](https://db.ygoprodeck.com/card/?search=Devotee%20of%20Nephthys) | 0.4904 | 0.51 | Illegal |
+[Abominable Unchained Soul](https://db.ygoprodeck.com/card/?search=Abominable%20Unchained%20Soul) | 0.4914 | 0.51 | Illegal |
+[Red-Eyes Wyvern](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern) | 0.4917 | 0.52 | Illegal |
+[Abyss Actor - Evil Heel](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Evil%20Heel) | 0.4921 | 0.56 | Illegal |
 [Masquerade the Blazing Dragon](https://db.ygoprodeck.com/card/?search=Masquerade%20the%20Blazing%20Dragon) | 0.4930 | 0.51 | Illegal |
-[Infernity Archfiend](https://db.ygoprodeck.com/card/?search=Infernity%20Archfiend) | 0.4950 | 0.52 | Illegal |
-[Fiend Skull Dragon](https://db.ygoprodeck.com/card/?search=Fiend%20Skull%20Dragon) | 0.4970 | 0.55 | Illegal |
+[Infernity Archfiend](https://db.ygoprodeck.com/card/?search=Infernity%20Archfiend) | 0.4952 | 0.52 | Illegal |
+[Fiend Skull Dragon](https://db.ygoprodeck.com/card/?search=Fiend%20Skull%20Dragon) | 0.4973 | 0.55 | Illegal |
 [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | 0.4982 | 0.51 | Illegal |
-[Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | 0.5041 | 0.47 | Unlimited |
-[Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | 0.5057 | 0.48 | Unlimited |
-[Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | 0.5058 | 0.49 | Unlimited |
-[Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | 0.5070 | 0.48 | Unlimited |
-[The Phantom Knights of Shade Brigandine](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Shade%20Brigandine) | 0.5084 | 0.45 | Unlimited |
-[Volcanic Counter](https://db.ygoprodeck.com/card/?search=Volcanic%20Counter) | 0.5114 | 0.49 | Unlimited |
-[Gem-Turtle](https://db.ygoprodeck.com/card/?search=Gem-Turtle) | 0.5116 | 0.49 | Unlimited |
-[Tuning Magician](https://db.ygoprodeck.com/card/?search=Tuning%20Magician) | 0.5168 | 0.49 | Unlimited |
-[Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | 0.5254 | 0.49 | Unlimited |
-[Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | 0.5282 | 0.49 | Unlimited |
-[Inferno Tempest](https://db.ygoprodeck.com/card/?search=Inferno%20Tempest) | 0.5315 | 0.49 | Unlimited |
-[True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | 0.5328 | 0.49 | Forbidden |
-[Rainbow Bridge](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge) | 0.6483 | 0.21 | Unlimited |
+[Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | 0.5040 | 0.47 | Unlimited |
+[Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | 0.5056 | 0.48 | Unlimited |
+[Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | 0.5057 | 0.49 | Unlimited |
+[Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | 0.5069 | 0.48 | Unlimited |
+[The Phantom Knights of Shade Brigandine](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Shade%20Brigandine) | 0.5082 | 0.47 | Unlimited |
+[Volcanic Counter](https://db.ygoprodeck.com/card/?search=Volcanic%20Counter) | 0.5113 | 0.49 | Unlimited |
+[Gem-Turtle](https://db.ygoprodeck.com/card/?search=Gem-Turtle) | 0.5114 | 0.49 | Unlimited |
+[Tuning Magician](https://db.ygoprodeck.com/card/?search=Tuning%20Magician) | 0.5167 | 0.49 | Unlimited |
+[Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | 0.5253 | 0.49 | Unlimited |
+[Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | 0.5280 | 0.49 | Unlimited |
+[Inferno Tempest](https://db.ygoprodeck.com/card/?search=Inferno%20Tempest) | 0.5313 | 0.49 | Unlimited |
+[True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | 0.5326 | 0.49 | Forbidden |
+[Rainbow Bridge](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge) | 0.6461 | 0.21 | Unlimited |
 
 ###### [Back home](index)
