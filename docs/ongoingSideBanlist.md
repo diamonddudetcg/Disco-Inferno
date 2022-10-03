@@ -940,6 +940,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Honest](https://db.ygoprodeck.com/card/?search=Dark%20Honest) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Horus](https://db.ygoprodeck.com/card/?search=Dark%20Horus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Hunter](https://db.ygoprodeck.com/card/?search=Dark%20Hunter) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Jeroid](https://db.ygoprodeck.com/card/?search=Dark%20Jeroid) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Magician Girl](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20Girl) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Magician Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Magician of Chaos](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20of%20Chaos) | Illegal |
@@ -7779,7 +7780,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Crusader](https://db.ygoprodeck.com/card/?search=Dark%20Crusader) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Doriado](https://db.ygoprodeck.com/card/?search=Dark%20Doriado) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Eye Nightmare](https://db.ygoprodeck.com/card/?search=Dark%20Eye%20Nightmare) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Jeroid](https://db.ygoprodeck.com/card/?search=Dark%20Jeroid) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Lucius LV4](https://db.ygoprodeck.com/card/?search=Dark%20Lucius%20LV4) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Lucius LV6](https://db.ygoprodeck.com/card/?search=Dark%20Lucius%20LV6) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Lucius LV8](https://db.ygoprodeck.com/card/?search=Dark%20Lucius%20LV8) | Unlimited |
