@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 298
+Estimated number of changes: 299
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -183,6 +183,7 @@ Estimated number of changes: 298
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Izanagi](https://db.ygoprodeck.com/card/?search=Izanagi) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Monoloph](https://db.ygoprodeck.com/card/?search=Jurrac%20Monoloph) | Illegal | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Knight of the Red Lotus](https://db.ygoprodeck.com/card/?search=Knight%20of%20the%20Red%20Lotus) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Libic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Libic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magical Reflect Slime](https://db.ygoprodeck.com/card/?search=Magical%20Reflect%20Slime) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magikuriboh](https://db.ygoprodeck.com/card/?search=Magikuriboh) | Illegal | Unlimited |
