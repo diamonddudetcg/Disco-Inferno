@@ -6922,7 +6922,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Soul Levy](https://db.ygoprodeck.com/card/?search=Soul%20Levy) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Sound the Retreat!](https://db.ygoprodeck.com/card/?search=Sound%20the%20Retreat!) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Reclamation](https://db.ygoprodeck.com/card/?search=Spell%20Reclamation) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell-Stopping Statute](https://db.ygoprodeck.com/card/?search=Spell-Stopping%20Statute) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spider Egg](https://db.ygoprodeck.com/card/?search=Spider%20Egg) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spirit Barrier](https://db.ygoprodeck.com/card/?search=Spirit%20Barrier) | Illegal |
@@ -11360,6 +11359,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Speedroid Dupligate](https://db.ygoprodeck.com/card/?search=Speedroid%20Dupligate) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Purification](https://db.ygoprodeck.com/card/?search=Spell%20Purification) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Shield Type-8](https://db.ygoprodeck.com/card/?search=Spell%20Shield%20Type-8) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spellbinding Circle](https://db.ygoprodeck.com/card/?search=Spellbinding%20Circle) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spikeshield with Chain](https://db.ygoprodeck.com/card/?search=Spikeshield%20with%20Chain) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spin Turn](https://db.ygoprodeck.com/card/?search=Spin%20Turn) | Unlimited |
