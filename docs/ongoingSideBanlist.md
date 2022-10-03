@@ -5923,6 +5923,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soundproofed](https://db.ygoprodeck.com/card/?search=Soundproofed) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spacetime Transcendence](https://db.ygoprodeck.com/card/?search=Spacetime%20Transcendence) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spark Blaster](https://db.ygoprodeck.com/card/?search=Spark%20Blaster) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sparks](https://db.ygoprodeck.com/card/?search=Sparks) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Special Hurricane](https://db.ygoprodeck.com/card/?search=Special%20Hurricane) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Specimen Inspection](https://db.ygoprodeck.com/card/?search=Specimen%20Inspection) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Speedroid Scratch](https://db.ygoprodeck.com/card/?search=Speedroid%20Scratch) | Illegal |
@@ -10475,7 +10476,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Taker](https://db.ygoprodeck.com/card/?search=Soul%20Taker) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Space Cyclone](https://db.ygoprodeck.com/card/?search=Space%20Cyclone) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Space Gift](https://db.ygoprodeck.com/card/?search=Space%20Gift) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sparks](https://db.ygoprodeck.com/card/?search=Sparks) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Special Schedule](https://db.ygoprodeck.com/card/?search=Special%20Schedule) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Speed Recovery](https://db.ygoprodeck.com/card/?search=Speed%20Recovery) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Speedlift](https://db.ygoprodeck.com/card/?search=Speedlift) | Unlimited |
