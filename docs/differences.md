@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 296
+Estimated number of changes: 297
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -277,6 +277,7 @@ Estimated number of changes: 296
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [March of the Dark Brigade](https://db.ygoprodeck.com/card/?search=March%20of%20the%20Dark%20Brigade) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Megalith Unformed](https://db.ygoprodeck.com/card/?search=Megalith%20Unformed) | Limited | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Moon Mirror Shield](https://db.ygoprodeck.com/card/?search=Moon%20Mirror%20Shield) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pot of Benevolence](https://db.ygoprodeck.com/card/?search=Pot%20of%20Benevolence) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Relinquished Fusion](https://db.ygoprodeck.com/card/?search=Relinquished%20Fusion) | Illegal | Unlimited |
