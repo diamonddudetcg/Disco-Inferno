@@ -1201,6 +1201,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elephant Statue of Blessing](https://db.ygoprodeck.com/card/?search=Elephant%20Statue%20of%20Blessing) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elephun](https://db.ygoprodeck.com/card/?search=Elephun) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emes the Infinity](https://db.ygoprodeck.com/card/?search=Emes%20the%20Infinity) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emissary from Pandemonium](https://db.ygoprodeck.com/card/?search=Emissary%20from%20Pandemonium) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emissary of the Afterlife](https://db.ygoprodeck.com/card/?search=Emissary%20of%20the%20Afterlife) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emissary of the Oasis](https://db.ygoprodeck.com/card/?search=Emissary%20of%20the%20Oasis) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emperor of Lightning](https://db.ygoprodeck.com/card/?search=Emperor%20of%20Lightning) | Illegal |
@@ -1769,7 +1770,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernoid Pirmais](https://db.ygoprodeck.com/card/?search=Infernoid%20Pirmais) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernoid Seitsemas](https://db.ygoprodeck.com/card/?search=Infernoid%20Seitsemas) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Anchor Drill](https://db.ygoprodeck.com/card/?search=Infinitrack%20Anchor%20Drill) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Brutal Dozer](https://db.ygoprodeck.com/card/?search=Infinitrack%20Brutal%20Dozer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Harvester](https://db.ygoprodeck.com/card/?search=Infinitrack%20Harvester) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Trencher](https://db.ygoprodeck.com/card/?search=Infinitrack%20Trencher) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Injection Fairy Lily](https://db.ygoprodeck.com/card/?search=Injection%20Fairy%20Lily) | Illegal |
@@ -5390,7 +5390,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gouki Re-Match](https://db.ygoprodeck.com/card/?search=Gouki%20Re-Match) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Graceful Charity](https://db.ygoprodeck.com/card/?search=Graceful%20Charity) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Graceful Dice](https://db.ygoprodeck.com/card/?search=Graceful%20Dice) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Grand Spiritual Art - Ichirin](https://db.ygoprodeck.com/card/?search=Grand%20Spiritual%20Art%20-%20Ichirin) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gravedigger Ghoul](https://db.ygoprodeck.com/card/?search=Gravedigger%20Ghoul) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gravekeeper's Stele](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Stele) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Great Sand Sea - Gold Golgonda](https://db.ygoprodeck.com/card/?search=Great%20Sand%20Sea%20-%20Gold%20Golgonda) | Illegal |
@@ -7947,7 +7946,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Aina](https://db.ygoprodeck.com/card/?search=Elementsaber%20Aina) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Malo](https://db.ygoprodeck.com/card/?search=Elementsaber%20Malo) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elephant Statue of Disaster](https://db.ygoprodeck.com/card/?search=Elephant%20Statue%20of%20Disaster) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emissary from Pandemonium](https://db.ygoprodeck.com/card/?search=Emissary%20from%20Pandemonium) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emperor Maju Garzett](https://db.ygoprodeck.com/card/?search=Emperor%20Maju%20Garzett) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emperor Tanuki's Critter Count](https://db.ygoprodeck.com/card/?search=Emperor%20Tanuki's%20Critter%20Count) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Endless Decay](https://db.ygoprodeck.com/card/?search=Endless%20Decay) | Unlimited |
@@ -8287,6 +8285,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernoid Decatron](https://db.ygoprodeck.com/card/?search=Infernoid%20Decatron) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernoid Piaty](https://db.ygoprodeck.com/card/?search=Infernoid%20Piaty) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernoid Sjette](https://db.ygoprodeck.com/card/?search=Infernoid%20Sjette) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Brutal Dozer](https://db.ygoprodeck.com/card/?search=Infinitrack%20Brutal%20Dozer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Crab Crane](https://db.ygoprodeck.com/card/?search=Infinitrack%20Crab%20Crane) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Drag Shovel](https://db.ygoprodeck.com/card/?search=Infinitrack%20Drag%20Shovel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infinitrack Tunneller](https://db.ygoprodeck.com/card/?search=Infinitrack%20Tunneller) | Unlimited |
@@ -10110,6 +10109,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gouki Face Turn](https://db.ygoprodeck.com/card/?search=Gouki%20Face%20Turn) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gouki Finishing Move](https://db.ygoprodeck.com/card/?search=Gouki%20Finishing%20Move) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Grand Convergence](https://db.ygoprodeck.com/card/?search=Grand%20Convergence) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Grand Spiritual Art - Ichirin](https://db.ygoprodeck.com/card/?search=Grand%20Spiritual%20Art%20-%20Ichirin) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gravekeeper's Servant](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Servant) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gravity Axe - Grarl](https://db.ygoprodeck.com/card/?search=Gravity%20Axe%20-%20Grarl) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gravity Blaster](https://db.ygoprodeck.com/card/?search=Gravity%20Blaster) | Unlimited |
