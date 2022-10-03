@@ -546,6 +546,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman D](https://db.ygoprodeck.com/card/?search=Batteryman%20D) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Fuel Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Fuel%20Cell) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Solar](https://db.ygoprodeck.com/card/?search=Batteryman%20Solar) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battle Fader](https://db.ygoprodeck.com/card/?search=Battle%20Fader) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlewasp - Arbalest the Rapidfire](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Arbalest%20the%20Rapidfire) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlewasp - Dart the Hunter](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Dart%20the%20Hunter) | Illegal |
@@ -7521,7 +7522,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman AA](https://db.ygoprodeck.com/card/?search=Batteryman%20AA) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman C](https://db.ygoprodeck.com/card/?search=Batteryman%20C) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Micro-Cell](https://db.ygoprodeck.com/card/?search=Batteryman%20Micro-Cell) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Solar](https://db.ygoprodeck.com/card/?search=Batteryman%20Solar) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battle Survivor](https://db.ygoprodeck.com/card/?search=Battle%20Survivor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battleguard Cadet](https://db.ygoprodeck.com/card/?search=Battleguard%20Cadet) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battleguard King](https://db.ygoprodeck.com/card/?search=Battleguard%20King) | Unlimited |
