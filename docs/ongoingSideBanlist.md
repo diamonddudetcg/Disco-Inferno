@@ -4005,7 +4005,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Gryphon](https://db.ygoprodeck.com/card/?search=Knightmare%20Gryphon) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Mermaid](https://db.ygoprodeck.com/card/?search=Knightmare%20Mermaid) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Phoenix](https://db.ygoprodeck.com/card/?search=Knightmare%20Phoenix) | Illegal |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Lib the World Key Blademaster](https://db.ygoprodeck.com/card/?search=Lib%20the%20World%20Key%20Blademaster) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Linguriboh](https://db.ygoprodeck.com/card/?search=Linguriboh) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Link Bumper](https://db.ygoprodeck.com/card/?search=Link%20Bumper) | Illegal |
@@ -9595,6 +9594,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Heavymetalfoes Amalgam](https://db.ygoprodeck.com/card/?search=Heavymetalfoes%20Amalgam) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hiita the Fire Charmer, Ablaze](https://db.ygoprodeck.com/card/?search=Hiita%20the%20Fire%20Charmer,%20Ablaze) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Honeybot](https://db.ygoprodeck.com/card/?search=Honeybot) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [LANphorhynchus](https://db.ygoprodeck.com/card/?search=LANphorhynchus) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Linkerbell](https://db.ygoprodeck.com/card/?search=Linkerbell) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Linkmail Archfiend](https://db.ygoprodeck.com/card/?search=Linkmail%20Archfiend) | Unlimited |
