@@ -4365,6 +4365,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Overmind Archfiend](https://db.ygoprodeck.com/card/?search=Overmind%20Archfiend) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [P.U.N.K. JAM Dragon Drive](https://db.ygoprodeck.com/card/?search=P.U.N.K.%20JAM%20Dragon%20Drive) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Phantasmal Lord Ultimitl Bishbaalkin](https://db.ygoprodeck.com/card/?search=Phantasmal%20Lord%20Ultimitl%20Bishbaalkin) | Illegal |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Plunder Patrollship Brann](https://db.ygoprodeck.com/card/?search=Plunder%20Patrollship%20Brann) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Power Tool Braver Dragon](https://db.ygoprodeck.com/card/?search=Power%20Tool%20Braver%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Power Tool Dragon](https://db.ygoprodeck.com/card/?search=Power%20Tool%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Power Tool Mecha Dragon](https://db.ygoprodeck.com/card/?search=Power%20Tool%20Mecha%20Dragon) | Illegal |
@@ -6923,6 +6924,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Reclamation](https://db.ygoprodeck.com/card/?search=Spell%20Reclamation) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell-Stopping Statute](https://db.ygoprodeck.com/card/?search=Spell-Stopping%20Statute) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spider Egg](https://db.ygoprodeck.com/card/?search=Spider%20Egg) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spirit Barrier](https://db.ygoprodeck.com/card/?search=Spirit%20Barrier) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spirit Force](https://db.ygoprodeck.com/card/?search=Spirit%20Force) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spirit's Invitation](https://db.ygoprodeck.com/card/?search=Spirit's%20Invitation) | Illegal |
@@ -9676,7 +9678,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Penguin Brave](https://db.ygoprodeck.com/card/?search=Penguin%20Brave) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Periallis, Empress of Blossoms](https://db.ygoprodeck.com/card/?search=Periallis,%20Empress%20of%20Blossoms) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Phonon Pulse Dragon](https://db.ygoprodeck.com/card/?search=Phonon%20Pulse%20Dragon) | Unlimited |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Plunder Patrollship Brann](https://db.ygoprodeck.com/card/?search=Plunder%20Patrollship%20Brann) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [PSY-Framelord Zeta](https://db.ygoprodeck.com/card/?search=PSY-Framelord%20Zeta) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Rampaging Smashtank Rhynosaber](https://db.ygoprodeck.com/card/?search=Rampaging%20Smashtank%20Rhynosaber) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Nova Dragon](https://db.ygoprodeck.com/card/?search=Red%20Nova%20Dragon) | Unlimited |
@@ -11360,7 +11361,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Purification](https://db.ygoprodeck.com/card/?search=Spell%20Purification) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Shield Type-8](https://db.ygoprodeck.com/card/?search=Spell%20Shield%20Type-8) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spellbinding Circle](https://db.ygoprodeck.com/card/?search=Spellbinding%20Circle) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spider Egg](https://db.ygoprodeck.com/card/?search=Spider%20Egg) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spikeshield with Chain](https://db.ygoprodeck.com/card/?search=Spikeshield%20with%20Chain) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spin Turn](https://db.ygoprodeck.com/card/?search=Spin%20Turn) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spiral Discharge](https://db.ygoprodeck.com/card/?search=Spiral%20Discharge) | Unlimited |
