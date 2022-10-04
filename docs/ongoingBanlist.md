@@ -598,6 +598,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Reaper of Prophecy](https://db.ygoprodeck.com/card/?search=Reaper%20of%20Prophecy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Dragon Archfiend/Assault Mode](https://db.ygoprodeck.com/card/?search=Red%20Dragon%20Archfiend/Assault%20Mode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Resonator](https://db.ygoprodeck.com/card/?search=Red%20Resonator) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red-Eyes Alternative Black Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Alternative%20Black%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red-Eyes Baby Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Baby%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red-Eyes Toon Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Toon%20Dragon) | Illegal |
@@ -1542,7 +1543,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raidraptor - Call](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Call) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raigeki](https://db.ygoprodeck.com/card/?search=Raigeki) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raimei](https://db.ygoprodeck.com/card/?search=Raimei) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Bridge](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic Doom Double Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Doom%20Double%20Force) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic Numeron Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Numeron%20Force) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic Soul Shave Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Soul%20Shave%20Force) | Illegal |
@@ -5581,7 +5581,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Potan](https://db.ygoprodeck.com/card/?search=Red%20Potan) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Rose Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rose%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Sparrow Summoner](https://db.ygoprodeck.com/card/?search=Red%20Sparrow%20Summoner) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Warg](https://db.ygoprodeck.com/card/?search=Red%20Warg) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red-Eyes Archfiend of Lightning](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Archfiend%20of%20Lightning) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | Unlimited |
@@ -9262,6 +9261,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raging Mad Plants](https://db.ygoprodeck.com/card/?search=Raging%20Mad%20Plants) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raidraptor - Nest](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Nest) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rain of Mercy](https://db.ygoprodeck.com/card/?search=Rain%20of%20Mercy) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Bridge](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Bridge of the Heart](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20the%20Heart) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Refraction](https://db.ygoprodeck.com/card/?search=Rainbow%20Refraction) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rainbow Veil](https://db.ygoprodeck.com/card/?search=Rainbow%20Veil) | Unlimited |
