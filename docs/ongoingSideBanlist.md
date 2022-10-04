@@ -6428,9 +6428,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crusadia Krawler](https://db.ygoprodeck.com/card/?search=Crusadia%20Krawler) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crush Card Virus](https://db.ygoprodeck.com/card/?search=Crush%20Card%20Virus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cry Havoc!](https://db.ygoprodeck.com/card/?search=Cry%20Havoc!) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Boon](https://db.ygoprodeck.com/card/?search=Crystal%20Boon) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Brilliance](https://db.ygoprodeck.com/card/?search=Crystal%20Brilliance) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Miracle](https://db.ygoprodeck.com/card/?search=Crystal%20Miracle) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Pair](https://db.ygoprodeck.com/card/?search=Crystal%20Pair) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cubic Ascension](https://db.ygoprodeck.com/card/?search=Cubic%20Ascension) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cubic Causality](https://db.ygoprodeck.com/card/?search=Cubic%20Causality) | Illegal |
@@ -10858,7 +10855,10 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crop Circles](https://db.ygoprodeck.com/card/?search=Crop%20Circles) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crusadia Vanguard](https://db.ygoprodeck.com/card/?search=Crusadia%20Vanguard) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crusher Run](https://db.ygoprodeck.com/card/?search=Crusher%20Run) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Boon](https://db.ygoprodeck.com/card/?search=Crystal%20Boon) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Brilliance](https://db.ygoprodeck.com/card/?search=Crystal%20Brilliance) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Conclave](https://db.ygoprodeck.com/card/?search=Crystal%20Conclave) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Miracle](https://db.ygoprodeck.com/card/?search=Crystal%20Miracle) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystal Raigeki](https://db.ygoprodeck.com/card/?search=Crystal%20Raigeki) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystron Entry](https://db.ygoprodeck.com/card/?search=Crystron%20Entry) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crystron Impact](https://db.ygoprodeck.com/card/?search=Crystron%20Impact) | Unlimited |
