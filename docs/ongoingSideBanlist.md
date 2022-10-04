@@ -3457,6 +3457,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ZW - Asura Strike](https://db.ygoprodeck.com/card/?search=ZW%20-%20Asura%20Strike) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ZW - Lightning Blade](https://db.ygoprodeck.com/card/?search=ZW%20-%20Lightning%20Blade) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ZW - Phoenix Bow](https://db.ygoprodeck.com/card/?search=ZW%20-%20Phoenix%20Bow) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Shamal the Sandstorm](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Shamal%20the%20Sandstorm) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Amorphactor Pain, the Imagination Dracoverlord](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Black Luster Soldier](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier) | Illegal |
@@ -4484,6 +4485,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Yoko, the Graceful Mayakashi](https://db.ygoprodeck.com/card/?search=Yoko,%20the%20Graceful%20Mayakashi) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Zeman the Ape King](https://db.ygoprodeck.com/card/?search=Zeman%20the%20Ape%20King) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Zoroa, the Magistus Conflagrant Calamity](https://db.ygoprodeck.com/card/?search=Zoroa,%20the%20Magistus%20Conflagrant%20Calamity) | Illegal |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Black-Winged Assault Dragon](https://db.ygoprodeck.com/card/?search=Black-Winged%20Assault%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Abyss Dweller](https://db.ygoprodeck.com/card/?search=Abyss%20Dweller) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Adreus, Keeper of Armageddon](https://db.ygoprodeck.com/card/?search=Adreus,%20Keeper%20of%20Armageddon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Alchemic Magician](https://db.ygoprodeck.com/card/?search=Alchemic%20Magician) | Illegal |
@@ -6214,6 +6216,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie Reborn](https://db.ygoprodeck.com/card/?search=Zombie%20Reborn) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zoodiac Barrage](https://db.ygoprodeck.com/card/?search=Zoodiac%20Barrage) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Black Feather Whirlwind](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Whirlwind) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Feint Plan](https://db.ygoprodeck.com/card/?search=A%20Feint%20Plan) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Abominable Chamber of the Unchained](https://db.ygoprodeck.com/card/?search=Abominable%20Chamber%20of%20the%20Unchained) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Abyss Stungray](https://db.ygoprodeck.com/card/?search=Abyss%20Stungray) | Illegal |
@@ -7099,6 +7102,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zero-Day Blaster](https://db.ygoprodeck.com/card/?search=Zero-Day%20Blaster) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zoodiac Combo](https://db.ygoprodeck.com/card/?search=Zoodiac%20Combo) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zoodiac Gathering](https://db.ygoprodeck.com/card/?search=Zoodiac%20Gathering) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blackwing - Twin Shadow](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Twin%20Shadow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cannon Soldier MK-2](https://db.ygoprodeck.com/card/?search=Cannon%20Soldier%20MK-2) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Eva](https://db.ygoprodeck.com/card/?search=Eva) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fishborg Blaster](https://db.ygoprodeck.com/card/?search=Fishborg%20Blaster) | Forbidden |
@@ -11532,6 +11536,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zero Gravity](https://db.ygoprodeck.com/card/?search=Zero%20Gravity) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zexal Alliance](https://db.ygoprodeck.com/card/?search=Zexal%20Alliance) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zoma the Spirit](https://db.ygoprodeck.com/card/?search=Zoma%20the%20Spirit) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Shadow Squall](https://db.ygoprodeck.com/card/?search=Black%20Shadow%20Squall) | Unlimited |
 
 <br>
 
