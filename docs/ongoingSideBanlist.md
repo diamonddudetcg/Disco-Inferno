@@ -5468,7 +5468,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Labrynth Set-Up](https://db.ygoprodeck.com/card/?search=Labrynth%20Set-Up) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lair of Darkness](https://db.ygoprodeck.com/card/?search=Lair%20of%20Darkness) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Landoise's Luminous Moss](https://db.ygoprodeck.com/card/?search=Landoise's%20Luminous%20Moss) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Laser Cannon Armor](https://db.ygoprodeck.com/card/?search=Laser%20Cannon%20Armor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Day of Witch](https://db.ygoprodeck.com/card/?search=Last%20Day%20of%20Witch) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Hope of Nephthys](https://db.ygoprodeck.com/card/?search=Last%20Hope%20of%20Nephthys) | Illegal |
@@ -10184,6 +10183,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Koa'ki Ring](https://db.ygoprodeck.com/card/?search=Koa'ki%20Ring) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kozmo Lightsword](https://db.ygoprodeck.com/card/?search=Kozmo%20Lightsword) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kuji-Kiri Curse](https://db.ygoprodeck.com/card/?search=Kuji-Kiri%20Curse) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Laser Cannon Armor](https://db.ygoprodeck.com/card/?search=Laser%20Cannon%20Armor) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Laser Qlip](https://db.ygoprodeck.com/card/?search=Laser%20Qlip) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Left Arm Offering](https://db.ygoprodeck.com/card/?search=Left%20Arm%20Offering) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legendary Sword](https://db.ygoprodeck.com/card/?search=Legendary%20Sword) | Unlimited |
