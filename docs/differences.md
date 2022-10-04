@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 316
+Estimated number of changes: 317
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -16,7 +16,6 @@ Estimated number of changes: 316
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Humanoid Slime](https://db.ygoprodeck.com/card/?search=Humanoid%20Slime) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Insect Knight](https://db.ygoprodeck.com/card/?search=Insect%20Knight) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Killer Needle](https://db.ygoprodeck.com/card/?search=Killer%20Needle) | Unlimited | Illegal |
-|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Left Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Arm%20of%20the%20Forbidden%20One) | Limited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Pharaoh's Servant](https://db.ygoprodeck.com/card/?search=Pharaoh's%20Servant) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Pharaonic Protector](https://db.ygoprodeck.com/card/?search=Pharaonic%20Protector) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Red-Eyes Black Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Dragon) | Unlimited | Illegal |
@@ -83,6 +82,7 @@ Estimated number of changes: 316
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Acid](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Acid) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Crowley, the First Propheseer](https://db.ygoprodeck.com/card/?search=Crowley,%20the%20First%20Propheseer) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Crusadia Equimax](https://db.ygoprodeck.com/card/?search=Crusadia%20Equimax) | Unlimited | Illegal |
+|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Phoenix](https://db.ygoprodeck.com/card/?search=Knightmare%20Phoenix) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [T.G. Trident Launcher](https://db.ygoprodeck.com/card/?search=T.G.%20Trident%20Launcher) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Blackwing - Gram the Shining Star](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gram%20the%20Shining%20Star) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Blackwing - Silverwind the Ascendant](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Silverwind%20the%20Ascendant) | Unlimited | Illegal |
@@ -105,6 +105,7 @@ Estimated number of changes: 316
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sky Cavalry Centaurea](https://db.ygoprodeck.com/card/?search=Sky%20Cavalry%20Centaurea) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Superdreadnought Rail Cannon Gustav Max](https://db.ygoprodeck.com/card/?search=Superdreadnought%20Rail%20Cannon%20Gustav%20Max) | Limited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Acid Rain](https://db.ygoprodeck.com/card/?search=Acid%20Rain) | Unlimited | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Banishment of the Darklords](https://db.ygoprodeck.com/card/?search=Banishment%20of%20the%20Darklords) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded in Red](https://db.ygoprodeck.com/card/?search=Branded%20in%20Red) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Burning Soul](https://db.ygoprodeck.com/card/?search=Burning%20Soul) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cards of Consonance](https://db.ygoprodeck.com/card/?search=Cards%20of%20Consonance) | Unlimited | Illegal |
@@ -155,6 +156,8 @@ Estimated number of changes: 316
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ancient Tool](https://db.ygoprodeck.com/card/?search=Ancient%20Tool) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Archfiend Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Archfiend%20Marmot%20of%20Nefariousness) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Kageningen](https://db.ygoprodeck.com/card/?search=Kageningen) | Illegal | Unlimited |
+|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Left Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Arm%20of%20the%20Forbidden%20One) | Limited | Unlimited |
+|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Left Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Leg%20of%20the%20Forbidden%20One) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Meotoko](https://db.ygoprodeck.com/card/?search=Meotoko) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Monster Tamer](https://db.ygoprodeck.com/card/?search=Monster%20Tamer) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Nekogal #2](https://db.ygoprodeck.com/card/?search=Nekogal%20#2) | Illegal | Unlimited |
@@ -238,11 +241,8 @@ Estimated number of changes: 316
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Despian Quaeritis](https://db.ygoprodeck.com/card/?search=Despian%20Quaeritis) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | Illegal | Unlimited |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Wild Wingman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wild%20Wingman) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Ruby) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | Illegal | Unlimited |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Invoked Mechaba](https://db.ygoprodeck.com/card/?search=Invoked%20Mechaba) | Illegal | Unlimited |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masquerade the Blazing Dragon](https://db.ygoprodeck.com/card/?search=Masquerade%20the%20Blazing%20Dragon) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ritual Beast Ulti-Apelio](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Ulti-Apelio) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ritual Beast Ulti-Cannahawk](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Ulti-Cannahawk) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ryu Senshi](https://db.ygoprodeck.com/card/?search=Ryu%20Senshi) | Illegal | Unlimited |
@@ -326,6 +326,7 @@ Estimated number of changes: 316
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Time-Space Trap Hole](https://db.ygoprodeck.com/card/?search=Time-Space%20Trap%20Hole) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Torrential Reborn](https://db.ygoprodeck.com/card/?search=Torrential%20Reborn) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ultimate Crystal Magic](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Magic) | Illegal | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Shadow Squall](https://db.ygoprodeck.com/card/?search=Black%20Shadow%20Squall) | New card | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blackwing - Twin Shadow](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Twin%20Shadow) | New card | Unlimited |
 
