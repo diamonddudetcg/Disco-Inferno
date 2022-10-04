@@ -1780,6 +1780,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Insect Princess](https://db.ygoprodeck.com/card/?search=Insect%20Princess) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Insect Soldiers of the Sky](https://db.ygoprodeck.com/card/?search=Insect%20Soldiers%20of%20the%20Sky) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inspector Boarder](https://db.ygoprodeck.com/card/?search=Inspector%20Boarder) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Interplanetarypurplythorny Beast](https://db.ygoprodeck.com/card/?search=Interplanetarypurplythorny%20Beast) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inzektor Earwig](https://db.ygoprodeck.com/card/?search=Inzektor%20Earwig) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inzektor Giga-Cricket](https://db.ygoprodeck.com/card/?search=Inzektor%20Giga-Cricket) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inzektor Giga-Weevil](https://db.ygoprodeck.com/card/?search=Inzektor%20Giga-Weevil) | Illegal |
@@ -2813,7 +2814,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Conductor](https://db.ygoprodeck.com/card/?search=Skull%20Conductor) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Flame](https://db.ygoprodeck.com/card/?search=Skull%20Flame) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Knight #2](https://db.ygoprodeck.com/card/?search=Skull%20Knight%20#2) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull-Mark Ladybug](https://db.ygoprodeck.com/card/?search=Skull-Mark%20Ladybug) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sky Scourge Enrise](https://db.ygoprodeck.com/card/?search=Sky%20Scourge%20Enrise) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sky Scourge Invicil](https://db.ygoprodeck.com/card/?search=Sky%20Scourge%20Invicil) | Illegal |
@@ -6029,6 +6029,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Dark Door](https://db.ygoprodeck.com/card/?search=The%20Dark%20Door) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Eye of Timaeus](https://db.ygoprodeck.com/card/?search=The%20Eye%20of%20Timaeus) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Fang of Critias](https://db.ygoprodeck.com/card/?search=The%20Fang%20of%20Critias) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Flute of Summoning Kuriboh](https://db.ygoprodeck.com/card/?search=The%20Flute%20of%20Summoning%20Kuriboh) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Forceful Sentry](https://db.ygoprodeck.com/card/?search=The%20Forceful%20Sentry) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Fountain in the Sky](https://db.ygoprodeck.com/card/?search=The%20Fountain%20in%20the%20Sky) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Gates of Dark World](https://db.ygoprodeck.com/card/?search=The%20Gates%20of%20Dark%20World) | Illegal |
@@ -6224,6 +6225,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Aegis of Gaia](https://db.ygoprodeck.com/card/?search=Aegis%20of%20Gaia) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altar for Tribute](https://db.ygoprodeck.com/card/?search=Altar%20for%20Tribute) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Camouflage](https://db.ygoprodeck.com/card/?search=Altergeist%20Camouflage) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Failover](https://db.ygoprodeck.com/card/?search=Altergeist%20Failover) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Manifestation](https://db.ygoprodeck.com/card/?search=Altergeist%20Manifestation) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Protocol](https://db.ygoprodeck.com/card/?search=Altergeist%20Protocol) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Illegal |
@@ -6460,7 +6462,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dried Winds](https://db.ygoprodeck.com/card/?search=Dried%20Winds) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Driving Snow](https://db.ygoprodeck.com/card/?search=Driving%20Snow) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Drop Off](https://db.ygoprodeck.com/card/?search=Drop%20Off) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Drowning Mirror Force](https://db.ygoprodeck.com/card/?search=Drowning%20Mirror%20Force) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dust Storm of Gusto](https://db.ygoprodeck.com/card/?search=Dust%20Storm%20of%20Gusto) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dustflame Blast](https://db.ygoprodeck.com/card/?search=Dustflame%20Blast) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Duston Roller](https://db.ygoprodeck.com/card/?search=Duston%20Roller) | Illegal |
@@ -8293,7 +8294,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Insect Queen](https://db.ygoprodeck.com/card/?search=Insect%20Queen) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Interceptomato](https://db.ygoprodeck.com/card/?search=Interceptomato) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Interplanetary Invader "A"](https://db.ygoprodeck.com/card/?search=Interplanetary%20Invader%20"A") | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Interplanetarypurplythorny Beast](https://db.ygoprodeck.com/card/?search=Interplanetarypurplythorny%20Beast) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Interplanetarypurplythorny Dragon](https://db.ygoprodeck.com/card/?search=Interplanetarypurplythorny%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Interrupt Resistor](https://db.ygoprodeck.com/card/?search=Interrupt%20Resistor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Invader of Darkness](https://db.ygoprodeck.com/card/?search=Invader%20of%20Darkness) | Unlimited |
@@ -8999,6 +8999,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skilled Dark Magician](https://db.ygoprodeck.com/card/?search=Skilled%20Dark%20Magician) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skilled Red Magician](https://db.ygoprodeck.com/card/?search=Skilled%20Red%20Magician) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Kraken](https://db.ygoprodeck.com/card/?search=Skull%20Kraken) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sky Scourge Cidhels](https://db.ygoprodeck.com/card/?search=Sky%20Scourge%20Cidhels) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Skystarray](https://db.ygoprodeck.com/card/?search=Skystarray) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Slate Warrior](https://db.ygoprodeck.com/card/?search=Slate%20Warrior) | Unlimited |
@@ -10562,7 +10563,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Big March of Animals](https://db.ygoprodeck.com/card/?search=The%20Big%20March%20of%20Animals) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Book of the Law](https://db.ygoprodeck.com/card/?search=The%20Book%20of%20the%20Law) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Flute of Summoning Dragon](https://db.ygoprodeck.com/card/?search=The%20Flute%20of%20Summoning%20Dragon) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Flute of Summoning Kuriboh](https://db.ygoprodeck.com/card/?search=The%20Flute%20of%20Summoning%20Kuriboh) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Graveyard in the Fourth Dimension](https://db.ygoprodeck.com/card/?search=The%20Graveyard%20in%20the%20Fourth%20Dimension) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Humble Sentry](https://db.ygoprodeck.com/card/?search=The%20Humble%20Sentry) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Inexperienced Spy](https://db.ygoprodeck.com/card/?search=The%20Inexperienced%20Spy) | Unlimited |
@@ -10703,7 +10703,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Alien Brain](https://db.ygoprodeck.com/card/?search=Alien%20Brain) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [All-Out Attacks](https://db.ygoprodeck.com/card/?search=All-Out%20Attacks) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Emulatelf](https://db.ygoprodeck.com/card/?search=Altergeist%20Emulatelf) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Failover](https://db.ygoprodeck.com/card/?search=Altergeist%20Failover) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Haunted Rock](https://db.ygoprodeck.com/card/?search=Altergeist%20Haunted%20Rock) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Majestic Merry-Go-Round](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Majestic%20Merry-Go-Round) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Rapid Racing](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Rapid%20Racing) | Unlimited |
@@ -10914,6 +10913,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dragunity Legion](https://db.ygoprodeck.com/card/?search=Dragunity%20Legion) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Draw Discharge](https://db.ygoprodeck.com/card/?search=Draw%20Discharge) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dream Mirror Recap](https://db.ygoprodeck.com/card/?search=Dream%20Mirror%20Recap) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Drowning Mirror Force](https://db.ygoprodeck.com/card/?search=Drowning%20Mirror%20Force) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Drytron Meteor Shower](https://db.ygoprodeck.com/card/?search=Drytron%20Meteor%20Shower) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dual Avatar Ascendance](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Ascendance) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dual Avatar Compact](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Compact) | Unlimited |
