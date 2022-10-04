@@ -45,6 +45,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Forbidden |
+| <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Mid-Breaker Field](https://db.ygoprodeck.com/card/?search=Magical%20Mid-Breaker%20Field) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magicalized Duston Mop](https://db.ygoprodeck.com/card/?search=Magicalized%20Duston%20Mop) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mystic Mine](https://db.ygoprodeck.com/card/?search=Mystic%20Mine) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Numeron Calling](https://db.ygoprodeck.com/card/?search=Numeron%20Calling) | Forbidden |
@@ -127,7 +128,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Draco Face-Off](https://db.ygoprodeck.com/card/?search=Draco%20Face-Off) | Unlimited |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Final Countdown](https://db.ygoprodeck.com/card/?search=Final%20Countdown) | Unlimited |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Unlimited |
-| <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Mid-Breaker Field](https://db.ygoprodeck.com/card/?search=Magical%20Mid-Breaker%20Field) | Unlimited |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Gate](https://db.ygoprodeck.com/card/?search=Monster%20Gate) | Unlimited |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reasoning](https://db.ygoprodeck.com/card/?search=Reasoning) | Unlimited |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sekka's Light](https://db.ygoprodeck.com/card/?search=Sekka's%20Light) | Unlimited |

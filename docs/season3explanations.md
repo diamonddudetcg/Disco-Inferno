@@ -44,6 +44,10 @@ Herald of the Arc Light was only legal because someone listed OCG copies on Card
 
 Hit 1 to Floowandereeze. Expect more of these as you scroll down.
 
+<img src="assets/spell.png" alt="Spell" width="12" height="12"> [Magical Mid-Breaker Field](https://db.ygoprodeck.com/card/?search=Magical%20Mid-Breaker%20Field)
+
+Hit 2 to Floowandereeze, but also a massively unfun card.
+
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mystic Mine](https://db.ygoprodeck.com/card/?search=Mystic%20Mine)
 
@@ -57,7 +61,7 @@ Our bad. We didn't realize this could be used as a counter to decks that require
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Different Dimension Ground](https://db.ygoprodeck.com/card/?search=Different%20Dimension%20Ground)
 
-Hit 2 to Floowandereeze. A lingering floodgate that slipped through our fingers. Our bad.
+Hit 3 to Floowandereeze. A lingering floodgate that slipped through our fingers. Our bad.
 
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eradicator Epidemic Virus](https://db.ygoprodeck.com/card/?search=Eradicator%20Epidemic%20Virus)
@@ -72,9 +76,9 @@ Probably the funniest ban, Beetrooper was using this to give their opponents a [
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lose 1 Turn](https://db.ygoprodeck.com/card/?search=Lose%201%20Turn)
 
-Hit 3 to Floowandereeze. It has proven to be insane in decks that can normal summon big bodies. We hoped it wouldn't be good in the format and we could leave some floodgates in, but sadly, it was and we cannot.
+Hit 4 to Floowandereeze. It has proven to be insane in decks that can normal summon big bodies. We hoped it wouldn't be good in the format and we could leave some floodgates in, but sadly, it was and we cannot.
 
-Shoutouts to Wren, though. You've gotten three cards banned.
+Shoutouts to Wren, though. You've gotten four cards banned.
 
 ## Limited
 
