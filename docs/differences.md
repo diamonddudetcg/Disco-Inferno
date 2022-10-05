@@ -8,7 +8,7 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 327
+Estimated number of changes: 328
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -138,6 +138,7 @@ Estimated number of changes: 327
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dark Sacrifice](https://db.ygoprodeck.com/card/?search=Dark%20Sacrifice) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Darklord Enchantment](https://db.ygoprodeck.com/card/?search=Darklord%20Enchantment) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Different Dimension Ground](https://db.ygoprodeck.com/card/?search=Different%20Dimension%20Ground) | Unlimited | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dogmatika Punishment](https://db.ygoprodeck.com/card/?search=Dogmatika%20Punishment) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fairy Box](https://db.ygoprodeck.com/card/?search=Fairy%20Box) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | Unlimited | Illegal |

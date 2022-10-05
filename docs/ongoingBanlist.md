@@ -1682,6 +1682,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Domain](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Domain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Frenzy](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Frenzy) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [DNA Surgery](https://db.ygoprodeck.com/card/?search=DNA%20Surgery) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dogmatika Punishment](https://db.ygoprodeck.com/card/?search=Dogmatika%20Punishment) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Draco-Utopian Aura](https://db.ygoprodeck.com/card/?search=Draco-Utopian%20Aura) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dried Winds](https://db.ygoprodeck.com/card/?search=Dried%20Winds) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Empty Machine](https://db.ygoprodeck.com/card/?search=Empty%20Machine) | Illegal |
@@ -10356,7 +10357,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Doble Passe](https://db.ygoprodeck.com/card/?search=Doble%20Passe) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dogmatika Encounter](https://db.ygoprodeck.com/card/?search=Dogmatika%20Encounter) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dogmatika Genesis](https://db.ygoprodeck.com/card/?search=Dogmatika%20Genesis) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dogmatika Punishment](https://db.ygoprodeck.com/card/?search=Dogmatika%20Punishment) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dogmatikaturgy](https://db.ygoprodeck.com/card/?search=Dogmatikaturgy) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Doppelganger](https://db.ygoprodeck.com/card/?search=Doppelganger) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dora of Fate](https://db.ygoprodeck.com/card/?search=Dora%20of%20Fate) | Unlimited |
