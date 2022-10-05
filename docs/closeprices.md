@@ -7,7 +7,7 @@ This is a list of cards that are likely to change legality before the next rotat
 | Card name | Average | Last | Projected legality |
 | :-- |
 [Dogmatika Punishment](https://db.ygoprodeck.com/card/?search=Dogmatika%20Punishment) | 0.4982 | 0.56 | Illegal |
-[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.5007 | 0.44 | Unlimited |
+[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.5007 | 0.46 | Unlimited |
 
 <br>
 
