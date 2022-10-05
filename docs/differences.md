@@ -8,10 +8,12 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 10
+Estimated number of changes: 12
 
 | Card name | Previous Status | New Status |
 | :-- |
+|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | Unlimited | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gem-Knight Crystal](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Crystal) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Stuffed Animal](https://db.ygoprodeck.com/card/?search=Stuffed%20Animal) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Winged Dragon, Guardian of the Fortress #2](https://db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2) | Illegal | Unlimited |

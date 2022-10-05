@@ -1013,6 +1013,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Linkross](https://db.ygoprodeck.com/card/?search=Linkross) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Linkuriboh](https://db.ygoprodeck.com/card/?search=Linkuriboh) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Magical Musketeer Max](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Max) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Blue Slug](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Slug) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Coral Triangle](https://db.ygoprodeck.com/card/?search=Marincess%20Coral%20Triangle) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Mecha Phantom Beast Auroradon](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Auroradon) | Illegal |
@@ -1634,6 +1635,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wave-Motion Inferno](https://db.ygoprodeck.com/card/?search=Wave-Motion%20Inferno) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [White Veil](https://db.ygoprodeck.com/card/?search=White%20Veil) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wind-Up Factory](https://db.ygoprodeck.com/card/?search=Wind-Up%20Factory) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Witchcrafter Holiday](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Holiday) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [World Legacy Succession](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Succession) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Xyz Encore](https://db.ygoprodeck.com/card/?search=Xyz%20Encore) | Illegal |
@@ -7329,7 +7331,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Longirsu, the Orcust Orchestrator](https://db.ygoprodeck.com/card/?search=Longirsu,%20the%20Orcust%20Orchestrator) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Lyna the Light Charmer, Lustrous](https://db.ygoprodeck.com/card/?search=Lyna%20the%20Light%20Charmer,%20Lustrous) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Madolche Fresh Sistart](https://db.ygoprodeck.com/card/?search=Madolche%20Fresh%20Sistart) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Coral Anemone](https://db.ygoprodeck.com/card/?search=Marincess%20Coral%20Anemone) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Crystal Heart](https://db.ygoprodeck.com/card/?search=Marincess%20Crystal%20Heart) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Great Bubble Reef](https://db.ygoprodeck.com/card/?search=Marincess%20Great%20Bubble%20Reef) | Unlimited |
@@ -9878,7 +9879,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Will of the Salamangreat](https://db.ygoprodeck.com/card/?search=Will%20of%20the%20Salamangreat) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Winds Over the Ice Barrier](https://db.ygoprodeck.com/card/?search=Winds%20Over%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Windwitch Chimes](https://db.ygoprodeck.com/card/?search=Windwitch%20Chimes) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wiseman's Chalice](https://db.ygoprodeck.com/card/?search=Wiseman's%20Chalice) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Witchcrafter Bystreet](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Bystreet) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Witchcrafter Collaboration](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Collaboration) | Unlimited |
