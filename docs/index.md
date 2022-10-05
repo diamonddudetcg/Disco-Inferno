@@ -8,6 +8,8 @@ title:  "Disco Inferno"
 
 [Changes to the official F&L list](legality)
 
+[Season 3 changes](season3explanations)
+
 [Card legality list](banlist)
 
 
@@ -16,9 +18,3 @@ title:  "Disco Inferno"
 [Card movements](differences)
 
 [Entire banlist](ongoingBanlist)
-
-## Side Format
-
-The [side format](ongoingSideBanlist) cutoff for season 3 will be $0.10.
-
-There is no side format for season 2. Once we have a side format estabilished, the price cutoff will randomly change between $0.05 and $2.00 at the start of a season.
