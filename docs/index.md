@@ -2,19 +2,18 @@
 title:  "Disco Inferno"
 ---
 
-## Disco Inferno resources
+## About Disco Inferno
 
 [What is Disco Inferno?](about)
 
+## Disco Inferno resources
+
 [Changes to the official F&L list](legality)
+
+[Season 3 banlist](banlist)
 
 [Season 3 changes](season3explanations)
 
-[Card legality list](banlist)
+## Rotation Speculation for Season 4
 
-
-## Rotation Speculation
-
-[Card movements](differences)
-
-[Entire banlist](ongoingBanlist)
+[Current differences](differences)
