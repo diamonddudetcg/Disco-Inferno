@@ -3628,6 +3628,10 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ZW - Lightning Blade](https://db.ygoprodeck.com/card/?search=ZW%20-%20Lightning%20Blade) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ZW - Phoenix Bow](https://db.ygoprodeck.com/card/?search=ZW%20-%20Phoenix%20Bow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kagero the Cannon Ninja](https://db.ygoprodeck.com/card/?search=Kagero%20the%20Cannon%20Ninja) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blazing Cartesia, the Virtuous](https://db.ygoprodeck.com/card/?search=Blazing%20Cartesia,%20the%20Virtuous) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bystial Druiswurm](https://db.ygoprodeck.com/card/?search=Bystial%20Druiswurm) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bystial Magnamhut](https://db.ygoprodeck.com/card/?search=Bystial%20Magnamhut) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bystial Saronir](https://db.ygoprodeck.com/card/?search=Bystial%20Saronir) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Amorphactor Pain, the Imagination Dracoverlord](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Black Luster Soldier](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier) | Illegal |
@@ -6462,6 +6466,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie Reborn](https://db.ygoprodeck.com/card/?search=Zombie%20Reborn) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zoodiac Barrage](https://db.ygoprodeck.com/card/?search=Zoodiac%20Barrage) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Regained](https://db.ygoprodeck.com/card/?search=Branded%20Regained) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Feint Plan](https://db.ygoprodeck.com/card/?search=A%20Feint%20Plan) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Hero Emerges](https://db.ygoprodeck.com/card/?search=A%20Hero%20Emerges) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Abominable Chamber of the Unchained](https://db.ygoprodeck.com/card/?search=Abominable%20Chamber%20of%20the%20Unchained) | Illegal |
@@ -9594,6 +9599,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mitsu the Insect Ninja](https://db.ygoprodeck.com/card/?search=Mitsu%20the%20Insect%20Ninja) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Bystial Lubellion](https://db.ygoprodeck.com/card/?search=The%20Bystial%20Lubellion) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tobari the Sky Ninja](https://db.ygoprodeck.com/card/?search=Tobari%20the%20Sky%20Ninja) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Bystial Alba Los](https://db.ygoprodeck.com/card/?search=The%20Bystial%20Alba%20Los) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Chakra](https://db.ygoprodeck.com/card/?search=Chakra) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Crab Turtle](https://db.ygoprodeck.com/card/?search=Crab%20Turtle) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Crealtar, the Impcantation Originator](https://db.ygoprodeck.com/card/?search=Crealtar,%20the%20Impcantation%20Originator) | Unlimited |
