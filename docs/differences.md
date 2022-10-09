@@ -10,6 +10,8 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 
 Estimated number of changes: 57
 
+Keep in mind there's still 5141 runs left
+
 | Card name | Previous Status | New Status |
 | :-- |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Left Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Arm%20of%20the%20Forbidden%20One) | Unlimited | Illegal |
