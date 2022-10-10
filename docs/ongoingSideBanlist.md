@@ -3008,6 +3008,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Legendary Exodia Incarnate](https://db.ygoprodeck.com/card/?search=The%20Legendary%20Exodia%20Incarnate) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Light - Hex-Sealed Fusion](https://db.ygoprodeck.com/card/?search=The%20Light%20-%20Hex-Sealed%20Fusion) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Little Swordsman of Aile](https://db.ygoprodeck.com/card/?search=The%20Little%20Swordsman%20of%20Aile) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Phantom Knights of Ancient Cloak](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Ancient%20Cloak) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Phantom Knights of Silent Boots](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Silent%20Boots) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Phantom Knights of Torn Scales](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Torn%20Scales) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Six Samurai - Irou](https://db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Irou) | Illegal |
@@ -9181,7 +9182,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Legendary Fisherman](https://db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Legendary Fisherman II](https://db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman%20II) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Legendary Fisherman III](https://db.ygoprodeck.com/card/?search=The%20Legendary%20Fisherman%20III) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Phantom Knights of Ancient Cloak](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Ancient%20Cloak) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Phantom Knights of Cloven Helm](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Cloven%20Helm) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Phantom Knights of Fragile Armor](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Fragile%20Armor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Phantom Knights of Ragged Gloves](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Ragged%20Gloves) | Unlimited |
