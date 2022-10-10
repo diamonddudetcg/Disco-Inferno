@@ -375,6 +375,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Torax](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Torax) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Glife the Phantom Bird](https://db.ygoprodeck.com/card/?search=Glife%20the%20Phantom%20Bird) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gnomaterial](https://db.ygoprodeck.com/card/?search=Gnomaterial) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden Ladybug](https://db.ygoprodeck.com/card/?search=Golden%20Ladybug) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golem Dragon](https://db.ygoprodeck.com/card/?search=Golem%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gozuki](https://db.ygoprodeck.com/card/?search=Gozuki) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Graff, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Graff,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
@@ -4099,7 +4100,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden Dragon Summoner](https://db.ygoprodeck.com/card/?search=Golden%20Dragon%20Summoner) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden Flying Fish](https://db.ygoprodeck.com/card/?search=Golden%20Flying%20Fish) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden Homunculus](https://db.ygoprodeck.com/card/?search=Golden%20Homunculus) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden Ladybug](https://db.ygoprodeck.com/card/?search=Golden%20Ladybug) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden-Eyes Idol](https://db.ygoprodeck.com/card/?search=Golden-Eyes%20Idol) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Goldenhair, the Newest Plunder Patroll](https://db.ygoprodeck.com/card/?search=Goldenhair,%20the%20Newest%20Plunder%20Patroll) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Goldilocks the Battle Landscaper](https://db.ygoprodeck.com/card/?search=Goldilocks%20the%20Battle%20Landscaper) | Unlimited |
