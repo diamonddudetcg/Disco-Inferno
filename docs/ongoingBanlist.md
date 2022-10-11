@@ -1537,6 +1537,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metamorphosis](https://db.ygoprodeck.com/card/?search=Metamorphosis) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Meteonis Drytron](https://db.ygoprodeck.com/card/?search=Meteonis%20Drytron) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Millennium Revelation](https://db.ygoprodeck.com/card/?search=Millennium%20Revelation) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mimicat](https://db.ygoprodeck.com/card/?search=Mimicat) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Miracle Rupture](https://db.ygoprodeck.com/card/?search=Miracle%20Rupture) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mirage of Nightmare](https://db.ygoprodeck.com/card/?search=Mirage%20of%20Nightmare) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mischief of the Time Goddess](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Time%20Goddess) | Illegal |
@@ -9076,7 +9077,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metamorformation](https://db.ygoprodeck.com/card/?search=Metamorformation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metaphys Factor](https://db.ygoprodeck.com/card/?search=Metaphys%20Factor) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Meteor of Destruction](https://db.ygoprodeck.com/card/?search=Meteor%20of%20Destruction) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mimicat](https://db.ygoprodeck.com/card/?search=Mimicat) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mimiclay](https://db.ygoprodeck.com/card/?search=Mimiclay) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mind Pollutant](https://db.ygoprodeck.com/card/?search=Mind%20Pollutant) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mind Trust](https://db.ygoprodeck.com/card/?search=Mind%20Trust) | Unlimited |
