@@ -846,7 +846,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crusadia Draco](https://db.ygoprodeck.com/card/?search=Crusadia%20Draco) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crusadia Maximus](https://db.ygoprodeck.com/card/?search=Crusadia%20Maximus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crusadia Reclusia](https://db.ygoprodeck.com/card/?search=Crusadia%20Reclusia) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Amethyst Cat](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Amethyst%20Cat) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Emerald Tortoise](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Emerald%20Tortoise) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Sapphire Pegasus](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Sapphire%20Pegasus) | Illegal |
@@ -2291,7 +2290,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Newdoria](https://db.ygoprodeck.com/card/?search=Newdoria) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nibiru, the Primal Being](https://db.ygoprodeck.com/card/?search=Nibiru,%20the%20Primal%20Being) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nidhogg, Generaider Boss of Ice](https://db.ygoprodeck.com/card/?search=Nidhogg,%20Generaider%20Boss%20of%20Ice) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Assailant](https://db.ygoprodeck.com/card/?search=Night%20Assailant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Dragolich](https://db.ygoprodeck.com/card/?search=Night%20Dragolich) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night's End Sorcerer](https://db.ygoprodeck.com/card/?search=Night's%20End%20Sorcerer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nightmare Horse](https://db.ygoprodeck.com/card/?search=Nightmare%20Horse) | Illegal |
@@ -6666,7 +6664,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Meteorain](https://db.ygoprodeck.com/card/?search=Meteorain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mind Drain](https://db.ygoprodeck.com/card/?search=Mind%20Drain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mind Over Matter](https://db.ygoprodeck.com/card/?search=Mind%20Over%20Matter) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Minor Goblin Official](https://db.ygoprodeck.com/card/?search=Minor%20Goblin%20Official) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mirror Force](https://db.ygoprodeck.com/card/?search=Mirror%20Force) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mirror of Oaths](https://db.ygoprodeck.com/card/?search=Mirror%20of%20Oaths) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mirror Wall](https://db.ygoprodeck.com/card/?search=Mirror%20Wall) | Illegal |
@@ -7654,6 +7651,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crusadia Leonis](https://db.ygoprodeck.com/card/?search=Crusadia%20Leonis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cryomancer of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Cryomancer%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Amber Mammoth](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Amber%20Mammoth) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Amethyst Cat](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Amethyst%20Cat) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Cobalt Eagle](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Cobalt%20Eagle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Ruby Carbuncle](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Ruby%20Carbuncle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Topaz Tiger](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Topaz%20Tiger) | Unlimited |
@@ -8612,6 +8610,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo-Parshath, the Sky Paladin](https://db.ygoprodeck.com/card/?search=Neo-Parshath,%20the%20Sky%20Paladin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo-Spacian Glow Moss](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Glow%20Moss) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nettles](https://db.ygoprodeck.com/card/?search=Nettles) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Assailant](https://db.ygoprodeck.com/card/?search=Night%20Assailant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Express Knight](https://db.ygoprodeck.com/card/?search=Night%20Express%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Sword Serpent](https://db.ygoprodeck.com/card/?search=Night%20Sword%20Serpent) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Wing Sorceress](https://db.ygoprodeck.com/card/?search=Night%20Wing%20Sorceress) | Unlimited |
@@ -11219,6 +11218,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mind Haxorz](https://db.ygoprodeck.com/card/?search=Mind%20Haxorz) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Minefield Eruption](https://db.ygoprodeck.com/card/?search=Minefield%20Eruption) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Miniaturize](https://db.ygoprodeck.com/card/?search=Miniaturize) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Minor Goblin Official](https://db.ygoprodeck.com/card/?search=Minor%20Goblin%20Official) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Miracle Kids](https://db.ygoprodeck.com/card/?search=Miracle%20Kids) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Miracle Locus](https://db.ygoprodeck.com/card/?search=Miracle%20Locus) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Miracle Restoring](https://db.ygoprodeck.com/card/?search=Miracle%20Restoring) | Unlimited |
