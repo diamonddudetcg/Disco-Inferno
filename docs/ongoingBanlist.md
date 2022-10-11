@@ -268,7 +268,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dimension Shifter](https://db.ygoprodeck.com/card/?search=Dimension%20Shifter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomorphia Therizia](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Therizia) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Disciple of Nephthys](https://db.ygoprodeck.com/card/?search=Disciple%20of%20Nephthys) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Diviner of the Herald](https://db.ygoprodeck.com/card/?search=Diviner%20of%20the%20Herald) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Ecclesia, the Virtuous](https://db.ygoprodeck.com/card/?search=Dogmatika%20Ecclesia,%20the%20Virtuous) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Maximus](https://db.ygoprodeck.com/card/?search=Dogmatika%20Maximus) | Illegal |
@@ -1124,7 +1123,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cyber Slash Harpie Lady](https://db.ygoprodeck.com/card/?search=Cyber%20Slash%20Harpie%20Lady) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cyberse Quantum Dragon](https://db.ygoprodeck.com/card/?search=Cyberse%20Quantum%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Gust High King Alexander](https://db.ygoprodeck.com/card/?search=D/D/D%20Gust%20High%20King%20Alexander) | Illegal |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Super Doom King Bright Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Bright%20Armageddon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Daigusto Sphreez](https://db.ygoprodeck.com/card/?search=Daigusto%20Sphreez) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Dark End Dragon](https://db.ygoprodeck.com/card/?search=Dark%20End%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Dark Strike Fighter](https://db.ygoprodeck.com/card/?search=Dark%20Strike%20Fighter) | Illegal |
@@ -1762,6 +1760,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Pulling the Rug](https://db.ygoprodeck.com/card/?search=Pulling%20the%20Rug) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Pyramid of Light](https://db.ygoprodeck.com/card/?search=Pyramid%20of%20Light) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Quaking Mirror Force](https://db.ygoprodeck.com/card/?search=Quaking%20Mirror%20Force) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red-Eyes Fang with Chain](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Fang%20with%20Chain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Retort](https://db.ygoprodeck.com/card/?search=Retort) | Illegal |
@@ -3432,6 +3431,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon - Excelion](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20-%20Excelion) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Apocralyph](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Apocralyph) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Aquabizarre](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Aquabizarre) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Titanomakhia](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Titanomakhia) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Knight Ishzark](https://db.ygoprodeck.com/card/?search=Divine%20Knight%20Ishzark) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Serpent Geh](https://db.ygoprodeck.com/card/?search=Divine%20Serpent%20Geh) | Unlimited |
@@ -7549,6 +7549,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cyberse Integrator](https://db.ygoprodeck.com/card/?search=Cyberse%20Integrator) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Cursed King Siegfried](https://db.ygoprodeck.com/card/?search=D/D/D%20Cursed%20King%20Siegfried) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Gust King Alexander](https://db.ygoprodeck.com/card/?search=D/D/D%20Gust%20King%20Alexander) | Unlimited |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Super Doom King Bright Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Bright%20Armageddon) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Daigusto Eguls](https://db.ygoprodeck.com/card/?search=Daigusto%20Eguls) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Daigusto Falcos](https://db.ygoprodeck.com/card/?search=Daigusto%20Falcos) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Daigusto Gulldos](https://db.ygoprodeck.com/card/?search=Daigusto%20Gulldos) | Unlimited |
@@ -11103,7 +11104,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raider's Unbreakable Mind](https://db.ygoprodeck.com/card/?search=Raider's%20Unbreakable%20Mind) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor - Readiness](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Readiness) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor - Return](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Return) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor's Phantom Knights Claw](https://db.ygoprodeck.com/card/?search=Raidraptor's%20Phantom%20Knights%20Claw) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raigeki Bottle](https://db.ygoprodeck.com/card/?search=Raigeki%20Bottle) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raigeki Break](https://db.ygoprodeck.com/card/?search=Raigeki%20Break) | Unlimited |
