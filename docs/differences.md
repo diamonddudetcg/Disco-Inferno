@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 67
+Estimated number of changes: 73
 
-Keep in mind there's still 4299 runs left
+Keep in mind there's still 4298 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -18,8 +18,8 @@ Keep in mind there's still 4299 runs left
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Left Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Leg%20of%20the%20Forbidden%20One) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Shining Friendship](https://db.ygoprodeck.com/card/?search=Shining%20Friendship) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angel O1](https://db.ygoprodeck.com/card/?search=Angel%20O1) | Unlimited | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Battlewasp - Sting the Poison](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Sting%20the%20Poison) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Black Metal Dragon](https://db.ygoprodeck.com/card/?search=Black%20Metal%20Dragon) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden Ladybug](https://db.ygoprodeck.com/card/?search=Golden%20Ladybug) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Descendant](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Descendant) | Unlimited | Illegal |
@@ -27,6 +27,7 @@ Keep in mind there's still 4299 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Genesis](https://db.ygoprodeck.com/card/?search=Vampire%20Genesis) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Flourishing Hills](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flourishing%20Hills) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vision HERO Faris](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Faris) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vision HERO Increase](https://db.ygoprodeck.com/card/?search=Vision%20HERO%20Increase) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Nebula Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Nebula%20Neos) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | Unlimited | Illegal |
@@ -38,6 +39,7 @@ Keep in mind there's still 4299 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wing Requital](https://db.ygoprodeck.com/card/?search=Wing%20Requital) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | Unlimited | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [S-Force Chase](https://db.ygoprodeck.com/card/?search=S-Force%20Chase) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragon Buster Destruction Sword](https://db.ygoprodeck.com/card/?search=Dragon%20Buster%20Destruction%20Sword) | Unlimited | Forbidden |
@@ -46,8 +48,10 @@ Keep in mind there's still 4299 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Royal Decree](https://db.ygoprodeck.com/card/?search=Royal%20Decree) | Unlimited | Forbidden |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emergency Teleport](https://db.ygoprodeck.com/card/?search=Emergency%20Teleport) | Unlimited | Limited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Interrupted%20Kaiju%20Slumber) | Unlimited | Limited |
+|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Humanoid Slime](https://db.ygoprodeck.com/card/?search=Humanoid%20Slime) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Stuffed Animal](https://db.ygoprodeck.com/card/?search=Stuffed%20Animal) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Winged Dragon, Guardian of the Fortress #2](https://db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2) | Illegal | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fishborg Blaster](https://db.ygoprodeck.com/card/?search=Fishborg%20Blaster) | Forbidden | Unlimited |
@@ -70,7 +74,9 @@ Keep in mind there's still 4299 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom) | Forbidden | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Gust High King Alexander](https://db.ygoprodeck.com/card/?search=D/D/D%20Gust%20High%20King%20Alexander) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Super Doom King Bright Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Bright%20Armageddon) | Illegal | Unlimited |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sky Cavalry Centaurea](https://db.ygoprodeck.com/card/?search=Sky%20Cavalry%20Centaurea) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Illusion](https://db.ygoprodeck.com/card/?search=Bubble%20Illusion) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Contact Out](https://db.ygoprodeck.com/card/?search=Contact%20Out) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lullaby of Obedience](https://db.ygoprodeck.com/card/?search=Lullaby%20of%20Obedience) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [World Legacy Guardragon](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Guardragon) | Illegal | Unlimited |
