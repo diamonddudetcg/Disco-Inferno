@@ -1707,7 +1707,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Favorite Contact](https://db.ygoprodeck.com/card/?search=Favorite%20Contact) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fiend Comedian](https://db.ygoprodeck.com/card/?search=Fiend%20Comedian) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forced Back](https://db.ygoprodeck.com/card/?search=Forced%20Back) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gift Card](https://db.ygoprodeck.com/card/?search=Gift%20Card) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gladiator Beast War Chariot](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20War%20Chariot) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gozen Match](https://db.ygoprodeck.com/card/?search=Gozen%20Match) | Illegal |
@@ -10617,6 +10616,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Generaider Boss Room](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Room) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Generation Shift](https://db.ygoprodeck.com/card/?search=Generation%20Shift) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gergonne's End](https://db.ygoprodeck.com/card/?search=Gergonne's%20End) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghost of a Grudge](https://db.ygoprodeck.com/card/?search=Ghost%20of%20a%20Grudge) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Break](https://db.ygoprodeck.com/card/?search=Ghostrick%20Break) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick Night](https://db.ygoprodeck.com/card/?search=Ghostrick%20Night) | Unlimited |
