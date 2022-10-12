@@ -2367,10 +2367,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Yaiba Robo](https://db.ygoprodeck.com/card/?search=Yaiba%20Robo) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Zombino](https://db.ygoprodeck.com/card/?search=Zombino) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Zure, Knight of Dark World](https://db.ygoprodeck.com/card/?search=Zure,%20Knight%20of%20Dark%20World) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Dinomight Powerload, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Dinomight%20Powerload,%20the%20Dracoslayer) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Han-Shi Kyudo Spirit](https://db.ygoprodeck.com/card/?search=Han-Shi%20Kyudo%20Spirit) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ignis Phoenix, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Ignis%20Phoenix,%20the%20Dracoslayer) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Majesty Pegasus, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Majesty%20Pegasus,%20the%20Dracoslayer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [3-Hump Lacooda](https://db.ygoprodeck.com/card/?search=3-Hump%20Lacooda) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [4-Starred Ladybug of Doom](https://db.ygoprodeck.com/card/?search=4-Starred%20Ladybug%20of%20Doom) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [8-Claws Scorpion](https://db.ygoprodeck.com/card/?search=8-Claws%20Scorpion) | Unlimited |
@@ -6899,7 +6895,11 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Golden Whip Master](https://db.ygoprodeck.com/card/?search=Amazoness%20Golden%20Whip%20Master) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Silver Sword Master](https://db.ygoprodeck.com/card/?search=Amazoness%20Silver%20Sword%20Master) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Spiritualist](https://db.ygoprodeck.com/card/?search=Amazoness%20Spiritualist) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomight Powerload, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Dinomight%20Powerload,%20the%20Dracoslayer) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Han-Shi Kyudo Spirit](https://db.ygoprodeck.com/card/?search=Han-Shi%20Kyudo%20Spirit) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ignis Phoenix, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Ignis%20Phoenix,%20the%20Dracoslayer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernalqueen Salmon](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Salmon) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majesty Pegasus, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Majesty%20Pegasus,%20the%20Dracoslayer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Camellia](https://db.ygoprodeck.com/card/?search=Naturia%20Camellia) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Prediction Princess Bibliomuse](https://db.ygoprodeck.com/card/?search=Prediction%20Princess%20Bibliomuse) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Psychic Rover](https://db.ygoprodeck.com/card/?search=Psychic%20Rover) | Unlimited |
