@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 81
+Estimated number of changes: 83
 
-Keep in mind there's still 4161 runs left
+Keep in mind there's still 4160 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -21,6 +21,7 @@ Keep in mind there's still 4161 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Black Metal Dragon](https://db.ygoprodeck.com/card/?search=Black%20Metal%20Dragon) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genesis Dragon](https://db.ygoprodeck.com/card/?search=Genesis%20Dragon) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Golden Ladybug](https://db.ygoprodeck.com/card/?search=Golden%20Ladybug) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Descendant](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Descendant) | Unlimited | Illegal |
@@ -81,6 +82,7 @@ Keep in mind there's still 4161 runs left
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Gust High King Alexander](https://db.ygoprodeck.com/card/?search=D/D/D%20Gust%20High%20King%20Alexander) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Super Doom King Bright Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Bright%20Armageddon) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | Illegal | Unlimited |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sky Cavalry Centaurea](https://db.ygoprodeck.com/card/?search=Sky%20Cavalry%20Centaurea) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Illusion](https://db.ygoprodeck.com/card/?search=Bubble%20Illusion) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Contact Out](https://db.ygoprodeck.com/card/?search=Contact%20Out) | Illegal | Unlimited |

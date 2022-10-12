@@ -352,6 +352,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Obsidian](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Obsidian) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Turtle](https://db.ygoprodeck.com/card/?search=Gem-Turtle) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genesis Dragon](https://db.ygoprodeck.com/card/?search=Genesis%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genex Ally Duradark](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Duradark) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ghost Fairy Elfobia](https://db.ygoprodeck.com/card/?search=Ghost%20Fairy%20Elfobia) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ghostrick Ghoul](https://db.ygoprodeck.com/card/?search=Ghostrick%20Ghoul) | Illegal |
@@ -1148,7 +1149,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Judgment, the Dragon of Heaven](https://db.ygoprodeck.com/card/?search=Judgment,%20the%20Dragon%20of%20Heaven) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Archer](https://db.ygoprodeck.com/card/?search=Junk%20Archer) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Berserker](https://db.ygoprodeck.com/card/?search=Junk%20Berserker) | Illegal |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Jurrac Giganoto](https://db.ygoprodeck.com/card/?search=Jurrac%20Giganoto) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Jurrac Velphito](https://db.ygoprodeck.com/card/?search=Jurrac%20Velphito) | Illegal |
@@ -3944,7 +3944,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [General Grunard of the Ice Barrier](https://db.ygoprodeck.com/card/?search=General%20Grunard%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [General Raiho of the Ice Barrier](https://db.ygoprodeck.com/card/?search=General%20Raiho%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [General Wayne of the Ice Barrier](https://db.ygoprodeck.com/card/?search=General%20Wayne%20of%20the%20Ice%20Barrier) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genesis Dragon](https://db.ygoprodeck.com/card/?search=Genesis%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genetic Woman](https://db.ygoprodeck.com/card/?search=Genetic%20Woman) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genex Ally Bellflame](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Bellflame) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genex Ally Birdman](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Birdman) | Unlimited |
@@ -7631,6 +7630,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Infernoble Knight Emperor Charles](https://db.ygoprodeck.com/card/?search=Infernoble%20Knight%20Emperor%20Charles) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Jet Warrior](https://db.ygoprodeck.com/card/?search=Jet%20Warrior) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Destroyer](https://db.ygoprodeck.com/card/?search=Junk%20Destroyer) | Unlimited |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Speeder](https://db.ygoprodeck.com/card/?search=Junk%20Speeder) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Warrior](https://db.ygoprodeck.com/card/?search=Junk%20Warrior) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Karakuri Shogun mdl 00 "Burei"](https://db.ygoprodeck.com/card/?search=Karakuri%20Shogun%20mdl%2000%20"Burei") | Unlimited |
