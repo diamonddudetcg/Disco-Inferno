@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 97
+Estimated number of changes: 98
 
-Keep in mind there's still 3873 runs left
+Keep in mind there's still 3872 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -110,6 +110,7 @@ Keep in mind there's still 3873 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cursed Seal of the Forbidden Spell](https://db.ygoprodeck.com/card/?search=Cursed%20Seal%20of%20the%20Forbidden%20Spell) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fairy Box](https://db.ygoprodeck.com/card/?search=Fairy%20Box) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | Illegal | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Ring](https://db.ygoprodeck.com/card/?search=Hero%20Ring) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The First Sarcophagus](https://db.ygoprodeck.com/card/?search=The%20First%20Sarcophagus) | Illegal | Unlimited |
 
 <br>

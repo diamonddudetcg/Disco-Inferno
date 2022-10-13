@@ -1714,7 +1714,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravity Collapse](https://db.ygoprodeck.com/card/?search=Gravity%20Collapse) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graydle Parasite](https://db.ygoprodeck.com/card/?search=Graydle%20Parasite) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Ring](https://db.ygoprodeck.com/card/?search=Hero%20Ring) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hidden Soldiers](https://db.ygoprodeck.com/card/?search=Hidden%20Soldiers) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ice Dragon's Prison](https://db.ygoprodeck.com/card/?search=Ice%20Dragon's%20Prison) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Infernity Barrier](https://db.ygoprodeck.com/card/?search=Infernity%20Barrier) | Illegal |
@@ -10686,6 +10685,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Blast](https://db.ygoprodeck.com/card/?search=Hero%20Blast) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Counterattack](https://db.ygoprodeck.com/card/?search=Hero%20Counterattack) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Medal](https://db.ygoprodeck.com/card/?search=Hero%20Medal) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Ring](https://db.ygoprodeck.com/card/?search=Hero%20Ring) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Signal](https://db.ygoprodeck.com/card/?search=Hero%20Signal) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero Spirit](https://db.ygoprodeck.com/card/?search=Hero%20Spirit) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hero's Rule 2](https://db.ygoprodeck.com/card/?search=Hero's%20Rule%202) | Unlimited |
