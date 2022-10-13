@@ -6467,6 +6467,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eye of the Void](https://db.ygoprodeck.com/card/?search=Eye%20of%20the%20Void) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Face-Off](https://db.ygoprodeck.com/card/?search=Face-Off) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fairy Box](https://db.ygoprodeck.com/card/?search=Fairy%20Box) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fairy's Hand Mirror](https://db.ygoprodeck.com/card/?search=Fairy's%20Hand%20Mirror) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fallen Sanctuary](https://db.ygoprodeck.com/card/?search=Fallen%20Sanctuary) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fatal Abacus](https://db.ygoprodeck.com/card/?search=Fatal%20Abacus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fateful Hour](https://db.ygoprodeck.com/card/?search=Fateful%20Hour) | Illegal |
@@ -11017,7 +11018,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [F.A. Overheat](https://db.ygoprodeck.com/card/?search=F.A.%20Overheat) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fabled Treason](https://db.ygoprodeck.com/card/?search=Fabled%20Treason) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fairy Wind](https://db.ygoprodeck.com/card/?search=Fairy%20Wind) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fairy's Hand Mirror](https://db.ygoprodeck.com/card/?search=Fairy's%20Hand%20Mirror) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fake Explosion](https://db.ygoprodeck.com/card/?search=Fake%20Explosion) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fake Feather](https://db.ygoprodeck.com/card/?search=Fake%20Feather) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fake Trap](https://db.ygoprodeck.com/card/?search=Fake%20Trap) | Unlimited |
