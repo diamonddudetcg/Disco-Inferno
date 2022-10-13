@@ -3106,6 +3106,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Harpie Lady](https://db.ygoprodeck.com/card/?search=Toon%20Harpie%20Lady) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Masked Sorcerer](https://db.ygoprodeck.com/card/?search=Toon%20Masked%20Sorcerer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Torapart](https://db.ygoprodeck.com/card/?search=Torapart) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tornado Bird](https://db.ygoprodeck.com/card/?search=Tornado%20Bird) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Torpedo Fish](https://db.ygoprodeck.com/card/?search=Torpedo%20Fish) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Total Defense Shogun](https://db.ygoprodeck.com/card/?search=Total%20Defense%20Shogun) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Totem Dragon](https://db.ygoprodeck.com/card/?search=Totem%20Dragon) | Illegal |
@@ -6743,6 +6744,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Pikaia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Pikaia) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paradox Fusion](https://db.ygoprodeck.com/card/?search=Paradox%20Fusion) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Parallel Selection](https://db.ygoprodeck.com/card/?search=Parallel%20Selection) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Penalty Game!](https://db.ygoprodeck.com/card/?search=Penalty%20Game!) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Performapal Show Down](https://db.ygoprodeck.com/card/?search=Performapal%20Show%20Down) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | Illegal |
@@ -9231,7 +9233,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Mermaid](https://db.ygoprodeck.com/card/?search=Toon%20Mermaid) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Summoned Skull](https://db.ygoprodeck.com/card/?search=Toon%20Summoned%20Skull) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Top Runner](https://db.ygoprodeck.com/card/?search=Top%20Runner) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tornado Bird](https://db.ygoprodeck.com/card/?search=Tornado%20Bird) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Torque Tune Gear](https://db.ygoprodeck.com/card/?search=Torque%20Tune%20Gear) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Totem Five](https://db.ygoprodeck.com/card/?search=Totem%20Five) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tour Bus To Forbidden Realms](https://db.ygoprodeck.com/card/?search=Tour%20Bus%20To%20Forbidden%20Realms) | Unlimited |
@@ -11270,7 +11271,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Eldonia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Eldonia) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Hallucigenia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Hallucigenia) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Parallel Port Armor](https://db.ygoprodeck.com/card/?search=Parallel%20Port%20Armor) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Parallel Selection](https://db.ygoprodeck.com/card/?search=Parallel%20Selection) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Parry](https://db.ygoprodeck.com/card/?search=Parry) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Parthian Shot](https://db.ygoprodeck.com/card/?search=Parthian%20Shot) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Past Image](https://db.ygoprodeck.com/card/?search=Past%20Image) | Unlimited |
