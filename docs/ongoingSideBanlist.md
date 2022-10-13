@@ -129,7 +129,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hunter Dragon](https://db.ygoprodeck.com/card/?search=Hunter%20Dragon) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hunter Spider](https://db.ygoprodeck.com/card/?search=Hunter%20Spider) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hyosube](https://db.ygoprodeck.com/card/?search=Hyosube) | Illegal |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hyozanryu](https://db.ygoprodeck.com/card/?search=Hyozanryu) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Crusader](https://db.ygoprodeck.com/card/?search=Igknight%20Crusader) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Templar](https://db.ygoprodeck.com/card/?search=Igknight%20Templar) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Inpachi](https://db.ygoprodeck.com/card/?search=Inpachi) | Illegal |
@@ -6078,7 +6077,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ultimate Slayer](https://db.ygoprodeck.com/card/?search=Ultimate%20Slayer) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ultra Polymerization](https://db.ygoprodeck.com/card/?search=Ultra%20Polymerization) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Umi](https://db.ygoprodeck.com/card/?search=Umi) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Umiiruka](https://db.ygoprodeck.com/card/?search=Umiiruka) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Unauthorized Reactivation](https://db.ygoprodeck.com/card/?search=Unauthorized%20Reactivation) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Unicorn Beacon](https://db.ygoprodeck.com/card/?search=Unicorn%20Beacon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Union Attack](https://db.ygoprodeck.com/card/?search=Union%20Attack) | Illegal |
@@ -7183,6 +7181,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [High Tide Gyojin](https://db.ygoprodeck.com/card/?search=High%20Tide%20Gyojin) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hinotama Soul](https://db.ygoprodeck.com/card/?search=Hinotama%20Soul) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hitotsu-Me Giant](https://db.ygoprodeck.com/card/?search=Hitotsu-Me%20Giant) | Unlimited |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hyozanryu](https://db.ygoprodeck.com/card/?search=Hyozanryu) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Cavalier](https://db.ygoprodeck.com/card/?search=Igknight%20Cavalier) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Gallant](https://db.ygoprodeck.com/card/?search=Igknight%20Gallant) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Margrave](https://db.ygoprodeck.com/card/?search=Igknight%20Margrave) | Unlimited |
@@ -10658,6 +10657,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [U.A. Locker Room](https://db.ygoprodeck.com/card/?search=U.A.%20Locker%20Room) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [U.A. Signing Deal](https://db.ygoprodeck.com/card/?search=U.A.%20Signing%20Deal) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ultra Evolution Pill](https://db.ygoprodeck.com/card/?search=Ultra%20Evolution%20Pill) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Umiiruka](https://db.ygoprodeck.com/card/?search=Umiiruka) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Unacceptable Result](https://db.ygoprodeck.com/card/?search=Unacceptable%20Result) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Unexpected Dai](https://db.ygoprodeck.com/card/?search=Unexpected%20Dai) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Uni-Song Tuning](https://db.ygoprodeck.com/card/?search=Uni-Song%20Tuning) | Unlimited |
