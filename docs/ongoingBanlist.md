@@ -1214,7 +1214,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Vylon Epsilon](https://db.ygoprodeck.com/card/?search=Vylon%20Epsilon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Wattchimera](https://db.ygoprodeck.com/card/?search=Wattchimera) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Watthydra](https://db.ygoprodeck.com/card/?search=Watthydra) | Illegal |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [White Aura Dolphin](https://db.ygoprodeck.com/card/?search=White%20Aura%20Dolphin) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [White Aura Whale](https://db.ygoprodeck.com/card/?search=White%20Aura%20Whale) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [XX-Saber Gottoms](https://db.ygoprodeck.com/card/?search=XX-Saber%20Gottoms) | Illegal |
@@ -7748,6 +7747,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Vylon Alpha](https://db.ygoprodeck.com/card/?search=Vylon%20Alpha) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Vylon Omega](https://db.ygoprodeck.com/card/?search=Vylon%20Omega) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Vylon Sigma](https://db.ygoprodeck.com/card/?search=Vylon%20Sigma) | Unlimited |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [White Aura Monoceros](https://db.ygoprodeck.com/card/?search=White%20Aura%20Monoceros) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Wind Pegasus @Ignister](https://db.ygoprodeck.com/card/?search=Wind%20Pegasus%20@Ignister) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Windmill Genex](https://db.ygoprodeck.com/card/?search=Windmill%20Genex) | Unlimited |
