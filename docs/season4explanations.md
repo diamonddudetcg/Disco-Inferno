@@ -20,6 +20,11 @@ The purpose of this banlist is hitting the unfair parts of certain decks that ar
 As always, extra deck locking isn't okay in this format and we'll ban every card that does that.
 
 
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Lyrilusc - Independent Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Independent%20Nightingale)
+
+We are banning this to make sure bringing two other cards back doesn't result in FTKs, not as a hit to Lyrilusc since they don't even play this card.
+
+
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian)
 
 Synchron was abusing this to no end making boards the format isn't really equipped to beat. Rather than outright kill Synchron as a deck, we've decided to remove its ability to draw hand traps and extenders while going off. We expect this to lower the ceiling of the deck without making it unplayable.
@@ -69,16 +74,10 @@ With how prevalent Kaijus are in Disco Inferno, Slumber had become both a facili
 We don't think any of these are going to break anything.
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [True King Lithosagym, the Disaster](https://db.ygoprodeck.com/card/?search=True%20King%20Lithosagym,%20The%20Disaster)
-
-We want to throw a bone to Dino. If this breaks anything it's probably going back to 1.
-
 <img src="assets/fusion.png" alt="Fusion Monster" width="12" height="12"/> [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom)
-
-Same but for Pendulums. Also, we want effect-copying cards in the format as a measure of health. If this facilitates an FTK, we know something else needs to get banned.
-
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Fiber%20Jar)
 
-Same but for Dragons. Dragon Rulers are WAY past their prime.
+Dinosaurs, Pendulum and Dragons haven't performed at all, and we want to gradually give them stuff until they become playable. If something breaks we'll consider changing stuff back, but these feel safe enough.
 
 <br>
 
