@@ -1503,7 +1503,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Day of Witch](https://db.ygoprodeck.com/card/?search=Last%20Day%20of%20Witch) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ledger of Legerdemain](https://db.ygoprodeck.com/card/?search=Ledger%20of%20Legerdemain) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of a HERO](https://db.ygoprodeck.com/card/?search=Legacy%20of%20a%20HERO) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Level Limit - Area B](https://db.ygoprodeck.com/card/?search=Level%20Limit%20-%20Area%20B) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Libromancer First Appearance](https://db.ygoprodeck.com/card/?search=Libromancer%20First%20Appearance) | Illegal |
@@ -8949,6 +8948,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Law of the Cosmos](https://db.ygoprodeck.com/card/?search=Law%20of%20the%20Cosmos) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Leeching the Light](https://db.ygoprodeck.com/card/?search=Leeching%20the%20Light) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Left Arm Offering](https://db.ygoprodeck.com/card/?search=Left%20Arm%20Offering) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legend of Heart](https://db.ygoprodeck.com/card/?search=Legend%20of%20Heart) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legendary Black Belt](https://db.ygoprodeck.com/card/?search=Legendary%20Black%20Belt) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legendary Ebon Steed](https://db.ygoprodeck.com/card/?search=Legendary%20Ebon%20Steed) | Unlimited |
