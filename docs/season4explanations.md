@@ -44,6 +44,10 @@ With no floodgates left in the format, this card is acting as a gatekeeper for t
 
 Teleport was being abused in both Synchron and Virtual World. The fact it's an extender that doubles up as interruption due to [Ghost Ogre](https://db.ygoprodeck.com/card?search=Ghost%20ogre%20%26%20Snow%20Rabbit) is what put this card over the top.
 
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heavy Storm](https://db.ygoprodeck.com/card/?search=Heavy%20Storm")
+
+With both [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) and [Royal Decree](https://db.ygoprodeck.com/card/?search=Royal%20Decree) gone, we wanted to have a card that punishes backrow decks without outright killing them. Heavy Storm is more easy to interact with than either of those two since cards like [Starlight Road](https://db.ygoprodeck.com/card/?search=Starlight%20Road)and [Dark Bribe](https://db.ygoprodeck.com/card/?search=Dark%20Bribe) are legal, and it isn't a card every deck can play even if decks like Metalfoes can technically benefit from destroying their own backrow. We expect this card to be less problematic than Denko and Decree, and therefore it's getting limited to test the waters.
+
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map)
 
 With how prevalent Kaijus are in Disco Inferno, Slumber had become both a facilitator for two card OTKs with [Fallen of Albaz](https://db.ygoprodeck.com/card?search=Fallen%20of%20Albaz) and just a better version of [Dark Hole](https://db.ygoprodeck.com/card?search=Dark%20Hole) that had very little opportunity cost. We want boardbreakers to be in the format, but this one was doing a bit too much.
