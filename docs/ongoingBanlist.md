@@ -1749,6 +1749,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Oh F!sh!](https://db.ygoprodeck.com/card/?search=Oh%20F!sh!) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ordeal of a Traveler](https://db.ygoprodeck.com/card/?search=Ordeal%20of%20a%20Traveler) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Overwhelm](https://db.ygoprodeck.com/card/?search=Overwhelm) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Phantom Knights' Fog Blade](https://db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Fog%20Blade) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Planet Pollutant Virus](https://db.ygoprodeck.com/card/?search=Planet%20Pollutant%20Virus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Present Card](https://db.ygoprodeck.com/card/?search=Present%20Card) | Illegal |
@@ -11008,7 +11009,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Packet Link](https://db.ygoprodeck.com/card/?search=Packet%20Link) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Painful Escape](https://db.ygoprodeck.com/card/?search=Painful%20Escape) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Canadia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Canadia) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Eldonia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Eldonia) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Hallucigenia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Hallucigenia) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Leanchoilia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Leanchoilia) | Unlimited |
