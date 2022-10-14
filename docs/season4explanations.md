@@ -20,6 +20,11 @@ The purpose of this banlist is hitting the unfair parts of certain decks that ar
 As always, extra deck locking isn't okay in this format and we'll ban every card that does that.
 
 
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majesty's Fiend](https://db.ygoprodeck.com/card/?search=Majesty's%20Fiend)
+
+Turns out we missed this one.
+
+
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Lyrilusc - Independent Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Independent%20Nightingale)
 
 We are banning this to make sure bringing two other cards back doesn't result in FTKs, not as a hit to Lyrilusc since they don't even play this card.
