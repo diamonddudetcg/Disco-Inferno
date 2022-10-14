@@ -44,9 +44,9 @@ With no floodgates left in the format, this card is acting as a gatekeeper for t
 
 Teleport was being abused in both Synchron and Virtual World. The fact it's an extender that doubles up as interruption due to [Ghost Ogre](https://db.ygoprodeck.com/card?search=Ghost%20ogre%20%26%20Snow%20Rabbit) is what put this card over the top.
 
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heavy Storm](https://db.ygoprodeck.com/card/?search=Heavy%20Storm")
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!)
 
-With both [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) and [Royal Decree](https://db.ygoprodeck.com/card/?search=Royal%20Decree) gone, we wanted to have a card that punishes backrow decks without outright killing them. Heavy Storm is more easy to interact with than either of those two since cards like [Starlight Road](https://db.ygoprodeck.com/card/?search=Starlight%20Road)and [Dark Bribe](https://db.ygoprodeck.com/card/?search=Dark%20Bribe) are legal, and it isn't a card every deck can play even if decks like Metalfoes can technically benefit from destroying their own backrow. We expect this card to be less problematic than Denko and Decree, and therefore it's getting limited to test the waters.
+With both [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) and [Royal Decree](https://db.ygoprodeck.com/card/?search=Royal%20Decree) gone, we wanted to have a card that punishes backrow decks without outright killing them. We are testing the waters with it as Hey proved to be a very toxic card at 3, but we are hopeful that it'll be okay at 1. It also incentivizes trap decks to play defensive options like [Threatening Roar](https://db.ygoprodeck.com/card/?search=Threatening%20Roar) or [Waboku](https://db.ygoprodeck.com/card/?search=Waboku), and you can always have more of those than your opponent has Hey.
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map)
 
@@ -68,11 +68,11 @@ With how prevalent Kaijus are in Disco Inferno, Slumber had become both a facili
 
 We don't think any of these are going to break anything.
 
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [True King Lithosagym, the Disaster](https://db.ygoprodeck.com/card/?search=True%20King%20Lithosagym,%20The%20Disaster")
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [True King Lithosagym, the Disaster](https://db.ygoprodeck.com/card/?search=True%20King%20Lithosagym,%20The%20Disaster)
 
 We want to throw a bone to Dino. If this breaks anything it's probably going back to 1.
 
-<img src="assets/fusion.png" alt="Fusion Monster" width="12" height="12"/> [Supreme King Dragon Starving Venom]
+<img src="assets/fusion.png" alt="Fusion Monster" width="12" height="12"/> [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom)
 
 Same but for Pendulums. Also, we want effect-copying cards in the format as a measure of health. If this facilitates an FTK, we know something else needs to get banned.
 

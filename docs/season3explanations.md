@@ -15,25 +15,70 @@ The purpose of this banlist is hitting the unfair parts of certain decks that ar
 
 <br>
 
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragon Buster Destruction Sword](https://db.ygoprodeck.com/card/?search=Dragon%20Buster%20Destruction%20Sword)
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka)
 
-As always, extra deck locking isn't okay in this format and we'll ban every card that does that.
-
-
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian)
-
-Synchron was abusing this to no end making boards the format isn't really equipped to beat. Rather than outright kill Synchron as a deck, we've decided to remove its ability to draw hand traps and extenders while going off. We expect this to lower the ceiling of the deck without making it unplayable.
+Decks that don't need their Normal Summon have abused this card to beat backrow decks. We want control decks to be able to flip Trap cards, so we've decided to ban Denko Sekka to make the format a little less hostile to them.
 
 
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup)
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dimension Shifter](https://db.ygoprodeck.com/card/?search=Dimension%20Shifter)
 
-This card was being abused by a deep draw Exodia deck. Without [Ash Blossom](https://db.ygoprodeck.com/card/?search=Ash%20Blossom%20%26%20Joyous%20Spring) to heavily punish it, Popperup is just a bit too good.
+The reprint in the Crystal Beast structure deck makes this cheap enough to impact our format. This is a massively unfun card that almost always translates to turn skips, and this format prides itself in being interactive. The outs to this card ([Gamma](https://db.ygoprodeck.com/card/?search=PSY-Framegear%20Gamma) and [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave)) are also illegal. We don't even want to see what this card does to the format, so we are pre-emptively banning it.
 
 
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Royal Decree](https://db.ygoprodeck.com/card/?search=Royal%20Decree)
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scary Moth](https://db.ygoprodeck.com/card/?search=Scary%20Moth)
 
-With no floodgates left in the format, this card is acting as a gatekeeper for trap-based decks to succeed. We want those to be viable in the format, so we're banning Royal Decree.
+Scary Moth is just a searchable [Winda](https://db.ygoprodeck.com/card/?search=El%20Shaddoll%20Winda) that Beetrooper was abusing by reviving it with [Number 3: Cicada King](https://db.ygoprodeck.com/card/?search=Number%203:%20Cicada%20King). We think the Beetrooper core is fine in the format, but we are hitting the two most unfair endboard pieces to make it easier to deal with it. The deck is still alive and kicking and we expect it to be a huge competitor in Disco Inferno going forward, but it will be less reliant on floodgates now.
 
+
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Invoked Caliga](https://db.ygoprodeck.com/card/?search=Invoked%20Caliga)
+
+With Tearlaments joining the format, making Caliga was as easy as fusing any Tear name + [King of the Swamp](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Swamp). The Tearlaments engine has proven to be mostly fine unless this exact card was summoned.
+
+
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Herald of the Arc Light](https://db.ygoprodeck.com/card/?search=Herald%20of%20the%20Arc%20Light)
+
+Herald of the Arc Light was only legal because someone listed OCG copies on Cardmarket. It's a $2 card otherwise. Additionally, it made Megalith Drytron way better because they could use [Extra-Foolish Burial](https://db.ygoprodeck.com/card/?search=Extra-Foolish%20Burial) as a consistency tool.
+
+
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus)
+
+Hit 1 to Floowandereeze. Expect more of these as you scroll down.
+
+<img src="assets/spell.png" alt="Spell" width="12" height="12"> [Magical Mid-Breaker Field](https://db.ygoprodeck.com/card/?search=Magical%20Mid-Breaker%20Field)
+
+Hit 2 to Floowandereeze, but also a massively unfun card.
+
+
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mystic Mine](https://db.ygoprodeck.com/card/?search=Mystic%20Mine)
+
+We don't expect this to be cheap anytime soon, but you know, just in case.
+
+
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation)
+
+Our bad. We didn't realize this could be used as a counter to decks that require a Field Spell to function.
+
+
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Different Dimension Ground](https://db.ygoprodeck.com/card/?search=Different%20Dimension%20Ground)
+
+Hit 3 to Floowandereeze. A lingering floodgate that slipped through our fingers. Our bad.
+
+
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Eradicator Epidemic Virus](https://db.ygoprodeck.com/card/?search=Eradicator%20Epidemic%20Virus)
+
+A multi-turn, one-sided lingering floodgate that also gives perfect hand information while making Control decks really bad. Don't think we need to explain this one a lot.
+
+
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Give and Take](https://db.ygoprodeck.com/card/?search=Give%20and%20Take)
+
+Probably the funniest ban, Beetrooper was using this to give their opponents a [Beetrooper Scout Buggy](https://db.ygoprodeck.com/card/?search=Beetrooper%20Scout%20Buggy) and lock them from special summoning anything but Insects. The Insect pile is fine, floodgates are not.
+
+
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lose 1 Turn](https://db.ygoprodeck.com/card/?search=Lose%201%20Turn)
+
+Hit 4 to Floowandereeze. It has proven to be insane in decks that can normal summon big bodies. We hoped it wouldn't be good in the format and we could leave some floodgates in, but sadly, it was and we cannot.
+
+Shoutouts to Wren, though. You've gotten four cards banned.
 
 ## Limited
 
