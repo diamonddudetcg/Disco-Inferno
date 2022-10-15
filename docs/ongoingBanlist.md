@@ -1607,7 +1607,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Shark Cannon](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Shark%20Cannon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mobilize - Engage!](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mobilize%20-%20Engage!) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skyscraper 2 - Hero City](https://db.ygoprodeck.com/card/?search=Skyscraper%202%20-%20Hero%20City) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Small World](https://db.ygoprodeck.com/card/?search=Small%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solar Recharge](https://db.ygoprodeck.com/card/?search=Solar%20Recharge) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solidarity](https://db.ygoprodeck.com/card/?search=Solidarity) | Illegal |
@@ -9531,6 +9530,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecharmory - Hercules Base](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecharmory%20-%20Hercules%20Base) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skydive Scorcher](https://db.ygoprodeck.com/card/?search=Skydive%20Scorcher) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skyscraper](https://db.ygoprodeck.com/card/?search=Skyscraper) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skyscraper 2 - Hero City](https://db.ygoprodeck.com/card/?search=Skyscraper%202%20-%20Hero%20City) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Slash Draw](https://db.ygoprodeck.com/card/?search=Slash%20Draw) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Smashing Ground](https://db.ygoprodeck.com/card/?search=Smashing%20Ground) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Smile Action](https://db.ygoprodeck.com/card/?search=Smile%20Action) | Unlimited |
