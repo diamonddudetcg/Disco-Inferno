@@ -1682,7 +1682,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hieratic Dragon of Sutekh](https://db.ygoprodeck.com/card/?search=Hieratic%20Dragon%20of%20Sutekh) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [High Priestess of Prophecy](https://db.ygoprodeck.com/card/?search=High%20Priestess%20of%20Prophecy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hino-Kagu-Tsuchi](https://db.ygoprodeck.com/card/?search=Hino-Kagu-Tsuchi) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hiro's Shadow Scout](https://db.ygoprodeck.com/card/?search=Hiro's%20Shadow%20Scout) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hiyari @Ignister](https://db.ygoprodeck.com/card/?search=Hiyari%20@Ignister) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hojo the Vaylantz Warrior](https://db.ygoprodeck.com/card/?search=Hojo%20the%20Vaylantz%20Warrior) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Honest](https://db.ygoprodeck.com/card/?search=Honest) | Illegal |
@@ -8226,6 +8225,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hieratic Seal of the Dragon King](https://db.ygoprodeck.com/card/?search=Hieratic%20Seal%20of%20the%20Dragon%20King) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hiita the Fire Charmer](https://db.ygoprodeck.com/card/?search=Hiita%20the%20Fire%20Charmer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hinezumi Hanabi](https://db.ygoprodeck.com/card/?search=Hinezumi%20Hanabi) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hiro's Shadow Scout](https://db.ygoprodeck.com/card/?search=Hiro's%20Shadow%20Scout) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Holding Arms](https://db.ygoprodeck.com/card/?search=Holding%20Arms) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Holding Legs](https://db.ygoprodeck.com/card/?search=Holding%20Legs) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Homunculus the Alchemic Being](https://db.ygoprodeck.com/card/?search=Homunculus%20the%20Alchemic%20Being) | Unlimited |
