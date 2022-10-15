@@ -2165,6 +2165,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metaion, the Timelord](https://db.ygoprodeck.com/card/?search=Metaion,%20the%20Timelord) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metal Shooter](https://db.ygoprodeck.com/card/?search=Metal%20Shooter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metalfoes Vanisher](https://db.ygoprodeck.com/card/?search=Metalfoes%20Vanisher) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metalrokket Dragon](https://db.ygoprodeck.com/card/?search=Metalrokket%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metaltron XII, the True Dracombatant](https://db.ygoprodeck.com/card/?search=Metaltron%20XII,%20the%20True%20Dracombatant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metalzoa](https://db.ygoprodeck.com/card/?search=Metalzoa) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metamorphosed Insect Queen](https://db.ygoprodeck.com/card/?search=Metamorphosed%20Insect%20Queen) | Illegal |
@@ -3194,6 +3195,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Union Driver](https://db.ygoprodeck.com/card/?search=Union%20Driver) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Union Rider](https://db.ygoprodeck.com/card/?search=Union%20Rider) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Mikbilis](https://db.ygoprodeck.com/card/?search=Ursarctic%20Mikbilis) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Mikpolar](https://db.ygoprodeck.com/card/?search=Ursarctic%20Mikpolar) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Miktanus](https://db.ygoprodeck.com/card/?search=Ursarctic%20Miktanus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Utgarda, Generaider Boss of Delusion](https://db.ygoprodeck.com/card/?search=Utgarda,%20Generaider%20Boss%20of%20Delusion) | Illegal |
@@ -5604,6 +5606,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Necrovalley](https://db.ygoprodeck.com/card/?search=Necrovalley) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Necrovalley Throne](https://db.ygoprodeck.com/card/?search=Necrovalley%20Throne) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Nekroz Cycle](https://db.ygoprodeck.com/card/?search=Nekroz%20Cycle) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Nekroz Kaleidoscope](https://db.ygoprodeck.com/card/?search=Nekroz%20Kaleidoscope) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Nekroz Mirror](https://db.ygoprodeck.com/card/?search=Nekroz%20Mirror) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Neos Force](https://db.ygoprodeck.com/card/?search=Neos%20Force) | Illegal |
@@ -8521,7 +8524,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abyssocea](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssocea) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metallizing Parasite - Lunatite](https://db.ygoprodeck.com/card/?search=Metallizing%20Parasite%20-%20Lunatite) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metallizing Parasite - Soltite](https://db.ygoprodeck.com/card/?search=Metallizing%20Parasite%20-%20Soltite) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metalrokket Dragon](https://db.ygoprodeck.com/card/?search=Metalrokket%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metaphys Decoy Dragon](https://db.ygoprodeck.com/card/?search=Metaphys%20Decoy%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metrognome](https://db.ygoprodeck.com/card/?search=Metrognome) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Millennium Seeker](https://db.ygoprodeck.com/card/?search=Millennium%20Seeker) | Unlimited |
@@ -9293,7 +9295,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megabilis](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megabilis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megapolar](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megapolar) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megatanus](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megatanus) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Mikbilis](https://db.ygoprodeck.com/card/?search=Ursarctic%20Mikbilis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Valerifawn, Mystical Beast of the Forest](https://db.ygoprodeck.com/card/?search=Valerifawn,%20Mystical%20Beast%20of%20the%20Forest) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Valkyrian Knight](https://db.ygoprodeck.com/card/?search=Valkyrian%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Valkyrie Chariot](https://db.ygoprodeck.com/card/?search=Valkyrie%20Chariot) | Unlimited |
@@ -10325,7 +10326,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Nagel's Protection](https://db.ygoprodeck.com/card/?search=Nagel's%20Protection) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Natural Tune](https://db.ygoprodeck.com/card/?search=Natural%20Tune) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Necroquip Prism](https://db.ygoprodeck.com/card/?search=Necroquip%20Prism) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Nekroz Kaleidoscope](https://db.ygoprodeck.com/card/?search=Nekroz%20Kaleidoscope) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Nemeses Adrastea](https://db.ygoprodeck.com/card/?search=Nemeses%20Adrastea) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Nephe Shaddoll Fusion](https://db.ygoprodeck.com/card/?search=Nephe%20Shaddoll%20Fusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Neutron Blast](https://db.ygoprodeck.com/card/?search=Neutron%20Blast) | Unlimited |
