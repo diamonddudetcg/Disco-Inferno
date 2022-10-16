@@ -1210,6 +1210,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evil HERO Adusted Gold](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Adusted%20Gold) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evil HERO Infernal Prodigy](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Infernal%20Prodigy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evil HERO Sinister Necrom](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Sinister%20Necrom) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evil Thorn](https://db.ygoprodeck.com/card/?search=Evil%20Thorn) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Azzathoth](https://db.ygoprodeck.com/card/?search=Evilswarm%20Azzathoth) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Castor](https://db.ygoprodeck.com/card/?search=Evilswarm%20Castor) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Coppelia](https://db.ygoprodeck.com/card/?search=Evilswarm%20Coppelia) | Illegal |
@@ -7940,7 +7941,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evil Dragon Ananta](https://db.ygoprodeck.com/card/?search=Evil%20Dragon%20Ananta) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evil HERO Infernal Gainer](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Infernal%20Gainer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evil HERO Malicious Edge](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Malicious%20Edge) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evil Thorn](https://db.ygoprodeck.com/card/?search=Evil%20Thorn) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Ketos](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ketos) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Mandragora](https://db.ygoprodeck.com/card/?search=Evilswarm%20Mandragora) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Obliviwisp](https://db.ygoprodeck.com/card/?search=Evilswarm%20Obliviwisp) | Unlimited |
