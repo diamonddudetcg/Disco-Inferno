@@ -6,11 +6,11 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | 0.3086 | 0.69 | Illegal |
-[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.4306 | 0.62 | Illegal |
+[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | 0.3088 | 0.69 | Illegal |
+[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.4307 | 0.62 | Illegal |
 [Ancient Gear Reactor Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reactor%20Dragon) | 0.4463 | 0.58 | Illegal |
 [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | 0.4546 | 0.55 | Illegal |
-[Evilswarm Bahamut](https://db.ygoprodeck.com/card/?search=Evilswarm%20Bahamut) | 0.4572 | 0.57 | Illegal |
+[Evilswarm Bahamut](https://db.ygoprodeck.com/card/?search=Evilswarm%20Bahamut) | 0.4573 | 0.57 | Illegal |
 [Clear Vice Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Vice%20Dragon) | 0.4663 | 0.54 | Illegal |
 [Red Dragon Archfiend](https://db.ygoprodeck.com/card/?search=Red%20Dragon%20Archfiend) | 0.4676 | 0.55 | Illegal |
 [Justice Bringer](https://db.ygoprodeck.com/card/?search=Justice%20Bringer) | 0.4693 | 0.53 | Illegal |
@@ -18,26 +18,26 @@ This is a list of cards that are likely to change legality before the next rotat
 [Successor Soul](https://db.ygoprodeck.com/card/?search=Successor%20Soul) | 0.4810 | 0.52 | Illegal |
 [Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | 0.4883 | 0.58 | Illegal |
 [The Phantom Knights of Torn Scales](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Torn%20Scales) | 0.4913 | 0.59 | Illegal |
-[Ryu Senshi](https://db.ygoprodeck.com/card/?search=Ryu%20Senshi) | 0.4919 | 0.57 | Illegal |
-[Izanagi](https://db.ygoprodeck.com/card/?search=Izanagi) | 0.4925 | 0.64 | Illegal |
+[Ryu Senshi](https://db.ygoprodeck.com/card/?search=Ryu%20Senshi) | 0.4920 | 0.57 | Illegal |
+[Izanagi](https://db.ygoprodeck.com/card/?search=Izanagi) | 0.4926 | 0.64 | Illegal |
 [D/D/D Super Doom King Dark Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Dark%20Armageddon) | 0.4983 | 0.52 | Illegal |
 [Soul Energy MAX!!!](https://db.ygoprodeck.com/card/?search=Soul%20Energy%20MAX!!!) | 0.5004 | 0.47 | Unlimited |
 [Solemn Wishes](https://db.ygoprodeck.com/card/?search=Solemn%20Wishes) | 0.5077 | 0.46 | Unlimited |
-[Stone Statue of the Aztecs](https://db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs) | 0.5105 | 0.35 | Unlimited |
+[Stone Statue of the Aztecs](https://db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs) | 0.5104 | 0.35 | Unlimited |
 [Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.5170 | 0.44 | Unlimited |
 [Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.5177 | 0.47 | Unlimited |
 [Beastking of the Swamps](https://db.ygoprodeck.com/card/?search=Beastking%20of%20the%20Swamps) | 0.5224 | 0.44 | Unlimited |
-[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.5253 | 0.17 | Limited |
+[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.5252 | 0.16 | Limited |
 [Hero of the East](https://db.ygoprodeck.com/card/?search=Hero%20of%20the%20East) | 0.5264 | 0.47 | Unlimited |
 [Fluffal Bear](https://db.ygoprodeck.com/card/?search=Fluffal%20Bear) | 0.5271 | 0.41 | Unlimited |
-[Elemental HERO Blazeman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Blazeman) | 0.5333 | 0.26 | Unlimited |
-[Crass Clown](https://db.ygoprodeck.com/card/?search=Crass%20Clown) | 0.5519 | 0.27 | Unlimited |
+[Elemental HERO Blazeman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Blazeman) | 0.5332 | 0.26 | Unlimited |
+[Crass Clown](https://db.ygoprodeck.com/card/?search=Crass%20Clown) | 0.5518 | 0.27 | Unlimited |
 [Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.5571 | 0.44 | Unlimited |
-[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5779 | 0.32 | Limited |
-[Elemental HERO Electrum](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Electrum) | 0.6230 | 0.25 | Unlimited |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.6416 | 0.33 | Unlimited |
-[Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | 0.6546 | 0.25 | Limited |
-[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.7344 | 0.26 | Unlimited |
+[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5778 | 0.32 | Limited |
+[Elemental HERO Electrum](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Electrum) | 0.6229 | 0.25 | Unlimited |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.6415 | 0.34 | Unlimited |
+[Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | 0.6544 | 0.28 | Limited |
+[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.7342 | 0.26 | Unlimited |
 
 <br>
 
