@@ -2739,6 +2739,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sage of Silence](https://db.ygoprodeck.com/card/?search=Sage%20of%20Silence) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sage with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Sage%20with%20Eyes%20of%20Blue) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sagitta, Maverick Fur Hire](https://db.ygoprodeck.com/card/?search=Sagitta,%20Maverick%20Fur%20Hire) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Beat Bison](https://db.ygoprodeck.com/card/?search=Salamangreat%20Beat%20Bison) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Coyote](https://db.ygoprodeck.com/card/?search=Salamangreat%20Coyote) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Foxy](https://db.ygoprodeck.com/card/?search=Salamangreat%20Foxy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Gazelle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Gazelle) | Illegal |
@@ -9042,7 +9043,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sacred Spirit of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Sacred%20Spirit%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sage of Stillness](https://db.ygoprodeck.com/card/?search=Sage%20of%20Stillness) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Saion the Vaylantz Archer](https://db.ygoprodeck.com/card/?search=Saion%20the%20Vaylantz%20Archer) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Beat Bison](https://db.ygoprodeck.com/card/?search=Salamangreat%20Beat%20Bison) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Falco](https://db.ygoprodeck.com/card/?search=Salamangreat%20Falco) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Fennec](https://db.ygoprodeck.com/card/?search=Salamangreat%20Fennec) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Fowl](https://db.ygoprodeck.com/card/?search=Salamangreat%20Fowl) | Unlimited |
