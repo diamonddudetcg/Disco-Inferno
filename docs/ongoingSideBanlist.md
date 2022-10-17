@@ -5581,6 +5581,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Into the Void](https://db.ygoprodeck.com/card/?search=Into%20the%20Void) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Invocation](https://db.ygoprodeck.com/card/?search=Invocation) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inzektor Axe - Zektahawk](https://db.ygoprodeck.com/card/?search=Inzektor%20Axe%20-%20Zektahawk) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inzektor Crossbow - Zektarrow](https://db.ygoprodeck.com/card/?search=Inzektor%20Crossbow%20-%20Zektarrow) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Iron Cage](https://db.ygoprodeck.com/card/?search=Iron%20Cage) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Iron Call](https://db.ygoprodeck.com/card/?search=Iron%20Call) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Iron Core Immediate Disposal](https://db.ygoprodeck.com/card/?search=Iron%20Core%20Immediate%20Disposal) | Illegal |
@@ -10280,7 +10281,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Insect Neglect](https://db.ygoprodeck.com/card/?search=Insect%20Neglect) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inspection](https://db.ygoprodeck.com/card/?search=Inspection) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Invigoration](https://db.ygoprodeck.com/card/?search=Invigoration) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inzektor Crossbow - Zektarrow](https://db.ygoprodeck.com/card/?search=Inzektor%20Crossbow%20-%20Zektarrow) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inzektor Sword - Zektkaliber](https://db.ygoprodeck.com/card/?search=Inzektor%20Sword%20-%20Zektkaliber) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Iron Core Armor](https://db.ygoprodeck.com/card/?search=Iron%20Core%20Armor) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Iron Draw](https://db.ygoprodeck.com/card/?search=Iron%20Draw) | Unlimited |
