@@ -5327,6 +5327,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Double-Edged Sword](https://db.ygoprodeck.com/card/?search=Double-Edged%20Sword) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Downbeat](https://db.ygoprodeck.com/card/?search=Downbeat) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Draco Face-Off](https://db.ygoprodeck.com/card/?search=Draco%20Face-Off) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dracoback, the Rideable Dragon](https://db.ygoprodeck.com/card/?search=Dracoback,%20the%20Rideable%20Dragon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Draconnection](https://db.ygoprodeck.com/card/?search=Draconnection) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragged Down into the Grave](https://db.ygoprodeck.com/card/?search=Dragged%20Down%20into%20the%20Grave) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Mastery](https://db.ygoprodeck.com/card/?search=Dragon%20Mastery) | Illegal |
@@ -10098,7 +10099,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Double Defender](https://db.ygoprodeck.com/card/?search=Double%20Defender) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Double Spell](https://db.ygoprodeck.com/card/?search=Double%20Spell) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dowsing Fusion](https://db.ygoprodeck.com/card/?search=Dowsing%20Fusion) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dracoback, the Rideable Dragon](https://db.ygoprodeck.com/card/?search=Dracoback,%20the%20Rideable%20Dragon) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dracocension](https://db.ygoprodeck.com/card/?search=Dracocension) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Laser](https://db.ygoprodeck.com/card/?search=Dragon%20Laser) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Treasure](https://db.ygoprodeck.com/card/?search=Dragon%20Treasure) | Unlimited |
