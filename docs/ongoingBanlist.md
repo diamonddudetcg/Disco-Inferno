@@ -1571,7 +1571,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ninjitsu Art Notebook of Mystery](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20Notebook%20of%20Mystery) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Noble Arms - Excaliburn](https://db.ygoprodeck.com/card/?search=Noble%20Arms%20-%20Excaliburn) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Novox's Prayer](https://db.ygoprodeck.com/card/?search=Novox's%20Prayer) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [One Day of Peace](https://db.ygoprodeck.com/card/?search=One%20Day%20of%20Peace) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Opti-Camouflage Armor](https://db.ygoprodeck.com/card/?search=Opti-Camouflage%20Armor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Orcustrated Return](https://db.ygoprodeck.com/card/?search=Orcustrated%20Return) | Illegal |
@@ -9196,6 +9195,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Numeron Network](https://db.ygoprodeck.com/card/?search=Numeron%20Network) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Numeron Storm](https://db.ygoprodeck.com/card/?search=Numeron%20Storm) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [O - Oversoul](https://db.ygoprodeck.com/card/?search=O%20-%20Oversoul) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Odd-Eyes Advent](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Advent) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Odd-Eyes Fusion](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Fusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Offerings to the Doomed](https://db.ygoprodeck.com/card/?search=Offerings%20to%20the%20Doomed) | Unlimited |

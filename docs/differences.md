@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 160
+Estimated number of changes: 161
 
-Keep in mind there's still 2415 runs left
+Keep in mind there's still 2414 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -147,6 +147,7 @@ Keep in mind there's still 2415 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagagadraw](https://db.ygoprodeck.com/card/?search=Gagagadraw) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lullaby of Obedience](https://db.ygoprodeck.com/card/?search=Lullaby%20of%20Obedience) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skyscraper 2 - Hero City](https://db.ygoprodeck.com/card/?search=Skyscraper%202%20-%20Hero%20City) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wind-Up Factory](https://db.ygoprodeck.com/card/?search=Wind-Up%20Factory) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [World Legacy Guardragon](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Guardragon) | Illegal | Unlimited |
