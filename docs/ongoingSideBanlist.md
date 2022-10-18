@@ -703,7 +703,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brotherhood of the Fire Fist - Spirit](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Spirit) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brotherhood of the Fire Fist - Swallow](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Swallow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Broww, Huntsman of Dark World](https://db.ygoprodeck.com/card/?search=Broww,%20Huntsman%20of%20Dark%20World) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brron, Mad King of Dark World](https://db.ygoprodeck.com/card/?search=Brron,%20Mad%20King%20of%20Dark%20World) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brushfire Knight](https://db.ygoprodeck.com/card/?search=Brushfire%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Arasuda](https://db.ygoprodeck.com/card/?search=Bujin%20Arasuda) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Hirume](https://db.ygoprodeck.com/card/?search=Bujin%20Hirume) | Illegal |
@@ -2604,7 +2603,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Queen of Fate - Eternia](https://db.ygoprodeck.com/card/?search=Queen%20of%20Fate%20-%20Eternia) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Queen's Double](https://db.ygoprodeck.com/card/?search=Queen's%20Double) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Accelerator](https://db.ygoprodeck.com/card/?search=R-Genex%20Accelerator) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Crusher](https://db.ygoprodeck.com/card/?search=R-Genex%20Crusher) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Oracle](https://db.ygoprodeck.com/card/?search=R-Genex%20Oracle) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Overseer](https://db.ygoprodeck.com/card/?search=R-Genex%20Overseer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Ultimum](https://db.ygoprodeck.com/card/?search=R-Genex%20Ultimum) | Illegal |
@@ -5800,6 +5798,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onomatopaira](https://db.ygoprodeck.com/card/?search=Onomatopaira) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onomatopia](https://db.ygoprodeck.com/card/?search=Onomatopia) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onomatopickup](https://db.ygoprodeck.com/card/?search=Onomatopickup) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onslaught of the Fire Kings](https://db.ygoprodeck.com/card/?search=Onslaught%20of%20the%20Fire%20Kings) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Opening of the Spirit Gates](https://db.ygoprodeck.com/card/?search=Opening%20of%20the%20Spirit%20Gates) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Opti-Camouflage Armor](https://db.ygoprodeck.com/card/?search=Opti-Camouflage%20Armor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Orcustrated Babel](https://db.ygoprodeck.com/card/?search=Orcustrated%20Babel) | Illegal |
@@ -7764,6 +7763,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brotherhood of the Fire Fist - Raven](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Raven) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brotherhood of the Fire Fist - Rhino](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Rhino) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brotherhood of the Fire Fist - Wolf](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Wolf) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Brron, Mad King of Dark World](https://db.ygoprodeck.com/card/?search=Brron,%20Mad%20King%20of%20Dark%20World) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bubonic Vermin](https://db.ygoprodeck.com/card/?search=Bubonic%20Vermin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Mahitotsu](https://db.ygoprodeck.com/card/?search=Bujin%20Mahitotsu) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Boar](https://db.ygoprodeck.com/card/?search=Bujingi%20Boar) | Unlimited |
@@ -8952,6 +8952,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Quick-Span Knight](https://db.ygoprodeck.com/card/?search=Quick-Span%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Quickdraw Synchron](https://db.ygoprodeck.com/card/?search=Quickdraw%20Synchron) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Quillbolt Hedgehog](https://db.ygoprodeck.com/card/?search=Quillbolt%20Hedgehog) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Crusher](https://db.ygoprodeck.com/card/?search=R-Genex%20Crusher) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Magma](https://db.ygoprodeck.com/card/?search=R-Genex%20Magma) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Turbo](https://db.ygoprodeck.com/card/?search=R-Genex%20Turbo) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ra's Disciple](https://db.ygoprodeck.com/card/?search=Ra's%20Disciple) | Unlimited |
@@ -10418,7 +10419,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [One-Kuri-Way](https://db.ygoprodeck.com/card/?search=One-Kuri-Way) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [One-Shot Wand](https://db.ygoprodeck.com/card/?search=One-Shot%20Wand) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Oni-Gami Combo](https://db.ygoprodeck.com/card/?search=Oni-Gami%20Combo) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Onslaught of the Fire Kings](https://db.ygoprodeck.com/card/?search=Onslaught%20of%20the%20Fire%20Kings) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ookazi](https://db.ygoprodeck.com/card/?search=Ookazi) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Oracle of the Herald](https://db.ygoprodeck.com/card/?search=Oracle%20of%20the%20Herald) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Oracle of Zefra](https://db.ygoprodeck.com/card/?search=Oracle%20of%20Zefra) | Unlimited |
