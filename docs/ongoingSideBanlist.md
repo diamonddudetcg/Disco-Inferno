@@ -2251,6 +2251,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mind on Air](https://db.ygoprodeck.com/card/?search=Mind%20on%20Air) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mine Mole](https://db.ygoprodeck.com/card/?search=Mine%20Mole) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Minerva, Lightsworn Maiden](https://db.ygoprodeck.com/card/?search=Minerva,%20Lightsworn%20Maiden) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Minerva, Scholar of the Sky](https://db.ygoprodeck.com/card/?search=Minerva,%20Scholar%20of%20the%20Sky) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mirage Knight](https://db.ygoprodeck.com/card/?search=Mirage%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mirror Resonator](https://db.ygoprodeck.com/card/?search=Mirror%20Resonator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Miscellaneousaurus](https://db.ygoprodeck.com/card/?search=Miscellaneousaurus) | Illegal |
@@ -8693,7 +8694,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mind Protector](https://db.ygoprodeck.com/card/?search=Mind%20Protector) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mine Golem](https://db.ygoprodeck.com/card/?search=Mine%20Golem) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Minefieldriller](https://db.ygoprodeck.com/card/?search=Minefieldriller) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Minerva, Scholar of the Sky](https://db.ygoprodeck.com/card/?search=Minerva,%20Scholar%20of%20the%20Sky) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Minoan Centaur](https://db.ygoprodeck.com/card/?search=Minoan%20Centaur) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Miracle Flipper](https://db.ygoprodeck.com/card/?search=Miracle%20Flipper) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Miracle Jurassic Egg](https://db.ygoprodeck.com/card/?search=Miracle%20Jurassic%20Egg) | Unlimited |
