@@ -121,7 +121,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Gear Wyvern](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Wyvern) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Masterful Sun Mou](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Masterful%20Sun%20Mou) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Virtuous Liu Xuan](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Virtuous%20Liu%20Xuan) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angel O1](https://db.ygoprodeck.com/card/?search=Angel%20O1) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Animadorned Archosaur](https://db.ygoprodeck.com/card/?search=Animadorned%20Archosaur) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Antihuman Intelligence ME-PSY-YA](https://db.ygoprodeck.com/card/?search=Antihuman%20Intelligence%20ME-PSY-YA) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Apprentice Illusion Magician](https://db.ygoprodeck.com/card/?search=Apprentice%20Illusion%20Magician) | Illegal |
@@ -2567,6 +2566,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Valiant Zhang De](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Valiant%20Zhang%20De) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Andro Sphinx](https://db.ygoprodeck.com/card/?search=Andro%20Sphinx) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Anesthrokket Dragon](https://db.ygoprodeck.com/card/?search=Anesthrokket%20Dragon) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angel O1](https://db.ygoprodeck.com/card/?search=Angel%20O1) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angel O7](https://db.ygoprodeck.com/card/?search=Angel%20O7) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angmarl the Fiendish Monarch](https://db.ygoprodeck.com/card/?search=Angmarl%20the%20Fiendish%20Monarch) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angraecum Umbrella](https://db.ygoprodeck.com/card/?search=Angraecum%20Umbrella) | Unlimited |
