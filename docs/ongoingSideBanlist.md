@@ -134,7 +134,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hibikime](https://db.ygoprodeck.com/card/?search=Hibikime) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Humanoid Slime](https://db.ygoprodeck.com/card/?search=Humanoid%20Slime) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hunter Dragon](https://db.ygoprodeck.com/card/?search=Hunter%20Dragon) | Illegal |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hunter Spider](https://db.ygoprodeck.com/card/?search=Hunter%20Spider) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hyosube](https://db.ygoprodeck.com/card/?search=Hyosube) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Crusader](https://db.ygoprodeck.com/card/?search=Igknight%20Crusader) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Templar](https://db.ygoprodeck.com/card/?search=Igknight%20Templar) | Illegal |
@@ -6401,6 +6400,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Horror House](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Horror%20House) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Archers](https://db.ygoprodeck.com/card/?search=Amazoness%20Archers) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Onslaught](https://db.ygoprodeck.com/card/?search=Amazoness%20Onslaught) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Shamanism](https://db.ygoprodeck.com/card/?search=Amazoness%20Shamanism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Willpower](https://db.ygoprodeck.com/card/?search=Amazoness%20Willpower) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ambush Fangs](https://db.ygoprodeck.com/card/?search=Ambush%20Fangs) | Illegal |
@@ -7402,6 +7402,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [High Tide Gyojin](https://db.ygoprodeck.com/card/?search=High%20Tide%20Gyojin) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hinotama Soul](https://db.ygoprodeck.com/card/?search=Hinotama%20Soul) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hitotsu-Me Giant](https://db.ygoprodeck.com/card/?search=Hitotsu-Me%20Giant) | Unlimited |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hunter Spider](https://db.ygoprodeck.com/card/?search=Hunter%20Spider) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hyozanryu](https://db.ygoprodeck.com/card/?search=Hyozanryu) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Cavalier](https://db.ygoprodeck.com/card/?search=Igknight%20Cavalier) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Gallant](https://db.ygoprodeck.com/card/?search=Igknight%20Gallant) | Unlimited |
@@ -10806,7 +10807,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Viking Vortex](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Viking%20Vortex) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Wonder Wheel](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Wonder%20Wheel) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazement Family Faces](https://db.ygoprodeck.com/card/?search=Amazement%20Family%20Faces) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Onslaught](https://db.ygoprodeck.com/card/?search=Amazoness%20Onslaught) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ancient Warriors Saga - Chivalrous Path](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Chivalrous%20Path) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Angel Statue - Azurune](https://db.ygoprodeck.com/card/?search=Angel%20Statue%20-%20Azurune) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Anti-Fusion Device](https://db.ygoprodeck.com/card/?search=Anti-Fusion%20Device) | Unlimited |
