@@ -1028,7 +1028,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Des Volstgalph](https://db.ygoprodeck.com/card/?search=Des%20Volstgalph) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Des Wombat](https://db.ygoprodeck.com/card/?search=Des%20Wombat) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desert Twister](https://db.ygoprodeck.com/card/?search=Desert%20Twister) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 002](https://db.ygoprodeck.com/card/?search=Deskbot%20002) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 003](https://db.ygoprodeck.com/card/?search=Deskbot%20003) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 004](https://db.ygoprodeck.com/card/?search=Deskbot%20004) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 005](https://db.ygoprodeck.com/card/?search=Deskbot%20005) | Illegal |
@@ -1289,7 +1288,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fallen of Albaz](https://db.ygoprodeck.com/card/?search=Fallen%20of%20Albaz) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Aussa](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Aussa) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Dharc](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Dharc) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Lyna](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Lyna) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fantastical Dragon Phantazmay](https://db.ygoprodeck.com/card/?search=Fantastical%20Dragon%20Phantazmay) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Farfa, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Farfa,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [FaSolfachord Fancia](https://db.ygoprodeck.com/card/?search=FaSolfachord%20Fancia) | Illegal |
@@ -5469,6 +5467,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Expedition](https://db.ygoprodeck.com/card/?search=Galaxy%20Expedition) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Queen's Light](https://db.ygoprodeck.com/card/?search=Galaxy%20Queen's%20Light) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Trance](https://db.ygoprodeck.com/card/?search=Galaxy%20Trance) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Wave](https://db.ygoprodeck.com/card/?search=Galaxy%20Wave) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Garma Sword Oath](https://db.ygoprodeck.com/card/?search=Garma%20Sword%20Oath) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gateway to Chaos](https://db.ygoprodeck.com/card/?search=Gateway%20to%20Chaos) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gather Your Mind](https://db.ygoprodeck.com/card/?search=Gather%20Your%20Mind) | Illegal |
@@ -7979,6 +7978,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desert Protector](https://db.ygoprodeck.com/card/?search=Desert%20Protector) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desertapir](https://db.ygoprodeck.com/card/?search=Desertapir) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 001](https://db.ygoprodeck.com/card/?search=Deskbot%20001) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 002](https://db.ygoprodeck.com/card/?search=Deskbot%20002) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 007](https://db.ygoprodeck.com/card/?search=Deskbot%20007) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 009](https://db.ygoprodeck.com/card/?search=Deskbot%20009) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desmanian Devil](https://db.ygoprodeck.com/card/?search=Desmanian%20Devil) | Unlimited |
@@ -8170,6 +8170,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar Knight](https://db.ygoprodeck.com/card/?search=Familiar%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Eria](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Eria) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Hiita](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Hiita) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Lyna](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Lyna) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Familiar-Possessed - Wynn](https://db.ygoprodeck.com/card/?search=Familiar-Possessed%20-%20Wynn) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fantastic Striborg](https://db.ygoprodeck.com/card/?search=Fantastic%20Striborg) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Feedback Warrior](https://db.ygoprodeck.com/card/?search=Feedback%20Warrior) | Unlimited |
@@ -10210,7 +10211,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gaia Power](https://db.ygoprodeck.com/card/?search=Gaia%20Power) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galactic Charity](https://db.ygoprodeck.com/card/?search=Galactic%20Charity) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Storm](https://db.ygoprodeck.com/card/?search=Galaxy%20Storm) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Wave](https://db.ygoprodeck.com/card/?search=Galaxy%20Wave) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galaxy Zero](https://db.ygoprodeck.com/card/?search=Galaxy%20Zero) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Galloping Gaia](https://db.ygoprodeck.com/card/?search=Galloping%20Gaia) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gateway to Dark World](https://db.ygoprodeck.com/card/?search=Gateway%20to%20Dark%20World) | Unlimited |
