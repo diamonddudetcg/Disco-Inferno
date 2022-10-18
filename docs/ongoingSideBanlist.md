@@ -5909,6 +5909,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic Soul Shave Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Soul%20Shave%20Force) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic Zexal Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Zexal%20Force) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rapid Trigger](https://db.ygoprodeck.com/card/?search=Rapid%20Trigger) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raptor Wing Strike](https://db.ygoprodeck.com/card/?search=Raptor%20Wing%20Strike) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raregold Armor](https://db.ygoprodeck.com/card/?search=Raregold%20Armor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ready Fusion](https://db.ygoprodeck.com/card/?search=Ready%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reasoning](https://db.ygoprodeck.com/card/?search=Reasoning) | Illegal |
@@ -10490,7 +10491,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic Cipher Ascension](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Cipher%20Ascension) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic Quick Chaos](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Quick%20Chaos) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rank-Up-Magic Raptor's Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Raptor's%20Force) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raptor Wing Strike](https://db.ygoprodeck.com/card/?search=Raptor%20Wing%20Strike) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Raptor's Ultimate Mace](https://db.ygoprodeck.com/card/?search=Raptor's%20Ultimate%20Mace) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rare Value](https://db.ygoprodeck.com/card/?search=Rare%20Value) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ravenous Vendread](https://db.ygoprodeck.com/card/?search=Ravenous%20Vendread) | Unlimited |
