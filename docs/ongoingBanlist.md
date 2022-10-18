@@ -1779,7 +1779,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Number Wall](https://db.ygoprodeck.com/card/?search=Number%20Wall) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Oh F!sh!](https://db.ygoprodeck.com/card/?search=Oh%20F!sh!) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ordeal of a Traveler](https://db.ygoprodeck.com/card/?search=Ordeal%20of%20a%20Traveler) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Overwhelm](https://db.ygoprodeck.com/card/?search=Overwhelm) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Phantom Knights' Fog Blade](https://db.ygoprodeck.com/card/?search=Phantom%20Knights'%20Fog%20Blade) | Illegal |
@@ -11011,6 +11010,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Orcustrated Attack](https://db.ygoprodeck.com/card/?search=Orcustrated%20Attack) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Orcustrated Core](https://db.ygoprodeck.com/card/?search=Orcustrated%20Core) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Orcustrated Release](https://db.ygoprodeck.com/card/?search=Orcustrated%20Release) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ordeal of a Traveler](https://db.ygoprodeck.com/card/?search=Ordeal%20of%20a%20Traveler) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Order to Smash](https://db.ygoprodeck.com/card/?search=Order%20to%20Smash) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Over Capacity](https://db.ygoprodeck.com/card/?search=Over%20Capacity) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Over Limit](https://db.ygoprodeck.com/card/?search=Over%20Limit) | Unlimited |
