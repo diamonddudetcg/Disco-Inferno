@@ -3022,6 +3022,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Flutist](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Flutist) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Helper](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Helper) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Scales](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Scales) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulhorns](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulhorns) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulpeacemaker](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulpeacemaker) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulpiercer](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulpiercer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Trumpeter](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Trumpeter) | Illegal |
@@ -9250,7 +9251,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulbuster Gauntlet](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulbuster%20Gauntlet) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulclaw](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulclaw) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulfire Suit](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulfire%20Suit) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulhorns](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulhorns) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Soulshield Wall](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Soulshield%20Wall) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Swordsman](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Swordsman) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Thief](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Thief) | Unlimited |
