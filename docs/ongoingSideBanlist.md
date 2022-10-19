@@ -3481,6 +3481,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Faultroll](https://db.ygoprodeck.com/card/?search=XX-Saber%20Faultroll) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Fulhelmknight](https://db.ygoprodeck.com/card/?search=XX-Saber%20Fulhelmknight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Gardestrike](https://db.ygoprodeck.com/card/?search=XX-Saber%20Gardestrike) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Garsem](https://db.ygoprodeck.com/card/?search=XX-Saber%20Garsem) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yaksha](https://db.ygoprodeck.com/card/?search=Yaksha) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yakusa, Lord of the Eight Thunders](https://db.ygoprodeck.com/card/?search=Yakusa,%20Lord%20of%20the%20Eight%20Thunders) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yamata Dragon](https://db.ygoprodeck.com/card/?search=Yamata%20Dragon) | Illegal |
@@ -9535,7 +9536,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [X-Saber Galahad](https://db.ygoprodeck.com/card/?search=X-Saber%20Galahad) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [X-Saber Palomuro](https://db.ygoprodeck.com/card/?search=X-Saber%20Palomuro) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [X-Saber Uruz](https://db.ygoprodeck.com/card/?search=X-Saber%20Uruz) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Garsem](https://db.ygoprodeck.com/card/?search=XX-Saber%20Garsem) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Ragigura](https://db.ygoprodeck.com/card/?search=XX-Saber%20Ragigura) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Xyz Agent](https://db.ygoprodeck.com/card/?search=Xyz%20Agent) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Xyz Avenger](https://db.ygoprodeck.com/card/?search=Xyz%20Avenger) | Unlimited |
