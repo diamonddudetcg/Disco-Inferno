@@ -2369,6 +2369,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Newdoria](https://db.ygoprodeck.com/card/?search=Newdoria) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nibiru, the Primal Being](https://db.ygoprodeck.com/card/?search=Nibiru,%20the%20Primal%20Being) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nidhogg, Generaider Boss of Ice](https://db.ygoprodeck.com/card/?search=Nidhogg,%20Generaider%20Boss%20of%20Ice) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Assailant](https://db.ygoprodeck.com/card/?search=Night%20Assailant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Dragolich](https://db.ygoprodeck.com/card/?search=Night%20Dragolich) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night's End Sorcerer](https://db.ygoprodeck.com/card/?search=Night's%20End%20Sorcerer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nightmare Horse](https://db.ygoprodeck.com/card/?search=Nightmare%20Horse) | Illegal |
@@ -8770,7 +8771,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo-Parshath, the Sky Paladin](https://db.ygoprodeck.com/card/?search=Neo-Parshath,%20the%20Sky%20Paladin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo-Spacian Glow Moss](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Glow%20Moss) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nettles](https://db.ygoprodeck.com/card/?search=Nettles) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Assailant](https://db.ygoprodeck.com/card/?search=Night%20Assailant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Express Knight](https://db.ygoprodeck.com/card/?search=Night%20Express%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Sword Serpent](https://db.ygoprodeck.com/card/?search=Night%20Sword%20Serpent) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Wing Sorceress](https://db.ygoprodeck.com/card/?search=Night%20Wing%20Sorceress) | Unlimited |
