@@ -5574,6 +5574,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ignister A.I.Land](https://db.ygoprodeck.com/card/?search=Ignister%20A.I.Land) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Impcantation Inception](https://db.ygoprodeck.com/card/?search=Impcantation%20Inception) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Impcantation Thanatosis](https://db.ygoprodeck.com/card/?search=Impcantation%20Thanatosis) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Incandescent Ordeal](https://db.ygoprodeck.com/card/?search=Incandescent%20Ordeal) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Indomitable Gladiator Beast](https://db.ygoprodeck.com/card/?search=Indomitable%20Gladiator%20Beast) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infected Mail](https://db.ygoprodeck.com/card/?search=Infected%20Mail) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infernity Launcher](https://db.ygoprodeck.com/card/?search=Infernity%20Launcher) | Illegal |
@@ -10280,7 +10281,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Illusion Balloons](https://db.ygoprodeck.com/card/?search=Illusion%20Balloons) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Illusion Magic](https://db.ygoprodeck.com/card/?search=Illusion%20Magic) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Impenetrable Formation](https://db.ygoprodeck.com/card/?search=Impenetrable%20Formation) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Incandescent Ordeal](https://db.ygoprodeck.com/card/?search=Incandescent%20Ordeal) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Incarnated Machine Angel](https://db.ygoprodeck.com/card/?search=Incarnated%20Machine%20Angel) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infernity Paranoia](https://db.ygoprodeck.com/card/?search=Infernity%20Paranoia) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inferno Fire Blast](https://db.ygoprodeck.com/card/?search=Inferno%20Fire%20Blast) | Unlimited |
