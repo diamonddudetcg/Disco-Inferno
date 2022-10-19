@@ -5188,7 +5188,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Chronomaly Technology](https://db.ygoprodeck.com/card/?search=Chronomaly%20Technology) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Clashing Souls](https://db.ygoprodeck.com/card/?search=Clashing%20Souls) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Clear World](https://db.ygoprodeck.com/card/?search=Clear%20World) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Clock Tower Prison](https://db.ygoprodeck.com/card/?search=Clock%20Tower%20Prison) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Closed Forest](https://db.ygoprodeck.com/card/?search=Closed%20Forest) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cloudian Squall](https://db.ygoprodeck.com/card/?search=Cloudian%20Squall) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cocoon of Ultra Evolution](https://db.ygoprodeck.com/card/?search=Cocoon%20of%20Ultra%20Evolution) | Illegal |
@@ -10017,6 +10016,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cipher Interference](https://db.ygoprodeck.com/card/?search=Cipher%20Interference) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Circle of the Fire Kings](https://db.ygoprodeck.com/card/?search=Circle%20of%20the%20Fire%20Kings) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Clear New World](https://db.ygoprodeck.com/card/?search=Clear%20New%20World) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Clock Tower Prison](https://db.ygoprodeck.com/card/?search=Clock%20Tower%20Prison) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cloudian Aerosol](https://db.ygoprodeck.com/card/?search=Cloudian%20Aerosol) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Column Switch](https://db.ygoprodeck.com/card/?search=Column%20Switch) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Commencement Dance](https://db.ygoprodeck.com/card/?search=Commencement%20Dance) | Unlimited |
