@@ -3134,7 +3134,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Six Samurai - Yariza](https://db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Yariza) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Six Samurai - Zanji](https://db.ygoprodeck.com/card/?search=The%20Six%20Samurai%20-%20Zanji) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Supremacy Sun](https://db.ygoprodeck.com/card/?search=The%20Supremacy%20Sun) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Tricky](https://db.ygoprodeck.com/card/?search=The%20Tricky) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Tyrant Neptune](https://db.ygoprodeck.com/card/?search=The%20Tyrant%20Neptune) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Unfriendly Amazon](https://db.ygoprodeck.com/card/?search=The%20Unfriendly%20Amazon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Unhappy Girl](https://db.ygoprodeck.com/card/?search=The%20Unhappy%20Girl) | Illegal |
@@ -6365,7 +6364,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Xyz Shift](https://db.ygoprodeck.com/card/?search=Xyz%20Shift) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Xyz Territory](https://db.ygoprodeck.com/card/?search=Xyz%20Territory) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yang Zing Path](https://db.ygoprodeck.com/card/?search=Yang%20Zing%20Path) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yosen Training Grounds](https://db.ygoprodeck.com/card/?search=Yosen%20Training%20Grounds) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yu-Jo Friendship](https://db.ygoprodeck.com/card/?search=Yu-Jo%20Friendship) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zefra Path](https://db.ygoprodeck.com/card/?search=Zefra%20Path) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zefra Providence](https://db.ygoprodeck.com/card/?search=Zefra%20Providence) | Illegal |
@@ -6951,6 +6949,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ojama Pajama](https://db.ygoprodeck.com/card/?search=Ojama%20Pajama) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ojama Trio](https://db.ygoprodeck.com/card/?search=Ojama%20Trio) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Omega Summon](https://db.ygoprodeck.com/card/?search=Omega%20Summon) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ominous Fortunetelling](https://db.ygoprodeck.com/card/?search=Ominous%20Fortunetelling) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Option Hunter](https://db.ygoprodeck.com/card/?search=Option%20Hunter) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Orcust Crescendo](https://db.ygoprodeck.com/card/?search=Orcust%20Crescendo) | Illegal |
@@ -9343,6 +9342,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Stern Mystic](https://db.ygoprodeck.com/card/?search=The%20Stern%20Mystic) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Suppression Pluto](https://db.ygoprodeck.com/card/?search=The%20Suppression%20Pluto) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Thing in the Crater](https://db.ygoprodeck.com/card/?search=The%20Thing%20in%20the%20Crater) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Tricky](https://db.ygoprodeck.com/card/?search=The%20Tricky) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Tripper Mercury](https://db.ygoprodeck.com/card/?search=The%20Tripper%20Mercury) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Trojan Horse](https://db.ygoprodeck.com/card/?search=The%20Trojan%20Horse) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Weather Painter Rain](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Rain) | Unlimited |
@@ -10768,6 +10768,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yaminabe Party](https://db.ygoprodeck.com/card/?search=Yaminabe%20Party) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yang Zing Prana](https://db.ygoprodeck.com/card/?search=Yang%20Zing%20Prana) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yellow Luster Shield](https://db.ygoprodeck.com/card/?search=Yellow%20Luster%20Shield) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yosen Training Grounds](https://db.ygoprodeck.com/card/?search=Yosen%20Training%20Grounds) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yosen Whirlwind](https://db.ygoprodeck.com/card/?search=Yosen%20Whirlwind) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yosenju Oroshi Channeling](https://db.ygoprodeck.com/card/?search=Yosenju%20Oroshi%20Channeling) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Yosenju Wind Worship](https://db.ygoprodeck.com/card/?search=Yosenju%20Wind%20Worship) | Unlimited |
@@ -11280,7 +11281,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ogdoadic Hollow](https://db.ygoprodeck.com/card/?search=Ogdoadic%20Hollow) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Oh Tokenbaum!](https://db.ygoprodeck.com/card/?search=Oh%20Tokenbaum!) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Omega Judgment](https://db.ygoprodeck.com/card/?search=Omega%20Judgment) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Omega Summon](https://db.ygoprodeck.com/card/?search=Omega%20Summon) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [One by One](https://db.ygoprodeck.com/card/?search=One%20by%20One) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [One or Eight](https://db.ygoprodeck.com/card/?search=One%20or%20Eight) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Onikuji](https://db.ygoprodeck.com/card/?search=Onikuji) | Unlimited |
