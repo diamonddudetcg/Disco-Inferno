@@ -1336,7 +1336,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Cherry Blossom](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Cherry%20Blossom) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Cherry Blossom with Curtain](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Cherry%20Blossom%20with%20Curtain) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Clover with Boar](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Clover%20with%20Boar) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Maple with Deer](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Maple%20with%20Deer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Paulownia](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Paulownia) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Peony with Butterfly](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Peony%20with%20Butterfly) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Pine](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Pine) | Illegal |
@@ -8218,6 +8217,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flogos, the Ogdoadic Boundless](https://db.ygoprodeck.com/card/?search=Flogos,%20the%20Ogdoadic%20Boundless) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Stri](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Stri) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Toccan](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Toccan) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Maple with Deer](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Maple%20with%20Deer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Paulownia with Phoenix](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Paulownia%20with%20Phoenix) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Pine with Crane](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Pine%20with%20Crane) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flower Cardian Zebra Grass with Moon](https://db.ygoprodeck.com/card/?search=Flower%20Cardian%20Zebra%20Grass%20with%20Moon) | Unlimited |
