@@ -2007,6 +2007,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Six Samurai - Enishi](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Enishi) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Six Samurai - Kageki](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kageki) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Six Samurai - Kizan](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kizan) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Six Samurai - Mizuho](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Mizuho) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Six Samurai - Shinai](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Shinai) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Leghul](https://db.ygoprodeck.com/card/?search=Leghul) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legion the Fiend Jester](https://db.ygoprodeck.com/card/?search=Legion%20the%20Fiend%20Jester) | Illegal |
@@ -8556,7 +8557,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Knight Critias](https://db.ygoprodeck.com/card/?search=Legendary%20Knight%20Critias) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Knight Hermos](https://db.ygoprodeck.com/card/?search=Legendary%20Knight%20Hermos) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Knight Timaeus](https://db.ygoprodeck.com/card/?search=Legendary%20Knight%20Timaeus) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Six Samurai - Mizuho](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Mizuho) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Leng Ling](https://db.ygoprodeck.com/card/?search=Leng%20Ling) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Leotaur](https://db.ygoprodeck.com/card/?search=Leotaur) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Leraje the God of Archery](https://db.ygoprodeck.com/card/?search=Leraje%20the%20God%20of%20Archery) | Unlimited |
