@@ -6057,6 +6057,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Shark Cannon](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Shark%20Cannon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha Modules - Multirole](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20Modules%20-%20Multirole) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecharmory - Hercules Base](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecharmory%20-%20Hercules%20Base) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mobilize - Engage!](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mobilize%20-%20Engage!) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skydive Scorcher](https://db.ygoprodeck.com/card/?search=Skydive%20Scorcher) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skyscraper 2 - Hero City](https://db.ygoprodeck.com/card/?search=Skyscraper%202%20-%20Hero%20City) | Illegal |
@@ -10565,7 +10566,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Simorgh Onslaught](https://db.ygoprodeck.com/card/?search=Simorgh%20Onslaught) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Simorgh Repulsion](https://db.ygoprodeck.com/card/?search=Simorgh%20Repulsion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Airspace - Area Zero](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Airspace%20-%20Area%20Zero) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecharmory - Hercules Base](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecharmory%20-%20Hercules%20Base) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skyscraper](https://db.ygoprodeck.com/card/?search=Skyscraper) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Smile Action](https://db.ygoprodeck.com/card/?search=Smile%20Action) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Smile Universe](https://db.ygoprodeck.com/card/?search=Smile%20Universe) | Unlimited |
