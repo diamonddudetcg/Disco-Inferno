@@ -1771,7 +1771,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inaba White Rabbit](https://db.ygoprodeck.com/card/?search=Inaba%20White%20Rabbit) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Incredible Ecclesia, the Virtuous](https://db.ygoprodeck.com/card/?search=Incredible%20Ecclesia,%20the%20Virtuous) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Indiora Doom Volt the Cubic Emperor](https://db.ygoprodeck.com/card/?search=Indiora%20Doom%20Volt%20the%20Cubic%20Emperor) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernal Dragon](https://db.ygoprodeck.com/card/?search=Infernal%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernal Flame Emperor](https://db.ygoprodeck.com/card/?search=Infernal%20Flame%20Emperor) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernal Incinerator](https://db.ygoprodeck.com/card/?search=Infernal%20Incinerator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernalqueen Archfiend](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Archfiend) | Illegal |
@@ -8446,6 +8445,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inari Fire](https://db.ygoprodeck.com/card/?search=Inari%20Fire) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Indomitable Fighter Lei Lei](https://db.ygoprodeck.com/card/?search=Indomitable%20Fighter%20Lei%20Lei) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Indulged Darklord](https://db.ygoprodeck.com/card/?search=Indulged%20Darklord) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernal Dragon](https://db.ygoprodeck.com/card/?search=Infernal%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Beast](https://db.ygoprodeck.com/card/?search=Infernity%20Beast) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Conjurer](https://db.ygoprodeck.com/card/?search=Infernity%20Conjurer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Dwarf](https://db.ygoprodeck.com/card/?search=Infernity%20Dwarf) | Unlimited |
