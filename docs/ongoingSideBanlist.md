@@ -3003,6 +3003,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunseed Shadow](https://db.ygoprodeck.com/card/?search=Sunseed%20Shadow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunvine Maiden](https://db.ygoprodeck.com/card/?search=Sunvine%20Maiden) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Supay, Duskwalker](https://db.ygoprodeck.com/card/?search=Supay,%20Duskwalker) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Anti-Kaiju War Machine Mecha-Dogoran](https://db.ygoprodeck.com/card/?search=Super%20Anti-Kaiju%20War%20Machine%20Mecha-Dogoran) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Anti-Kaiju War Machine Mecha-Thunder-King](https://db.ygoprodeck.com/card/?search=Super%20Anti-Kaiju%20War%20Machine%20Mecha-Thunder-King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Crashbug](https://db.ygoprodeck.com/card/?search=Super%20Crashbug) | Illegal |
@@ -9239,7 +9240,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunlit Sentinel](https://db.ygoprodeck.com/card/?search=Sunlit%20Sentinel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunny Pixie](https://db.ygoprodeck.com/card/?search=Sunny%20Pixie) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Supay](https://db.ygoprodeck.com/card/?search=Supay) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Supay, Duskwalker](https://db.ygoprodeck.com/card/?search=Supay,%20Duskwalker) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Armored Robot Armed Black Iron "C"](https://db.ygoprodeck.com/card/?search=Super%20Armored%20Robot%20Armed%20Black%20Iron%20"C") | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Conductor Tyranno](https://db.ygoprodeck.com/card/?search=Super%20Conductor%20Tyranno) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Defense Robot Elephan](https://db.ygoprodeck.com/card/?search=Super%20Defense%20Robot%20Elephan) | Unlimited |
