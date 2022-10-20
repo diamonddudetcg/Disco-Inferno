@@ -469,7 +469,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Latinum, Exarch of Dark World](https://db.ygoprodeck.com/card/?search=Latinum,%20Exarch%20of%20Dark%20World) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laundry Dragonmaid](https://db.ygoprodeck.com/card/?search=Laundry%20Dragonmaid) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lava Golem](https://db.ygoprodeck.com/card/?search=Lava%20Golem) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Cannon](https://db.ygoprodeck.com/card/?search=Laval%20Cannon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Lakeside Lady](https://db.ygoprodeck.com/card/?search=Laval%20Lakeside%20Lady) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Six Samurai - Enishi](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Enishi) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Legendary Six Samurai - Kizan](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kizan) | Illegal |
@@ -4670,6 +4669,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Archer](https://db.ygoprodeck.com/card/?search=Laval%20Archer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Blaster](https://db.ygoprodeck.com/card/?search=Laval%20Blaster) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Burner](https://db.ygoprodeck.com/card/?search=Laval%20Burner) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Cannon](https://db.ygoprodeck.com/card/?search=Laval%20Cannon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Coatl](https://db.ygoprodeck.com/card/?search=Laval%20Coatl) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Forest Sprite](https://db.ygoprodeck.com/card/?search=Laval%20Forest%20Sprite) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Judgment Lord](https://db.ygoprodeck.com/card/?search=Laval%20Judgment%20Lord) | Unlimited |

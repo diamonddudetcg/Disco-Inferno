@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 169
+Estimated number of changes: 170
 
-Keep in mind there's still 1978 runs left
+Keep in mind there's still 1977 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -106,6 +106,7 @@ Keep in mind there's still 1978 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elemental HERO Blazeman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Blazeman) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fishborg Blaster](https://db.ygoprodeck.com/card/?search=Fishborg%20Blaster) | Forbidden | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Cannon](https://db.ygoprodeck.com/card/?search=Laval%20Cannon) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red-Eyes Wyvern](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Samsara Lotus](https://db.ygoprodeck.com/card/?search=Samsara%20Lotus) | Forbidden | Unlimited |
