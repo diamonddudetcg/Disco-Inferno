@@ -6192,7 +6192,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Dark Door](https://db.ygoprodeck.com/card/?search=The%20Dark%20Door) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Eye of Timaeus](https://db.ygoprodeck.com/card/?search=The%20Eye%20of%20Timaeus) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Fang of Critias](https://db.ygoprodeck.com/card/?search=The%20Fang%20of%20Critias) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Flute of Summoning Kuriboh](https://db.ygoprodeck.com/card/?search=The%20Flute%20of%20Summoning%20Kuriboh) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Forceful Sentry](https://db.ygoprodeck.com/card/?search=The%20Forceful%20Sentry) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Fountain in the Sky](https://db.ygoprodeck.com/card/?search=The%20Fountain%20in%20the%20Sky) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Gates of Dark World](https://db.ygoprodeck.com/card/?search=The%20Gates%20of%20Dark%20World) | Illegal |
@@ -10665,6 +10664,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Big March of Animals](https://db.ygoprodeck.com/card/?search=The%20Big%20March%20of%20Animals) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Book of the Law](https://db.ygoprodeck.com/card/?search=The%20Book%20of%20the%20Law) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Flute of Summoning Dragon](https://db.ygoprodeck.com/card/?search=The%20Flute%20of%20Summoning%20Dragon) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Flute of Summoning Kuriboh](https://db.ygoprodeck.com/card/?search=The%20Flute%20of%20Summoning%20Kuriboh) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Graveyard in the Fourth Dimension](https://db.ygoprodeck.com/card/?search=The%20Graveyard%20in%20the%20Fourth%20Dimension) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Humble Sentry](https://db.ygoprodeck.com/card/?search=The%20Humble%20Sentry) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Inexperienced Spy](https://db.ygoprodeck.com/card/?search=The%20Inexperienced%20Spy) | Unlimited |
