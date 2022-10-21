@@ -6,23 +6,23 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | 0.4587 | 0.78 | Illegal |
-[Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | 0.4695 | 0.93 | Illegal |
+[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | 0.4588 | 0.78 | Illegal |
+[Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | 0.4696 | 0.93 | Illegal |
 [D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | 0.4702 | 0.65 | Illegal |
-[Ice Beast Zerofyne](https://db.ygoprodeck.com/card/?search=Ice%20Beast%20Zerofyne) | 0.4759 | 0.62 | Illegal |
-[Artifact Ignition](https://db.ygoprodeck.com/card/?search=Artifact%20Ignition) | 0.4762 | 0.65 | Illegal |
+[Ice Beast Zerofyne](https://db.ygoprodeck.com/card/?search=Ice%20Beast%20Zerofyne) | 0.4760 | 0.62 | Illegal |
+[Artifact Ignition](https://db.ygoprodeck.com/card/?search=Artifact%20Ignition) | 0.4763 | 0.65 | Illegal |
 [Naturia Barkion](https://db.ygoprodeck.com/card/?search=Naturia%20Barkion) | 0.4800 | 0.56 | Illegal |
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4837 | 0.55 | Illegal |
 [Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.4857 | 0.55 | Illegal |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.4859 | 0.59 | Illegal |
 [Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | 0.4864 | 0.58 | Illegal |
-[Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4882 | 0.60 | Illegal |
-[Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | 0.4886 | 0.60 | Illegal |
+[Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4883 | 0.60 | Illegal |
+[Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | 0.4887 | 0.60 | Illegal |
 [Clear Vice Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Vice%20Dragon) | 0.4934 | 0.55 | Illegal |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.4938 | 0.54 | Illegal |
 [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | 0.4970 | 0.53 | Illegal |
 [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.4979 | 0.57 | Illegal |
-[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5021 | 0.36 | Limited |
+[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5020 | 0.34 | Limited |
 [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | 0.5025 | 0.46 | Unlimited |
 [Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.5027 | 0.38 | Unlimited |
 [Deep Sea Diva](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Diva) | 0.5029 | 0.46 | Unlimited |
@@ -32,13 +32,13 @@ This is a list of cards that are likely to change legality before the next rotat
 [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | 0.5111 | 0.46 | Unlimited |
 [Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | 0.5112 | 0.37 | Unlimited |
 [Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.5165 | 0.42 | Unlimited |
-[Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | 0.5201 | 0.27 | Limited |
+[Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | 0.5200 | 0.22 | Limited |
 [Frost and Flame Dragon](https://db.ygoprodeck.com/card/?search=Frost%20and%20Flame%20Dragon) | 0.5255 | 0.26 | Unlimited |
 [Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | 0.5287 | 0.25 | Unlimited |
 [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5311 | 0.40 | Unlimited |
-[Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5391 | 0.36 | Unlimited |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5447 | 0.33 | Unlimited |
-[Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | 0.5612 | 0.29 | Unlimited |
+[Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5390 | 0.36 | Unlimited |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5447 | 0.37 | Unlimited |
+[Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | 0.5611 | 0.29 | Unlimited |
 [Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5733 | 0.27 | Unlimited |
 
 <br>
