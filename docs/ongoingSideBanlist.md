@@ -6838,7 +6838,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Life Absorbing Machine](https://db.ygoprodeck.com/card/?search=Life%20Absorbing%20Machine) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Life Equalizer](https://db.ygoprodeck.com/card/?search=Life%20Equalizer) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Light of Destruction](https://db.ygoprodeck.com/card/?search=Light%20of%20Destruction) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Light of Intervention](https://db.ygoprodeck.com/card/?search=Light%20of%20Intervention) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Light of Judgment](https://db.ygoprodeck.com/card/?search=Light%20of%20Judgment) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Light Spiral](https://db.ygoprodeck.com/card/?search=Light%20Spiral) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Light-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Light-Imprisoning%20Mirror) | Illegal |
@@ -11195,6 +11194,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Laundry Trap](https://db.ygoprodeck.com/card/?search=Laundry%20Trap) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Level Conversion Lab](https://db.ygoprodeck.com/card/?search=Level%20Conversion%20Lab) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Liberty at Last!](https://db.ygoprodeck.com/card/?search=Liberty%20at%20Last!) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Light of Intervention](https://db.ygoprodeck.com/card/?search=Light%20of%20Intervention) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lightforce Sword](https://db.ygoprodeck.com/card/?search=Lightforce%20Sword) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lightsworn Barrier](https://db.ygoprodeck.com/card/?search=Lightsworn%20Barrier) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Limit Code](https://db.ygoprodeck.com/card/?search=Limit%20Code) | Unlimited |
