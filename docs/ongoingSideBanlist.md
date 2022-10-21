@@ -1029,6 +1029,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 004](https://db.ygoprodeck.com/card/?search=Deskbot%20004) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 005](https://db.ygoprodeck.com/card/?search=Deskbot%20005) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 006](https://db.ygoprodeck.com/card/?search=Deskbot%20006) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 007](https://db.ygoprodeck.com/card/?search=Deskbot%20007) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 008](https://db.ygoprodeck.com/card/?search=Deskbot%20008) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desperado Barrel Dragon](https://db.ygoprodeck.com/card/?search=Desperado%20Barrel%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Despian Comedy](https://db.ygoprodeck.com/card/?search=Despian%20Comedy) | Illegal |
@@ -7985,7 +7986,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desertapir](https://db.ygoprodeck.com/card/?search=Desertapir) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 001](https://db.ygoprodeck.com/card/?search=Deskbot%20001) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 002](https://db.ygoprodeck.com/card/?search=Deskbot%20002) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 007](https://db.ygoprodeck.com/card/?search=Deskbot%20007) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deskbot 009](https://db.ygoprodeck.com/card/?search=Deskbot%20009) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Desmanian Devil](https://db.ygoprodeck.com/card/?search=Desmanian%20Devil) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Despair from the Dark](https://db.ygoprodeck.com/card/?search=Despair%20from%20the%20Dark) | Unlimited |
