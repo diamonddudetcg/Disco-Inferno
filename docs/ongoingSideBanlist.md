@@ -3391,6 +3391,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wheel of Prophecy](https://db.ygoprodeck.com/card/?search=Wheel%20of%20Prophecy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Whirlwind Prodigy](https://db.ygoprodeck.com/card/?search=Whirlwind%20Prodigy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Whirlwind Weasel](https://db.ygoprodeck.com/card/?search=Whirlwind%20Weasel) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Dragon Ninja](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Ninja) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Magician Pikeru](https://db.ygoprodeck.com/card/?search=White%20Magician%20Pikeru) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Moray](https://db.ygoprodeck.com/card/?search=White%20Moray) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Night Dragon](https://db.ygoprodeck.com/card/?search=White%20Night%20Dragon) | Illegal |
@@ -5587,6 +5588,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jam Breeding Machine](https://db.ygoprodeck.com/card/?search=Jam%20Breeding%20Machine) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jar Robber](https://db.ygoprodeck.com/card/?search=Jar%20Robber) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Javelin Beetle Pact](https://db.ygoprodeck.com/card/?search=Javelin%20Beetle%20Pact) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jewels of the Valiant](https://db.ygoprodeck.com/card/?search=Jewels%20of%20the%20Valiant) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Joker's Straight](https://db.ygoprodeck.com/card/?search=Joker's%20Straight) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Junk Box](https://db.ygoprodeck.com/card/?search=Junk%20Box) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Junk Puppet](https://db.ygoprodeck.com/card/?search=Junk%20Puppet) | Illegal |
@@ -9487,7 +9489,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wattmole](https://db.ygoprodeck.com/card/?search=Wattmole) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wattsychic Fighter](https://db.ygoprodeck.com/card/?search=Wattsychic%20Fighter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Weeping Idol](https://db.ygoprodeck.com/card/?search=Weeping%20Idol) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Dragon Ninja](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Ninja) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Magical Hat](https://db.ygoprodeck.com/card/?search=White%20Magical%20Hat) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Night Queen](https://db.ygoprodeck.com/card/?search=White%20Night%20Queen) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Ninja](https://db.ygoprodeck.com/card/?search=White%20Ninja) | Unlimited |
@@ -10300,7 +10301,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inzektor Sword - Zektkaliber](https://db.ygoprodeck.com/card/?search=Inzektor%20Sword%20-%20Zektkaliber) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Iron Core Armor](https://db.ygoprodeck.com/card/?search=Iron%20Core%20Armor) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Iron Draw](https://db.ygoprodeck.com/card/?search=Iron%20Draw) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jewels of the Valiant](https://db.ygoprodeck.com/card/?search=Jewels%20of%20the%20Valiant) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Junk Barrage](https://db.ygoprodeck.com/card/?search=Junk%20Barrage) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kaminote Blow](https://db.ygoprodeck.com/card/?search=Kaminote%20Blow) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Karakuri Cash Cache](https://db.ygoprodeck.com/card/?search=Karakuri%20Cash%20Cache) | Unlimited |
