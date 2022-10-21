@@ -6584,7 +6584,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Defensive Tactics](https://db.ygoprodeck.com/card/?search=Defensive%20Tactics) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Delta Crow - Anti Reverse](https://db.ygoprodeck.com/card/?search=Delta%20Crow%20-%20Anti%20Reverse) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Des Counterblow](https://db.ygoprodeck.com/card/?search=Des%20Counterblow) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Desert Sunlight](https://db.ygoprodeck.com/card/?search=Desert%20Sunlight) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Destined Rivals](https://db.ygoprodeck.com/card/?search=Destined%20Rivals) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Destiny Mirage](https://db.ygoprodeck.com/card/?search=Destiny%20Mirage) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Destruct Potion](https://db.ygoprodeck.com/card/?search=Destruct%20Potion) | Illegal |
@@ -10983,6 +10982,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Degen-Force](https://db.ygoprodeck.com/card/?search=Degen-Force) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Depth Amulet](https://db.ygoprodeck.com/card/?search=Depth%20Amulet) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Descending Lost Star](https://db.ygoprodeck.com/card/?search=Descending%20Lost%20Star) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Desert Sunlight](https://db.ygoprodeck.com/card/?search=Desert%20Sunlight) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Designer Frightfur](https://db.ygoprodeck.com/card/?search=Designer%20Frightfur) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Desperate Tag](https://db.ygoprodeck.com/card/?search=Desperate%20Tag) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Destiny Board](https://db.ygoprodeck.com/card/?search=Destiny%20Board) | Unlimited |
