@@ -939,7 +939,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [House Dragonmaid](https://db.ygoprodeck.com/card/?search=House%20Dragonmaid) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Hugin the Runick Wings](https://db.ygoprodeck.com/card/?search=Hugin%20the%20Runick%20Wings) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | Illegal |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Invoked Caliga](https://db.ygoprodeck.com/card/?search=Invoked%20Caliga) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Invoked Mechaba](https://db.ygoprodeck.com/card/?search=Invoked%20Mechaba) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Invoked Raidjin](https://db.ygoprodeck.com/card/?search=Invoked%20Raidjin) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Kaiser Dragon](https://db.ygoprodeck.com/card/?search=Kaiser%20Dragon) | Illegal |
@@ -1872,6 +1871,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | Forbidden |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Amorphactor Pain, the Imagination Dracoverlord](https://db.ygoprodeck.com/card/?search=Amorphactor%20Pain,%20the%20Imagination%20Dracoverlord) | Forbidden |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Forbidden |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Invoked Caliga](https://db.ygoprodeck.com/card/?search=Invoked%20Caliga) | Forbidden |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Guardragon Agarpain](https://db.ygoprodeck.com/card/?search=Guardragon%20Agarpain) | Forbidden |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Mermaid](https://db.ygoprodeck.com/card/?search=Knightmare%20Mermaid) | Forbidden |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Prank-Kids Meow-Meow-Mu](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Meow-Meow-Mu) | Forbidden |
