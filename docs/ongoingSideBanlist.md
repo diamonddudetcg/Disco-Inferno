@@ -6424,6 +6424,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Anti-Spell Fragrance](https://db.ygoprodeck.com/card/?search=Anti-Spell%20Fragrance) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Apparition](https://db.ygoprodeck.com/card/?search=Apparition) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Appointer of the Red Lotus](https://db.ygoprodeck.com/card/?search=Appointer%20of%20the%20Red%20Lotus) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Appropriate](https://db.ygoprodeck.com/card/?search=Appropriate) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Aqua Chorus](https://db.ygoprodeck.com/card/?search=Aqua%20Chorus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Aquamirror Meditation](https://db.ygoprodeck.com/card/?search=Aquamirror%20Meditation) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Archfiend's Ghastly Glitch](https://db.ygoprodeck.com/card/?search=Archfiend's%20Ghastly%20Glitch) | Illegal |
@@ -10815,7 +10816,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Anti-Magic Prism](https://db.ygoprodeck.com/card/?search=Anti-Magic%20Prism) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Apex Predation](https://db.ygoprodeck.com/card/?search=Apex%20Predation) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Apple of Enlightenment](https://db.ygoprodeck.com/card/?search=Apple%20of%20Enlightenment) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Appropriate](https://db.ygoprodeck.com/card/?search=Appropriate) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Aqua Story - Urashima](https://db.ygoprodeck.com/card/?search=Aqua%20Story%20-%20Urashima) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Aquamirror Cycle](https://db.ygoprodeck.com/card/?search=Aquamirror%20Cycle) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Aquamirror Illusion](https://db.ygoprodeck.com/card/?search=Aquamirror%20Illusion) | Unlimited |
