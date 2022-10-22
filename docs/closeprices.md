@@ -23,15 +23,15 @@ This is a list of cards that are likely to change legality before the next rotat
 [Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | 0.5004 | 0.37 | Unlimited |
 [Infernity Archfiend](https://db.ygoprodeck.com/card/?search=Infernity%20Archfiend) | 0.5011 | 0.42 | Unlimited |
 [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | 0.5038 | 0.46 | Unlimited |
-[Frost and Flame Dragon](https://db.ygoprodeck.com/card/?search=Frost%20and%20Flame%20Dragon) | 0.5053 | 0.26 | Unlimited |
+[Frost and Flame Dragon](https://db.ygoprodeck.com/card/?search=Frost%20and%20Flame%20Dragon) | 0.5052 | 0.26 | Unlimited |
 [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | 0.5072 | 0.46 | Unlimited |
-[Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | 0.5075 | 0.25 | Unlimited |
-[Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.5092 | 0.42 | Unlimited |
+[Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | 0.5074 | 0.25 | Unlimited |
+[Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.5091 | 0.42 | Unlimited |
 [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5211 | 0.40 | Unlimited |
 [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5254 | 0.36 | Unlimited |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5299 | 0.36 | Unlimited |
-[Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | 0.5405 | 0.29 | Unlimited |
-[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5487 | 0.24 | Unlimited |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5298 | 0.34 | Unlimited |
+[Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | 0.5404 | 0.29 | Unlimited |
+[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5486 | 0.24 | Unlimited |
 
 <br>
 
