@@ -6,18 +6,18 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | 0.4840 | 0.78 | Illegal |
+[Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | 0.4841 | 0.78 | Illegal |
 [D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | 0.4843 | 0.65 | Illegal |
 [Naturia Barkion](https://db.ygoprodeck.com/card/?search=Naturia%20Barkion) | 0.4863 | 0.56 | Illegal |
 [Ice Beast Zerofyne](https://db.ygoprodeck.com/card/?search=Ice%20Beast%20Zerofyne) | 0.4873 | 0.62 | Illegal |
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4889 | 0.55 | Illegal |
 [Artifact Ignition](https://db.ygoprodeck.com/card/?search=Artifact%20Ignition) | 0.4899 | 0.65 | Illegal |
-[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.4907 | 0.55 | Illegal |
-[Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | 0.4937 | 0.58 | Illegal |
+[Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.4908 | 0.55 | Illegal |
+[Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | 0.4938 | 0.58 | Illegal |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.4941 | 0.59 | Illegal |
-[Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4970 | 0.60 | Illegal |
+[Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4971 | 0.60 | Illegal |
 [Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | 0.4974 | 0.60 | Illegal |
-[Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.4974 | 0.54 | Illegal |
+[Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.4975 | 0.54 | Illegal |
 [Clear Vice Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Vice%20Dragon) | 0.4978 | 0.55 | Illegal |
 [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | 0.4996 | 0.53 | Illegal |
 [Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | 0.5001 | 0.37 | Unlimited |
@@ -31,7 +31,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5250 | 0.36 | Unlimited |
 [Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5294 | 0.37 | Unlimited |
 [Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | 0.5398 | 0.29 | Unlimited |
-[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5479 | 0.25 | Unlimited |
+[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5479 | 0.27 | Unlimited |
 
 <br>
 
