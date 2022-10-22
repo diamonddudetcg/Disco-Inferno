@@ -253,7 +253,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darklord Tezcatlipoca](https://db.ygoprodeck.com/card/?search=Darklord%20Tezcatlipoca) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darklord Ukoback](https://db.ygoprodeck.com/card/?search=Darklord%20Ukoback) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darkness Neosphere](https://db.ygoprodeck.com/card/?search=Darkness%20Neosphere) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deep Sea Diva](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Diva) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deep-Eyes White Dragon](https://db.ygoprodeck.com/card/?search=Deep-Eyes%20White%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dekoichi the Battlechanted Locomotive](https://db.ygoprodeck.com/card/?search=Dekoichi%20the%20Battlechanted%20Locomotive) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Delg the Dark Monarch](https://db.ygoprodeck.com/card/?search=Delg%20the%20Dark%20Monarch) | Illegal |
@@ -3352,6 +3351,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Decoyroid](https://db.ygoprodeck.com/card/?search=Decoyroid) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deep Diver](https://db.ygoprodeck.com/card/?search=Deep%20Diver) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deep Sea Artisan](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Artisan) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deep Sea Diva](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Diva) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deep Sea Minstrel](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Minstrel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deep Sea Sentry](https://db.ygoprodeck.com/card/?search=Deep%20Sea%20Sentry) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Deep Sweeper](https://db.ygoprodeck.com/card/?search=Deep%20Sweeper) | Unlimited |
