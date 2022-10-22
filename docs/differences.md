@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 182
+Estimated number of changes: 181
 
-Keep in mind there's still 1297 runs left
+Keep in mind there's still 1296 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -110,7 +110,6 @@ Keep in mind there's still 1297 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Des Wombat](https://db.ygoprodeck.com/card/?search=Des%20Wombat) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elemental HERO Blazeman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Blazeman) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fishborg Blaster](https://db.ygoprodeck.com/card/?search=Fishborg%20Blaster) | Forbidden | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Galaxy-Eyes Photon Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Photon%20Dragon) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Laval Cannon](https://db.ygoprodeck.com/card/?search=Laval%20Cannon) | Illegal | Unlimited |
