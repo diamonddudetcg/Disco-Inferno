@@ -3651,6 +3651,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Alba-Lenatus the Abyss Dragon](https://db.ygoprodeck.com/card/?search=Alba-Lenatus%20the%20Abyss%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Albion the Branded Dragon](https://db.ygoprodeck.com/card/?search=Albion%20the%20Branded%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Alligator's Sword Dragon](https://db.ygoprodeck.com/card/?search=Alligator's%20Sword%20Dragon) | Illegal |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amazoness Pet Liger](https://db.ygoprodeck.com/card/?search=Amazoness%20Pet%20Liger) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ambulance Rescueroid](https://db.ygoprodeck.com/card/?search=Ambulance%20Rescueroid) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amphibious Bugroth](https://db.ygoprodeck.com/card/?search=Amphibious%20Bugroth) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amulet Dragon](https://db.ygoprodeck.com/card/?search=Amulet%20Dragon) | Illegal |
@@ -6179,6 +6180,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tenacity of the Monarchs](https://db.ygoprodeck.com/card/?search=Tenacity%20of%20the%20Monarchs) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Terminal World](https://db.ygoprodeck.com/card/?search=Terminal%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [That Grass Looks Greener](https://db.ygoprodeck.com/card/?search=That%20Grass%20Looks%20Greener) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Beginning of the End](https://db.ygoprodeck.com/card/?search=The%20Beginning%20of%20the%20End) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Breaking Ruin God](https://db.ygoprodeck.com/card/?search=The%20Breaking%20Ruin%20God) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Cheerful Coffin](https://db.ygoprodeck.com/card/?search=The%20Cheerful%20Coffin) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Chorus in the Sky](https://db.ygoprodeck.com/card/?search=The%20Chorus%20in%20the%20Sky) | Illegal |
@@ -9618,7 +9620,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Water Leviathan @Ignister](https://db.ygoprodeck.com/card/?search=Water%20Leviathan%20@Ignister) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Allvain the Essence of Vanity](https://db.ygoprodeck.com/card/?search=Allvain%20the%20Essence%20of%20Vanity) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amazoness Empress](https://db.ygoprodeck.com/card/?search=Amazoness%20Empress) | Unlimited |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amazoness Pet Liger](https://db.ygoprodeck.com/card/?search=Amazoness%20Pet%20Liger) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Arcana Knight Joker](https://db.ygoprodeck.com/card/?search=Arcana%20Knight%20Joker) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimera the Flying Mythical Beast](https://db.ygoprodeck.com/card/?search=Chimera%20the%20Flying%20Mythical%20Beast) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimeratech Overdragon](https://db.ygoprodeck.com/card/?search=Chimeratech%20Overdragon) | Unlimited |
@@ -10661,7 +10662,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [TGX300](https://db.ygoprodeck.com/card/?search=TGX300) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [That Wacky Magic!](https://db.ygoprodeck.com/card/?search=That%20Wacky%20Magic!) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The A. Forces](https://db.ygoprodeck.com/card/?search=The%20A.%20Forces) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Beginning of the End](https://db.ygoprodeck.com/card/?search=The%20Beginning%20of%20the%20End) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Big Cattle Drive](https://db.ygoprodeck.com/card/?search=The%20Big%20Cattle%20Drive) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Big March of Animals](https://db.ygoprodeck.com/card/?search=The%20Big%20March%20of%20Animals) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Book of the Law](https://db.ygoprodeck.com/card/?search=The%20Book%20of%20the%20Law) | Unlimited |
