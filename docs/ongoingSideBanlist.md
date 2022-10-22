@@ -827,7 +827,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Code Exporter](https://db.ygoprodeck.com/card/?search=Code%20Exporter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Code Generator](https://db.ygoprodeck.com/card/?search=Code%20Generator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Code Radiator](https://db.ygoprodeck.com/card/?search=Code%20Radiator) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Codebreaker Zero Day](https://db.ygoprodeck.com/card/?search=Codebreaker%20Zero%20Day) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cold Enchanter](https://db.ygoprodeck.com/card/?search=Cold%20Enchanter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Colossal Fighter/Assault Mode](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter/Assault%20Mode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Combo Master](https://db.ygoprodeck.com/card/?search=Combo%20Master) | Illegal |
@@ -891,6 +890,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Gymnast](https://db.ygoprodeck.com/card/?search=Cyber%20Gymnast) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Harpie Lady](https://db.ygoprodeck.com/card/?search=Cyber%20Harpie%20Lady) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Jar](https://db.ygoprodeck.com/card/?search=Cyber%20Jar) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Kirin](https://db.ygoprodeck.com/card/?search=Cyber%20Kirin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Larva](https://db.ygoprodeck.com/card/?search=Cyber%20Larva) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Laser Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Laser%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Ogre](https://db.ygoprodeck.com/card/?search=Cyber%20Ogre) | Illegal |
@@ -2102,6 +2102,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magikuriboh](https://db.ygoprodeck.com/card/?search=Magikuriboh) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magister of Endymion](https://db.ygoprodeck.com/card/?search=Magister%20of%20Endymion) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magnarokket Dragon](https://db.ygoprodeck.com/card/?search=Magnarokket%20Dragon) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maha Vailo, Light of the Heavens](https://db.ygoprodeck.com/card/?search=Maha%20Vailo,%20Light%20of%20the%20Heavens) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maharaghi](https://db.ygoprodeck.com/card/?search=Maharaghi) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mahunder](https://db.ygoprodeck.com/card/?search=Mahunder) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maiden of Macabre](https://db.ygoprodeck.com/card/?search=Maiden%20of%20Macabre) | Illegal |
@@ -7841,6 +7842,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cluster Congester](https://db.ygoprodeck.com/card/?search=Cluster%20Congester) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Coach Goblin](https://db.ygoprodeck.com/card/?search=Coach%20Goblin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cocatorium the Heavy Metal Avian](https://db.ygoprodeck.com/card/?search=Cocatorium%20the%20Heavy%20Metal%20Avian) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Codebreaker Zero Day](https://db.ygoprodeck.com/card/?search=Codebreaker%20Zero%20Day) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Colonel on C-String](https://db.ygoprodeck.com/card/?search=Colonel%20on%20C-String) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Combo Fighter](https://db.ygoprodeck.com/card/?search=Combo%20Fighter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Command Knight](https://db.ygoprodeck.com/card/?search=Command%20Knight) | Unlimited |
@@ -7891,7 +7893,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Dragon Zwei](https://db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Zwei) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Egg Angel](https://db.ygoprodeck.com/card/?search=Cyber%20Egg%20Angel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Eltanin](https://db.ygoprodeck.com/card/?search=Cyber%20Eltanin) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Kirin](https://db.ygoprodeck.com/card/?search=Cyber%20Kirin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Petit Angel](https://db.ygoprodeck.com/card/?search=Cyber%20Petit%20Angel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Pharos](https://db.ygoprodeck.com/card/?search=Cyber%20Pharos) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cyber Phoenix](https://db.ygoprodeck.com/card/?search=Cyber%20Phoenix) | Unlimited |
@@ -8622,7 +8623,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magna-Slash Dragon](https://db.ygoprodeck.com/card/?search=Magna-Slash%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magnetic Mosquito](https://db.ygoprodeck.com/card/?search=Magnetic%20Mosquito) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maha Vailo](https://db.ygoprodeck.com/card/?search=Maha%20Vailo) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maha Vailo, Light of the Heavens](https://db.ygoprodeck.com/card/?search=Maha%20Vailo,%20Light%20of%20the%20Heavens) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mahaama the Fairy Dragon](https://db.ygoprodeck.com/card/?search=Mahaama%20the%20Fairy%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mahjong Munia Maidens](https://db.ygoprodeck.com/card/?search=Mahjong%20Munia%20Maidens) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majespecter Crow - Yata](https://db.ygoprodeck.com/card/?search=Majespecter%20Crow%20-%20Yata) | Unlimited |
