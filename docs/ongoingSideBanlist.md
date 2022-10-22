@@ -6137,6 +6137,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Subterror Cave Clash](https://db.ygoprodeck.com/card/?search=Subterror%20Cave%20Clash) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Successor Soul](https://db.ygoprodeck.com/card/?search=Successor%20Soul) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summon Breaker](https://db.ygoprodeck.com/card/?search=Summon%20Breaker) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summon Cloud](https://db.ygoprodeck.com/card/?search=Summon%20Cloud) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summon Dice](https://db.ygoprodeck.com/card/?search=Summon%20Dice) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summoner's Art](https://db.ygoprodeck.com/card/?search=Summoner's%20Art) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summoning Curse](https://db.ygoprodeck.com/card/?search=Summoning%20Curse) | Illegal |
@@ -10619,7 +10620,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stellarknight Alpha](https://db.ygoprodeck.com/card/?search=Stellarknight%20Alpha) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stim-Pack](https://db.ygoprodeck.com/card/?search=Stim-Pack) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stop Defense](https://db.ygoprodeck.com/card/?search=Stop%20Defense) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summon Cloud](https://db.ygoprodeck.com/card/?search=Summon%20Cloud) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summon Over](https://db.ygoprodeck.com/card/?search=Summon%20Over) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summon Storm](https://db.ygoprodeck.com/card/?search=Summon%20Storm) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sunvine Cross Breed](https://db.ygoprodeck.com/card/?search=Sunvine%20Cross%20Breed) | Unlimited |
