@@ -7070,6 +7070,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Serpent Suppression](https://db.ygoprodeck.com/card/?search=Serpent%20Suppression) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shaddoll Schism](https://db.ygoprodeck.com/card/?search=Shaddoll%20Schism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shining Silver Force](https://db.ygoprodeck.com/card/?search=Shining%20Silver%20Force) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shinobird Salvation](https://db.ygoprodeck.com/card/?search=Shinobird%20Salvation) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shiranui Style Samsara](https://db.ygoprodeck.com/card/?search=Shiranui%20Style%20Samsara) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shiranui Style Success](https://db.ygoprodeck.com/card/?search=Shiranui%20Style%20Success) | Illegal |
@@ -11433,7 +11434,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shield Spear](https://db.ygoprodeck.com/card/?search=Shield%20Spear) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shien's Scheme](https://db.ygoprodeck.com/card/?search=Shien's%20Scheme) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shift](https://db.ygoprodeck.com/card/?search=Shift) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shining Silver Force](https://db.ygoprodeck.com/card/?search=Shining%20Silver%20Force) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shooting Star](https://db.ygoprodeck.com/card/?search=Shooting%20Star) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Showdown of the Secret Sense Scroll Techniques](https://db.ygoprodeck.com/card/?search=Showdown%20of%20the%20Secret%20Sense%20Scroll%20Techniques) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Side Effects?](https://db.ygoprodeck.com/card/?search=Side%20Effects?) | Unlimited |
