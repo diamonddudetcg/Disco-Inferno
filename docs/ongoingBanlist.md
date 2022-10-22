@@ -1628,7 +1628,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Seven Cities of the Golden Land](https://db.ygoprodeck.com/card/?search=Seven%20Cities%20of%20the%20Golden%20Land) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Seventh Ascension](https://db.ygoprodeck.com/card/?search=Seventh%20Ascension) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shaddoll Fusion](https://db.ygoprodeck.com/card/?search=Shaddoll%20Fusion) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Maneuver - Afterburners!](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Maneuver%20-%20Afterburners!) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Shark Cannon](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Shark%20Cannon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | Illegal |
@@ -9505,6 +9504,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Senet Switch](https://db.ygoprodeck.com/card/?search=Senet%20Switch) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Senri Eye](https://db.ygoprodeck.com/card/?search=Senri%20Eye) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sextet Summon](https://db.ygoprodeck.com/card/?search=Sextet%20Summon) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shard of Greed](https://db.ygoprodeck.com/card/?search=Shard%20of%20Greed) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Share the Pain](https://db.ygoprodeck.com/card/?search=Share%20the%20Pain) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shared Ride](https://db.ygoprodeck.com/card/?search=Shared%20Ride) | Unlimited |

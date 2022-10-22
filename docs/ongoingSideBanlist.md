@@ -908,6 +908,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Crow](https://db.ygoprodeck.com/card/?search=D.D.%20Crow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Esper Star Sparrow](https://db.ygoprodeck.com/card/?search=D.D.%20Esper%20Star%20Sparrow) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Guide](https://db.ygoprodeck.com/card/?search=D.D.%20Guide) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Scout Plane](https://db.ygoprodeck.com/card/?search=D.D.%20Scout%20Plane) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Survivor](https://db.ygoprodeck.com/card/?search=D.D.%20Survivor) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Telepon](https://db.ygoprodeck.com/card/?search=D.D.%20Telepon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Warrior](https://db.ygoprodeck.com/card/?search=D.D.%20Warrior) | Illegal |
@@ -7914,7 +7915,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Destroyer](https://db.ygoprodeck.com/card/?search=D.D.%20Destroyer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Jet Iron](https://db.ygoprodeck.com/card/?search=D.D.%20Jet%20Iron) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Patrol Plane](https://db.ygoprodeck.com/card/?search=D.D.%20Patrol%20Plane) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Scout Plane](https://db.ygoprodeck.com/card/?search=D.D.%20Scout%20Plane) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Seeker](https://db.ygoprodeck.com/card/?search=D.D.%20Seeker) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Sprite](https://db.ygoprodeck.com/card/?search=D.D.%20Sprite) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D.D. Unicorn Knight](https://db.ygoprodeck.com/card/?search=D.D.%20Unicorn%20Knight) | Unlimited |
