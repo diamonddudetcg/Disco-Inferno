@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 202
+Estimated number of changes: 203
 
-Keep in mind there's still 917 runs left
+Keep in mind there's still 916 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -163,6 +163,7 @@ Keep in mind there's still 917 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amazoness Augusta](https://db.ygoprodeck.com/card/?search=Amazoness%20Augusta) | New card | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Freki the Runick Fangs](https://db.ygoprodeck.com/card/?search=Freki%20the%20Runick%20Fangs) | New card | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | Illegal | Unlimited |
+|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Donner, Dagger Fur Hire](https://db.ygoprodeck.com/card/?search=Donner,%20Dagger%20Fur%20Hire) | New card | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Blackwing - Boreastorm the Wicked Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreastorm%20the%20Wicked%20Wind) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Gust High King Alexander](https://db.ygoprodeck.com/card/?search=D/D/D%20Gust%20High%20King%20Alexander) | Illegal | Unlimited |
