@@ -1081,6 +1081,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunvine Thrasher](https://db.ygoprodeck.com/card/?search=Sunvine%20Thrasher) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [T.G. Trident Launcher](https://db.ygoprodeck.com/card/?search=T.G.%20Trident%20Launcher) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Arrival Cyberse @Ignister](https://db.ygoprodeck.com/card/?search=The%20Arrival%20Cyberse%20@Ignister) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Weather Painter Moonbow](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Moonbow) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Topologic Gumblar Dragon](https://db.ygoprodeck.com/card/?search=Topologic%20Gumblar%20Dragon) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Traptrix Sera](https://db.ygoprodeck.com/card/?search=Traptrix%20Sera) | Illegal |
@@ -7483,7 +7484,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Taotie Dragon](https://db.ygoprodeck.com/card/?search=Taotie%20Dragon) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Tenyi Spirit - Sahasrara](https://db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Sahasrara) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Test Panther](https://db.ygoprodeck.com/card/?search=Test%20Panther) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Weather Painter Rainbow](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Rainbow) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Thunder Dragon Thunderstormech](https://db.ygoprodeck.com/card/?search=Thunder%20Dragon%20Thunderstormech) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Tindangle Acute Cerberus](https://db.ygoprodeck.com/card/?search=Tindangle%20Acute%20Cerberus) | Unlimited |
