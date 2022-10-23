@@ -2309,6 +2309,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Cosmobeet](https://db.ygoprodeck.com/card/?search=Naturia%20Cosmobeet) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Dragonfly](https://db.ygoprodeck.com/card/?search=Naturia%20Dragonfly) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Eggplant](https://db.ygoprodeck.com/card/?search=Naturia%20Eggplant) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Fruitfly](https://db.ygoprodeck.com/card/?search=Naturia%20Fruitfly) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Horneedle](https://db.ygoprodeck.com/card/?search=Naturia%20Horneedle) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Hydrangea](https://db.ygoprodeck.com/card/?search=Naturia%20Hydrangea) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Marron](https://db.ygoprodeck.com/card/?search=Naturia%20Marron) | Illegal |
@@ -2572,6 +2573,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Puppet King](https://db.ygoprodeck.com/card/?search=Puppet%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Puppet Plant](https://db.ygoprodeck.com/card/?search=Puppet%20Plant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Purple Poison Magician](https://db.ygoprodeck.com/card/?search=Purple%20Poison%20Magician) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pyramid Turtle](https://db.ygoprodeck.com/card/?search=Pyramid%20Turtle) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pyrorex the Elemental Lord](https://db.ygoprodeck.com/card/?search=Pyrorex%20the%20Elemental%20Lord) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Qliphort Carrier](https://db.ygoprodeck.com/card/?search=Qliphort%20Carrier) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Qliphort Cephalopod](https://db.ygoprodeck.com/card/?search=Qliphort%20Cephalopod) | Illegal |
@@ -6594,7 +6596,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dimensional Prison](https://db.ygoprodeck.com/card/?search=Dimensional%20Prison) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomist Rush](https://db.ygoprodeck.com/card/?search=Dinomist%20Rush) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomists Howling](https://db.ygoprodeck.com/card/?search=Dinomists%20Howling) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Brute](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Brute) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Domain](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Domain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Frenzy](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Frenzy) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Reversion](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Reversion) | Illegal |
@@ -8750,7 +8751,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Myutant Mutant](https://db.ygoprodeck.com/card/?search=Myutant%20Mutant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Beetle](https://db.ygoprodeck.com/card/?search=Naturia%20Beetle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Butterfly](https://db.ygoprodeck.com/card/?search=Naturia%20Butterfly) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Fruitfly](https://db.ygoprodeck.com/card/?search=Naturia%20Fruitfly) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Guardian](https://db.ygoprodeck.com/card/?search=Naturia%20Guardian) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Ladybug](https://db.ygoprodeck.com/card/?search=Naturia%20Ladybug) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Mantis](https://db.ygoprodeck.com/card/?search=Naturia%20Mantis) | Unlimited |
@@ -8956,7 +8956,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Puppet Queen](https://db.ygoprodeck.com/card/?search=Puppet%20Queen) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pursuit Chaser](https://db.ygoprodeck.com/card/?search=Pursuit%20Chaser) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Putrid Pudding Body Buddies](https://db.ygoprodeck.com/card/?search=Putrid%20Pudding%20Body%20Buddies) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pyramid Turtle](https://db.ygoprodeck.com/card/?search=Pyramid%20Turtle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pyrotech Mech - Shiryu](https://db.ygoprodeck.com/card/?search=Pyrotech%20Mech%20-%20Shiryu) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Qadshaddoll Keios](https://db.ygoprodeck.com/card/?search=Qadshaddoll%20Keios) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Queen Angel of Roses](https://db.ygoprodeck.com/card/?search=Queen%20Angel%20of%20Roses) | Unlimited |
@@ -10998,6 +10997,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dimensional Inversion](https://db.ygoprodeck.com/card/?search=Dimensional%20Inversion) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomist Eruption](https://db.ygoprodeck.com/card/?search=Dinomist%20Eruption) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Alert](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Alert) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Brute](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Brute) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Shell](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Shell) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dinomorphia Sonic](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Sonic) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Disappear](https://db.ygoprodeck.com/card/?search=Disappear) | Unlimited |
