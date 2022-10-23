@@ -5210,6 +5210,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Creature Swap](https://db.ygoprodeck.com/card/?search=Creature%20Swap) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crossout Designator](https://db.ygoprodeck.com/card/?search=Crossout%20Designator) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crusadia Power](https://db.ygoprodeck.com/card/?search=Crusadia%20Power) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crusadia Revival](https://db.ygoprodeck.com/card/?search=Crusadia%20Revival) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crusadia Testament](https://db.ygoprodeck.com/card/?search=Crusadia%20Testament) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Beacon](https://db.ygoprodeck.com/card/?search=Crystal%20Beacon) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Bond](https://db.ygoprodeck.com/card/?search=Crystal%20Bond) | Illegal |
@@ -10050,7 +10051,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cross Attack](https://db.ygoprodeck.com/card/?search=Cross%20Attack) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cross Breed](https://db.ygoprodeck.com/card/?search=Cross%20Breed) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cross Over](https://db.ygoprodeck.com/card/?search=Cross%20Over) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crusadia Revival](https://db.ygoprodeck.com/card/?search=Crusadia%20Revival) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Abundance](https://db.ygoprodeck.com/card/?search=Crystal%20Abundance) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Aegis](https://db.ygoprodeck.com/card/?search=Crystal%20Aegis) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Crystal Blessing](https://db.ygoprodeck.com/card/?search=Crystal%20Blessing) | Unlimited |
