@@ -7,7 +7,7 @@ This is a list of cards that are likely to change legality before the next rotat
 | Card name | Average | Last | Projected legality |
 | :-- |
 [Naturia Barkion](https://db.ygoprodeck.com/card/?search=Naturia%20Barkion) | 0.4897 | 0.56 | Illegal |
-[Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4917 | 0.55 | Illegal |
+[Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4918 | 0.55 | Illegal |
 [D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | 0.4921 | 0.65 | Illegal |
 [Ice Beast Zerofyne](https://db.ygoprodeck.com/card/?search=Ice%20Beast%20Zerofyne) | 0.4935 | 0.62 | Illegal |
 [Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.4935 | 0.55 | Illegal |
@@ -17,26 +17,25 @@ This is a list of cards that are likely to change legality before the next rotat
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.4986 | 0.59 | Illegal |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.4994 | 0.54 | Illegal |
 [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | 0.5017 | 0.46 | Unlimited |
-[Blackwing - Zonda the Dusk](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Zonda%20the%20Dusk) | 0.5023 | 0.06 | Unlimited |
+[Blackwing - Zonda the Dusk](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Zonda%20the%20Dusk) | 0.5022 | 0.03 | Unlimited |
 [Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.5048 | 0.42 | Unlimited |
 [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | 0.5049 | 0.46 | Unlimited |
-[Black Feather Whirlwind](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Whirlwind) | 0.5052 | 0.07 | Unlimited |
-[Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | 0.5097 | 0.07 | Unlimited |
-[Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5152 | 0.40 | Unlimited |
-[Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5173 | 0.36 | Unlimited |
-[Ninjitsu Art of Dancing Leaves](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Dancing%20Leaves) | 0.5191 | 0.08 | Unlimited |
-[Infernalqueen Salmon](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Salmon) | 0.5206 | 0.05 | Unlimited |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5210 | 0.34 | Unlimited |
-[Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | 0.5282 | 0.29 | Unlimited |
-[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5340 | 0.27 | Unlimited |
-[Branded Regained](https://db.ygoprodeck.com/card/?search=Branded%20Regained) | 0.5370 | 0.07 | Unlimited |
-[Blackwing - Chinook the Snow Blast](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Chinook%20the%20Snow%20Blast) | 0.5378 | 0.07 | Unlimited |
-[Blackwing - Shamal the Sandstorm](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Shamal%20the%20Sandstorm) | 0.5378 | 0.03 | Unlimited |
-[Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5440 | 0.04 | Unlimited |
-[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5527 | 0.02 | Unlimited |
-[Vernusylph of the Misting Seedlings](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Misting%20Seedlings) | 0.5769 | 0.07 | Unlimited |
-[Kashtira Birth](https://db.ygoprodeck.com/card/?search=Kashtira%20Birth) | 0.5814 | 0.04 | Unlimited |
-[Terrors in the Hidden City](https://db.ygoprodeck.com/card/?search=Terrors%20in%20the%20Hidden%20City) | 0.5868 | 0.07 | Unlimited |
+[Black Feather Whirlwind](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Whirlwind) | 0.5051 | 0.06 | Unlimited |
+[Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | 0.5096 | 0.08 | Unlimited |
+[Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5151 | 0.40 | Unlimited |
+[Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5172 | 0.36 | Unlimited |
+[Ninjitsu Art of Dancing Leaves](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Dancing%20Leaves) | 0.5190 | 0.03 | Unlimited |
+[Infernalqueen Salmon](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Salmon) | 0.5205 | 0.03 | Unlimited |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5210 | 0.38 | Unlimited |
+[Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | 0.5281 | 0.29 | Unlimited |
+[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5340 | 0.23 | Unlimited |
+[Branded Regained](https://db.ygoprodeck.com/card/?search=Branded%20Regained) | 0.5369 | 0.02 | Unlimited |
+[Blackwing - Chinook the Snow Blast](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Chinook%20the%20Snow%20Blast) | 0.5377 | 0.04 | Unlimited |
+[Blackwing - Shamal the Sandstorm](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Shamal%20the%20Sandstorm) | 0.5377 | 0.05 | Unlimited |
+[Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5439 | 0.03 | Unlimited |
+[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5526 | 0.03 | Unlimited |
+[Vernusylph of the Misting Seedlings](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Misting%20Seedlings) | 0.5768 | 0.05 | Unlimited |
+[Kashtira Birth](https://db.ygoprodeck.com/card/?search=Kashtira%20Birth) | 0.5813 | 0.07 | Unlimited |
 
 <br>
 
