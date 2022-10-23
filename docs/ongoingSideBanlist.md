@@ -1532,6 +1532,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Glacial Beast Blizzard Wolf](https://db.ygoprodeck.com/card/?search=Glacial%20Beast%20Blizzard%20Wolf) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Glacial Beast Polar Penguin](https://db.ygoprodeck.com/card/?search=Glacial%20Beast%20Polar%20Penguin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Alexander](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Alexander) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Attorix](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Attorix) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Augustus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Augustus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Bestiari](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Bestiari) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | Illegal |
@@ -6271,6 +6272,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ursarctic Big Dipper](https://db.ygoprodeck.com/card/?search=Ursarctic%20Big%20Dipper) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ursarctic Departure](https://db.ygoprodeck.com/card/?search=Ursarctic%20Departure) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ursarctic Radiation](https://db.ygoprodeck.com/card/?search=Ursarctic%20Radiation) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ursarctic Slider](https://db.ygoprodeck.com/card/?search=Ursarctic%20Slider) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Utopia Buster](https://db.ygoprodeck.com/card/?search=Utopia%20Buster) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Valhalla, Hall of the Fallen](https://db.ygoprodeck.com/card/?search=Valhalla,%20Hall%20of%20the%20Fallen) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Valkyrie's Embrace](https://db.ygoprodeck.com/card/?search=Valkyrie's%20Embrace) | Illegal |
@@ -8294,7 +8296,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gizmek Naganaki, the Sunrise Signaler](https://db.ygoprodeck.com/card/?search=Gizmek%20Naganaki,%20the%20Sunrise%20Signaler) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gizmek Taniguku, the Immobile Intellect](https://db.ygoprodeck.com/card/?search=Gizmek%20Taniguku,%20the%20Immobile%20Intellect) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Glacier Aqua Madoor](https://db.ygoprodeck.com/card/?search=Glacier%20Aqua%20Madoor) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Attorix](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Attorix) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Sagittarii](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Sagittarii) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Vespasius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Vespasius) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gluttonous Reptolphin Greethys](https://db.ygoprodeck.com/card/?search=Gluttonous%20Reptolphin%20Greethys) | Unlimited |
@@ -10723,7 +10724,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Uradora of Fate](https://db.ygoprodeck.com/card/?search=Uradora%20of%20Fate) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Urgent Synthesis](https://db.ygoprodeck.com/card/?search=Urgent%20Synthesis) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ursarctic Drytron](https://db.ygoprodeck.com/card/?search=Ursarctic%20Drytron) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ursarctic Slider](https://db.ygoprodeck.com/card/?search=Ursarctic%20Slider) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Variety Comes Out](https://db.ygoprodeck.com/card/?search=Variety%20Comes%20Out) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vehicroid Connection Zone](https://db.ygoprodeck.com/card/?search=Vehicroid%20Connection%20Zone) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Veil of Darkness](https://db.ygoprodeck.com/card/?search=Veil%20of%20Darkness) | Unlimited |
