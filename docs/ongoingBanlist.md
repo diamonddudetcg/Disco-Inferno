@@ -1829,7 +1829,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Xyz Reborn](https://db.ygoprodeck.com/card/?search=Xyz%20Reborn) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Destructive Daruma Karma Cannon](https://db.ygoprodeck.com/card/?search=Destructive%20Daruma%20Karma%20Cannon) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ninjitsu Art of Dancing Leaves](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Dancing%20Leaves) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spright Double Cross](https://db.ygoprodeck.com/card/?search=Spright%20Double%20Cross) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga](https://db.ygoprodeck.com/card/?search=Ghost%20Meets%20Girl%20-%20A%20Masterful%20Mayakashi%20Shiranui%20Saga) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Exchange of Despair and Hope](https://db.ygoprodeck.com/card/?search=Exchange%20of%20Despair%20and%20Hope) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Archer](https://db.ygoprodeck.com/card/?search=Amazoness%20Archer) | Forbidden |
@@ -11639,6 +11638,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Zoodiac Gathering](https://db.ygoprodeck.com/card/?search=Zoodiac%20Gathering) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Branded Beast](https://db.ygoprodeck.com/card/?search=Branded%20Beast) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scareclaw Twinsaw](https://db.ygoprodeck.com/card/?search=Scareclaw%20Twinsaw) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spright Double Cross](https://db.ygoprodeck.com/card/?search=Spright%20Double%20Cross) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kashtira Preparations](https://db.ygoprodeck.com/card/?search=Kashtira%20Preparations) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Simul Archfiends](https://db.ygoprodeck.com/card/?search=Simul%20Archfiends) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stars Align across the Milky Way](https://db.ygoprodeck.com/card/?search=Stars%20Align%20across%20the%20Milky%20Way) | Unlimited |

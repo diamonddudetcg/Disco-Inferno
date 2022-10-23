@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 198
+Estimated number of changes: 199
 
-Keep in mind there's still 925 runs left
+Keep in mind there's still 924 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -207,6 +207,7 @@ Keep in mind there's still 925 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Branded Beast](https://db.ygoprodeck.com/card/?search=Branded%20Beast) | New card | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scareclaw Twinsaw](https://db.ygoprodeck.com/card/?search=Scareclaw%20Twinsaw) | New card | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spright Double Cross](https://db.ygoprodeck.com/card/?search=Spright%20Double%20Cross) | New card | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kashtira Preparations](https://db.ygoprodeck.com/card/?search=Kashtira%20Preparations) | New card | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Simul Archfiends](https://db.ygoprodeck.com/card/?search=Simul%20Archfiends) | New card | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stars Align across the Milky Way](https://db.ygoprodeck.com/card/?search=Stars%20Align%20across%20the%20Milky%20Way) | New card | Unlimited |
