@@ -2703,6 +2703,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rookie Warrior Lady](https://db.ygoprodeck.com/card/?search=Rookie%20Warrior%20Lady) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rosaria, the Stately Fallen Angel](https://db.ygoprodeck.com/card/?search=Rosaria,%20the%20Stately%20Fallen%20Angel) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Fairy](https://db.ygoprodeck.com/card/?search=Rose%20Fairy) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Girl](https://db.ygoprodeck.com/card/?search=Rose%20Girl) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Paladin](https://db.ygoprodeck.com/card/?search=Rose%20Paladin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Princess](https://db.ygoprodeck.com/card/?search=Rose%20Princess) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose, Warrior of Revenge](https://db.ygoprodeck.com/card/?search=Rose,%20Warrior%20of%20Revenge) | Illegal |
@@ -6838,6 +6839,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Light-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Light-Imprisoning%20Mirror) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lightsworn Judgment](https://db.ygoprodeck.com/card/?search=Lightsworn%20Judgment) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Localized Tornado](https://db.ygoprodeck.com/card/?search=Localized%20Tornado) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Loop of Destruction](https://db.ygoprodeck.com/card/?search=Loop%20of%20Destruction) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lose 1 Turn](https://db.ygoprodeck.com/card/?search=Lose%201%20Turn) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lost Wind](https://db.ygoprodeck.com/card/?search=Lost%20Wind) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lucky Punch](https://db.ygoprodeck.com/card/?search=Lucky%20Punch) | Illegal |
@@ -9041,7 +9043,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rogue of Endymion](https://db.ygoprodeck.com/card/?search=Rogue%20of%20Endymion) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [ROM Cloudia](https://db.ygoprodeck.com/card/?search=ROM%20Cloudia) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Archer](https://db.ygoprodeck.com/card/?search=Rose%20Archer) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Girl](https://db.ygoprodeck.com/card/?search=Rose%20Girl) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Lover](https://db.ygoprodeck.com/card/?search=Rose%20Lover) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Tentacles](https://db.ygoprodeck.com/card/?search=Rose%20Tentacles) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose Witch](https://db.ygoprodeck.com/card/?search=Rose%20Witch) | Unlimited |
@@ -11206,7 +11207,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Link Turret](https://db.ygoprodeck.com/card/?search=Link%20Turret) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Loge's Flame](https://db.ygoprodeck.com/card/?search=Loge's%20Flame) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lone Wolf](https://db.ygoprodeck.com/card/?search=Lone%20Wolf) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Loop of Destruction](https://db.ygoprodeck.com/card/?search=Loop%20of%20Destruction) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Loss Time](https://db.ygoprodeck.com/card/?search=Loss%20Time) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lucky Chance](https://db.ygoprodeck.com/card/?search=Lucky%20Chance) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Lyrilusc - Phantom Feathers](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Phantom%20Feathers) | Unlimited |
