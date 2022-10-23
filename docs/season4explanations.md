@@ -50,17 +50,25 @@ With no floodgates left in the format, this card is acting as a gatekeeper for t
 
 <br>
 
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect)
+
+Resonance Insect was the lynchpin of the Insect pile. Limiting it directly eliminates the possibility of high roll hands where you get two searches instead of just the one the default combo goes for, which means [Mighty Neptune](https://db.ygoprodeck.com/card/?search=Heavy%20Beetrooper%20Mighty%20Neptune) is less accessible (which makes recycling Resonance Insect harder), and makes it so there is no line where you can't end on two negates.
+
+
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emergency Teleport](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map)
 
 Teleport was being abused in both Synchron and Virtual World. The fact it's an extender that doubles up as interruption due to [Ghost Ogre](https://db.ygoprodeck.com/card?search=Ghost%20ogre%20%26%20Snow%20Rabbit) is what put this card over the top.
+
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!)
 
 With both [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) and [Royal Decree](https://db.ygoprodeck.com/card/?search=Royal%20Decree) gone, we wanted to have a card that punishes backrow decks without outright killing them. We are testing the waters with it as Hey proved to be a very toxic card at 3, but we are hopeful that it'll be okay at 1. It also incentivizes trap decks to play defensive options like [Threatening Roar](https://db.ygoprodeck.com/card/?search=Threatening%20Roar) or [Waboku](https://db.ygoprodeck.com/card/?search=Waboku), and you can always have more of those than your opponent has Hey.
 
+
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map)
 
 With how prevalent Kaijus are in Disco Inferno, Slumber had become both a facilitator for two card OTKs with [Fallen of Albaz](https://db.ygoprodeck.com/card?search=Fallen%20of%20Albaz) and just a better version of [Dark Hole](https://db.ygoprodeck.com/card?search=Dark%20Hole) that had very little opportunity cost. We want boardbreakers to be in the format, but this one was doing a bit too much.
+
 
 ## Unlimited
 

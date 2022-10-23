@@ -1925,7 +1925,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Dragon Wyverburster](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zoodiac Ratpier](https://db.ygoprodeck.com/card/?search=Zoodiac%20Ratpier) | Limited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Beetrooper Armor Horn](https://db.ygoprodeck.com/card/?search=Beetrooper%20Armor%20Horn) | Limited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy) | Limited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [PSY-Framelord Omega](https://db.ygoprodeck.com/card/?search=PSY-Framelord%20Omega) | Limited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | Limited |
@@ -7312,6 +7311,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Barricadeborg Blocker](https://db.ygoprodeck.com/card/?search=Barricadeborg%20Blocker) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Battle Shogun of the Six Samurai](https://db.ygoprodeck.com/card/?search=Battle%20Shogun%20of%20the%20Six%20Samurai) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Beat Cop from the Underworld](https://db.ygoprodeck.com/card/?search=Beat%20Cop%20from%20the%20Underworld) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Beetrooper Armor Horn](https://db.ygoprodeck.com/card/?search=Beetrooper%20Armor%20Horn) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Bellcat Fighter](https://db.ygoprodeck.com/card/?search=Bellcat%20Fighter) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Berserker of the Tenyi](https://db.ygoprodeck.com/card/?search=Berserker%20of%20the%20Tenyi) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Binary Blader](https://db.ygoprodeck.com/card/?search=Binary%20Blader) | Unlimited |
