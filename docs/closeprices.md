@@ -12,7 +12,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Old Entity Hastorr](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Hastorr) | 0.4876 | 0.57 | Illegal |
 [Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.4899 | 0.66 | Illegal |
 [Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | 0.4912 | 0.57 | Illegal |
-[World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4920 | 0.63 | Illegal |
+[World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4921 | 0.63 | Illegal |
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4928 | 0.55 | Illegal |
 [D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | 0.4954 | 0.68 | Illegal |
 [Ice Beast Zerofyne](https://db.ygoprodeck.com/card/?search=Ice%20Beast%20Zerofyne) | 0.4958 | 0.62 | Illegal |
@@ -20,25 +20,25 @@ This is a list of cards that are likely to change legality before the next rotat
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.4999 | 0.52 | Illegal |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5000 | 0.57 | Illegal |
 [Black Feather Whirlwind](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Whirlwind) | 0.5005 | 0.30 | Unlimited |
-[Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | 0.5014 | 0.07 | Unlimited |
+[Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | 0.5013 | 0.03 | Unlimited |
 [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | 0.5027 | 0.37 | Unlimited |
 [Mitsu the Insect Ninja](https://db.ygoprodeck.com/card/?search=Mitsu%20the%20Insect%20Ninja) | 0.5033 | 0.47 | Unlimited |
 [Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.5035 | 0.44 | Unlimited |
 [Thunderforce Attack](https://db.ygoprodeck.com/card/?search=Thunderforce%20Attack) | 0.5038 | 0.38 | Unlimited |
 [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | 0.5051 | 0.43 | Unlimited |
-[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5052 | 0.39 | Unlimited |
+[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5051 | 0.39 | Unlimited |
 [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | 0.5082 | 0.41 | Unlimited |
-[Ninjitsu Art of Dancing Leaves](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Dancing%20Leaves) | 0.5112 | 0.10 | Unlimited |
-[Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5124 | 0.22 | Unlimited |
-[Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5128 | 0.38 | Unlimited |
-[Infernalqueen Salmon](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Salmon) | 0.5132 | 0.13 | Unlimited |
-[Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | 0.5169 | 0.34 | Unlimited |
+[Ninjitsu Art of Dancing Leaves](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Dancing%20Leaves) | 0.5111 | 0.10 | Unlimited |
+[Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5123 | 0.22 | Unlimited |
+[Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5127 | 0.38 | Unlimited |
+[Infernalqueen Salmon](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Salmon) | 0.5131 | 0.13 | Unlimited |
+[Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | 0.5168 | 0.34 | Unlimited |
 [Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5179 | 0.35 | Unlimited |
-[Melodious Illusion](https://db.ygoprodeck.com/card/?search=Melodious%20Illusion) | 0.5205 | 0.35 | Unlimited |
-[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5289 | 0.25 | Unlimited |
-[Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5362 | 0.13 | Unlimited |
-[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5438 | 0.07 | Unlimited |
-[Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5587 | 0.14 | Unlimited |
+[Melodious Illusion](https://db.ygoprodeck.com/card/?search=Melodious%20Illusion) | 0.5204 | 0.35 | Unlimited |
+[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5288 | 0.26 | Unlimited |
+[Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5361 | 0.13 | Unlimited |
+[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5437 | 0.07 | Unlimited |
+[Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5586 | 0.14 | Unlimited |
 
 <br>
 
