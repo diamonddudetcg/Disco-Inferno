@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 197
+Estimated number of changes: 198
 
-Keep in mind there's still 959 runs left
+Keep in mind there's still 958 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -85,6 +85,7 @@ Keep in mind there's still 959 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [S-Force Chase](https://db.ygoprodeck.com/card/?search=S-Force%20Chase) | Unlimited | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Phantom Knights of Shade Brigandine](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Shade%20Brigandine) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragon Buster Destruction Sword](https://db.ygoprodeck.com/card/?search=Dragon%20Buster%20Destruction%20Sword) | Unlimited | Forbidden |
