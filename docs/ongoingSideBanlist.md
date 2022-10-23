@@ -425,6 +425,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Ambitious Cao De](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Ambitious%20Cao%20De) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Eccentric Lu Jing](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Eccentric%20Lu%20Jing) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Fearsome Zhang Yuan](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Fearsome%20Zhang%20Yuan) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Graceful Zhou Gong](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Graceful%20Zhou%20Gong) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Ingenious Zhuge Kong](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Ingenious%20Zhuge%20Kong) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Loyal Guan Yun](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Loyal%20Guan%20Yun) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Masterful Sun Mou](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Masterful%20Sun%20Mou) | Illegal |
@@ -7606,7 +7607,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Gear Hydra](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Hydra) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Lamp](https://db.ygoprodeck.com/card/?search=Ancient%20Lamp) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Deceptive Jia Wen](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Deceptive%20Jia%20Wen) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Graceful Zhou Gong](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Graceful%20Zhou%20Gong) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ancient Warriors - Savage Don Ying](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Savage%20Don%20Ying) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Anesthrokket Dragon](https://db.ygoprodeck.com/card/?search=Anesthrokket%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Angraecum Umbrella](https://db.ygoprodeck.com/card/?search=Angraecum%20Umbrella) | Unlimited |

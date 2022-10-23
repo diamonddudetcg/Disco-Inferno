@@ -6,18 +6,18 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Time-Space Trap Hole](https://db.ygoprodeck.com/card/?search=Time-Space%20Trap%20Hole) | 0.4592 | 0.72 | Illegal |
-[Blackwing - Steam the Cloak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Steam%20the%20Cloak) | 0.4657 | 0.80 | Illegal |
-[Wind-Up Factory](https://db.ygoprodeck.com/card/?search=Wind-Up%20Factory) | 0.4766 | 0.65 | Illegal |
+[Time-Space Trap Hole](https://db.ygoprodeck.com/card/?search=Time-Space%20Trap%20Hole) | 0.4593 | 0.72 | Illegal |
+[Blackwing - Steam the Cloak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Steam%20the%20Cloak) | 0.4658 | 0.80 | Illegal |
+[Wind-Up Factory](https://db.ygoprodeck.com/card/?search=Wind-Up%20Factory) | 0.4767 | 0.65 | Illegal |
 [Old Entity Hastorr](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Hastorr) | 0.4870 | 0.57 | Illegal |
 [Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.4888 | 0.66 | Illegal |
 [Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | 0.4907 | 0.57 | Illegal |
 [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4912 | 0.63 | Illegal |
-[Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4924 | 0.55 | Illegal |
+[Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4925 | 0.55 | Illegal |
 [D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | 0.4942 | 0.68 | Illegal |
 [Ice Beast Zerofyne](https://db.ygoprodeck.com/card/?search=Ice%20Beast%20Zerofyne) | 0.4950 | 0.62 | Illegal |
-[Artifact Ignition](https://db.ygoprodeck.com/card/?search=Artifact%20Ignition) | 0.4989 | 0.62 | Illegal |
-[Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | 0.4992 | 0.64 | Illegal |
+[Artifact Ignition](https://db.ygoprodeck.com/card/?search=Artifact%20Ignition) | 0.4990 | 0.62 | Illegal |
+[Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | 0.4993 | 0.64 | Illegal |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.4995 | 0.57 | Illegal |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.4998 | 0.52 | Illegal |
 [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | 0.5006 | 0.39 | Unlimited |
@@ -25,22 +25,22 @@ This is a list of cards that are likely to change legality before the next rotat
 [Black Feather Whirlwind](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Whirlwind) | 0.5018 | 0.30 | Unlimited |
 [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | 0.5036 | 0.37 | Unlimited |
 [Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.5039 | 0.44 | Unlimited |
-[Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | 0.5043 | 0.04 | Unlimited |
+[Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | 0.5042 | 0.03 | Unlimited |
 [Thunderforce Attack](https://db.ygoprodeck.com/card/?search=Thunderforce%20Attack) | 0.5046 | 0.38 | Unlimited |
-[Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | 0.5056 | 0.43 | Unlimited |
+[Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | 0.5055 | 0.43 | Unlimited |
 [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5059 | 0.39 | Unlimited |
 [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | 0.5089 | 0.41 | Unlimited |
 [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5136 | 0.38 | Unlimited |
 [Ninjitsu Art of Dancing Leaves](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Dancing%20Leaves) | 0.5138 | 0.10 | Unlimited |
 [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5142 | 0.22 | Unlimited |
-[Infernalqueen Salmon](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Salmon) | 0.5157 | 0.13 | Unlimited |
+[Infernalqueen Salmon](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Salmon) | 0.5156 | 0.13 | Unlimited |
 [Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | 0.5180 | 0.34 | Unlimited |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5190 | 0.35 | Unlimited |
-[Melodious Illusion](https://db.ygoprodeck.com/card/?search=Melodious%20Illusion) | 0.5216 | 0.35 | Unlimited |
-[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5307 | 0.25 | Unlimited |
-[Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5388 | 0.13 | Unlimited |
-[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5469 | 0.07 | Unlimited |
-[Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5614 | 0.14 | Unlimited |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5189 | 0.33 | Unlimited |
+[Melodious Illusion](https://db.ygoprodeck.com/card/?search=Melodious%20Illusion) | 0.5215 | 0.35 | Unlimited |
+[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5306 | 0.28 | Unlimited |
+[Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5387 | 0.13 | Unlimited |
+[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5468 | 0.07 | Unlimited |
+[Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5613 | 0.14 | Unlimited |
 
 <br>
 
