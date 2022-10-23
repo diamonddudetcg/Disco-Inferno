@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 191
+Estimated number of changes: 193
 
-Keep in mind there's still 1113 runs left
+Keep in mind there's still 1112 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -58,6 +58,7 @@ Keep in mind there's still 1113 runs left
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Marincess Aqua Argonaut](https://db.ygoprodeck.com/card/?search=Marincess%20Aqua%20Argonaut) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Adamancipator Risen - Dragite](https://db.ygoprodeck.com/card/?search=Adamancipator%20Risen%20-%20Dragite) | Unlimited | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Mermail Abysstrite](https://db.ygoprodeck.com/card/?search=Mermail%20Abysstrite) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | Unlimited | Illegal |
@@ -189,6 +190,7 @@ Keep in mind there's still 1113 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Original Bamboo Sword](https://db.ygoprodeck.com/card/?search=Original%20Bamboo%20Sword) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Scareclaw Decline](https://db.ygoprodeck.com/card/?search=Scareclaw%20Decline) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tearlaments Heartbeat](https://db.ygoprodeck.com/card/?search=Tearlaments%20Heartbeat) | New card | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tri-Brigade Showdown](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Showdown) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Underworld Ritual of Prediction](https://db.ygoprodeck.com/card/?search=Underworld%20Ritual%20of%20Prediction) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vernusylph in Full Bloom](https://db.ygoprodeck.com/card/?search=Vernusylph%20in%20Full%20Bloom) | New card | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cursed Seal of the Forbidden Spell](https://db.ygoprodeck.com/card/?search=Cursed%20Seal%20of%20the%20Forbidden%20Spell) | Illegal | Unlimited |

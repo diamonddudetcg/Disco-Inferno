@@ -1191,6 +1191,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Psychic Lifetrancer](https://db.ygoprodeck.com/card/?search=Psychic%20Lifetrancer) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Psychic Nightmare](https://db.ygoprodeck.com/card/?search=Psychic%20Nightmare) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Queen of Thorns](https://db.ygoprodeck.com/card/?search=Queen%20of%20Thorns) | Illegal |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Supernova Dragon](https://db.ygoprodeck.com/card/?search=Red%20Supernova%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red-Eyes Zombie Dragon Lord](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Zombie%20Dragon%20Lord) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Revived King Ha Des](https://db.ygoprodeck.com/card/?search=Revived%20King%20Ha%20Des) | Illegal |
@@ -1689,7 +1690,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Branded Regained](https://db.ygoprodeck.com/card/?search=Branded%20Regained) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kashtira Birth](https://db.ygoprodeck.com/card/?search=Kashtira%20Birth) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Terrors in the Hidden City](https://db.ygoprodeck.com/card/?search=Terrors%20in%20the%20Hidden%20City) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tri-Brigade Showdown](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Showdown) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vaylantz Wakening - Solo Activation](https://db.ygoprodeck.com/card/?search=Vaylantz%20Wakening%20-%20Solo%20Activation) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbound](https://db.ygoprodeck.com/card/?search=Spellbound) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mobilize - Linkage!](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mobilize%20-%20Linkage!) | Illegal |
@@ -7700,7 +7700,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ravenous Crocodragon Archethys](https://db.ygoprodeck.com/card/?search=Ravenous%20Crocodragon%20Archethys) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Dragon Archfiend](https://db.ygoprodeck.com/card/?search=Red%20Dragon%20Archfiend) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Nova Dragon](https://db.ygoprodeck.com/card/?search=Red%20Nova%20Dragon) | Unlimited |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Wyvern](https://db.ygoprodeck.com/card/?search=Red%20Wyvern) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red-Eyes Zombie Necro Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Zombie%20Necro%20Dragon) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Reptilianne Hydra](https://db.ygoprodeck.com/card/?search=Reptilianne%20Hydra) | Unlimited |
@@ -10031,6 +10030,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Original Bamboo Sword](https://db.ygoprodeck.com/card/?search=Original%20Bamboo%20Sword) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Scareclaw Decline](https://db.ygoprodeck.com/card/?search=Scareclaw%20Decline) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tearlaments Heartbeat](https://db.ygoprodeck.com/card/?search=Tearlaments%20Heartbeat) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tri-Brigade Showdown](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Showdown) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Underworld Ritual of Prediction](https://db.ygoprodeck.com/card/?search=Underworld%20Ritual%20of%20Prediction) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vernusylph in Full Bloom](https://db.ygoprodeck.com/card/?search=Vernusylph%20in%20Full%20Bloom) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [A Feint Plan](https://db.ygoprodeck.com/card/?search=A%20Feint%20Plan) | Unlimited |
