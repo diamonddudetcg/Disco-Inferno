@@ -2025,6 +2025,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lord of the Heavenly Prison](https://db.ygoprodeck.com/card/?search=Lord%20of%20the%20Heavenly%20Prison) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lord Poison](https://db.ygoprodeck.com/card/?search=Lord%20Poison) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Loris, Lady of Lament](https://db.ygoprodeck.com/card/?search=Loris,%20Lady%20of%20Lament) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lost Guardian](https://db.ygoprodeck.com/card/?search=Lost%20Guardian) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lovely Labrynth of the Silver Castle](https://db.ygoprodeck.com/card/?search=Lovely%20Labrynth%20of%20the%20Silver%20Castle) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lucent, Netherlord of Dark World](https://db.ygoprodeck.com/card/?search=Lucent,%20Netherlord%20of%20Dark%20World) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lucius the Shadow Vassal](https://db.ygoprodeck.com/card/?search=Lucius%20the%20Shadow%20Vassal) | Illegal |
@@ -8587,7 +8588,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lord British Space Fighter](https://db.ygoprodeck.com/card/?search=Lord%20British%20Space%20Fighter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lord of D.](https://db.ygoprodeck.com/card/?search=Lord%20of%20D.) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lost Blue Breaker](https://db.ygoprodeck.com/card/?search=Lost%20Blue%20Breaker) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lost Guardian](https://db.ygoprodeck.com/card/?search=Lost%20Guardian) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Loud Cloud the Storm Serpent](https://db.ygoprodeck.com/card/?search=Loud%20Cloud%20the%20Storm%20Serpent) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight Crimson Fox](https://db.ygoprodeck.com/card/?search=Lunalight%20Crimson%20Fox) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lyrilusc - Beryl Canary](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Beryl%20Canary) | Unlimited |
