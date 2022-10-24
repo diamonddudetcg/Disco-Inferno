@@ -3675,7 +3675,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Borreload Furious Dragon](https://db.ygoprodeck.com/card/?search=Borreload%20Furious%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Bracchio-raidus](https://db.ygoprodeck.com/card/?search=Bracchio-raidus) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Brave-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Brave-Eyes%20Pendulum%20Dragon) | Illegal |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Brigrand the Glory Dragon](https://db.ygoprodeck.com/card/?search=Brigrand%20the%20Glory%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Brotherhood of the Fire Fist - Swan](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Swan) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Buster Blader, the Dragon Destroyer Swordsman](https://db.ygoprodeck.com/card/?search=Buster%20Blader,%20the%20Dragon%20Destroyer%20Swordsman) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Centaur Mina](https://db.ygoprodeck.com/card/?search=Centaur%20Mina) | Illegal |
@@ -9620,6 +9619,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Allvain the Essence of Vanity](https://db.ygoprodeck.com/card/?search=Allvain%20the%20Essence%20of%20Vanity) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amazoness Empress](https://db.ygoprodeck.com/card/?search=Amazoness%20Empress) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Arcana Knight Joker](https://db.ygoprodeck.com/card/?search=Arcana%20Knight%20Joker) | Unlimited |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Brigrand the Glory Dragon](https://db.ygoprodeck.com/card/?search=Brigrand%20the%20Glory%20Dragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimera the Flying Mythical Beast](https://db.ygoprodeck.com/card/?search=Chimera%20the%20Flying%20Mythical%20Beast) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimeratech Overdragon](https://db.ygoprodeck.com/card/?search=Chimeratech%20Overdragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Coordius the Triphasic Dealmon](https://db.ygoprodeck.com/card/?search=Coordius%20the%20Triphasic%20Dealmon) | Unlimited |
