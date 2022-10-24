@@ -14,21 +14,21 @@ This is a list of cards that are likely to change legality before the next rotat
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4952 | 0.55 | Illegal |
 [Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.4969 | 0.66 | Illegal |
 [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4978 | 0.63 | Illegal |
-[Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5003 | 0.22 | Unlimited |
+[Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.5002 | 0.22 | Unlimited |
 [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5004 | 0.39 | Unlimited |
 [Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.5009 | 0.44 | Unlimited |
 [Mitsu the Insect Ninja](https://db.ygoprodeck.com/card/?search=Mitsu%20the%20Insect%20Ninja) | 0.5019 | 0.47 | Unlimited |
 [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | 0.5020 | 0.43 | Unlimited |
 [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | 0.5042 | 0.41 | Unlimited |
 [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5073 | 0.38 | Unlimited |
-[Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | 0.5096 | 0.34 | Unlimited |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5110 | 0.37 | Unlimited |
+[Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | 0.5095 | 0.34 | Unlimited |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5109 | 0.36 | Unlimited |
 [Melodious Illusion](https://db.ygoprodeck.com/card/?search=Melodious%20Illusion) | 0.5134 | 0.35 | Unlimited |
-[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5173 | 0.22 | Unlimited |
-[Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5194 | 0.13 | Unlimited |
-[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5242 | 0.07 | Unlimited |
-[Meizen the Battle Ninja](https://db.ygoprodeck.com/card/?search=Meizen%20the%20Battle%20Ninja) | 0.5262 | 0.16 | Unlimited |
-[Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5414 | 0.14 | Unlimited |
+[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5173 | 0.28 | Unlimited |
+[Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5193 | 0.13 | Unlimited |
+[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5241 | 0.07 | Unlimited |
+[Meizen the Battle Ninja](https://db.ygoprodeck.com/card/?search=Meizen%20the%20Battle%20Ninja) | 0.5261 | 0.18 | Unlimited |
+[Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5413 | 0.14 | Unlimited |
 
 <br>
 
