@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 212
+Estimated number of changes: 213
 
-Keep in mind there's still 694 runs left
+Keep in mind there's still 693 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -186,6 +186,7 @@ Keep in mind there's still 694 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Illusion](https://db.ygoprodeck.com/card/?search=Bubble%20Illusion) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Contact Out](https://db.ygoprodeck.com/card/?search=Contact%20Out) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fifth Hope](https://db.ygoprodeck.com/card/?search=Fifth%20Hope) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagaga Academy Emergency Network](https://db.ygoprodeck.com/card/?search=Gagaga%20Academy%20Emergency%20Network) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagagadraw](https://db.ygoprodeck.com/card/?search=Gagagadraw) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | Illegal | Unlimited |
