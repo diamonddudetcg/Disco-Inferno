@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 287
+Estimated number of changes: 289
 
-Keep in mind there's still 635 runs left
+Keep in mind there's still 634 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -83,6 +83,7 @@ Keep in mind there's still 635 runs left
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Ice Beast Zerofyne](https://db.ygoprodeck.com/card/?search=Ice%20Beast%20Zerofyne) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Mermail Abysstrite](https://db.ygoprodeck.com/card/?search=Mermail%20Abysstrite) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 14: Greedy Sarameya](https://db.ygoprodeck.com/card/?search=Number%2014:%20Greedy%20Sarameya) | Unlimited | Illegal |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Raidraptor - Blaze Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Blaze%20Falcon) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Aroma Garden](https://db.ygoprodeck.com/card/?search=Aroma%20Garden) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Artifact Ignition](https://db.ygoprodeck.com/card/?search=Artifact%20Ignition) | Unlimited | Illegal |
@@ -222,6 +223,7 @@ Keep in mind there's still 635 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Meizen the Battle Ninja](https://db.ygoprodeck.com/card/?search=Meizen%20the%20Battle%20Ninja) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Super Vehicroid Jumbo Drill](https://db.ygoprodeck.com/card/?search=Super%20Vehicroid%20Jumbo%20Drill) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom) | Forbidden | Unlimited |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [UFOroid Fighter](https://db.ygoprodeck.com/card/?search=UFOroid%20Fighter) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amazoness Augusta](https://db.ygoprodeck.com/card/?search=Amazoness%20Augusta) | New card | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Freki the Runick Fangs](https://db.ygoprodeck.com/card/?search=Freki%20the%20Runick%20Fangs) | New card | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | Illegal | Unlimited |
