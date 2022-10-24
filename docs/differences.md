@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 270
+Estimated number of changes: 273
 
-Keep in mind there's still 641 runs left
+Keep in mind there's still 640 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -59,6 +59,7 @@ Keep in mind there's still 641 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Windwitch - Snow Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Snow%20Bell) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | Unlimited | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Borreload Riot Dragon](https://db.ygoprodeck.com/card/?search=Borreload%20Riot%20Dragon) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Nebula Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Nebula%20Neos) | Unlimited | Illegal |
@@ -161,6 +162,7 @@ Keep in mind there's still 641 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red-Eyes Wyvern](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Samsara Lotus](https://db.ygoprodeck.com/card/?search=Samsara%20Lotus) | Forbidden | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Knight Flamel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Flamel) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Knight Rayel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Rayel) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stone Statue of the Aztecs](https://db.ygoprodeck.com/card/?search=Stone%20Statue%20of%20the%20Aztecs) | Illegal | Unlimited |
@@ -220,11 +222,11 @@ Keep in mind there's still 641 runs left
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Blackwing - Boreastorm the Wicked Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreastorm%20the%20Wicked%20Wind) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Super Doom King Bright Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Bright%20Armageddon) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | Illegal | Unlimited |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Dragunity Knight - Vajrayana](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Vajrayana) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | New card | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Tilting Entrainment](https://db.ygoprodeck.com/card/?search=Tilting%20Entrainment) | New card | Unlimited |
-|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 102: Star Seraph Sentry](https://db.ygoprodeck.com/card/?search=Number%20102:%20Star%20Seraph%20Sentry) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sky Cavalry Centaurea](https://db.ygoprodeck.com/card/?search=Sky%20Cavalry%20Centaurea) | Illegal | Unlimited |
@@ -241,6 +243,7 @@ Keep in mind there's still 641 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skyscraper 2 - Hero City](https://db.ygoprodeck.com/card/?search=Skyscraper%202%20-%20Hero%20City) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunderforce Attack](https://db.ygoprodeck.com/card/?search=Thunderforce%20Attack) | Illegal | Unlimited |
