@@ -1653,7 +1653,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [The Seal of Orichalcos](https://db.ygoprodeck.com/card/?search=The%20Seal%20of%20Orichalcos) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Therion Discolosseum](https://db.ygoprodeck.com/card/?search=Therion%20Discolosseum) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunder Dragon Fusion](https://db.ygoprodeck.com/card/?search=Thunder%20Dragon%20Fusion) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunderforce Attack](https://db.ygoprodeck.com/card/?search=Thunderforce%20Attack) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Toon Bookmark](https://db.ygoprodeck.com/card/?search=Toon%20Bookmark) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Toon Kingdom](https://db.ygoprodeck.com/card/?search=Toon%20Kingdom) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Toon Page-Flip](https://db.ygoprodeck.com/card/?search=Toon%20Page-Flip) | Illegal |
@@ -9801,6 +9800,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thousand Knives](https://db.ygoprodeck.com/card/?search=Thousand%20Knives) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunder Crash](https://db.ygoprodeck.com/card/?search=Thunder%20Crash) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunder Short](https://db.ygoprodeck.com/card/?search=Thunder%20Short) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunderforce Attack](https://db.ygoprodeck.com/card/?search=Thunderforce%20Attack) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunderspeed Summon](https://db.ygoprodeck.com/card/?search=Thunderspeed%20Summon) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ties of the Brethren](https://db.ygoprodeck.com/card/?search=Ties%20of%20the%20Brethren) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tilted Try](https://db.ygoprodeck.com/card/?search=Tilted%20Try) | Unlimited |

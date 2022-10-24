@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 209
+Estimated number of changes: 210
 
-Keep in mind there's still 755 runs left
+Keep in mind there's still 754 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -190,6 +190,7 @@ Keep in mind there's still 755 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Skyscraper 2 - Hero City](https://db.ygoprodeck.com/card/?search=Skyscraper%202%20-%20Hero%20City) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Thunderforce Attack](https://db.ygoprodeck.com/card/?search=Thunderforce%20Attack) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Wind-Up Factory](https://db.ygoprodeck.com/card/?search=Wind-Up%20Factory) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [World Legacy Guardragon](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Guardragon) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ninjitsu Art Tool - Iron Digger](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20Tool%20-%20Iron%20Digger) | New card | Unlimited |
