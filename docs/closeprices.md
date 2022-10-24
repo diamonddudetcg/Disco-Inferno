@@ -7,12 +7,12 @@ This is a list of cards that are likely to change legality before the next rotat
 | Card name | Average | Last | Projected legality |
 | :-- |
 [Time-Space Trap Hole](https://db.ygoprodeck.com/card/?search=Time-Space%20Trap%20Hole) | 0.4732 | 0.72 | Illegal |
-[Blackwing - Steam the Cloak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Steam%20the%20Cloak) | 0.4836 | 0.80 | Illegal |
+[Blackwing - Steam the Cloak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Steam%20the%20Cloak) | 0.4837 | 0.80 | Illegal |
 [Wind-Up Factory](https://db.ygoprodeck.com/card/?search=Wind-Up%20Factory) | 0.4859 | 0.65 | Illegal |
 [Old Entity Hastorr](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Hastorr) | 0.4915 | 0.57 | Illegal |
 [Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | 0.4949 | 0.57 | Illegal |
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4955 | 0.55 | Illegal |
-[Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.4979 | 0.66 | Illegal |
+[Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.4980 | 0.66 | Illegal |
 [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | 0.4986 | 0.63 | Illegal |
 [Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.5005 | 0.44 | Unlimited |
 [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | 0.5015 | 0.43 | Unlimited |
@@ -20,13 +20,13 @@ This is a list of cards that are likely to change legality before the next rotat
 [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | 0.5036 | 0.41 | Unlimited |
 [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.5065 | 0.38 | Unlimited |
 [Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | 0.5085 | 0.34 | Unlimited |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5100 | 0.36 | Unlimited |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.5099 | 0.35 | Unlimited |
 [Melodious Illusion](https://db.ygoprodeck.com/card/?search=Melodious%20Illusion) | 0.5124 | 0.35 | Unlimited |
-[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5157 | 0.27 | Unlimited |
+[Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.5156 | 0.26 | Unlimited |
 [Naturia Mole Cricket](https://db.ygoprodeck.com/card/?search=Naturia%20Mole%20Cricket) | 0.5169 | 0.13 | Unlimited |
-[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5214 | 0.07 | Unlimited |
-[Meizen the Battle Ninja](https://db.ygoprodeck.com/card/?search=Meizen%20the%20Battle%20Ninja) | 0.5238 | 0.16 | Unlimited |
-[Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5388 | 0.14 | Unlimited |
+[Baku the Beast Ninja](https://db.ygoprodeck.com/card/?search=Baku%20the%20Beast%20Ninja) | 0.5213 | 0.07 | Unlimited |
+[Meizen the Battle Ninja](https://db.ygoprodeck.com/card/?search=Meizen%20the%20Battle%20Ninja) | 0.5237 | 0.17 | Unlimited |
+[Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5387 | 0.14 | Unlimited |
 
 <br>
 
