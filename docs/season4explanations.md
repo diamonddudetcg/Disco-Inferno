@@ -64,6 +64,10 @@ Teleport was being abused in both Synchron and Virtual World. The fact it's an e
 
 With both [Denko Sekka](https://db.ygoprodeck.com/card/?search=Denko%20Sekka) and [Royal Decree](https://db.ygoprodeck.com/card/?search=Royal%20Decree) gone, we wanted to have a card that punishes backrow decks without outright killing them. We are testing the waters with it as Hey proved to be a very toxic card at 3, but we are hopeful that it'll be okay at 1. It also incentivizes trap decks to play defensive options like [Threatening Roar](https://db.ygoprodeck.com/card/?search=Threatening%20Roar) or [Waboku](https://db.ygoprodeck.com/card/?search=Waboku), and you can always have more of those than your opponent has Hey.
 
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jewels of the Valiant](https://db.ygoprodeck.com/card/?search=Jewels%20of%20the%20Valiant)
+
+Jewels of the Valiant gives Tenyi a way better grind game than it would normally have. We want Tenyi to still be a deck, so this is mostly a slap in the wrist.
+
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map)
 
