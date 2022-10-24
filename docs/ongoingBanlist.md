@@ -247,6 +247,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Magician Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Sage](https://db.ygoprodeck.com/card/?search=Dark%20Sage) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Voltanis](https://db.ygoprodeck.com/card/?search=Dark%20Voltanis) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark-Eyes Illusionist](https://db.ygoprodeck.com/card/?search=Dark-Eyes%20Illusionist) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darkest Diabolos, Lord of the Lair](https://db.ygoprodeck.com/card/?search=Darkest%20Diabolos,%20Lord%20of%20the%20Lair) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darklord Amdusc](https://db.ygoprodeck.com/card/?search=Darklord%20Amdusc) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darklord Tezcatlipoca](https://db.ygoprodeck.com/card/?search=Darklord%20Tezcatlipoca) | Illegal |
@@ -283,7 +284,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragunity Remus](https://db.ygoprodeck.com/card/?search=Dragunity%20Remus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dreiath III, the True Dracocavalry General](https://db.ygoprodeck.com/card/?search=Dreiath%20III,%20the%20True%20Dracocavalry%20General) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Droll & Lock Bird](https://db.ygoprodeck.com/card/?search=Droll%20%26%20Lock%20Bird) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Duoterion](https://db.ygoprodeck.com/card/?search=Duoterion) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dynatherium](https://db.ygoprodeck.com/card/?search=Dynatherium) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Edge Imp Chain](https://db.ygoprodeck.com/card/?search=Edge%20Imp%20Chain) | Illegal |
@@ -322,7 +322,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Barong](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Barong) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Yaksha](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Yaksha) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King High Avatar Garunix](https://db.ygoprodeck.com/card/?search=Fire%20King%20High%20Avatar%20Garunix) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Bear](https://db.ygoprodeck.com/card/?search=Fluffal%20Bear) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Mouse](https://db.ygoprodeck.com/card/?search=Fluffal%20Mouse) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Octopus](https://db.ygoprodeck.com/card/?search=Fluffal%20Octopus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Penguin](https://db.ygoprodeck.com/card/?search=Fluffal%20Penguin) | Illegal |
@@ -357,7 +356,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gilford the Legend](https://db.ygoprodeck.com/card/?search=Gilford%20the%20Legend) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Giltia the D. Knight - Soul Spear](https://db.ygoprodeck.com/card/?search=Giltia%20the%20D.%20Knight%20-%20Soul%20Spear) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Egg Head](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Egg%20Head) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Gear Changer](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Gear%20Changer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Scissor Arms](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Scissor%20Arms) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Girsu, the Orcust Mekk-Knight](https://db.ygoprodeck.com/card/?search=Girsu,%20the%20Orcust%20Mekk-Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gishki Abyss](https://db.ygoprodeck.com/card/?search=Gishki%20Abyss) | Illegal |
@@ -379,7 +377,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Granmarg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Granmarg%20the%20Mega%20Monarch) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Commandant](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Commandant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Descendant](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Descendant) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Heretic](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Heretic) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Nobleman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Nobleman) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Oracle](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Oracle) | Illegal |
@@ -436,9 +433,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jinzo the Machine Menace](https://db.ygoprodeck.com/card/?search=Jinzo%20the%20Machine%20Menace) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Joker's Knight](https://db.ygoprodeck.com/card/?search=Joker's%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junk Forward](https://db.ygoprodeck.com/card/?search=Junk%20Forward) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junk Servant](https://db.ygoprodeck.com/card/?search=Junk%20Servant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Aeolo](https://db.ygoprodeck.com/card/?search=Jurrac%20Aeolo) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Velo](https://db.ygoprodeck.com/card/?search=Jurrac%20Velo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Justice Bringer](https://db.ygoprodeck.com/card/?search=Justice%20Bringer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kaiser Glider - Golden Burst](https://db.ygoprodeck.com/card/?search=Kaiser%20Glider%20-%20Golden%20Burst) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Karakuri Merchant mdl 177 "Inashichi"](https://db.ygoprodeck.com/card/?search=Karakuri%20Merchant%20mdl%20177%20"Inashichi") | Illegal |
@@ -659,7 +654,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Pharaoh](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pharaoh) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spright Blue](https://db.ygoprodeck.com/card/?search=Spright%20Blue) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Knight Rayel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Rayel) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Night, Starry Dragon](https://db.ygoprodeck.com/card/?search=Starry%20Night,%20Starry%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Steelswarm Caucastag](https://db.ygoprodeck.com/card/?search=Steelswarm%20Caucastag) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Strong Wind Dragon](https://db.ygoprodeck.com/card/?search=Strong%20Wind%20Dragon) | Illegal |
@@ -771,6 +765,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Witchcrafter Pittore](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Pittore) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wodan the Resident of the Forest](https://db.ygoprodeck.com/card/?search=Wodan%20the%20Resident%20of%20the%20Forest) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [World of Prophecy](https://db.ygoprodeck.com/card/?search=World%20of%20Prophecy) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wulf, Lightsworn Beast](https://db.ygoprodeck.com/card/?search=Wulf,%20Lightsworn%20Beast) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Faultroll](https://db.ygoprodeck.com/card/?search=XX-Saber%20Faultroll) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [XX-Saber Gardestrike](https://db.ygoprodeck.com/card/?search=XX-Saber%20Gardestrike) | Illegal |
@@ -1288,7 +1283,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Mermail Abyssgaios](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssgaios) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Mermail Abysstrite](https://db.ygoprodeck.com/card/?search=Mermail%20Abysstrite) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Minerva, the Exalted Lightsworn](https://db.ygoprodeck.com/card/?search=Minerva,%20the%20Exalted%20Lightsworn) | Illegal |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Neo Galaxy-Eyes Photon Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Photon%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 100: Numeron Dragon](https://db.ygoprodeck.com/card/?search=Number%20100:%20Numeron%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 103: Ragnazero](https://db.ygoprodeck.com/card/?search=Number%20103:%20Ragnazero) | Illegal |
@@ -1416,6 +1410,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Broken Bamboo Sword](https://db.ygoprodeck.com/card/?search=Broken%20Bamboo%20Sword) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Blaster](https://db.ygoprodeck.com/card/?search=Bubble%20Blaster) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Illusion](https://db.ygoprodeck.com/card/?search=Bubble%20Illusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Burning Spear](https://db.ygoprodeck.com/card/?search=Burning%20Spear) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Butterfly Dagger - Elma](https://db.ygoprodeck.com/card/?search=Butterfly%20Dagger%20-%20Elma) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | Illegal |
@@ -1445,7 +1440,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dangerous Machine Type-6](https://db.ygoprodeck.com/card/?search=Dangerous%20Machine%20Type-6) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Burning Magic](https://db.ygoprodeck.com/card/?search=Dark%20Burning%20Magic) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Inheritance](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Inheritance) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Room of Nightmare](https://db.ygoprodeck.com/card/?search=Dark%20Room%20of%20Nightmare) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark World Dealings](https://db.ygoprodeck.com/card/?search=Dark%20World%20Dealings) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Delinquent Duo](https://db.ygoprodeck.com/card/?search=Delinquent%20Duo) | Illegal |
@@ -1749,6 +1743,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Madolche Tea Break](https://db.ygoprodeck.com/card/?search=Madolche%20Tea%20Break) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Madolchepalooza](https://db.ygoprodeck.com/card/?search=Madolchepalooza) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Last Stand](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Last%20Stand) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mathmech Superfactorial](https://db.ygoprodeck.com/card/?search=Mathmech%20Superfactorial) | Illegal |
@@ -3297,7 +3292,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Valkyria](https://db.ygoprodeck.com/card/?search=Dark%20Valkyria) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Verger](https://db.ygoprodeck.com/card/?search=Dark%20Verger) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Zebra](https://db.ygoprodeck.com/card/?search=Dark%20Zebra) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark-Eyes Illusionist](https://db.ygoprodeck.com/card/?search=Dark-Eyes%20Illusionist) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darkbishop Archfiend](https://db.ygoprodeck.com/card/?search=Darkbishop%20Archfiend) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darkblaze Dragon](https://db.ygoprodeck.com/card/?search=Darkblaze%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darkflare Dragon](https://db.ygoprodeck.com/card/?search=Darkflare%20Dragon) | Unlimited |
@@ -3562,6 +3556,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [DUCKER Mobile Cannon](https://db.ygoprodeck.com/card/?search=DUCKER%20Mobile%20Cannon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Duke Shade, the Sinister Shadow Lord](https://db.ygoprodeck.com/card/?search=Duke%20Shade,%20the%20Sinister%20Shadow%20Lord) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dummy Golem](https://db.ygoprodeck.com/card/?search=Dummy%20Golem) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Duoterion](https://db.ygoprodeck.com/card/?search=Duoterion) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dupe Frog](https://db.ygoprodeck.com/card/?search=Dupe%20Frog) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dust Knight](https://db.ygoprodeck.com/card/?search=Dust%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Duza the Meteor Cubic Vessel](https://db.ygoprodeck.com/card/?search=Duza%20the%20Meteor%20Cubic%20Vessel) | Unlimited |
@@ -3832,6 +3827,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flowerbot](https://db.ygoprodeck.com/card/?search=Flowerbot) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flowerdino](https://db.ygoprodeck.com/card/?search=Flowerdino) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Angel](https://db.ygoprodeck.com/card/?search=Fluffal%20Angel) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Bear](https://db.ygoprodeck.com/card/?search=Fluffal%20Bear) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Cat](https://db.ygoprodeck.com/card/?search=Fluffal%20Cat) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Dolphin](https://db.ygoprodeck.com/card/?search=Fluffal%20Dolphin) | Unlimited |
@@ -4037,6 +4033,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Bisque Doll](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Bisque%20Doll) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Des Troy](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Des%20Troy) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Dreary Doll](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Dreary%20Doll) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Gear Changer](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Gear%20Changer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Humpty Dumpty](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Humpty%20Dumpty) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Magnet Doll](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Magnet%20Doll) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Nightmare](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Nightmare) | Unlimited |
@@ -4162,6 +4159,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Cannonholder](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Cannonholder) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Chief](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Chief) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Curse](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Curse) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Headman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Headman) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Priestess](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Priestess) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Shaman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Shaman) | Unlimited |
@@ -4499,6 +4497,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junk Converter](https://db.ygoprodeck.com/card/?search=Junk%20Converter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junk Defender](https://db.ygoprodeck.com/card/?search=Junk%20Defender) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junk Giant](https://db.ygoprodeck.com/card/?search=Junk%20Giant) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junk Servant](https://db.ygoprodeck.com/card/?search=Junk%20Servant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junk Synchron](https://db.ygoprodeck.com/card/?search=Junk%20Synchron) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junkuriboh](https://db.ygoprodeck.com/card/?search=Junkuriboh) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Juragedo](https://db.ygoprodeck.com/card/?search=Juragedo) | Unlimited |
@@ -4515,6 +4514,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Stauriko](https://db.ygoprodeck.com/card/?search=Jurrac%20Stauriko) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Titano](https://db.ygoprodeck.com/card/?search=Jurrac%20Titano) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Tyrannus](https://db.ygoprodeck.com/card/?search=Jurrac%20Tyrannus) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Velo](https://db.ygoprodeck.com/card/?search=Jurrac%20Velo) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Justice of Prophecy](https://db.ygoprodeck.com/card/?search=Justice%20of%20Prophecy) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jutte Fighter](https://db.ygoprodeck.com/card/?search=Jutte%20Fighter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [KA-2 Des Scissors](https://db.ygoprodeck.com/card/?search=KA-2%20Des%20Scissors) | Unlimited |
@@ -6091,6 +6091,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Knight Ciel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Ciel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Knight Flamel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Flamel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Knight Orbitael](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Orbitael) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starry Knight Rayel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Rayel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Starship Spy Plane](https://db.ygoprodeck.com/card/?search=Starship%20Spy%20Plane) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Staysailor Romarin](https://db.ygoprodeck.com/card/?search=Staysailor%20Romarin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stealth Bird](https://db.ygoprodeck.com/card/?search=Stealth%20Bird) | Unlimited |
@@ -6793,7 +6794,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Noble](https://db.ygoprodeck.com/card/?search=Worm%20Noble) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Opera](https://db.ygoprodeck.com/card/?search=Worm%20Opera) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Prince](https://db.ygoprodeck.com/card/?search=Worm%20Prince) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Rakuyeh](https://db.ygoprodeck.com/card/?search=Worm%20Rakuyeh) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Solid](https://db.ygoprodeck.com/card/?search=Worm%20Solid) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Worm Tentacles](https://db.ygoprodeck.com/card/?search=Worm%20Tentacles) | Unlimited |
@@ -7912,6 +7912,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Musical Sumo Dice Games](https://db.ygoprodeck.com/card/?search=Musical%20Sumo%20Dice%20Games) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Muzurhythm the String Djinn](https://db.ygoprodeck.com/card/?search=Muzurhythm%20the%20String%20Djinn) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [N.As.H. Knight](https://db.ygoprodeck.com/card/?search=N.As.H.%20Knight) | Unlimited |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Night Papilloperative](https://db.ygoprodeck.com/card/?search=Night%20Papilloperative) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Ninaruru, the Magistus Glass Goddess](https://db.ygoprodeck.com/card/?search=Ninaruru,%20the%20Magistus%20Glass%20Goddess) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Nine-Lives Cat](https://db.ygoprodeck.com/card/?search=Nine-Lives%20Cat) | Unlimited |
@@ -8280,7 +8281,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Breaking of the World](https://db.ygoprodeck.com/card/?search=Breaking%20of%20the%20World) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Breath of Acclamation](https://db.ygoprodeck.com/card/?search=Breath%20of%20Acclamation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Barrier](https://db.ygoprodeck.com/card/?search=Bubble%20Barrier) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Illusion](https://db.ygoprodeck.com/card/?search=Bubble%20Illusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Shuffle](https://db.ygoprodeck.com/card/?search=Bubble%20Shuffle) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bug Matrix](https://db.ygoprodeck.com/card/?search=Bug%20Matrix) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bug Signal](https://db.ygoprodeck.com/card/?search=Bug%20Signal) | Unlimited |
@@ -8474,6 +8474,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magic Veil](https://db.ygoprodeck.com/card/?search=Dark%20Magic%20Veil) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Magical Circle](https://db.ygoprodeck.com/card/?search=Dark%20Magical%20Circle) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Mambele](https://db.ygoprodeck.com/card/?search=Dark%20Mambele) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Room of Nightmare](https://db.ygoprodeck.com/card/?search=Dark%20Room%20of%20Nightmare) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Sanctuary](https://db.ygoprodeck.com/card/?search=Dark%20Sanctuary) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Snake Syndrome](https://db.ygoprodeck.com/card/?search=Dark%20Snake%20Syndrome) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Spirit's Mastery](https://db.ygoprodeck.com/card/?search=Dark%20Spirit's%20Mastery) | Unlimited |
@@ -10858,7 +10859,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Cylinders](https://db.ygoprodeck.com/card/?search=Magical%20Cylinders) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Hats](https://db.ygoprodeck.com/card/?search=Magical%20Hats) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Crooked Crown](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Crooked%20Crown) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Fiendish Deal](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Fiendish%20Deal) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Thorn](https://db.ygoprodeck.com/card/?search=Magical%20Thorn) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magician Navigation](https://db.ygoprodeck.com/card/?search=Magician%20Navigation) | Unlimited |
