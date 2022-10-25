@@ -5,9 +5,7 @@ title:  "Disco Inferno"
 ## Disco Inferno Season 3 Banlist explanations:
 
 
-Starting with Season 3, we're doing something Konami hasn't done since 2012 and we're explaining the banlist movements.
-
-The purpose of this banlist is hitting the unfair parts of certain decks that are perfectly fine to exist, but also to hopefully remove Floowandereeze from the format, whose resource loop is incredibly good in a format with a smaller card pool than Advanced, and whose weakness to hand traps is largely removed in a format in which the only legal one is [Ghost Mourner](https://db.ygoprodeck.com/card/?search=Ghost%20Mourner%20%26%20Moonlit%20Chill).
+You know the drill.
 
 
 ## Forbidden
@@ -80,18 +78,27 @@ With how prevalent Kaijus are in Disco Inferno, Slumber had become both a facili
 <br>
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fiber Jar](https://db.ygoprodeck.com/card/?search=Fiber%20Jar)
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fishborg Blaster](https://db.ygoprodeck.com/card/?search=Fishborg%20Blaster)
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phoenixian Cluster Amaryllis](https://db.ygoprodeck.com/card/?search=Phoenixian%20Cluster%20Amaryllis)
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Samsara Lotus](https://db.ygoprodeck.com/card/?search=Samsara%20Lotus)
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Substitoad](https://db.ygoprodeck.com/card/?search=Substitoad)
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Tyrant Neptune](https://db.ygoprodeck.com/card/?search=The%20Tyrant%20Neptune)
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fiber Jar](https://db.ygoprodeck.com/card/?search=Fiber%20Jar)
+
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Wind-Up Carrier Zenmaity"](https://db.ygoprodeck.com/card/?search=Wind-Up%20Carrier%20Zenmaity)
 
 We don't think any of these are going to break anything.
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [True King Lithosagym, the Disaster](https://db.ygoprodeck.com/card/?search=True%20King%20Lithosagym,%20The%20Disaster)
+
 <img src="assets/fusion.png" alt="Fusion Monster" width="12" height="12"/> [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom)
+
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Fiber%20Jar)
 
 Dinosaurs, Pendulum and Dragons haven't performed at all, and we want to gradually give them stuff until they become playable. If something breaks we'll consider changing stuff back, but these feel safe enough.
