@@ -2,7 +2,7 @@
 title:  "Disco Inferno"
 ---
 
-## Disco Inferno Season 3 Banlist explanations:
+## Disco Inferno Season 4 Banlist explanations:
 
 
 You know the drill.
