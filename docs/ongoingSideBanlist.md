@@ -2823,6 +2823,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speed Bird](https://db.ygoprodeck.com/card/?search=Speed%20Bird) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Dominobutterfly](https://db.ygoprodeck.com/card/?search=Speedroid%20Dominobutterfly) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Fuki-Modoshi Piper](https://db.ygoprodeck.com/card/?search=Speedroid%20Fuki-Modoshi%20Piper) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Hexasaucer](https://db.ygoprodeck.com/card/?search=Speedroid%20Hexasaucer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Menko](https://db.ygoprodeck.com/card/?search=Speedroid%20Menko) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Ohajikid](https://db.ygoprodeck.com/card/?search=Speedroid%20Ohajikid) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Pachingo-Kart](https://db.ygoprodeck.com/card/?search=Speedroid%20Pachingo-Kart) | Illegal |
@@ -6595,6 +6596,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Doble Passe](https://db.ygoprodeck.com/card/?search=Doble%20Passe) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dogmatika Punishment](https://db.ygoprodeck.com/card/?search=Dogmatika%20Punishment) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Doppelganger](https://db.ygoprodeck.com/card/?search=Doppelganger) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Magical Arm Bind](https://db.ygoprodeck.com/card/?search=Double%20Magical%20Arm%20Bind) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Payback](https://db.ygoprodeck.com/card/?search=Double%20Payback) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Trap Hole](https://db.ygoprodeck.com/card/?search=Double%20Trap%20Hole) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Draco-Utopian Aura](https://db.ygoprodeck.com/card/?search=Draco-Utopian%20Aura) | Illegal |
@@ -9213,7 +9215,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Den-Den Daiko Duke](https://db.ygoprodeck.com/card/?search=Speedroid%20Den-Den%20Daiko%20Duke) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Double Yoyo](https://db.ygoprodeck.com/card/?search=Speedroid%20Double%20Yoyo) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Gum Prize](https://db.ygoprodeck.com/card/?search=Speedroid%20Gum%20Prize) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Hexasaucer](https://db.ygoprodeck.com/card/?search=Speedroid%20Hexasaucer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Horse Stilts](https://db.ygoprodeck.com/card/?search=Speedroid%20Horse%20Stilts) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Maliciousmagnet](https://db.ygoprodeck.com/card/?search=Speedroid%20Maliciousmagnet) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Marble Machine](https://db.ygoprodeck.com/card/?search=Speedroid%20Marble%20Machine) | Unlimited |
@@ -11006,7 +11007,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Cipher](https://db.ygoprodeck.com/card/?search=Double%20Cipher) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Dragon Descent](https://db.ygoprodeck.com/card/?search=Double%20Dragon%20Descent) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Dust Tornado Twins](https://db.ygoprodeck.com/card/?search=Double%20Dust%20Tornado%20Twins) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Magical Arm Bind](https://db.ygoprodeck.com/card/?search=Double%20Magical%20Arm%20Bind) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double Tag Team](https://db.ygoprodeck.com/card/?search=Double%20Tag%20Team) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Double-Edged Sword Technique](https://db.ygoprodeck.com/card/?search=Double-Edged%20Sword%20Technique) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dragon Capture Jar](https://db.ygoprodeck.com/card/?search=Dragon%20Capture%20Jar) | Unlimited |
