@@ -1081,6 +1081,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Maximus](https://db.ygoprodeck.com/card/?search=Dogmatika%20Maximus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogoran, the Mad Flame Kaiju](https://db.ygoprodeck.com/card/?search=Dogoran,%20the%20Mad%20Flame%20Kaiju) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogu](https://db.ygoprodeck.com/card/?search=Dogu) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doki Doki](https://db.ygoprodeck.com/card/?search=Doki%20Doki) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Don Zaloog](https://db.ygoprodeck.com/card/?search=Don%20Zaloog) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Donpa, Marksman Fur Hire](https://db.ygoprodeck.com/card/?search=Donpa,%20Marksman%20Fur%20Hire) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Donyoribo @Ignister](https://db.ygoprodeck.com/card/?search=Donyoribo%20@Ignister) | Illegal |
@@ -2922,6 +2923,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Umastryx](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Umastryx) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Voltelluric](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Voltelluric) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Fiendess](https://db.ygoprodeck.com/card/?search=Subterror%20Fiendess) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Guru](https://db.ygoprodeck.com/card/?search=Subterror%20Guru) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Nemesis Archer](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Archer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Nemesis Defender](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Defender) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Nemesis Warrior](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Warrior) | Illegal |
@@ -8026,7 +8028,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Nexus](https://db.ygoprodeck.com/card/?search=Dogmatika%20Nexus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Theo, the Iron Punch](https://db.ygoprodeck.com/card/?search=Dogmatika%20Theo,%20the%20Iron%20Punch) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doitsu](https://db.ygoprodeck.com/card/?search=Doitsu) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doki Doki](https://db.ygoprodeck.com/card/?search=Doki%20Doki) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Don Turtle](https://db.ygoprodeck.com/card/?search=Don%20Turtle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doom Donuts](https://db.ygoprodeck.com/card/?search=Doom%20Donuts) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doombearer Psychopompos](https://db.ygoprodeck.com/card/?search=Doombearer%20Psychopompos) | Unlimited |
@@ -9261,7 +9262,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Stygian Street Patrol](https://db.ygoprodeck.com/card/?search=Stygian%20Street%20Patrol) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Submareed Tour Ride](https://db.ygoprodeck.com/card/?search=Submareed%20Tour%20Ride) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Phospheroglacier](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Phospheroglacier) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Guru](https://db.ygoprodeck.com/card/?search=Subterror%20Guru) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Summon Reactor SK](https://db.ygoprodeck.com/card/?search=Summon%20Reactor%20SK) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Summoner Monk](https://db.ygoprodeck.com/card/?search=Summoner%20Monk) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunlight Unicorn](https://db.ygoprodeck.com/card/?search=Sunlight%20Unicorn) | Unlimited |
