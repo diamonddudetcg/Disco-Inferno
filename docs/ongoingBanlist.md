@@ -1849,6 +1849,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Mermaid](https://db.ygoprodeck.com/card/?search=Knightmare%20Mermaid) | Forbidden |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Prank-Kids Meow-Meow-Mu](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Meow-Meow-Mu) | Forbidden |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Simorgh, Bird of Sovereignty](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Sovereignty) | Forbidden |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Spright Sprind](https://db.ygoprodeck.com/card/?search=Spright%20Sprind) | Forbidden |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Herald of the Arc Light](https://db.ygoprodeck.com/card/?search=Herald%20of%20the%20Arc%20Light) | Forbidden |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Hot Red Dragon Archfiend King Calamity](https://db.ygoprodeck.com/card/?search=Hot%20Red%20Dragon%20Archfiend%20King%20Calamity) | Forbidden |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [T.G. Hyper Librarian](https://db.ygoprodeck.com/card/?search=T.G.%20Hyper%20Librarian) | Forbidden |
@@ -7464,7 +7465,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Some Summer Summoner](https://db.ygoprodeck.com/card/?search=Some%20Summer%20Summoner) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Space Insulator](https://db.ygoprodeck.com/card/?search=Space%20Insulator) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Splash Mage](https://db.ygoprodeck.com/card/?search=Splash%20Mage) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Spright Sprind](https://db.ygoprodeck.com/card/?search=Spright%20Sprind) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Steel Star Regulator](https://db.ygoprodeck.com/card/?search=Steel%20Star%20Regulator) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Steelswarm Origin](https://db.ygoprodeck.com/card/?search=Steelswarm%20Origin) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Striker Dragon](https://db.ygoprodeck.com/card/?search=Striker%20Dragon) | Unlimited |

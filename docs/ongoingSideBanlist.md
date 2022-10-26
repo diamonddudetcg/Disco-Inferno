@@ -7000,6 +7000,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | Forbidden |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Forbidden |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Spright Sprind](https://db.ygoprodeck.com/card/?search=Spright%20Sprind) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Giant Trunade](https://db.ygoprodeck.com/card/?search=Giant%20Trunade) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kaiser Colosseum](https://db.ygoprodeck.com/card/?search=Kaiser%20Colosseum) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Forbidden |
@@ -9660,7 +9661,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shootingcode Talker](https://db.ygoprodeck.com/card/?search=Shootingcode%20Talker) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Some Summer Summoner](https://db.ygoprodeck.com/card/?search=Some%20Summer%20Summoner) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Space Insulator](https://db.ygoprodeck.com/card/?search=Space%20Insulator) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Spright Sprind](https://db.ygoprodeck.com/card/?search=Spright%20Sprind) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Steel Star Regulator](https://db.ygoprodeck.com/card/?search=Steel%20Star%20Regulator) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Daphne](https://db.ygoprodeck.com/card/?search=Sunavalon%20Daphne) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Superheavy Samurai Scarecrow](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Scarecrow) | Unlimited |
