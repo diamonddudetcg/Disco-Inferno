@@ -1228,11 +1228,11 @@
 [Bayerock Dragon](https://db.ygoprodeck.com/card/?search=Bayerock%20Dragon) | 0.0450 |
 [Han-Shi Kyudo Spirit](https://db.ygoprodeck.com/card/?search=Han-Shi%20Kyudo%20Spirit) | 0.0450 |
 [Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | 0.0450 |
-[Blackwing - Boreastorm the Wicked Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreastorm%20the%20Wicked%20Wind) | 0.0490 |
-[Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.0496 |
+[Blackwing - Boreastorm the Wicked Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreastorm%20the%20Wicked%20Wind) | 0.0489 |
+[Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.0495 |
 [Amazoness Augusta](https://db.ygoprodeck.com/card/?search=Amazoness%20Augusta) | 0.0498 |
 [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.0498 |
-[Amazoness War Chief](https://db.ygoprodeck.com/card/?search=Amazoness%20War%20Chief) | 0.0499 |
+[Amazoness War Chief](https://db.ygoprodeck.com/card/?search=Amazoness%20War%20Chief) | 0.0500 |
 ["A" Cell Recombination Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Recombination%20Device) | 0.0500 |
 ["Infernoble Arms - Hauteclere"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Hauteclere") | 0.0500 |
 [4-Starred Ladybug of Doom](https://db.ygoprodeck.com/card/?search=4-Starred%20Ladybug%20of%20Doom) | 0.0500 |
@@ -1773,9 +1773,9 @@
 [Zubaba Knight](https://db.ygoprodeck.com/card/?search=Zubaba%20Knight) | 0.0500 |
 [ZW - Sylphid Wing](https://db.ygoprodeck.com/card/?search=ZW%20-%20Sylphid%20Wing) | 0.0500 |
 [ZW - Unicorn Spear](https://db.ygoprodeck.com/card/?search=ZW%20-%20Unicorn%20Spear) | 0.0500 |
-[Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.0507 |
+[Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.0506 |
 [Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | 0.0512 |
-[Donner, Dagger Fur Hire](https://db.ygoprodeck.com/card/?search=Donner,%20Dagger%20Fur%20Hire) | 0.0515 |
+[Donner, Dagger Fur Hire](https://db.ygoprodeck.com/card/?search=Donner,%20Dagger%20Fur%20Hire) | 0.0514 |
 [Black Shadow Squall](https://db.ygoprodeck.com/card/?search=Black%20Shadow%20Squall) | 0.0550 |
 [Crystal Boon](https://db.ygoprodeck.com/card/?search=Crystal%20Boon) | 0.0550 |
 [Crystal Brilliance](https://db.ygoprodeck.com/card/?search=Crystal%20Brilliance) | 0.0550 |
@@ -6181,7 +6181,7 @@
 [Yosenju Oyam](https://db.ygoprodeck.com/card/?search=Yosenju%20Oyam) | 0.1400 |
 [Zexal Construction](https://db.ygoprodeck.com/card/?search=Zexal%20Construction) | 0.1400 |
 [Zoma the Spirit](https://db.ygoprodeck.com/card/?search=Zoma%20the%20Spirit) | 0.1400 |
-[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.1487 |
+[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.1486 |
 [Abyss Actor - Mellow Madonna](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Mellow%20Madonna) | 0.1500 |
 [Abyss Prop - Wild Wagon](https://db.ygoprodeck.com/card/?search=Abyss%20Prop%20-%20Wild%20Wagon) | 0.1500 |
 [Adamancipator Analyzer](https://db.ygoprodeck.com/card/?search=Adamancipator%20Analyzer) | 0.1500 |
@@ -6478,7 +6478,7 @@
 [Zombie Master](https://db.ygoprodeck.com/card/?search=Zombie%20Master) | 0.1500 |
 [Zoodiac Hammerkong](https://db.ygoprodeck.com/card/?search=Zoodiac%20Hammerkong) | 0.1500 |
 [Meizen the Battle Ninja](https://db.ygoprodeck.com/card/?search=Meizen%20the%20Battle%20Ninja) | 0.1502 |
-[Zoodiac Boarbow](https://db.ygoprodeck.com/card/?search=Zoodiac%20Boarbow) | 0.1505 |
+[Zoodiac Boarbow](https://db.ygoprodeck.com/card/?search=Zoodiac%20Boarbow) | 0.1504 |
 [Adamancipator Friends](https://db.ygoprodeck.com/card/?search=Adamancipator%20Friends) | 0.1600 |
 [Amano-Iwato](https://db.ygoprodeck.com/card/?search=Amano-Iwato) | 0.1600 |
 [Amorphage Lechery](https://db.ygoprodeck.com/card/?search=Amorphage%20Lechery) | 0.1600 |
@@ -8314,8 +8314,8 @@
 [Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | 0.2476 |
 [Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | 0.2486 |
 [Predaplant Ophrys Scorpio](https://db.ygoprodeck.com/card/?search=Predaplant%20Ophrys%20Scorpio) | 0.2488 |
-[Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | 0.2495 |
-[Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | 0.2498 |
+[Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | 0.2496 |
+[Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | 0.2499 |
 [Abyss Script - Abysstainment](https://db.ygoprodeck.com/card/?search=Abyss%20Script%20-%20Abysstainment) | 0.2500 |
 [Adamancipator Signs](https://db.ygoprodeck.com/card/?search=Adamancipator%20Signs) | 0.2500 |
 [Ally of Justice Light Gazer](https://db.ygoprodeck.com/card/?search=Ally%20of%20Justice%20Light%20Gazer) | 0.2500 |
@@ -9212,7 +9212,7 @@
 [Predaplant Darlingtonia Cobra](https://db.ygoprodeck.com/card/?search=Predaplant%20Darlingtonia%20Cobra) | 0.3503 |
 [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.3505 |
 [Zoodiac Chakanine](https://db.ygoprodeck.com/card/?search=Zoodiac%20Chakanine) | 0.3507 |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.3509 |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.3510 |
 [Amazoness Spellcaster](https://db.ygoprodeck.com/card/?search=Amazoness%20Spellcaster) | 0.3600 |
 [Aromage Cananga](https://db.ygoprodeck.com/card/?search=Aromage%20Cananga) | 0.3600 |
 [Battlewasp - Hama the Conquering Bow](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Hama%20the%20Conquering%20Bow) | 0.3600 |
@@ -9809,7 +9809,7 @@
 [Vampire Hunter](https://db.ygoprodeck.com/card/?search=Vampire%20Hunter) | 0.5200 |
 [Volcanic Counter](https://db.ygoprodeck.com/card/?search=Volcanic%20Counter) | 0.5200 |
 [War Rock Dignity](https://db.ygoprodeck.com/card/?search=War%20Rock%20Dignity) | 0.5200 |
-[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.5216 |
+[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.5215 |
 [The Bystial Alba Los](https://db.ygoprodeck.com/card/?search=The%20Bystial%20Alba%20Los) | 0.5250 |
 [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | 0.5300 |
 [Archfiend Eccentrick](https://db.ygoprodeck.com/card/?search=Archfiend%20Eccentrick) | 0.5300 |
@@ -10003,7 +10003,7 @@
 [Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | 0.6400 |
 [Thousand-Eyes Restrict](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Restrict) | 0.6400 |
 [Vaylantz Wars - The Place of Beginning](https://db.ygoprodeck.com/card/?search=Vaylantz%20Wars%20-%20The%20Place%20of%20Beginning) | 0.6450 |
-[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.6483 |
+[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.6479 |
 [Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.6500 |
 [Blaze Fenix, the Burning Bombardment Bird](https://db.ygoprodeck.com/card/?search=Blaze%20Fenix,%20the%20Burning%20Bombardment%20Bird) | 0.6500 |
 [Counselor Lily](https://db.ygoprodeck.com/card/?search=Counselor%20Lily) | 0.6500 |
@@ -10240,7 +10240,7 @@
 [S-Force Chase](https://db.ygoprodeck.com/card/?search=S-Force%20Chase) | 0.8200 |
 [Tachyon Chaos Hole](https://db.ygoprodeck.com/card/?search=Tachyon%20Chaos%20Hole) | 0.8200 |
 [Urgent Schedule](https://db.ygoprodeck.com/card/?search=Urgent%20Schedule) | 0.8200 |
-[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.8245 |
+[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.8237 |
 [Evilswarm Ophion](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ophion) | 0.8300 |
 [Jurrac Giganoto](https://db.ygoprodeck.com/card/?search=Jurrac%20Giganoto) | 0.8300 |
 [Summon Sorceress](https://db.ygoprodeck.com/card/?search=Summon%20Sorceress) | 0.8300 |
