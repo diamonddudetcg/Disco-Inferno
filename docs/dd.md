@@ -1228,11 +1228,11 @@
 [Bayerock Dragon](https://db.ygoprodeck.com/card/?search=Bayerock%20Dragon) | 0.0450 |
 [Han-Shi Kyudo Spirit](https://db.ygoprodeck.com/card/?search=Han-Shi%20Kyudo%20Spirit) | 0.0450 |
 [Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | 0.0450 |
-[Blackwing - Boreastorm the Wicked Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreastorm%20the%20Wicked%20Wind) | 0.0487 |
+[Blackwing - Boreastorm the Wicked Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreastorm%20the%20Wicked%20Wind) | 0.0488 |
 [Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.0497 |
 [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.0498 |
 [Amazoness Augusta](https://db.ygoprodeck.com/card/?search=Amazoness%20Augusta) | 0.0499 |
-[Amazoness War Chief](https://db.ygoprodeck.com/card/?search=Amazoness%20War%20Chief) | 0.0500 |
+[Amazoness War Chief](https://db.ygoprodeck.com/card/?search=Amazoness%20War%20Chief) | 0.0499 |
 ["A" Cell Recombination Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Recombination%20Device) | 0.0500 |
 ["Infernoble Arms - Hauteclere"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Hauteclere") | 0.0500 |
 [4-Starred Ladybug of Doom](https://db.ygoprodeck.com/card/?search=4-Starred%20Ladybug%20of%20Doom) | 0.0500 |
@@ -6181,7 +6181,7 @@
 [Yosenju Oyam](https://db.ygoprodeck.com/card/?search=Yosenju%20Oyam) | 0.1400 |
 [Zexal Construction](https://db.ygoprodeck.com/card/?search=Zexal%20Construction) | 0.1400 |
 [Zoma the Spirit](https://db.ygoprodeck.com/card/?search=Zoma%20the%20Spirit) | 0.1400 |
-[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.1486 |
+[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.1487 |
 [Abyss Actor - Mellow Madonna](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Mellow%20Madonna) | 0.1500 |
 [Abyss Prop - Wild Wagon](https://db.ygoprodeck.com/card/?search=Abyss%20Prop%20-%20Wild%20Wagon) | 0.1500 |
 [Adamancipator Analyzer](https://db.ygoprodeck.com/card/?search=Adamancipator%20Analyzer) | 0.1500 |
@@ -9209,8 +9209,8 @@
 [Turbo Cannon](https://db.ygoprodeck.com/card/?search=Turbo%20Cannon) | 0.3500 |
 [Ultimate Insect LV3](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV3) | 0.3500 |
 [Versago the Destroyer](https://db.ygoprodeck.com/card/?search=Versago%20the%20Destroyer) | 0.3500 |
-[Predaplant Darlingtonia Cobra](https://db.ygoprodeck.com/card/?search=Predaplant%20Darlingtonia%20Cobra) | 0.3502 |
-[Zoodiac Chakanine](https://db.ygoprodeck.com/card/?search=Zoodiac%20Chakanine) | 0.3504 |
+[Predaplant Darlingtonia Cobra](https://db.ygoprodeck.com/card/?search=Predaplant%20Darlingtonia%20Cobra) | 0.3501 |
+[Zoodiac Chakanine](https://db.ygoprodeck.com/card/?search=Zoodiac%20Chakanine) | 0.3503 |
 [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.3505 |
 [Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.3510 |
 [Amazoness Spellcaster](https://db.ygoprodeck.com/card/?search=Amazoness%20Spellcaster) | 0.3600 |
@@ -9774,7 +9774,7 @@
 [Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | 0.5000 |
 [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5000 |
 [Zoodiac Whiptail](https://db.ygoprodeck.com/card/?search=Zoodiac%20Whiptail) | 0.5000 |
-[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.5013 |
+[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.5012 |
 [Amulet Dragon](https://db.ygoprodeck.com/card/?search=Amulet%20Dragon) | 0.5100 |
 [Artifact Moralltach](https://db.ygoprodeck.com/card/?search=Artifact%20Moralltach) | 0.5100 |
 [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | 0.5100 |
@@ -9929,7 +9929,7 @@
 [Scareclaw Tri-Heart](https://db.ygoprodeck.com/card/?search=Scareclaw%20Tri-Heart) | 0.5900 |
 [Skull Archfiend of Lightning](https://db.ygoprodeck.com/card/?search=Skull%20Archfiend%20of%20Lightning) | 0.5900 |
 [The Phantom Knights of Torn Scales](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Torn%20Scales) | 0.5900 |
-[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.5927 |
+[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.5925 |
 [Aluber the Jester of Despia](https://db.ygoprodeck.com/card/?search=Aluber%20the%20Jester%20of%20Despia) | 0.6000 |
 [Cross-Sheep](https://db.ygoprodeck.com/card/?search=Cross-Sheep) | 0.6000 |
 [Desperado Barrel Dragon](https://db.ygoprodeck.com/card/?search=Desperado%20Barrel%20Dragon) | 0.6000 |
@@ -10096,6 +10096,7 @@
 [Vampire Dragon](https://db.ygoprodeck.com/card/?search=Vampire%20Dragon) | 0.7100 |
 [Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | 0.7100 |
 [XX-Saber Faultroll](https://db.ygoprodeck.com/card/?search=XX-Saber%20Faultroll) | 0.7100 |
+[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.7196 |
 [Amazoness Shamanism](https://db.ygoprodeck.com/card/?search=Amazoness%20Shamanism) | 0.7200 |
 [Appointer of the Red Lotus](https://db.ygoprodeck.com/card/?search=Appointer%20of%20the%20Red%20Lotus) | 0.7200 |
 [Atlantean Dragoons](https://db.ygoprodeck.com/card/?search=Atlantean%20Dragoons) | 0.7200 |
@@ -10116,7 +10117,6 @@
 [Time-Space Trap Hole](https://db.ygoprodeck.com/card/?search=Time-Space%20Trap%20Hole) | 0.7200 |
 [Tin Goldfish](https://db.ygoprodeck.com/card/?search=Tin%20Goldfish) | 0.7200 |
 [True King Bahrastos, the Fathomer](https://db.ygoprodeck.com/card/?search=True%20King%20Bahrastos,%20the%20Fathomer) | 0.7200 |
-[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.7201 |
 [Atomic Scrap Dragon](https://db.ygoprodeck.com/card/?search=Atomic%20Scrap%20Dragon) | 0.7300 |
 [Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.7300 |
 [Galaxy-Eyes Solflare Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Solflare%20Dragon) | 0.7300 |
