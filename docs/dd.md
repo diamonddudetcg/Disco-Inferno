@@ -1228,7 +1228,7 @@
 [Bayerock Dragon](https://db.ygoprodeck.com/card/?search=Bayerock%20Dragon) | 0.0450 |
 [Han-Shi Kyudo Spirit](https://db.ygoprodeck.com/card/?search=Han-Shi%20Kyudo%20Spirit) | 0.0450 |
 [Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | 0.0450 |
-[Blackwing - Boreastorm the Wicked Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreastorm%20the%20Wicked%20Wind) | 0.0493 |
+[Blackwing - Boreastorm the Wicked Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Boreastorm%20the%20Wicked%20Wind) | 0.0494 |
 ["A" Cell Recombination Device](https://db.ygoprodeck.com/card/?search="A"%20Cell%20Recombination%20Device) | 0.0500 |
 ["Infernoble Arms - Hauteclere"](https://db.ygoprodeck.com/card/?search="Infernoble%20Arms%20-%20Hauteclere") | 0.0500 |
 [4-Starred Ladybug of Doom](https://db.ygoprodeck.com/card/?search=4-Starred%20Ladybug%20of%20Doom) | 0.0500 |
@@ -6181,7 +6181,7 @@
 [Yosenju Oyam](https://db.ygoprodeck.com/card/?search=Yosenju%20Oyam) | 0.1400 |
 [Zexal Construction](https://db.ygoprodeck.com/card/?search=Zexal%20Construction) | 0.1400 |
 [Zoma the Spirit](https://db.ygoprodeck.com/card/?search=Zoma%20the%20Spirit) | 0.1400 |
-[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.1492 |
+[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.1493 |
 [Abyss Actor - Mellow Madonna](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Mellow%20Madonna) | 0.1500 |
 [Abyss Prop - Wild Wagon](https://db.ygoprodeck.com/card/?search=Abyss%20Prop%20-%20Wild%20Wagon) | 0.1500 |
 [Adamancipator Analyzer](https://db.ygoprodeck.com/card/?search=Adamancipator%20Analyzer) | 0.1500 |
@@ -9210,9 +9210,9 @@
 [Turbo Cannon](https://db.ygoprodeck.com/card/?search=Turbo%20Cannon) | 0.3500 |
 [Ultimate Insect LV3](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV3) | 0.3500 |
 [Versago the Destroyer](https://db.ygoprodeck.com/card/?search=Versago%20the%20Destroyer) | 0.3500 |
-[Predaplant Darlingtonia Cobra](https://db.ygoprodeck.com/card/?search=Predaplant%20Darlingtonia%20Cobra) | 0.3502 |
+[Predaplant Darlingtonia Cobra](https://db.ygoprodeck.com/card/?search=Predaplant%20Darlingtonia%20Cobra) | 0.3501 |
 [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.3504 |
-[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.3513 |
+[Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | 0.3512 |
 [Amazoness Spellcaster](https://db.ygoprodeck.com/card/?search=Amazoness%20Spellcaster) | 0.3600 |
 [Aromage Cananga](https://db.ygoprodeck.com/card/?search=Aromage%20Cananga) | 0.3600 |
 [Battlewasp - Hama the Conquering Bow](https://db.ygoprodeck.com/card/?search=Battlewasp%20-%20Hama%20the%20Conquering%20Bow) | 0.3600 |
@@ -9590,7 +9590,7 @@
 [Winged Kuriboh LV10](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10) | 0.4400 |
 [Witchcrafter Bystreet](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Bystreet) | 0.4400 |
 [Worm Zero](https://db.ygoprodeck.com/card/?search=Worm%20Zero) | 0.4400 |
-[White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | 0.4495 |
+[White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | 0.4496 |
 [Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4496 |
 [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | 0.4497 |
 [Amazoness Swords Woman](https://db.ygoprodeck.com/card/?search=Amazoness%20Swords%20Woman) | 0.4500 |
@@ -9752,7 +9752,7 @@
 [War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | 0.4900 |
 [Wattcastle](https://db.ygoprodeck.com/card/?search=Wattcastle) | 0.4900 |
 [Yang Zing Creation](https://db.ygoprodeck.com/card/?search=Yang%20Zing%20Creation) | 0.4900 |
-[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4936 |
+[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4935 |
 [Arcana Triumph Joker](https://db.ygoprodeck.com/card/?search=Arcana%20Triumph%20Joker) | 0.5000 |
 [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | 0.5000 |
 [Boot-Up Admiral - Destroyer Dynamo](https://db.ygoprodeck.com/card/?search=Boot-Up%20Admiral%20-%20Destroyer%20Dynamo) | 0.5000 |
@@ -9900,7 +9900,7 @@
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5700 |
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.5700 |
 [World Legacy Monstrosity](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Monstrosity) | 0.5700 |
-[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.5716 |
+[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.5714 |
 [Ancient Gear Hunting Hound](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Hunting%20Hound) | 0.5800 |
 [Dragon Master Knight](https://db.ygoprodeck.com/card/?search=Dragon%20Master%20Knight) | 0.5800 |
 [Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | 0.5800 |
@@ -10040,7 +10040,7 @@
 [Stealth Kragen Spawn](https://db.ygoprodeck.com/card/?search=Stealth%20Kragen%20Spawn) | 0.6700 |
 [Synkron Resonator](https://db.ygoprodeck.com/card/?search=Synkron%20Resonator) | 0.6700 |
 [The Tyrant Neptune](https://db.ygoprodeck.com/card/?search=The%20Tyrant%20Neptune) | 0.6700 |
-[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.6799 |
+[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.6797 |
 [Amazoness Fighter](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighter) | 0.6800 |
 [Ancient Warriors Saga - Three Visits](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Saga%20-%20Three%20Visits) | 0.6800 |
 [Aztekipede, the Worm Warrior](https://db.ygoprodeck.com/card/?search=Aztekipede,%20the%20Worm%20Warrior) | 0.6800 |
