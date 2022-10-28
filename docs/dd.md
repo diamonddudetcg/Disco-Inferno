@@ -6181,7 +6181,7 @@
 [Yosenju Oyam](https://db.ygoprodeck.com/card/?search=Yosenju%20Oyam) | 0.1400 |
 [Zexal Construction](https://db.ygoprodeck.com/card/?search=Zexal%20Construction) | 0.1400 |
 [Zoma the Spirit](https://db.ygoprodeck.com/card/?search=Zoma%20the%20Spirit) | 0.1400 |
-[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.1492 |
+[Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | 0.1491 |
 [Abyss Actor - Mellow Madonna](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Mellow%20Madonna) | 0.1500 |
 [Abyss Prop - Wild Wagon](https://db.ygoprodeck.com/card/?search=Abyss%20Prop%20-%20Wild%20Wagon) | 0.1500 |
 [Adamancipator Analyzer](https://db.ygoprodeck.com/card/?search=Adamancipator%20Analyzer) | 0.1500 |
@@ -9873,7 +9873,7 @@
 [Superdreadnought Rail Cannon Gustav Max](https://db.ygoprodeck.com/card/?search=Superdreadnought%20Rail%20Cannon%20Gustav%20Max) | 0.5600 |
 [White Veil](https://db.ygoprodeck.com/card/?search=White%20Veil) | 0.5600 |
 [Winged Kuriboh LV9](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV9) | 0.5600 |
-[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.5656 |
+[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.5654 |
 [Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | 0.5700 |
 [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | 0.5700 |
 [Aroma Garden](https://db.ygoprodeck.com/card/?search=Aroma%20Garden) | 0.5700 |
@@ -10025,7 +10025,7 @@
 [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | 0.6600 |
 [Tsuchigumo, the Poisonous Mayakashi](https://db.ygoprodeck.com/card/?search=Tsuchigumo,%20the%20Poisonous%20Mayakashi) | 0.6600 |
 [Wulf, Lightsworn Beast](https://db.ygoprodeck.com/card/?search=Wulf,%20Lightsworn%20Beast) | 0.6600 |
-[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.6686 |
+[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.6683 |
 [Ancient Gear Megaton Golem](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Megaton%20Golem) | 0.6700 |
 [Archfiend Heiress](https://db.ygoprodeck.com/card/?search=Archfiend%20Heiress) | 0.6700 |
 [Barrel Behind the Door](https://db.ygoprodeck.com/card/?search=Barrel%20Behind%20the%20Door) | 0.6700 |
