@@ -6,13 +6,13 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | 0.4547 | 0.58 | Illegal |
-[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.5244 | 0.45 | Unlimited |
-[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.5881 | 0.35 | Unlimited |
-[Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | 0.6065 | 0.05 | Unlimited |
-[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.7181 | 0.26 | Unlimited |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.8674 | 0.33 | Unlimited |
-[Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | 0.9846 | 0.32 | Unlimited |
+[Gravekeeper's Visionary](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Visionary) | 0.4548 | 0.58 | Illegal |
+[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.5244 | 0.47 | Unlimited |
+[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.5879 | 0.36 | Unlimited |
+[Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | 0.6061 | 0.06 | Unlimited |
+[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.7177 | 0.23 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.8669 | 0.34 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 1.0327 | 0.32 | Unlimited |
 
 <br>
 
