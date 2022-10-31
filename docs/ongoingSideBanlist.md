@@ -2420,6 +2420,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantasos, the Dream Mirror Foe](https://db.ygoprodeck.com/card/?search=Phantasos,%20the%20Dream%20Mirror%20Foe) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantasos, the Dream Mirror Friend](https://db.ygoprodeck.com/card/?search=Phantasos,%20the%20Dream%20Mirror%20Friend) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Beast Rock-Lizard](https://db.ygoprodeck.com/card/?search=Phantom%20Beast%20Rock-Lizard) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Beast Thunder-Pegasus](https://db.ygoprodeck.com/card/?search=Phantom%20Beast%20Thunder-Pegasus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Dragon](https://db.ygoprodeck.com/card/?search=Phantom%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Dragonray Bronto](https://db.ygoprodeck.com/card/?search=Phantom%20Dragonray%20Bronto) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom King Hydride](https://db.ygoprodeck.com/card/?search=Phantom%20King%20Hydride) | Illegal |
@@ -8880,7 +8881,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Peropero Cerperus](https://db.ygoprodeck.com/card/?search=Peropero%20Cerperus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Peten the Dark Clown](https://db.ygoprodeck.com/card/?search=Peten%20the%20Dark%20Clown) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Beast Cross-Wing](https://db.ygoprodeck.com/card/?search=Phantom%20Beast%20Cross-Wing) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Beast Thunder-Pegasus](https://db.ygoprodeck.com/card/?search=Phantom%20Beast%20Thunder-Pegasus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Beast Wild-Horn](https://db.ygoprodeck.com/card/?search=Phantom%20Beast%20Wild-Horn) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Bounzer](https://db.ygoprodeck.com/card/?search=Phantom%20Bounzer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Phantom Cricket](https://db.ygoprodeck.com/card/?search=Phantom%20Cricket) | Unlimited |
