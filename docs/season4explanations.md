@@ -99,7 +99,7 @@ We don't think any of these are going to break anything.
 
 <img src="assets/fusion.png" alt="Fusion Monster" width="12" height="12"/> [Supreme King Dragon Starving Venom](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Dragon%20Starving%20Venom)
 
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Fiber%20Jar)
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Tempest,%20Dragon%20Ruler%20of%20Storms")
 
 Dinosaurs, Pendulum and Dragons haven't performed at all, and we want to gradually give them stuff until they become playable. If something breaks we'll consider changing stuff back, but these feel safe enough.
 
