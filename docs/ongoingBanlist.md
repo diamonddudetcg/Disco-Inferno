@@ -1508,6 +1508,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Joker's Straight](https://db.ygoprodeck.com/card/?search=Joker's%20Straight) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jurassic World](https://db.ygoprodeck.com/card/?search=Jurassic%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Knight's Title](https://db.ygoprodeck.com/card/?search=Knight's%20Title) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Day of Witch](https://db.ygoprodeck.com/card/?search=Last%20Day%20of%20Witch) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ledger of Legerdemain](https://db.ygoprodeck.com/card/?search=Ledger%20of%20Legerdemain) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of a HERO](https://db.ygoprodeck.com/card/?search=Legacy%20of%20a%20HERO) | Illegal |
@@ -8968,7 +8969,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Landoise's Luminous Moss](https://db.ygoprodeck.com/card/?search=Landoise's%20Luminous%20Moss) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Laser Cannon Armor](https://db.ygoprodeck.com/card/?search=Laser%20Cannon%20Armor) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Laser Qlip](https://db.ygoprodeck.com/card/?search=Laser%20Qlip) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Hope of Nephthys](https://db.ygoprodeck.com/card/?search=Last%20Hope%20of%20Nephthys) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Law of the Cosmos](https://db.ygoprodeck.com/card/?search=Law%20of%20the%20Cosmos) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Leeching the Light](https://db.ygoprodeck.com/card/?search=Leeching%20the%20Light) | Unlimited |
