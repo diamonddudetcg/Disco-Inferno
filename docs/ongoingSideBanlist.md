@@ -5496,6 +5496,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Junk Box](https://db.ygoprodeck.com/card/?search=Junk%20Box) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Junk Puppet](https://db.ygoprodeck.com/card/?search=Junk%20Puppet) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jurassic World](https://db.ygoprodeck.com/card/?search=Jurassic%20World) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kaiser Colosseum](https://db.ygoprodeck.com/card/?search=Kaiser%20Colosseum) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Karakuri Anatomy](https://db.ygoprodeck.com/card/?search=Karakuri%20Anatomy) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Karakuri Gold Dust](https://db.ygoprodeck.com/card/?search=Karakuri%20Gold%20Dust) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Karakuri Showdown Castle](https://db.ygoprodeck.com/card/?search=Karakuri%20Showdown%20Castle) | Illegal |
@@ -7162,7 +7163,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | Forbidden |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Giant Trunade](https://db.ygoprodeck.com/card/?search=Giant%20Trunade) | Forbidden |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kaiser Colosseum](https://db.ygoprodeck.com/card/?search=Kaiser%20Colosseum) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | Forbidden |
