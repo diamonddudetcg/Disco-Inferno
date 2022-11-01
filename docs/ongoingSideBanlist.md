@@ -2356,6 +2356,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Omni Dragon Brotaur](https://db.ygoprodeck.com/card/?search=Omni%20Dragon%20Brotaur) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ooguchi](https://db.ygoprodeck.com/card/?search=Ooguchi) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orbital 7](https://db.ygoprodeck.com/card/?search=Orbital%207) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orca Mega-Fortress of Darkness](https://db.ygoprodeck.com/card/?search=Orca%20Mega-Fortress%20of%20Darkness) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orcust Brass Bombard](https://db.ygoprodeck.com/card/?search=Orcust%20Brass%20Bombard) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orcust Cymbal Skeleton](https://db.ygoprodeck.com/card/?search=Orcust%20Cymbal%20Skeleton) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orcust Harp Horror](https://db.ygoprodeck.com/card/?search=Orcust%20Harp%20Horror) | Illegal |
@@ -8785,7 +8786,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Opera the Melodious Diva](https://db.ygoprodeck.com/card/?search=Opera%20the%20Melodious%20Diva) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Oracle of the Sun](https://db.ygoprodeck.com/card/?search=Oracle%20of%20the%20Sun) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orbital Hydralander](https://db.ygoprodeck.com/card/?search=Orbital%20Hydralander) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orca Mega-Fortress of Darkness](https://db.ygoprodeck.com/card/?search=Orca%20Mega-Fortress%20of%20Darkness) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orichalcos Shunoros](https://db.ygoprodeck.com/card/?search=Orichalcos%20Shunoros) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Otohime](https://db.ygoprodeck.com/card/?search=Otohime) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Otoshidamashi](https://db.ygoprodeck.com/card/?search=Otoshidamashi) | Unlimited |
