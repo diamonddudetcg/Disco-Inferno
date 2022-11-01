@@ -5017,6 +5017,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Awakening of the Possessed](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Possessed) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Axe of Fools](https://db.ygoprodeck.com/card/?search=Axe%20of%20Fools) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Back to Square One](https://db.ygoprodeck.com/card/?search=Back%20to%20Square%20One) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bait Doll](https://db.ygoprodeck.com/card/?search=Bait%20Doll) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Banishment of the Darklords](https://db.ygoprodeck.com/card/?search=Banishment%20of%20the%20Darklords) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Barian's Chaos Draw](https://db.ygoprodeck.com/card/?search=Barian's%20Chaos%20Draw) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Barkion's Bark](https://db.ygoprodeck.com/card/?search=Barkion's%20Bark) | Illegal |
@@ -9920,7 +9921,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [B.E.F. Zelos](https://db.ygoprodeck.com/card/?search=B.E.F.%20Zelos) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Back-Up Rider](https://db.ygoprodeck.com/card/?search=Back-Up%20Rider) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Backup Squad](https://db.ygoprodeck.com/card/?search=Backup%20Squad) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bait Doll](https://db.ygoprodeck.com/card/?search=Bait%20Doll) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ballista of Rampart Smashing](https://db.ygoprodeck.com/card/?search=Ballista%20of%20Rampart%20Smashing) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Banner of Courage](https://db.ygoprodeck.com/card/?search=Banner%20of%20Courage) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Basal Rose Shoot](https://db.ygoprodeck.com/card/?search=Basal%20Rose%20Shoot) | Unlimited |
