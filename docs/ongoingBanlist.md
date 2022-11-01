@@ -550,7 +550,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neos Wiseman](https://db.ygoprodeck.com/card/?search=Neos%20Wiseman) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neptabyss, the Atlantean Prince](https://db.ygoprodeck.com/card/?search=Neptabyss,%20the%20Atlantean%20Prince) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nibiru, the Primal Being](https://db.ygoprodeck.com/card/?search=Nibiru,%20the%20Primal%20Being) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nidhogg, Generaider Boss of Ice](https://db.ygoprodeck.com/card/?search=Nidhogg,%20Generaider%20Boss%20of%20Ice) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nimble Angler](https://db.ygoprodeck.com/card/?search=Nimble%20Angler) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nimble Sunfish](https://db.ygoprodeck.com/card/?search=Nimble%20Sunfish) | Illegal |
@@ -768,7 +767,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Warm Worm](https://db.ygoprodeck.com/card/?search=Warm%20Worm) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Warrior of Atlantis](https://db.ygoprodeck.com/card/?search=Warrior%20of%20Atlantis) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Water Enchantress of the Temple](https://db.ygoprodeck.com/card/?search=Water%20Enchantress%20of%20the%20Temple) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Rose Dragon](https://db.ygoprodeck.com/card/?search=White%20Rose%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wind-Up Hunter](https://db.ygoprodeck.com/card/?search=Wind-Up%20Hunter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wind-Up Kitten](https://db.ygoprodeck.com/card/?search=Wind-Up%20Kitten) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Wind-Up Rat](https://db.ygoprodeck.com/card/?search=Wind-Up%20Rat) | Illegal |
@@ -1300,6 +1298,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 13: Embodiment of Crime](https://db.ygoprodeck.com/card/?search=Number%2013:%20Embodiment%20of%20Crime) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 14: Greedy Sarameya](https://db.ygoprodeck.com/card/?search=Number%2014:%20Greedy%20Sarameya) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 16: Shock Master](https://db.ygoprodeck.com/card/?search=Number%2016:%20Shock%20Master) | Illegal |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 17: Leviathan Dragon](https://db.ygoprodeck.com/card/?search=Number%2017:%20Leviathan%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 19: Freezadon](https://db.ygoprodeck.com/card/?search=Number%2019:%20Freezadon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 20: Giga-Brilliant](https://db.ygoprodeck.com/card/?search=Number%2020:%20Giga-Brilliant) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 21: Frozen Lady Justice](https://db.ygoprodeck.com/card/?search=Number%2021:%20Frozen%20Lady%20Justice) | Illegal |
@@ -5211,6 +5210,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neo-Spacian Grand Mole](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Grand%20Mole) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nettles](https://db.ygoprodeck.com/card/?search=Nettles) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Newdoria](https://db.ygoprodeck.com/card/?search=Newdoria) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nidhogg, Generaider Boss of Ice](https://db.ygoprodeck.com/card/?search=Nidhogg,%20Generaider%20Boss%20of%20Ice) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Assailant](https://db.ygoprodeck.com/card/?search=Night%20Assailant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Dragolich](https://db.ygoprodeck.com/card/?search=Night%20Dragolich) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Night Express Knight](https://db.ygoprodeck.com/card/?search=Night%20Express%20Knight) | Unlimited |
@@ -6746,6 +6746,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Night Queen](https://db.ygoprodeck.com/card/?search=White%20Night%20Queen) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Ninja](https://db.ygoprodeck.com/card/?search=White%20Ninja) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Potan](https://db.ygoprodeck.com/card/?search=White%20Potan) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Rose Dragon](https://db.ygoprodeck.com/card/?search=White%20Rose%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Steed of the Floral Knights](https://db.ygoprodeck.com/card/?search=White%20Steed%20of%20the%20Floral%20Knights) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Stingray](https://db.ygoprodeck.com/card/?search=White%20Stingray) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Tiger Summoner](https://db.ygoprodeck.com/card/?search=White%20Tiger%20Summoner) | Unlimited |
@@ -7920,7 +7921,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 10: Illumiknight](https://db.ygoprodeck.com/card/?search=Number%2010:%20Illumiknight) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 12: Crimson Shadow Armor Ninja](https://db.ygoprodeck.com/card/?search=Number%2012:%20Crimson%20Shadow%20Armor%20Ninja) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 15: Gimmick Puppet Giant Grinder](https://db.ygoprodeck.com/card/?search=Number%2015:%20Gimmick%20Puppet%20Giant%20Grinder) | Unlimited |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 17: Leviathan Dragon](https://db.ygoprodeck.com/card/?search=Number%2017:%20Leviathan%20Dragon) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 18: Heraldry Patriarch](https://db.ygoprodeck.com/card/?search=Number%2018:%20Heraldry%20Patriarch) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 1: Numeron Gate Ekam](https://db.ygoprodeck.com/card/?search=Number%201:%20Numeron%20Gate%20Ekam) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 25: Force Focus](https://db.ygoprodeck.com/card/?search=Number%2025:%20Force%20Focus) | Unlimited |
