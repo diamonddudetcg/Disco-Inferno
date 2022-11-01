@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 53
+Estimated number of changes: 55
 
-Keep in mind there's still 3124 runs left
+Keep in mind there's still 3123 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -42,6 +42,7 @@ Keep in mind there's still 3124 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Thunder of Ruler](https://db.ygoprodeck.com/card/?search=Thunder%20of%20Ruler) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Yang Zing Creation](https://db.ygoprodeck.com/card/?search=Yang%20Zing%20Creation) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Tempest,%20Dragon%20Ruler%20of%20Storms) | Unlimited | Limited |
+|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Insect Knight](https://db.ygoprodeck.com/card/?search=Insect%20Knight) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Eccentrick](https://db.ygoprodeck.com/card/?search=Archfiend%20Eccentrick) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berserk Gorilla](https://db.ygoprodeck.com/card/?search=Berserk%20Gorilla) | Illegal | Unlimited |
@@ -58,6 +59,7 @@ Keep in mind there's still 3124 runs left
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Kashtira Shangri-Ira](https://db.ygoprodeck.com/card/?search=Kashtira%20Shangri-Ira) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Phantom Fortress Enterblathnir](https://db.ygoprodeck.com/card/?search=Phantom%20Fortress%20Enterblathnir) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Illusion](https://db.ygoprodeck.com/card/?search=Bubble%20Illusion) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | Illegal | Unlimited |

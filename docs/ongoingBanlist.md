@@ -36,7 +36,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Happy Lover](https://db.ygoprodeck.com/card/?search=Happy%20Lover) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Crusader](https://db.ygoprodeck.com/card/?search=Igknight%20Crusader) | Illegal |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Insect Knight](https://db.ygoprodeck.com/card/?search=Insect%20Knight) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Invader from Another Dimension](https://db.ygoprodeck.com/card/?search=Invader%20from%20Another%20Dimension) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Kanan the Swordmistress](https://db.ygoprodeck.com/card/?search=Kanan%20the%20Swordmistress) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Key Mace](https://db.ygoprodeck.com/card/?search=Key%20Mace) | Illegal |
@@ -1419,7 +1418,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Broken Bamboo Sword](https://db.ygoprodeck.com/card/?search=Broken%20Bamboo%20Sword) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Blaster](https://db.ygoprodeck.com/card/?search=Bubble%20Blaster) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Illusion](https://db.ygoprodeck.com/card/?search=Bubble%20Illusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Burning Spear](https://db.ygoprodeck.com/card/?search=Burning%20Spear) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Butterfly Dagger - Elma](https://db.ygoprodeck.com/card/?search=Butterfly%20Dagger%20-%20Elma) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | Illegal |
@@ -2135,6 +2133,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Veteran](https://db.ygoprodeck.com/card/?search=Igknight%20Veteran) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Illusionist Faceless Mage](https://db.ygoprodeck.com/card/?search=Illusionist%20Faceless%20Mage) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Inpachi](https://db.ygoprodeck.com/card/?search=Inpachi) | Unlimited |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Insect Knight](https://db.ygoprodeck.com/card/?search=Insect%20Knight) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Island Turtle](https://db.ygoprodeck.com/card/?search=Island%20Turtle) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Jack's Knight](https://db.ygoprodeck.com/card/?search=Jack's%20Knight) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Jellyfish](https://db.ygoprodeck.com/card/?search=Jellyfish) | Unlimited |
@@ -8279,6 +8278,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Breaking of the World](https://db.ygoprodeck.com/card/?search=Breaking%20of%20the%20World) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Breath of Acclamation](https://db.ygoprodeck.com/card/?search=Breath%20of%20Acclamation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Barrier](https://db.ygoprodeck.com/card/?search=Bubble%20Barrier) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Illusion](https://db.ygoprodeck.com/card/?search=Bubble%20Illusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bubble Shuffle](https://db.ygoprodeck.com/card/?search=Bubble%20Shuffle) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bug Matrix](https://db.ygoprodeck.com/card/?search=Bug%20Matrix) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Bug Signal](https://db.ygoprodeck.com/card/?search=Bug%20Signal) | Unlimited |
