@@ -2838,7 +2838,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Breeze](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Breeze) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Fall Wind](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Fall%20Wind) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Pharaoh](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pharaoh) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Pot of Greed](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pot%20of%20Greed) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Six Samurai](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Six%20Samurai) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit Ryu](https://db.ygoprodeck.com/card/?search=Spirit%20Ryu) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spiritual Beast Apelio](https://db.ygoprodeck.com/card/?search=Spiritual%20Beast%20Apelio) | Illegal |
@@ -9196,6 +9195,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spell Striker](https://db.ygoprodeck.com/card/?search=Spell%20Striker) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spellbreaker of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Spellbreaker%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit Caller](https://db.ygoprodeck.com/card/?search=Spirit%20Caller) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit of the Pot of Greed](https://db.ygoprodeck.com/card/?search=Spirit%20of%20the%20Pot%20of%20Greed) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit Reaper](https://db.ygoprodeck.com/card/?search=Spirit%20Reaper) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spirit Sculptor](https://db.ygoprodeck.com/card/?search=Spirit%20Sculptor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spiritual Whisper](https://db.ygoprodeck.com/card/?search=Spiritual%20Whisper) | Unlimited |
