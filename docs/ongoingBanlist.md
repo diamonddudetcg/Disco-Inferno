@@ -1615,6 +1615,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Small World](https://db.ygoprodeck.com/card/?search=Small%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solar Recharge](https://db.ygoprodeck.com/card/?search=Solar%20Recharge) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Solidarity](https://db.ygoprodeck.com/card/?search=Solidarity) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Devouring Bamboo Sword](https://db.ygoprodeck.com/card/?search=Soul%20Devouring%20Bamboo%20Sword) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Servant](https://db.ygoprodeck.com/card/?search=Soul%20Servant) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook of Fate](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Fate) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook of Judgment](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Judgment) | Illegal |
@@ -9577,7 +9578,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Absorption](https://db.ygoprodeck.com/card/?search=Soul%20Absorption) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Binding Gate](https://db.ygoprodeck.com/card/?search=Soul%20Binding%20Gate) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Crossing](https://db.ygoprodeck.com/card/?search=Soul%20Crossing) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Devouring Bamboo Sword](https://db.ygoprodeck.com/card/?search=Soul%20Devouring%20Bamboo%20Sword) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Exchange](https://db.ygoprodeck.com/card/?search=Soul%20Exchange) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul of Fire](https://db.ygoprodeck.com/card/?search=Soul%20of%20Fire) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul of the Pure](https://db.ygoprodeck.com/card/?search=Soul%20of%20the%20Pure) | Unlimited |

@@ -14,8 +14,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.4813 | 0.53 | Illegal |
 [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | 0.4813 | 0.53 | Illegal |
 [Inferno Hammer](https://db.ygoprodeck.com/card/?search=Inferno%20Hammer) | 0.4848 | 0.57 | Illegal |
-[Mudora the Sword Oracle](https://db.ygoprodeck.com/card/?search=Mudora%20the%20Sword%20Oracle) | 0.4869 | 0.70 | Illegal |
-[Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | 0.4869 | 0.56 | Illegal |
+[Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | 0.4870 | 0.56 | Illegal |
+[Mudora the Sword Oracle](https://db.ygoprodeck.com/card/?search=Mudora%20the%20Sword%20Oracle) | 0.4870 | 0.70 | Illegal |
 [Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.4891 | 0.55 | Illegal |
 [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.4896 | 0.52 | Illegal |
 [Spell Power Mastery](https://db.ygoprodeck.com/card/?search=Spell%20Power%20Mastery) | 0.4896 | 0.52 | Illegal |
@@ -24,10 +24,9 @@ This is a list of cards that are likely to change legality before the next rotat
 [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | 0.4965 | 0.60 | Illegal |
 [Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | 0.4978 | 0.51 | Illegal |
 [Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4978 | 0.51 | Illegal |
-[Soul Devouring Bamboo Sword](https://db.ygoprodeck.com/card/?search=Soul%20Devouring%20Bamboo%20Sword) | 0.5000 | 0.64 | Illegal |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.5026 | 0.46 | Unlimited |
-[Fossil Warrior Skull Bone](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20Bone) | 0.5031 | 0.43 | Unlimited |
-[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.5036 | 0.27 | Unlimited |
+[Fossil Warrior Skull Bone](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20Bone) | 0.5030 | 0.43 | Unlimited |
+[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.5034 | 0.27 | Unlimited |
 [Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | 0.5065 | 0.47 | Unlimited |
 [Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | 0.5070 | 0.44 | Unlimited |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5083 | 0.49 | Unlimited |
@@ -37,12 +36,12 @@ This is a list of cards that are likely to change legality before the next rotat
 [Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | 0.5170 | 0.45 | Unlimited |
 [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5248 | 0.47 | Unlimited |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5309 | 0.47 | Unlimited |
-[Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5331 | 0.46 | Unlimited |
+[Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5330 | 0.46 | Unlimited |
 [Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.5361 | 0.39 | Unlimited |
-[Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5529 | 0.42 | Unlimited |
-[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5579 | 0.43 | Unlimited |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.6118 | 0.13 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.7018 | 0.17 | Unlimited |
+[Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5528 | 0.42 | Unlimited |
+[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5578 | 0.43 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.6116 | 0.14 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.7016 | 0.14 | Unlimited |
 
 <br>
 
