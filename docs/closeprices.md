@@ -13,14 +13,14 @@ This is a list of cards that are likely to change legality before the next rotat
 [Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.4765 | 0.53 | Illegal |
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.4824 | 0.53 | Illegal |
 [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | 0.4824 | 0.53 | Illegal |
-[Inferno Hammer](https://db.ygoprodeck.com/card/?search=Inferno%20Hammer) | 0.4867 | 0.57 | Illegal |
+[Inferno Hammer](https://db.ygoprodeck.com/card/?search=Inferno%20Hammer) | 0.4868 | 0.57 | Illegal |
 [Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | 0.4886 | 0.56 | Illegal |
 [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.4903 | 0.52 | Illegal |
 [Spell Power Mastery](https://db.ygoprodeck.com/card/?search=Spell%20Power%20Mastery) | 0.4903 | 0.52 | Illegal |
 [Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.4905 | 0.55 | Illegal |
-[Mudora the Sword Oracle](https://db.ygoprodeck.com/card/?search=Mudora%20the%20Sword%20Oracle) | 0.4918 | 0.70 | Illegal |
+[Mudora the Sword Oracle](https://db.ygoprodeck.com/card/?search=Mudora%20the%20Sword%20Oracle) | 0.4919 | 0.70 | Illegal |
 [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | 0.4924 | 0.54 | Illegal |
-[Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | 0.4929 | 0.60 | Illegal |
+[Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | 0.4930 | 0.60 | Illegal |
 [Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | 0.4981 | 0.51 | Illegal |
 [Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4981 | 0.51 | Illegal |
 [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | 0.4989 | 0.60 | Illegal |
@@ -36,11 +36,12 @@ This is a list of cards that are likely to change legality before the next rotat
 [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5235 | 0.47 | Unlimited |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5295 | 0.47 | Unlimited |
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5314 | 0.46 | Unlimited |
-[Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.5328 | 0.39 | Unlimited |
+[Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.5327 | 0.39 | Unlimited |
 [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5499 | 0.42 | Unlimited |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5549 | 0.43 | Unlimited |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.6012 | 0.17 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6890 | 0.16 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.6010 | 0.17 | Unlimited |
+[Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | 0.6857 | 0.32 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6888 | 0.14 | Unlimited |
 
 <br>
 
