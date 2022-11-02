@@ -1451,7 +1451,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Draconnection](https://db.ygoprodeck.com/card/?search=Draconnection) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonic Diagram](https://db.ygoprodeck.com/card/?search=Dragonic%20Diagram) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonmaid Welcome](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Welcome) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragunity Divine Lance](https://db.ygoprodeck.com/card/?search=Dragunity%20Divine%20Lance) | Illegal |
@@ -8571,6 +8570,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonic Attack](https://db.ygoprodeck.com/card/?search=Dragonic%20Attack) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonic Pendulum](https://db.ygoprodeck.com/card/?search=Dragonic%20Pendulum) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonic Tactics](https://db.ygoprodeck.com/card/?search=Dragonic%20Tactics) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonmaid Send-Off](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Send-Off) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonoid Generator](https://db.ygoprodeck.com/card/?search=Dragonoid%20Generator) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragoroar](https://db.ygoprodeck.com/card/?search=Dragoroar) | Unlimited |
