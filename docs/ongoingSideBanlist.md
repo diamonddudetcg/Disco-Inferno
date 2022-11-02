@@ -4418,6 +4418,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Reptilianne Hydra](https://db.ygoprodeck.com/card/?search=Reptilianne%20Hydra) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Reptilianne Melusine](https://db.ygoprodeck.com/card/?search=Reptilianne%20Melusine) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Revived King Ha Des](https://db.ygoprodeck.com/card/?search=Revived%20King%20Ha%20Des) | Illegal |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Road Warrior](https://db.ygoprodeck.com/card/?search=Road%20Warrior) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ruddy Rose Dragon](https://db.ygoprodeck.com/card/?search=Ruddy%20Rose%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Samsara, Dragon of Rebirth](https://db.ygoprodeck.com/card/?search=Samsara,%20Dragon%20of%20Rebirth) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Samurai Destroyer](https://db.ygoprodeck.com/card/?search=Samurai%20Destroyer) | Illegal |
@@ -9793,7 +9794,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Periallis, Empress of Blossoms](https://db.ygoprodeck.com/card/?search=Periallis,%20Empress%20of%20Blossoms) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [PSY-Framelord Zeta](https://db.ygoprodeck.com/card/?search=PSY-Framelord%20Zeta) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Rampaging Smashtank Rhynosaber](https://db.ygoprodeck.com/card/?search=Rampaging%20Smashtank%20Rhynosaber) | Unlimited |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Road Warrior](https://db.ygoprodeck.com/card/?search=Road%20Warrior) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Shamisen Samsara Sorrowcat](https://db.ygoprodeck.com/card/?search=Shamisen%20Samsara%20Sorrowcat) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Shiranui Swordsaga](https://db.ygoprodeck.com/card/?search=Shiranui%20Swordsaga) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Star Mine](https://db.ygoprodeck.com/card/?search=Star%20Mine) | Unlimited |

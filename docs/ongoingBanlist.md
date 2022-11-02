@@ -1750,6 +1750,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Last Stand](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Last%20Stand) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mathmech Induction](https://db.ygoprodeck.com/card/?search=Mathmech%20Induction) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mathmech Superfactorial](https://db.ygoprodeck.com/card/?search=Mathmech%20Superfactorial) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mischief of the Gnomes](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Gnomes) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mischief of the Yokai](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Yokai) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mystical Refpanel](https://db.ygoprodeck.com/card/?search=Mystical%20Refpanel) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Naturia Sacred Tree](https://db.ygoprodeck.com/card/?search=Naturia%20Sacred%20Tree) | Illegal |
@@ -10942,7 +10943,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mirror Mail](https://db.ygoprodeck.com/card/?search=Mirror%20Mail) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mirror of Oaths](https://db.ygoprodeck.com/card/?search=Mirror%20of%20Oaths) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mirror Wall](https://db.ygoprodeck.com/card/?search=Mirror%20Wall) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mischief of the Gnomes](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Gnomes) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mispolymerization](https://db.ygoprodeck.com/card/?search=Mispolymerization) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mistake](https://db.ygoprodeck.com/card/?search=Mistake) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Molten Whirlwind Wall](https://db.ygoprodeck.com/card/?search=Molten%20Whirlwind%20Wall) | Unlimited |
