@@ -1559,6 +1559,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pendulum Call](https://db.ygoprodeck.com/card/?search=Pendulum%20Call) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Phalanx Pike](https://db.ygoprodeck.com/card/?search=Phalanx%20Pike) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Photon Sanctuary](https://db.ygoprodeck.com/card/?search=Photon%20Sanctuary) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pinpoint Landing](https://db.ygoprodeck.com/card/?search=Pinpoint%20Landing) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Piri Reis Map](https://db.ygoprodeck.com/card/?search=Piri%20Reis%20Map) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pot of Acquisitiveness](https://db.ygoprodeck.com/card/?search=Pot%20of%20Acquisitiveness) | Illegal |
@@ -9296,7 +9297,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Photon Trident](https://db.ygoprodeck.com/card/?search=Photon%20Trident) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Photon Veil](https://db.ygoprodeck.com/card/?search=Photon%20Veil) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pianissimo](https://db.ygoprodeck.com/card/?search=Pianissimo) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Plunder Patroll Shipyarrrd](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipyarrrd) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Poison Chain](https://db.ygoprodeck.com/card/?search=Poison%20Chain) | Unlimited |
