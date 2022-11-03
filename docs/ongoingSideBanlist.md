@@ -1279,6 +1279,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flamvell Magician](https://db.ygoprodeck.com/card/?search=Flamvell%20Magician) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flare Resonator](https://db.ygoprodeck.com/card/?search=Flare%20Resonator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flelf](https://db.ygoprodeck.com/card/?search=Flelf) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flint Cragger](https://db.ygoprodeck.com/card/?search=Flint%20Cragger) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flip Flop Frog](https://db.ygoprodeck.com/card/?search=Flip%20Flop%20Frog) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Empen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Empen) | Illegal |
@@ -8159,7 +8160,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flash Assailant](https://db.ygoprodeck.com/card/?search=Flash%20Assailant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fleur Synchron](https://db.ygoprodeck.com/card/?search=Fleur%20Synchron) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flick Clown](https://db.ygoprodeck.com/card/?search=Flick%20Clown) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flint Cragger](https://db.ygoprodeck.com/card/?search=Flint%20Cragger) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flint Lock](https://db.ygoprodeck.com/card/?search=Flint%20Lock) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flip Frozen](https://db.ygoprodeck.com/card/?search=Flip%20Frozen) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flogos, the Ogdoadic Boundless](https://db.ygoprodeck.com/card/?search=Flogos,%20the%20Ogdoadic%20Boundless) | Unlimited |
