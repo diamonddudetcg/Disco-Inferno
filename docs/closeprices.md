@@ -13,7 +13,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.4818 | 0.53 | Illegal |
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.4871 | 0.53 | Illegal |
 [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | 0.4871 | 0.53 | Illegal |
-[Kageningen](https://db.ygoprodeck.com/card/?search=Kageningen) | 0.4918 | 0.64 | Illegal |
+[Kageningen](https://db.ygoprodeck.com/card/?search=Kageningen) | 0.4919 | 0.64 | Illegal |
 [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.4932 | 0.52 | Illegal |
 [Spell Power Mastery](https://db.ygoprodeck.com/card/?search=Spell%20Power%20Mastery) | 0.4932 | 0.52 | Illegal |
 [Inferno Hammer](https://db.ygoprodeck.com/card/?search=Inferno%20Hammer) | 0.4950 | 0.57 | Illegal |
@@ -22,8 +22,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | 0.4971 | 0.54 | Illegal |
 [Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | 0.4993 | 0.51 | Illegal |
 [Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4993 | 0.51 | Illegal |
-[Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | 0.5004 | 0.42 | Unlimited |
-[Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | 0.5022 | 0.47 | Unlimited |
+[Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | 0.5003 | 0.42 | Unlimited |
+[Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | 0.5021 | 0.47 | Unlimited |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5061 | 0.49 | Unlimited |
 [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5068 | 0.48 | Unlimited |
 [Infernity Knight](https://db.ygoprodeck.com/card/?search=Infernity%20Knight) | 0.5082 | 0.46 | Unlimited |
@@ -33,8 +33,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5243 | 0.46 | Unlimited |
 [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5375 | 0.42 | Unlimited |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5425 | 0.43 | Unlimited |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5565 | 0.16 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6355 | 0.15 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5563 | 0.14 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6353 | 0.18 | Unlimited |
 
 <br>
 
