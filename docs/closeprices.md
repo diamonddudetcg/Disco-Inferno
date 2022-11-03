@@ -9,11 +9,11 @@ This is a list of cards that are likely to change legality before the next rotat
 [Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | 0.4408 | 0.57 | Illegal |
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4545 | 0.55 | Illegal |
 [Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | 0.4782 | 0.54 | Illegal |
-[Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.4794 | 0.53 | Illegal |
-[Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.4794 | 0.53 | Illegal |
+[Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.4795 | 0.53 | Illegal |
+[Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.4795 | 0.53 | Illegal |
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.4851 | 0.53 | Illegal |
 [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | 0.4851 | 0.53 | Illegal |
-[Inferno Hammer](https://db.ygoprodeck.com/card/?search=Inferno%20Hammer) | 0.4913 | 0.57 | Illegal |
+[Inferno Hammer](https://db.ygoprodeck.com/card/?search=Inferno%20Hammer) | 0.4914 | 0.57 | Illegal |
 [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.4919 | 0.52 | Illegal |
 [Spell Power Mastery](https://db.ygoprodeck.com/card/?search=Spell%20Power%20Mastery) | 0.4919 | 0.52 | Illegal |
 [Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | 0.4926 | 0.56 | Illegal |
@@ -24,19 +24,19 @@ This is a list of cards that are likely to change legality before the next rotat
 [Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | 0.4989 | 0.60 | Illegal |
 [Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | 0.5018 | 0.44 | Unlimited |
 [Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | 0.5037 | 0.47 | Unlimited |
-[Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | 0.5043 | 0.42 | Unlimited |
-[Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5069 | 0.49 | Unlimited |
+[Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | 0.5042 | 0.42 | Unlimited |
+[Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5068 | 0.49 | Unlimited |
 [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5081 | 0.48 | Unlimited |
-[Infernity Knight](https://db.ygoprodeck.com/card/?search=Infernity%20Knight) | 0.5106 | 0.46 | Unlimited |
+[Infernity Knight](https://db.ygoprodeck.com/card/?search=Infernity%20Knight) | 0.5105 | 0.46 | Unlimited |
 [Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | 0.5118 | 0.45 | Unlimited |
-[Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5206 | 0.47 | Unlimited |
+[Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5205 | 0.47 | Unlimited |
 [Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.5248 | 0.39 | Unlimited |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5262 | 0.47 | Unlimited |
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5274 | 0.46 | Unlimited |
-[Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5430 | 0.42 | Unlimited |
-[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5480 | 0.43 | Unlimited |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5762 | 0.12 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6590 | 0.16 | Unlimited |
+[Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5429 | 0.42 | Unlimited |
+[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5479 | 0.43 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5760 | 0.14 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6588 | 0.17 | Unlimited |
 
 <br>
 
