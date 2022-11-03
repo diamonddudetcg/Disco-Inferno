@@ -22,7 +22,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | 0.4987 | 0.54 | Illegal |
 [Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | 0.4997 | 0.51 | Illegal |
 [Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4997 | 0.51 | Illegal |
-[Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | 0.5010 | 0.47 | Unlimited |
+[Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | 0.5009 | 0.47 | Unlimited |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5055 | 0.49 | Unlimited |
 [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5058 | 0.48 | Unlimited |
 [Infernity Knight](https://db.ygoprodeck.com/card/?search=Infernity%20Knight) | 0.5064 | 0.46 | Unlimited |
@@ -32,9 +32,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5219 | 0.46 | Unlimited |
 [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5333 | 0.42 | Unlimited |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5383 | 0.43 | Unlimited |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5413 | 0.14 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6173 | 0.17 | Unlimited |
-[Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | 0.6412 | 0.32 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5411 | 0.15 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6171 | 0.13 | Unlimited |
 
 <br>
 
