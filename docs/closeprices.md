@@ -13,20 +13,20 @@ This is a list of cards that are likely to change legality before the next rotat
 [Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | 0.4864 | 0.54 | Illegal |
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.4910 | 0.53 | Illegal |
 [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | 0.4910 | 0.53 | Illegal |
-[Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.4956 | 0.52 | Illegal |
-[Spell Power Mastery](https://db.ygoprodeck.com/card/?search=Spell%20Power%20Mastery) | 0.4956 | 0.52 | Illegal |
+[Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.4957 | 0.52 | Illegal |
+[Spell Power Mastery](https://db.ygoprodeck.com/card/?search=Spell%20Power%20Mastery) | 0.4957 | 0.52 | Illegal |
 [Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | 0.5036 | 0.45 | Unlimited |
 [Infernity Knight](https://db.ygoprodeck.com/card/?search=Infernity%20Knight) | 0.5038 | 0.46 | Unlimited |
-[Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5044 | 0.48 | Unlimited |
+[Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5043 | 0.48 | Unlimited |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5046 | 0.49 | Unlimited |
 [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5138 | 0.47 | Unlimited |
-[Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5185 | 0.46 | Unlimited |
+[Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5184 | 0.46 | Unlimited |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5187 | 0.47 | Unlimited |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5195 | 0.15 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5193 | 0.15 | Unlimited |
 [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5273 | 0.42 | Unlimited |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5323 | 0.43 | Unlimited |
-[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5757 | 0.24 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.5913 | 0.17 | Unlimited |
+[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5756 | 0.28 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.5911 | 0.17 | Unlimited |
 
 <br>
 
