@@ -10,7 +10,7 @@ For a list of cards that are likely to move, go [HERE](closeprices)
 
 Estimated number of changes: 78
 
-Keep in mind there's still 2165 runs left
+Keep in mind there's still 2164 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
