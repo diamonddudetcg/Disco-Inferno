@@ -17,7 +17,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Spell Power Mastery](https://db.ygoprodeck.com/card/?search=Spell%20Power%20Mastery) | 0.4948 | 0.52 | Illegal |
 [Inferno Hammer](https://db.ygoprodeck.com/card/?search=Inferno%20Hammer) | 0.4995 | 0.57 | Illegal |
 [Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | 0.4996 | 0.56 | Illegal |
-[Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.4996 | 0.55 | Illegal |
+[Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.4997 | 0.55 | Illegal |
 [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | 0.4997 | 0.54 | Illegal |
 [Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | 0.4999 | 0.51 | Illegal |
 [Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4999 | 0.51 | Illegal |
@@ -27,12 +27,12 @@ This is a list of cards that are likely to change legality before the next rotat
 [Infernity Knight](https://db.ygoprodeck.com/card/?search=Infernity%20Knight) | 0.5053 | 0.46 | Unlimited |
 [Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | 0.5054 | 0.45 | Unlimited |
 [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5153 | 0.47 | Unlimited |
-[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5204 | 0.47 | Unlimited |
+[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5203 | 0.47 | Unlimited |
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5204 | 0.46 | Unlimited |
-[Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5308 | 0.42 | Unlimited |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5320 | 0.17 | Unlimited |
-[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5358 | 0.43 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6062 | 0.15 | Unlimited |
+[Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5307 | 0.42 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5319 | 0.13 | Unlimited |
+[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5357 | 0.43 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.6061 | 0.18 | Unlimited |
 
 <br>
 
