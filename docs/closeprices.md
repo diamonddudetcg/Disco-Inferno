@@ -15,19 +15,18 @@ This is a list of cards that are likely to change legality before the next rotat
 [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | 0.4930 | 0.53 | Illegal |
 [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.4969 | 0.52 | Illegal |
 [Spell Power Mastery](https://db.ygoprodeck.com/card/?search=Spell%20Power%20Mastery) | 0.4969 | 0.52 | Illegal |
-[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5008 | 0.14 | Unlimited |
+[Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | 0.5007 | 0.14 | Unlimited |
 [Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | 0.5009 | 0.45 | Unlimited |
 [Infernity Knight](https://db.ygoprodeck.com/card/?search=Infernity%20Knight) | 0.5016 | 0.46 | Unlimited |
 [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | 0.5031 | 0.48 | Unlimited |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5039 | 0.49 | Unlimited |
 [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5116 | 0.47 | Unlimited |
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5155 | 0.46 | Unlimited |
-[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5163 | 0.47 | Unlimited |
+[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5162 | 0.47 | Unlimited |
 [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5221 | 0.42 | Unlimited |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5271 | 0.43 | Unlimited |
-[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5593 | 0.24 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.5691 | 0.12 | Unlimited |
-[Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | 0.6111 | 0.32 | Unlimited |
+[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5592 | 0.26 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.5689 | 0.15 | Unlimited |
 
 <br>
 
