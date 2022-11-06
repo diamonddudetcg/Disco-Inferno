@@ -19,12 +19,11 @@ This is a list of cards that are likely to change legality before the next rotat
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5021 | 0.49 | Unlimited |
 [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5064 | 0.47 | Unlimited |
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5085 | 0.46 | Unlimited |
-[Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5100 | 0.42 | Unlimited |
-[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5105 | 0.47 | Unlimited |
-[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5150 | 0.43 | Unlimited |
-[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.5164 | 0.17 | Unlimited |
-[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5204 | 0.27 | Unlimited |
-[Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | 0.5783 | 0.33 | Unlimited |
+[Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5099 | 0.42 | Unlimited |
+[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5104 | 0.47 | Unlimited |
+[Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5149 | 0.43 | Unlimited |
+[Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | 0.5163 | 0.15 | Unlimited |
+[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5203 | 0.24 | Unlimited |
 
 <br>
 
