@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 135
+Estimated number of changes: 136
 
-Keep in mind there's still 1179 runs left
+Keep in mind there's still 1178 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -104,6 +104,7 @@ Keep in mind there's still 1179 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rilliona, the Magistus of Verre](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Magistus%20of%20Verre) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ronintoadin](https://db.ygoprodeck.com/card/?search=Ronintoadin) | Forbidden | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Solitaire](https://db.ygoprodeck.com/card/?search=Shiranui%20Solitaire) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Princessprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Princessprout) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Bystial Alba Los](https://db.ygoprodeck.com/card/?search=The%20Bystial%20Alba%20Los) | Illegal | Unlimited |

@@ -643,7 +643,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Serziel, Watcher of the Evil Eye](https://db.ygoprodeck.com/card/?search=Serziel,%20Watcher%20of%20the%20Evil%20Eye) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiba-Warrior Taro](https://db.ygoprodeck.com/card/?search=Shiba-Warrior%20Taro) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shinonome the Vaylantz Priestess](https://db.ygoprodeck.com/card/?search=Shinonome%20the%20Vaylantz%20Priestess) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Solitaire](https://db.ygoprodeck.com/card/?search=Shiranui%20Solitaire) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Silent Magician](https://db.ygoprodeck.com/card/?search=Silent%20Magician) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Silent Paladin](https://db.ygoprodeck.com/card/?search=Silent%20Paladin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Silent Swordsman](https://db.ygoprodeck.com/card/?search=Silent%20Swordsman) | Illegal |
@@ -5911,6 +5910,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiny Black "C"](https://db.ygoprodeck.com/card/?search=Shiny%20Black%20"C") | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Samurai](https://db.ygoprodeck.com/card/?search=Shiranui%20Samurai) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Smith](https://db.ygoprodeck.com/card/?search=Shiranui%20Smith) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Solitaire](https://db.ygoprodeck.com/card/?search=Shiranui%20Solitaire) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Spectralsword](https://db.ygoprodeck.com/card/?search=Shiranui%20Spectralsword) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Spectralsword Shade](https://db.ygoprodeck.com/card/?search=Shiranui%20Spectralsword%20Shade) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Spiritmaster](https://db.ygoprodeck.com/card/?search=Shiranui%20Spiritmaster) | Unlimited |
