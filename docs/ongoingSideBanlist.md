@@ -5803,7 +5803,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Prank-Kids Pranks](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Pranks) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pre-Preparation of Rites](https://db.ygoprodeck.com/card/?search=Pre-Preparation%20of%20Rites) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Precious Cards from Beyond](https://db.ygoprodeck.com/card/?search=Precious%20Cards%20from%20Beyond) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predaprime Fusion](https://db.ygoprodeck.com/card/?search=Predaprime%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapruning](https://db.ygoprodeck.com/card/?search=Predapruning) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Prediction Ritual](https://db.ygoprodeck.com/card/?search=Prediction%20Ritual) | Illegal |
@@ -10444,6 +10443,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Power of Kaishin](https://db.ygoprodeck.com/card/?search=Power%20of%20Kaishin) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predaplast](https://db.ygoprodeck.com/card/?search=Predaplast) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predaponics](https://db.ygoprodeck.com/card/?search=Predaponics) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Prevention Star](https://db.ygoprodeck.com/card/?search=Prevention%20Star) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pride of the Weak](https://db.ygoprodeck.com/card/?search=Pride%20of%20the%20Weak) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Primal Cry](https://db.ygoprodeck.com/card/?search=Primal%20Cry) | Unlimited |
