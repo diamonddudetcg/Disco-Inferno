@@ -5606,6 +5606,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lost World](https://db.ygoprodeck.com/card/?search=Lost%20World) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lucky Cloud](https://db.ygoprodeck.com/card/?search=Lucky%20Cloud) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lullaby of Obedience](https://db.ygoprodeck.com/card/?search=Lullaby%20of%20Obedience) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Luminous Spark](https://db.ygoprodeck.com/card/?search=Luminous%20Spark) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Luna Light Perfume](https://db.ygoprodeck.com/card/?search=Luna%20Light%20Perfume) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lyrilusc - Bird Call](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Bird%20Call) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lyrilusc - Bird Sanctuary](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Bird%20Sanctuary) | Illegal |
@@ -7202,7 +7203,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Witch's Strike](https://db.ygoprodeck.com/card/?search=Witch's%20Strike) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Witchcrafter Masterpiece](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Masterpiece) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Witchcrafter Patronus](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Patronus) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Pawns](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Pawns) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Trap Globe](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Trap%20Globe) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Whispers](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Whispers) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy's Secret](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Secret) | Illegal |
@@ -10308,7 +10308,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lucky Iron Axe](https://db.ygoprodeck.com/card/?search=Lucky%20Iron%20Axe) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lucky Loan](https://db.ygoprodeck.com/card/?search=Lucky%20Loan) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Luminous Dragon Ritual](https://db.ygoprodeck.com/card/?search=Luminous%20Dragon%20Ritual) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Luminous Spark](https://db.ygoprodeck.com/card/?search=Luminous%20Spark) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lunalight Fusion](https://db.ygoprodeck.com/card/?search=Lunalight%20Fusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Machine Angel Absolute Ritual](https://db.ygoprodeck.com/card/?search=Machine%20Angel%20Absolute%20Ritual) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Machine Angel Ritual](https://db.ygoprodeck.com/card/?search=Machine%20Angel%20Ritual) | Unlimited |
@@ -11620,6 +11619,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Cliffhanger](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Cliffhanger) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Collapse](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Collapse) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Landmark](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Landmark) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Pawns](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Pawns) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy Struggle](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Struggle) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy's Mind Meld](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Mind%20Meld) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Reassembly](https://db.ygoprodeck.com/card/?search=World%20Reassembly) | Unlimited |
