@@ -7417,15 +7417,14 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Victory Dragon](https://db.ygoprodeck.com/card/?search=Victory%20Dragon) | Forbidden |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Herald of Ultimateness](https://db.ygoprodeck.com/card/?search=Herald%20of%20Ultimateness) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Giant Trunade](https://db.ygoprodeck.com/card/?search=Giant%20Trunade) | Forbidden |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Forbidden |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Charge](https://db.ygoprodeck.com/card/?search=Soul%20Charge) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Imperial Order](https://db.ygoprodeck.com/card/?search=Imperial%20Order) | Forbidden |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red Reboot](https://db.ygoprodeck.com/card/?search=Red%20Reboot) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Black Dragon Collapserpent](https://db.ygoprodeck.com/card/?search=Black%20Dragon%20Collapserpent) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Dragon Wyverburster](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster) | Limited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Reborn](https://db.ygoprodeck.com/card/?search=Monster%20Reborn) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reinforcement of the Army](https://db.ygoprodeck.com/card/?search=Reinforcement%20of%20the%20Army) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Hornet Drones](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Hornet%20Drones) | Limited |
@@ -10483,6 +10482,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Penguin Sword](https://db.ygoprodeck.com/card/?search=Penguin%20Sword) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Perfect Sync - A-Un](https://db.ygoprodeck.com/card/?search=Perfect%20Sync%20-%20A-Un) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Perform Puppet](https://db.ygoprodeck.com/card/?search=Perform%20Puppet) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Recasting](https://db.ygoprodeck.com/card/?search=Performapal%20Recasting) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pestilence](https://db.ygoprodeck.com/card/?search=Pestilence) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Phantasm Spiral Crash](https://db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Crash) | Unlimited |

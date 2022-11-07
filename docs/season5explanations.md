@@ -43,12 +43,28 @@ We unlimited this expecting Pendulum decks to use it as an easier way to set up 
 
 When we decided to put Tempest to 3, we didn't expect every other Dragon Ruler to become legal overnight. The idea was for Dragons to have access to more extenders, not to allow people to just play 7 rulers in a deck.
 
+
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus)
+
+Gold Sarcophagus was hit as a Floowandereeze hit but with no Floowandereeze in the horizon, it feels like it can come back to 1.
+
 <br>
 
 ## Unlimited
 
 
-<br>
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ronintoadin](https://db.ygoprodeck.com/card/?search=Ronintoadin")
+
+With no Spright cards and the rest of the engine too expensive for the format, there's no reason for Ronin not to be at 3.
+
+
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Numeron Calling](https://db.ygoprodeck.com/card/?search=Numeron%20Calling)
+
+Due to popular demand we're bringing this back, but this could very well break the format and if it does we're banning it again.
+
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup)
+
+Same as Numeron Calling. If this starts to see widespread play we're banning it again.
 
 
 

@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 87
+Estimated number of changes: 89
 
-Keep in mind there's still 1202 runs left
+Keep in mind there's still 1201 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -59,6 +59,7 @@ Keep in mind there's still 1202 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Lyrilusc - Independent Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Independent%20Nightingale) | Unlimited | Forbidden |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Monkeyboard](https://db.ygoprodeck.com/card/?search=Performapal%20Monkeyboard) | Unlimited | Limited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Tempest,%20Dragon%20Ruler%20of%20Storms) | Unlimited | Limited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Forbidden | Limited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Insect Knight](https://db.ygoprodeck.com/card/?search=Insect%20Knight) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Archfiend Eccentrick](https://db.ygoprodeck.com/card/?search=Archfiend%20Eccentrick) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Batteryman Industrial Strength](https://db.ygoprodeck.com/card/?search=Batteryman%20Industrial%20Strength) | Illegal | Unlimited |
@@ -93,6 +94,7 @@ Keep in mind there's still 1202 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magician's Restage](https://db.ygoprodeck.com/card/?search=Magician's%20Restage) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Numeron Calling](https://db.ygoprodeck.com/card/?search=Numeron%20Calling) | Forbidden | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup) | Forbidden | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Dragon's Soul](https://db.ygoprodeck.com/card/?search=Sword%20of%20Dragon's%20Soul) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vaylantz Wakening - Solo Activation](https://db.ygoprodeck.com/card/?search=Vaylantz%20Wakening%20-%20Solo%20Activation) | Illegal | Unlimited |

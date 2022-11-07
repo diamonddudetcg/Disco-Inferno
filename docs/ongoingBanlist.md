@@ -1870,14 +1870,12 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cold Wave](https://db.ygoprodeck.com/card/?search=Cold%20Wave) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Giant Trunade](https://db.ygoprodeck.com/card/?search=Giant%20Trunade) | Forbidden |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heavy Storm](https://db.ygoprodeck.com/card/?search=Heavy%20Storm) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kaiser Colosseum](https://db.ygoprodeck.com/card/?search=Kaiser%20Colosseum) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Mid-Breaker Field](https://db.ygoprodeck.com/card/?search=Magical%20Mid-Breaker%20Field) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magicalized Duston Mop](https://db.ygoprodeck.com/card/?search=Magicalized%20Duston%20Mop) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mass Driver](https://db.ygoprodeck.com/card/?search=Mass%20Driver) | Forbidden |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Premature Burial](https://db.ygoprodeck.com/card/?search=Premature%20Burial) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation) | Forbidden |
@@ -1918,6 +1916,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emergency Teleport](https://db.ygoprodeck.com/card/?search=Emergency%20Teleport) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Burial](https://db.ygoprodeck.com/card/?search=Foolish%20Burial) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gateway of the Six](https://db.ygoprodeck.com/card/?search=Gateway%20of%20the%20Six) | Limited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Interrupted%20Kaiju%20Slumber) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jewels of the Valiant](https://db.ygoprodeck.com/card/?search=Jewels%20of%20the%20Valiant) | Limited |
@@ -9281,6 +9280,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Perform Puppet](https://db.ygoprodeck.com/card/?search=Perform%20Puppet) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performance Hurricane](https://db.ygoprodeck.com/card/?search=Performance%20Hurricane) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Dramatic Theater](https://db.ygoprodeck.com/card/?search=Performapal%20Dramatic%20Theater) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Popperup](https://db.ygoprodeck.com/card/?search=Performapal%20Popperup) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Performapal Recasting](https://db.ygoprodeck.com/card/?search=Performapal%20Recasting) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pestilence](https://db.ygoprodeck.com/card/?search=Pestilence) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Phantasm Spiral Crash](https://db.ygoprodeck.com/card/?search=Phantasm%20Spiral%20Crash) | Unlimited |
