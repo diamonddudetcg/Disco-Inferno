@@ -2783,7 +2783,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Spiritmaster](https://db.ygoprodeck.com/card/?search=Shiranui%20Spiritmaster) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shiranui Squire](https://db.ygoprodeck.com/card/?search=Shiranui%20Squire) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shire, Lightsworn Spirit](https://db.ygoprodeck.com/card/?search=Shire,%20Lightsworn%20Spirit) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shopina the Melodious Maestra](https://db.ygoprodeck.com/card/?search=Shopina%20the%20Melodious%20Maestra) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shurit, Strategist of the Nekroz](https://db.ygoprodeck.com/card/?search=Shurit,%20Strategist%20of%20the%20Nekroz) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Silent Abyss](https://db.ygoprodeck.com/card/?search=Silent%20Abyss) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Silent Magician](https://db.ygoprodeck.com/card/?search=Silent%20Magician) | Illegal |
@@ -9133,6 +9132,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shocktopus](https://db.ygoprodeck.com/card/?search=Shocktopus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shogi Knight](https://db.ygoprodeck.com/card/?search=Shogi%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shogi Lance](https://db.ygoprodeck.com/card/?search=Shogi%20Lance) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shopina the Melodious Maestra](https://db.ygoprodeck.com/card/?search=Shopina%20the%20Melodious%20Maestra) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shore Knight](https://db.ygoprodeck.com/card/?search=Shore%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shreddder](https://db.ygoprodeck.com/card/?search=Shreddder) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Shutendoji](https://db.ygoprodeck.com/card/?search=Shutendoji) | Unlimited |

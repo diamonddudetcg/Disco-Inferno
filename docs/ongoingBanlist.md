@@ -348,7 +348,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gearspring Spirit](https://db.ygoprodeck.com/card/?search=Gearspring%20Spirit) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Armadillo](https://db.ygoprodeck.com/card/?search=Gem-Armadillo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Alexandrite](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Alexandrite) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Obsidian](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Obsidian) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genex Ally Duradark](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Duradark) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ghost Fairy Elfobia](https://db.ygoprodeck.com/card/?search=Ghost%20Fairy%20Elfobia) | Illegal |
@@ -3944,6 +3943,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Amber](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Amber) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Emerald](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Emerald) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Iolite](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Iolite) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Quartz](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Quartz) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Sardonyx](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Sardonyx) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Merchant](https://db.ygoprodeck.com/card/?search=Gem-Merchant) | Unlimited |
