@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 112
+Estimated number of changes: 115
 
-Keep in mind there's still 1197 runs left
+Keep in mind there's still 1196 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -41,6 +41,7 @@ Keep in mind there's still 1197 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ritual Beast Tamer Wen](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Wen) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Secret Six Samurai - Genba](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Genba) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Simorgh, Bird of Divinity](https://db.ygoprodeck.com/card/?search=Simorgh,%20Bird%20of%20Divinity) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Teva](https://db.ygoprodeck.com/card/?search=Teva) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | Unlimited | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | Unlimited | Illegal |
@@ -66,6 +67,7 @@ Keep in mind there's still 1197 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ghostrick-Go-Round](https://db.ygoprodeck.com/card/?search=Ghostrick-Go-Round) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | Unlimited | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rikka Sheet](https://db.ygoprodeck.com/card/?search=Rikka%20Sheet) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stardust Re-Spark](https://db.ygoprodeck.com/card/?search=Stardust%20Re-Spark) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Yang Zing Creation](https://db.ygoprodeck.com/card/?search=Yang%20Zing%20Creation) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Lyrilusc - Independent Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Independent%20Nightingale) | Unlimited | Forbidden |
@@ -91,6 +93,7 @@ Keep in mind there's still 1197 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Prinzessin](https://db.ygoprodeck.com/card/?search=Prinzessin) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Red Sprinter](https://db.ygoprodeck.com/card/?search=Red%20Sprinter) | Illegal | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rilliona, the Magistus of Verre](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Magistus%20of%20Verre) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ronintoadin](https://db.ygoprodeck.com/card/?search=Ronintoadin) | Forbidden | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Bystial Alba Los](https://db.ygoprodeck.com/card/?search=The%20Bystial%20Alba%20Los) | Illegal | Unlimited |

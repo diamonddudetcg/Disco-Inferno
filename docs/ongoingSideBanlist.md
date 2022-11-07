@@ -3733,6 +3733,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Crimson Sunbird](https://db.ygoprodeck.com/card/?search=Crimson%20Sunbird) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Curse of Dragon, the Magical Knight Dragon](https://db.ygoprodeck.com/card/?search=Curse%20of%20Dragon,%20the%20Magical%20Knight%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyber Blader](https://db.ygoprodeck.com/card/?search=Cyber%20Blader) | Illegal |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyber End Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20End%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyber Eternity Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Eternity%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyber Ogre 2](https://db.ygoprodeck.com/card/?search=Cyber%20Ogre%202) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyber Saurus](https://db.ygoprodeck.com/card/?search=Cyber%20Saurus) | Illegal |
@@ -9713,7 +9714,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimera the Flying Mythical Beast](https://db.ygoprodeck.com/card/?search=Chimera%20the%20Flying%20Mythical%20Beast) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimeratech Overdragon](https://db.ygoprodeck.com/card/?search=Chimeratech%20Overdragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Coordius the Triphasic Dealmon](https://db.ygoprodeck.com/card/?search=Coordius%20the%20Triphasic%20Dealmon) | Unlimited |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyber End Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20End%20Dragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyberdark Dragon](https://db.ygoprodeck.com/card/?search=Cyberdark%20Dragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Cyberdarkness Dragon](https://db.ygoprodeck.com/card/?search=Cyberdarkness%20Dragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D/D/D Super Doom King Purple Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Purple%20Armageddon) | Unlimited |

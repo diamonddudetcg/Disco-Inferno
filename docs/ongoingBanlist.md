@@ -622,7 +622,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Revival Golem](https://db.ygoprodeck.com/card/?search=Revival%20Golem) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Revival Jam](https://db.ygoprodeck.com/card/?search=Revival%20Jam) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rikka Petal](https://db.ygoprodeck.com/card/?search=Rikka%20Petal) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rilliona, the Magistus of Verre](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Magistus%20of%20Verre) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ritual Beast Tamer Elder](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Elder) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ritual Beast Tamer Lara](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Lara) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ritual Beast Tamer Wen](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Wen) | Illegal |
@@ -676,6 +675,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Stalagmo](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Stalagmo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Ultramafus](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Ultramafus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Umastryx](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Umastryx) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Quantum Green Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Green%20Layer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superancient Deepsea King Coelacanth](https://db.ygoprodeck.com/card/?search=Superancient%20Deepsea%20King%20Coelacanth) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superheavy Samurai Battleball](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Battleball) | Illegal |
@@ -1775,6 +1775,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Red-Eyes Fang with Chain](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Fang%20with%20Chain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Retort](https://db.ygoprodeck.com/card/?search=Retort) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rikka Sheet](https://db.ygoprodeck.com/card/?search=Rikka%20Sheet) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rivalry of Warlords](https://db.ygoprodeck.com/card/?search=Rivalry%20of%20Warlords) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Royal Oppression](https://db.ygoprodeck.com/card/?search=Royal%20Oppression) | Illegal |
@@ -5713,6 +5714,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Righty Driver](https://db.ygoprodeck.com/card/?search=Righty%20Driver) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rigorous Reaver](https://db.ygoprodeck.com/card/?search=Rigorous%20Reaver) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rikka Princess](https://db.ygoprodeck.com/card/?search=Rikka%20Princess) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rilliona, the Magistus of Verre](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Magistus%20of%20Verre) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rinyan, Lightsworn Rogue](https://db.ygoprodeck.com/card/?search=Rinyan,%20Lightsworn%20Rogue) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Risebell the Star Adjuster](https://db.ygoprodeck.com/card/?search=Risebell%20the%20Star%20Adjuster) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Risebell the Star Psycher](https://db.ygoprodeck.com/card/?search=Risebell%20the%20Star%20Psycher) | Unlimited |
@@ -6180,7 +6182,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunlit Sentinel](https://db.ygoprodeck.com/card/?search=Sunlit%20Sentinel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunny Pixie](https://db.ygoprodeck.com/card/?search=Sunny%20Pixie) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunseed Shadow](https://db.ygoprodeck.com/card/?search=Sunseed%20Shadow) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunvine Maiden](https://db.ygoprodeck.com/card/?search=Sunvine%20Maiden) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Supay](https://db.ygoprodeck.com/card/?search=Supay) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Supay, Duskwalker](https://db.ygoprodeck.com/card/?search=Supay,%20Duskwalker) | Unlimited |
@@ -11194,7 +11195,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Reverse Trap](https://db.ygoprodeck.com/card/?search=Reverse%20Trap) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Revival Gift](https://db.ygoprodeck.com/card/?search=Revival%20Gift) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Revival of the Immortals](https://db.ygoprodeck.com/card/?search=Revival%20of%20the%20Immortals) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rikka Sheet](https://db.ygoprodeck.com/card/?search=Rikka%20Sheet) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Rikka Tranquility](https://db.ygoprodeck.com/card/?search=Rikka%20Tranquility) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ring of Destruction](https://db.ygoprodeck.com/card/?search=Ring%20of%20Destruction) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Riryoku Field](https://db.ygoprodeck.com/card/?search=Riryoku%20Field) | Unlimited |
