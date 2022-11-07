@@ -3575,7 +3575,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [The Masked Beast](https://db.ygoprodeck.com/card/?search=The%20Masked%20Beast) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Chimera](https://db.ygoprodeck.com/card/?search=Vendread%20Chimera) | Illegal |
-<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Scavenger](https://db.ygoprodeck.com/card/?search=Vendread%20Scavenger) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Water Leviathan @Ignister](https://db.ygoprodeck.com/card/?search=Water%20Leviathan%20@Ignister) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [White Knight of Dogmatika](https://db.ygoprodeck.com/card/?search=White%20Knight%20of%20Dogmatika) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [White Relic of Dogmatika](https://db.ygoprodeck.com/card/?search=White%20Relic%20of%20Dogmatika) | Illegal |
@@ -4888,6 +4887,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Raidraptor - Stranger Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Stranger%20Falcon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Raidraptor - Ultimate Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Ultimate%20Falcon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Red-Eyes Flare Metal Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Flare%20Metal%20Dragon) | Illegal |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Rikka Queen Strenna](https://db.ygoprodeck.com/card/?search=Rikka%20Queen%20Strenna) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Rilliona, the Wondrous Magistus Witch Wardrobe](https://db.ygoprodeck.com/card/?search=Rilliona,%20the%20Wondrous%20Magistus%20Witch%20Wardrobe) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sacred Noble Knight of King Artorigus](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Artorigus) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Sacred Noble Knight of King Custennin](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Custennin) | Illegal |
@@ -6551,6 +6551,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Discord](https://db.ygoprodeck.com/card/?search=Discord) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Disturbance Strategy](https://db.ygoprodeck.com/card/?search=Disturbance%20Strategy) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Divine Punishment](https://db.ygoprodeck.com/card/?search=Divine%20Punishment) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Divine Wrath](https://db.ygoprodeck.com/card/?search=Divine%20Wrath) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [DNA Surgery](https://db.ygoprodeck.com/card/?search=DNA%20Surgery) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [DNA Transplant](https://db.ygoprodeck.com/card/?search=DNA%20Transplant) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Doble Passe](https://db.ygoprodeck.com/card/?search=Doble%20Passe) | Illegal |
@@ -9608,6 +9609,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Salamangreat Emerald Eagle](https://db.ygoprodeck.com/card/?search=Salamangreat%20Emerald%20Eagle) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Super War-Lion](https://db.ygoprodeck.com/card/?search=Super%20War-Lion) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Transonic Bird](https://db.ygoprodeck.com/card/?search=Transonic%20Bird) | Unlimited |
+<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vendread Scavenger](https://db.ygoprodeck.com/card/?search=Vendread%20Scavenger) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Vennu, Bright Bird of Divinity](https://db.ygoprodeck.com/card/?search=Vennu,%20Bright%20Bird%20of%20Divinity) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [ABC-Dragon Buster](https://db.ygoprodeck.com/card/?search=ABC-Dragon%20Buster) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Allvain the Essence of Vanity](https://db.ygoprodeck.com/card/?search=Allvain%20the%20Essence%20of%20Vanity) | Unlimited |
@@ -9860,7 +9862,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Pendransaction](https://db.ygoprodeck.com/card/?search=Pendransaction) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Princess Cologne](https://db.ygoprodeck.com/card/?search=Princess%20Cologne) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Raidraptor - Blade Burner Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Blade%20Burner%20Falcon) | Unlimited |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Rikka Queen Strenna](https://db.ygoprodeck.com/card/?search=Rikka%20Queen%20Strenna) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Totem Bird](https://db.ygoprodeck.com/card/?search=Totem%20Bird) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Virtual World Dragon - Longlong](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Dragon%20-%20Longlong) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Virtual World Phoenix - Fanfan](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Phoenix%20-%20Fanfan) | Unlimited |
@@ -10998,7 +10999,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Disappear](https://db.ygoprodeck.com/card/?search=Disappear) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Disarmament](https://db.ygoprodeck.com/card/?search=Disarmament) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Divine Relic Mjollnir](https://db.ygoprodeck.com/card/?search=Divine%20Relic%20Mjollnir) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Divine Wrath](https://db.ygoprodeck.com/card/?search=Divine%20Wrath) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dizzying Winds of Yosen Village](https://db.ygoprodeck.com/card/?search=Dizzying%20Winds%20of%20Yosen%20Village) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [DNA Checkup](https://db.ygoprodeck.com/card/?search=DNA%20Checkup) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Do a Barrel Roll](https://db.ygoprodeck.com/card/?search=Do%20a%20Barrel%20Roll) | Unlimited |
