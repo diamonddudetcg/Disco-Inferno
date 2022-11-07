@@ -6,7 +6,7 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | 0.4844 | 0.57 | Illegal |
+[Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | 0.4845 | 0.57 | Illegal |
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4868 | 0.55 | Illegal |
 [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.4965 | 0.53 | Illegal |
 [Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.4965 | 0.53 | Illegal |
