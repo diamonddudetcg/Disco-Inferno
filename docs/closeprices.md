@@ -6,10 +6,10 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Mayakashi Return](https://db.ygoprodeck.com/card/?search=Mayakashi%20Return) | 0.5622 | 0.49 | Unlimited |
-[Swordsoul Sinister Sovereign - Qixing Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Sinister%20Sovereign%20-%20Qixing%20Longyuan) | 0.6060 | 0.47 | Unlimited |
-[Beautunaful Princess](https://db.ygoprodeck.com/card/?search=Beautunaful%20Princess) | 0.6719 | 0.45 | Unlimited |
-[Swordsoul Supreme Sovereign - Chengying](https://db.ygoprodeck.com/card/?search=Swordsoul%20Supreme%20Sovereign%20-%20Chengying) | 0.7353 | 0.46 | Unlimited |
+[Mayakashi Return](https://db.ygoprodeck.com/card/?search=Mayakashi%20Return) | 0.5573 | 0.49 | Unlimited |
+[Swordsoul Sinister Sovereign - Qixing Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Sinister%20Sovereign%20-%20Qixing%20Longyuan) | 0.5974 | 0.48 | Unlimited |
+[Beautunaful Princess](https://db.ygoprodeck.com/card/?search=Beautunaful%20Princess) | 0.6559 | 0.44 | Unlimited |
+[Swordsoul Supreme Sovereign - Chengying](https://db.ygoprodeck.com/card/?search=Swordsoul%20Supreme%20Sovereign%20-%20Chengying) | 0.7152 | 0.44 | Unlimited |
 
 <br>
 
