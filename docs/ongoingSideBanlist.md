@@ -5546,7 +5546,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ledger of Legerdemain](https://db.ygoprodeck.com/card/?search=Ledger%20of%20Legerdemain) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Left Arm Offering](https://db.ygoprodeck.com/card/?search=Left%20Arm%20Offering) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of a HERO](https://db.ygoprodeck.com/card/?search=Legacy%20of%20a%20HERO) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legend of Heart](https://db.ygoprodeck.com/card/?search=Legend%20of%20Heart) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legendary Black Belt](https://db.ygoprodeck.com/card/?search=Legendary%20Black%20Belt) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legendary Ebon Steed](https://db.ygoprodeck.com/card/?search=Legendary%20Ebon%20Steed) | Illegal |
@@ -5577,7 +5576,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lucky Cloud](https://db.ygoprodeck.com/card/?search=Lucky%20Cloud) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lullaby of Obedience](https://db.ygoprodeck.com/card/?search=Lullaby%20of%20Obedience) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Luna Light Perfume](https://db.ygoprodeck.com/card/?search=Luna%20Light%20Perfume) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lunalight Fusion](https://db.ygoprodeck.com/card/?search=Lunalight%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lyrilusc - Bird Call](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Bird%20Call) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lyrilusc - Bird Sanctuary](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Bird%20Sanctuary) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lyrilusc - Bird Strike](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Bird%20Strike) | Illegal |
@@ -10284,6 +10282,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Kuji-Kiri Curse](https://db.ygoprodeck.com/card/?search=Kuji-Kiri%20Curse) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Laser Qlip](https://db.ygoprodeck.com/card/?search=Laser%20Qlip) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Leeching the Light](https://db.ygoprodeck.com/card/?search=Leeching%20the%20Light) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legacy of the Duelist](https://db.ygoprodeck.com/card/?search=Legacy%20of%20the%20Duelist) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Legendary Wind-Up Key](https://db.ygoprodeck.com/card/?search=Legendary%20Wind-Up%20Key) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lemuria, the Forgotten City](https://db.ygoprodeck.com/card/?search=Lemuria,%20the%20Forgotten%20City) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Level Lifter](https://db.ygoprodeck.com/card/?search=Level%20Lifter) | Unlimited |
@@ -10304,6 +10303,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lucky Loan](https://db.ygoprodeck.com/card/?search=Lucky%20Loan) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Luminous Dragon Ritual](https://db.ygoprodeck.com/card/?search=Luminous%20Dragon%20Ritual) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Luminous Spark](https://db.ygoprodeck.com/card/?search=Luminous%20Spark) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Lunalight Fusion](https://db.ygoprodeck.com/card/?search=Lunalight%20Fusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Machine Angel Absolute Ritual](https://db.ygoprodeck.com/card/?search=Machine%20Angel%20Absolute%20Ritual) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Machine Angel Ritual](https://db.ygoprodeck.com/card/?search=Machine%20Angel%20Ritual) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Madolche Chateau](https://db.ygoprodeck.com/card/?search=Madolche%20Chateau) | Unlimited |
