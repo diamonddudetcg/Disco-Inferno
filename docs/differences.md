@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 149
+Estimated number of changes: 151
 
-Keep in mind there's still 1152 runs left
+Keep in mind there's still 1151 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -76,6 +76,7 @@ Keep in mind there's still 1152 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrubbed Raid](https://db.ygoprodeck.com/card/?search=Scrubbed%20Raid) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | Unlimited | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Yang Zing Creation](https://db.ygoprodeck.com/card/?search=Yang%20Zing%20Creation) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Lyrilusc - Independent Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Independent%20Nightingale) | Unlimited | Forbidden |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Monkeyboard](https://db.ygoprodeck.com/card/?search=Performapal%20Monkeyboard) | Unlimited | Limited |
@@ -135,6 +136,7 @@ Keep in mind there's still 1152 runs left
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Ignoble Knight of High Laundsallyn](https://db.ygoprodeck.com/card/?search=Ignoble%20Knight%20of%20High%20Laundsallyn) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Old Entity Hastorr](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Hastorr) | Illegal | Unlimited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Red Rising Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rising%20Dragon) | Illegal | Unlimited |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Swordsoul Sinister Sovereign - Qixing Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Sinister%20Sovereign%20-%20Qixing%20Longyuan) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Cat Shark](https://db.ygoprodeck.com/card/?search=Cat%20Shark) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | Illegal | Unlimited |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Kashtira Shangri-Ira](https://db.ygoprodeck.com/card/?search=Kashtira%20Shangri-Ira) | Illegal | Unlimited |
