@@ -16,8 +16,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5015 | 0.49 | Unlimited |
 [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5045 | 0.47 | Unlimited |
 [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5054 | 0.42 | Unlimited |
-[Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5060 | 0.46 | Unlimited |
-[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5061 | 0.24 | Unlimited |
+[Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5059 | 0.46 | Unlimited |
+[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5060 | 0.24 | Unlimited |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5083 | 0.47 | Unlimited |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5104 | 0.43 | Unlimited |
 
