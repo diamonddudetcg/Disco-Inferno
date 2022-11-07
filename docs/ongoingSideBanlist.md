@@ -5370,6 +5370,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fist of Fate](https://db.ygoprodeck.com/card/?search=Fist%20of%20Fate) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Five Star Twilight](https://db.ygoprodeck.com/card/?search=Five%20Star%20Twilight) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flash of the Forbidden Spell](https://db.ygoprodeck.com/card/?search=Flash%20of%20the%20Forbidden%20Spell) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flawless Perfection of the Tenyi](https://db.ygoprodeck.com/card/?search=Flawless%20Perfection%20of%20the%20Tenyi) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fleuret de Fleur](https://db.ygoprodeck.com/card/?search=Fleuret%20de%20Fleur) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Floowandereeze and the Advent of Adventure](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Advent%20of%20Adventure) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Floowandereeze and the Magnificent Map](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map) | Illegal |
@@ -10170,7 +10171,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fires of Doomsday](https://db.ygoprodeck.com/card/?search=Fires%20of%20Doomsday) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fissure](https://db.ygoprodeck.com/card/?search=Fissure) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flash Fusion](https://db.ygoprodeck.com/card/?search=Flash%20Fusion) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flawless Perfection of the Tenyi](https://db.ygoprodeck.com/card/?search=Flawless%20Perfection%20of%20the%20Tenyi) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flint](https://db.ygoprodeck.com/card/?search=Flint) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flint Missile](https://db.ygoprodeck.com/card/?search=Flint%20Missile) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flourishing Frolic](https://db.ygoprodeck.com/card/?search=Flourishing%20Frolic) | Unlimited |
