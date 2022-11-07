@@ -1190,7 +1190,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elemental HERO Woodsman](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Woodsman) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Lapauila](https://db.ygoprodeck.com/card/?search=Elementsaber%20Lapauila) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Makani](https://db.ygoprodeck.com/card/?search=Elementsaber%20Makani) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Malo](https://db.ygoprodeck.com/card/?search=Elementsaber%20Malo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Molehu](https://db.ygoprodeck.com/card/?search=Elementsaber%20Molehu) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Nalu](https://db.ygoprodeck.com/card/?search=Elementsaber%20Nalu) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elephant Statue of Blessing](https://db.ygoprodeck.com/card/?search=Elephant%20Statue%20of%20Blessing) | Illegal |
@@ -4262,7 +4261,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Chaos Ruler, the Chaotic Magical Dragon](https://db.ygoprodeck.com/card/?search=Chaos%20Ruler,%20the%20Chaotic%20Magical%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Clear Wing Fast Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Wing%20Fast%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Clear Wing Synchro Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Wing%20Synchro%20Dragon) | Illegal |
-<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cloudcastle](https://db.ygoprodeck.com/card/?search=Cloudcastle) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Coral Dragon](https://db.ygoprodeck.com/card/?search=Coral%20Dragon) | Illegal |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cosmic Blazar Dragon](https://db.ygoprodeck.com/card/?search=Cosmic%20Blazar%20Dragon) | Illegal |
@@ -5528,6 +5526,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inferno Tempest](https://db.ygoprodeck.com/card/?search=Inferno%20Tempest) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infestation Pandemic](https://db.ygoprodeck.com/card/?search=Infestation%20Pandemic) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Insect Barrier](https://db.ygoprodeck.com/card/?search=Insect%20Barrier) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inspection](https://db.ygoprodeck.com/card/?search=Inspection) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Instant Neo Space](https://db.ygoprodeck.com/card/?search=Instant%20Neo%20Space) | Illegal |
@@ -8087,6 +8086,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elemental HERO Solid Soldier](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Solid%20Soldier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Aina](https://db.ygoprodeck.com/card/?search=Elementsaber%20Aina) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Lapauila Mana](https://db.ygoprodeck.com/card/?search=Elementsaber%20Lapauila%20Mana) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Malo](https://db.ygoprodeck.com/card/?search=Elementsaber%20Malo) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elephant Statue of Disaster](https://db.ygoprodeck.com/card/?search=Elephant%20Statue%20of%20Disaster) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emissary from Pandemonium](https://db.ygoprodeck.com/card/?search=Emissary%20from%20Pandemonium) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Emperor Maju Garzett](https://db.ygoprodeck.com/card/?search=Emperor%20Maju%20Garzett) | Unlimited |
@@ -9772,6 +9772,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Baxia, Brightness of the Yang Zing](https://db.ygoprodeck.com/card/?search=Baxia,%20Brightness%20of%20the%20Yang%20Zing) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Brotherhood of the Fire Fist - Kirin](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Kirin) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Chevalier de Fleur](https://db.ygoprodeck.com/card/?search=Chevalier%20de%20Fleur) | Unlimited |
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cloudcastle](https://db.ygoprodeck.com/card/?search=Cloudcastle) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cupid Pitch](https://db.ygoprodeck.com/card/?search=Cupid%20Pitch) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Cyberse Integrator](https://db.ygoprodeck.com/card/?search=Cyberse%20Integrator) | Unlimited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Dark Dimension Soldier](https://db.ygoprodeck.com/card/?search=Dark%20Dimension%20Soldier) | Unlimited |
@@ -10274,7 +10275,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Insect Armor with Laser Cannon](https://db.ygoprodeck.com/card/?search=Insect%20Armor%20with%20Laser%20Cannon) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Insect Imitation](https://db.ygoprodeck.com/card/?search=Insect%20Imitation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Insect Neglect](https://db.ygoprodeck.com/card/?search=Insect%20Neglect) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inspection](https://db.ygoprodeck.com/card/?search=Inspection) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Invigoration](https://db.ygoprodeck.com/card/?search=Invigoration) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Inzektor Sword - Zektkaliber](https://db.ygoprodeck.com/card/?search=Inzektor%20Sword%20-%20Zektkaliber) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Iron Core Armor](https://db.ygoprodeck.com/card/?search=Iron%20Core%20Armor) | Unlimited |
