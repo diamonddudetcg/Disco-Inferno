@@ -30,6 +30,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gem-Knight Crystal](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Crystal) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Giant Flea](https://db.ygoprodeck.com/card/?search=Giant%20Flea) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gigobyte](https://db.ygoprodeck.com/card/?search=Gigobyte) | Illegal |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gladiator Beast Andal](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gokibore](https://db.ygoprodeck.com/card/?search=Gokibore) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Great Bill](https://db.ygoprodeck.com/card/?search=Great%20Bill) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gruesome Goo](https://db.ygoprodeck.com/card/?search=Gruesome%20Goo) | Illegal |
@@ -689,7 +690,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Strategist Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Strategist%20Longyuan) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Hermitree](https://db.ygoprodeck.com/card/?search=Sylvan%20Hermitree) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Marshalleaf](https://db.ygoprodeck.com/card/?search=Sylvan%20Marshalleaf) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Princessprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Princessprout) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Synkron Resonator](https://db.ygoprodeck.com/card/?search=Synkron%20Resonator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tearlaments Reinoheart](https://db.ygoprodeck.com/card/?search=Tearlaments%20Reinoheart) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tearlaments Scheiren](https://db.ygoprodeck.com/card/?search=Tearlaments%20Scheiren) | Illegal |
@@ -2084,7 +2084,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Giganto](https://db.ygoprodeck.com/card/?search=Giganto) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gil Garth](https://db.ygoprodeck.com/card/?search=Gil%20Garth) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Girochin Kuwagata](https://db.ygoprodeck.com/card/?search=Girochin%20Kuwagata) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gladiator Beast Andal](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Goblin Calligrapher](https://db.ygoprodeck.com/card/?search=Goblin%20Calligrapher) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gogiga Gagagigo](https://db.ygoprodeck.com/card/?search=Gogiga%20Gagagigo) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gradius](https://db.ygoprodeck.com/card/?search=Gradius) | Unlimited |
@@ -6253,6 +6252,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Lotuswain](https://db.ygoprodeck.com/card/?search=Sylvan%20Lotuswain) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Mikorange](https://db.ygoprodeck.com/card/?search=Sylvan%20Mikorange) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Peaskeeper](https://db.ygoprodeck.com/card/?search=Sylvan%20Peaskeeper) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Princessprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Princessprout) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Sagequoia](https://db.ygoprodeck.com/card/?search=Sylvan%20Sagequoia) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Snapdrassinagon](https://db.ygoprodeck.com/card/?search=Sylvan%20Snapdrassinagon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Symphonic Warrior Basses](https://db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20Basses) | Unlimited |
