@@ -482,6 +482,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lucent, Netherlord of Dark World](https://db.ygoprodeck.com/card/?search=Lucent,%20Netherlord%20of%20Dark%20World) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lumina, Twilightsworn Shaman](https://db.ygoprodeck.com/card/?search=Lumina,%20Twilightsworn%20Shaman) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lyrilusc - Celestine Wagtail](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Celestine%20Wagtail) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machine King](https://db.ygoprodeck.com/card/?search=Machine%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Anjelly](https://db.ygoprodeck.com/card/?search=Madolche%20Anjelly) | Illegal |
@@ -4757,7 +4758,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight Kaleido Chick](https://db.ygoprodeck.com/card/?search=Lunalight%20Kaleido%20Chick) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight Purple Butterfly](https://db.ygoprodeck.com/card/?search=Lunalight%20Purple%20Butterfly) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight White Rabbit](https://db.ygoprodeck.com/card/?search=Lunalight%20White%20Rabbit) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight Yellow Marten](https://db.ygoprodeck.com/card/?search=Lunalight%20Yellow%20Marten) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Luster Pendulum, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Luster%20Pendulum,%20the%20Dracoslayer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lyla, Lightsworn Sorceress](https://db.ygoprodeck.com/card/?search=Lyla,%20Lightsworn%20Sorceress) | Unlimited |

@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 155
+Estimated number of changes: 156
 
-Keep in mind there's still 1141 runs left
+Keep in mind there's still 1140 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -32,6 +32,7 @@ Keep in mind there's still 1141 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gren Maju Da Eiza](https://db.ygoprodeck.com/card/?search=Gren%20Maju%20Da%20Eiza) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Icejade Aegirine](https://db.ygoprodeck.com/card/?search=Icejade%20Aegirine) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Inferno Hammer](https://db.ygoprodeck.com/card/?search=Inferno%20Hammer) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Magikuriboh](https://db.ygoprodeck.com/card/?search=Magikuriboh) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Unlimited | Illegal |
