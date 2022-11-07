@@ -5351,7 +5351,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Follow Wind](https://db.ygoprodeck.com/card/?search=Follow%20Wind) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Burial](https://db.ygoprodeck.com/card/?search=Foolish%20Burial) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Burial Goods](https://db.ygoprodeck.com/card/?search=Foolish%20Burial%20Goods) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forbidden Arts of the Gishki](https://db.ygoprodeck.com/card/?search=Forbidden%20Arts%20of%20the%20Gishki) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forbidden Chalice](https://db.ygoprodeck.com/card/?search=Forbidden%20Chalice) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forbidden Dress](https://db.ygoprodeck.com/card/?search=Forbidden%20Dress) | Illegal |
@@ -10170,6 +10169,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flourishing Frolic](https://db.ygoprodeck.com/card/?search=Flourishing%20Frolic) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Flower Gathering](https://db.ygoprodeck.com/card/?search=Flower%20Gathering) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fog Control](https://db.ygoprodeck.com/card/?search=Fog%20Control) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forbidden Dark Contract with the Swamp King](https://db.ygoprodeck.com/card/?search=Forbidden%20Dark%20Contract%20with%20the%20Swamp%20King) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forest of Lost Flowers](https://db.ygoprodeck.com/card/?search=Forest%20of%20Lost%20Flowers) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Forge of the True Dracos](https://db.ygoprodeck.com/card/?search=Forge%20of%20the%20True%20Dracos) | Unlimited |
