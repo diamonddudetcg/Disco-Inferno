@@ -17,6 +17,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.5048 | 0.46 | Unlimited |
 [The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5073 | 0.47 | Unlimited |
 [Level Up!](https://db.ygoprodeck.com/card/?search=Level%20Up!) | 0.5084 | 0.43 | Unlimited |
+[Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | 0.5607 | 0.33 | Unlimited |
 
 <br>
 
