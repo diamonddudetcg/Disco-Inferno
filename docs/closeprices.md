@@ -10,7 +10,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4876 | 0.55 | Illegal |
 [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | 0.4970 | 0.53 | Illegal |
 [Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.4970 | 0.53 | Illegal |
-[Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | 0.4996 | 0.54 | Illegal |
+[Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | 0.4997 | 0.54 | Illegal |
 [Dragonmaid Sheou](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Sheou) | 0.5010 | 0.49 | Unlimited |
 [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | 0.5020 | 0.42 | Unlimited |
 [Howling Insect](https://db.ygoprodeck.com/card/?search=Howling%20Insect) | 0.5030 | 0.47 | Unlimited |
