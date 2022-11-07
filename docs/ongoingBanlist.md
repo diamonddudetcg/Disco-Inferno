@@ -948,7 +948,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Secret Six Samurai - Rihan](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Rihan) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Skelgon](https://db.ygoprodeck.com/card/?search=Skelgon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Skullbird](https://db.ygoprodeck.com/card/?search=Skullbird) | Illegal |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Soul Hunter](https://db.ygoprodeck.com/card/?search=Soul%20Hunter) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Starving Venom Predapower Fusion Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venom%20Predapower%20Fusion%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Supreme Arcanite Magician](https://db.ygoprodeck.com/card/?search=Supreme%20Arcanite%20Magician) | Illegal |
@@ -1339,6 +1338,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number F0: Utopic Draco Future](https://db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Draco%20Future) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Odd-Eyes Raging Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Raging%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Orea, the Sylvan High Arbiter](https://db.ygoprodeck.com/card/?search=Orea,%20the%20Sylvan%20High%20Arbiter) | Illegal |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Phantom Fortress Enterblathnir](https://db.ygoprodeck.com/card/?search=Phantom%20Fortress%20Enterblathnir) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Primathmech Alembertian](https://db.ygoprodeck.com/card/?search=Primathmech%20Alembertian) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Queen Dragun Djinn](https://db.ygoprodeck.com/card/?search=Queen%20Dragun%20Djinn) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Raidraptor - Blaze Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Blaze%20Falcon) | Illegal |
@@ -1663,7 +1663,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [ZERO-MAX](https://db.ygoprodeck.com/card/?search=ZERO-MAX) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zoodiac Barrage](https://db.ygoprodeck.com/card/?search=Zoodiac%20Barrage) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Abyss-sphere](https://db.ygoprodeck.com/card/?search=Abyss-sphere) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Shamanism](https://db.ygoprodeck.com/card/?search=Amazoness%20Shamanism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Willpower](https://db.ygoprodeck.com/card/?search=Amazoness%20Willpower) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ancient Gear Reborn](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reborn) | Illegal |
@@ -7230,6 +7229,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Schuberta the Melodious Maestra](https://db.ygoprodeck.com/card/?search=Schuberta%20the%20Melodious%20Maestra) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Shura the Combat Star](https://db.ygoprodeck.com/card/?search=Shura%20the%20Combat%20Star) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Skull Knight](https://db.ygoprodeck.com/card/?search=Skull%20Knight) | Unlimited |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Sprind the Irondash Dragon](https://db.ygoprodeck.com/card/?search=Sprind%20the%20Irondash%20Dragon) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [St. Joan](https://db.ygoprodeck.com/card/?search=St.%20Joan) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Starving Venemy Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venemy%20Dragon) | Unlimited |
@@ -8003,7 +8003,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Paleozoic Opabinia](https://db.ygoprodeck.com/card/?search=Paleozoic%20Opabinia) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Pendransaction](https://db.ygoprodeck.com/card/?search=Pendransaction) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Performage Trapeze Magician](https://db.ygoprodeck.com/card/?search=Performage%20Trapeze%20Magician) | Unlimited |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Phantom Fortress Enterblathnir](https://db.ygoprodeck.com/card/?search=Phantom%20Fortress%20Enterblathnir) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Photon Alexandra Queen](https://db.ygoprodeck.com/card/?search=Photon%20Alexandra%20Queen) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Photon Papilloperative](https://db.ygoprodeck.com/card/?search=Photon%20Papilloperative) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | Unlimited |
@@ -10073,6 +10072,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Haunted Rock](https://db.ygoprodeck.com/card/?search=Altergeist%20Haunted%20Rock) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Manifestation](https://db.ygoprodeck.com/card/?search=Altergeist%20Manifestation) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Altergeist Protocol](https://db.ygoprodeck.com/card/?search=Altergeist%20Protocol) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Horror House](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Horror%20House) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Majestic Merry-Go-Round](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Majestic%20Merry-Go-Round) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Rapid Racing](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Rapid%20Racing) | Unlimited |
