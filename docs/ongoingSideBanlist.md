@@ -1257,6 +1257,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evocator Chevalier](https://db.ygoprodeck.com/card/?search=Evocator%20Chevalier) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evocator Eveque](https://db.ygoprodeck.com/card/?search=Evocator%20Eveque) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evolsaur Cerato](https://db.ygoprodeck.com/card/?search=Evolsaur%20Cerato) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evolsaur Darwino](https://db.ygoprodeck.com/card/?search=Evolsaur%20Darwino) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evolsaur Diplo](https://db.ygoprodeck.com/card/?search=Evolsaur%20Diplo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evolsaur Elias](https://db.ygoprodeck.com/card/?search=Evolsaur%20Elias) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evolsaur Pelta](https://db.ygoprodeck.com/card/?search=Evolsaur%20Pelta) | Illegal |
@@ -8201,7 +8202,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Mandragora](https://db.ygoprodeck.com/card/?search=Evilswarm%20Mandragora) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Salamandra](https://db.ygoprodeck.com/card/?search=Evilswarm%20Salamandra) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evilswarm Zahak](https://db.ygoprodeck.com/card/?search=Evilswarm%20Zahak) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evolsaur Darwino](https://db.ygoprodeck.com/card/?search=Evolsaur%20Darwino) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evolsaur Terias](https://db.ygoprodeck.com/card/?search=Evolsaur%20Terias) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evoltile Casinerio](https://db.ygoprodeck.com/card/?search=Evoltile%20Casinerio) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Evoltile Gephyro](https://db.ygoprodeck.com/card/?search=Evoltile%20Gephyro) | Unlimited |
