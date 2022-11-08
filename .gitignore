@@ -3,9 +3,10 @@
 /.tmp.drivedownload
 banlist/.tmp.driveupload
 banlist/.tmp.drivedownload
-banlist/
 logs/
 json/
 di.py
 DiBot.py
 mintty.exe.stackdump
+*.gdoc
+banlist/ongoing
