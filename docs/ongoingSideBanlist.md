@@ -1701,6 +1701,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Amphisbaena](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Amphisbaena) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Leo](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Leo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Twin-Headed Eagle](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Twin-Headed%20Eagle) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Unicorn](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Unicorn) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hermit of Prophecy](https://db.ygoprodeck.com/card/?search=Hermit%20of%20Prophecy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Hero Kid](https://db.ygoprodeck.com/card/?search=Hero%20Kid) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heroic Challenger - Ambush Soldier](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Ambush%20Soldier) | Illegal |
@@ -2610,6 +2611,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Queen of Fate - Eternia](https://db.ygoprodeck.com/card/?search=Queen%20of%20Fate%20-%20Eternia) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Queen's Double](https://db.ygoprodeck.com/card/?search=Queen's%20Double) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Quick-Span Knight](https://db.ygoprodeck.com/card/?search=Quick-Span%20Knight) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Quickdraw Synchron](https://db.ygoprodeck.com/card/?search=Quickdraw%20Synchron) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Accelerator](https://db.ygoprodeck.com/card/?search=R-Genex%20Accelerator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Oracle](https://db.ygoprodeck.com/card/?search=R-Genex%20Oracle) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Overseer](https://db.ygoprodeck.com/card/?search=R-Genex%20Overseer) | Illegal |
@@ -8466,7 +8468,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Basilisk](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Basilisk) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Berners Falcon](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Berners%20Falcon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Eale](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Eale) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heraldic Beast Unicorn](https://db.ygoprodeck.com/card/?search=Heraldic%20Beast%20Unicorn) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heroic Challenger - Morning Star](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Morning%20Star) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heroic Challenger - Night Watchman](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Night%20Watchman) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Heroic Challenger - Thousand Blades](https://db.ygoprodeck.com/card/?search=Heroic%20Challenger%20-%20Thousand%20Blades) | Unlimited |
@@ -9030,7 +9031,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Pyrotech Mech - Shiryu](https://db.ygoprodeck.com/card/?search=Pyrotech%20Mech%20-%20Shiryu) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Qadshaddoll Keios](https://db.ygoprodeck.com/card/?search=Qadshaddoll%20Keios) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Queen's Bodyguard](https://db.ygoprodeck.com/card/?search=Queen's%20Bodyguard) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Quickdraw Synchron](https://db.ygoprodeck.com/card/?search=Quickdraw%20Synchron) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Quillbolt Hedgehog](https://db.ygoprodeck.com/card/?search=Quillbolt%20Hedgehog) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Crusher](https://db.ygoprodeck.com/card/?search=R-Genex%20Crusher) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [R-Genex Magma](https://db.ygoprodeck.com/card/?search=R-Genex%20Magma) | Unlimited |
