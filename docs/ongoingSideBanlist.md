@@ -6741,6 +6741,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Floodgate Trap Hole](https://db.ygoprodeck.com/card/?search=Floodgate%20Trap%20Hole) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Floowandereeze and the Dreaming Town](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Dreaming%20Town) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Floowandereeze and the Scary Sea](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Scary%20Sea) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fluffal Crane](https://db.ygoprodeck.com/card/?search=Fluffal%20Crane) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Foolish Revival](https://db.ygoprodeck.com/card/?search=Foolish%20Revival) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forced Back](https://db.ygoprodeck.com/card/?search=Forced%20Back) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forced Ceasefire](https://db.ygoprodeck.com/card/?search=Forced%20Ceasefire) | Illegal |
@@ -11088,7 +11089,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fists of the Unrivaled Tenyi](https://db.ygoprodeck.com/card/?search=Fists%20of%20the%20Unrivaled%20Tenyi) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Five Brothers Explosion](https://db.ygoprodeck.com/card/?search=Five%20Brothers%20Explosion) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Flashbang](https://db.ygoprodeck.com/card/?search=Flashbang) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Fluffal Crane](https://db.ygoprodeck.com/card/?search=Fluffal%20Crane) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Follow Wing](https://db.ygoprodeck.com/card/?search=Follow%20Wing) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forbidden Apocrypha](https://db.ygoprodeck.com/card/?search=Forbidden%20Apocrypha) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Forgotten Temple of the Deep](https://db.ygoprodeck.com/card/?search=Forgotten%20Temple%20of%20the%20Deep) | Unlimited |
