@@ -157,6 +157,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beat, Bladesman Fur Hire](https://db.ygoprodeck.com/card/?search=Beat,%20Bladesman%20Fur%20Hire) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beginning Knight](https://db.ygoprodeck.com/card/?search=Beginning%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berserk Dragon](https://db.ygoprodeck.com/card/?search=Berserk%20Dragon) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berserk Gorilla](https://db.ygoprodeck.com/card/?search=Berserk%20Gorilla) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berserkion the Electromagna Warrior](https://db.ygoprodeck.com/card/?search=Berserkion%20the%20Electromagna%20Warrior) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Beta The Electromagnet Warrior](https://db.ygoprodeck.com/card/?search=Beta%20The%20Electromagnet%20Warrior) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bi'an, Earth of the Yang Zing](https://db.ygoprodeck.com/card/?search=Bi'an,%20Earth%20of%20the%20Yang%20Zing) | Illegal |
@@ -2736,7 +2737,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berfomet](https://db.ygoprodeck.com/card/?search=Berfomet) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berlineth the Firestorm Vassal](https://db.ygoprodeck.com/card/?search=Berlineth%20the%20Firestorm%20Vassal) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berry Magician Girl](https://db.ygoprodeck.com/card/?search=Berry%20Magician%20Girl) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Berserk Gorilla](https://db.ygoprodeck.com/card/?search=Berserk%20Gorilla) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bicorn Re'em](https://db.ygoprodeck.com/card/?search=Bicorn%20Re'em) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bicular](https://db.ygoprodeck.com/card/?search=Bicular) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Big Belly Knight](https://db.ygoprodeck.com/card/?search=Big%20Belly%20Knight) | Unlimited |

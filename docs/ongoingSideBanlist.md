@@ -225,7 +225,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sea Serpent Warrior of Darkness](https://db.ygoprodeck.com/card/?search=Sea%20Serpent%20Warrior%20of%20Darkness) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sealmaster Meisei](https://db.ygoprodeck.com/card/?search=Sealmaster%20Meisei) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sectarian of Secrets](https://db.ygoprodeck.com/card/?search=Sectarian%20of%20Secrets) | Illegal |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Seiyaryu](https://db.ygoprodeck.com/card/?search=Seiyaryu) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sengenjin](https://db.ygoprodeck.com/card/?search=Sengenjin) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sentinel of the Seas](https://db.ygoprodeck.com/card/?search=Sentinel%20of%20the%20Seas) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Serpent Night Dragon](https://db.ygoprodeck.com/card/?search=Serpent%20Night%20Dragon) | Illegal |
@@ -7548,6 +7547,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sabersaurus](https://db.ygoprodeck.com/card/?search=Sabersaurus) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Saggi the Dark Clown](https://db.ygoprodeck.com/card/?search=Saggi%20the%20Dark%20Clown) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sand Stone](https://db.ygoprodeck.com/card/?search=Sand%20Stone) | Unlimited |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Seiyaryu](https://db.ygoprodeck.com/card/?search=Seiyaryu) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Shiny Black "C" Squadder](https://db.ygoprodeck.com/card/?search=Shiny%20Black%20"C"%20Squadder) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Silver Fang](https://db.ygoprodeck.com/card/?search=Silver%20Fang) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Skull Dog Marron](https://db.ygoprodeck.com/card/?search=Skull%20Dog%20Marron) | Unlimited |
