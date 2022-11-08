@@ -2792,6 +2792,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Hunter](https://db.ygoprodeck.com/card/?search=Scrap%20Hunter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Mind Reader](https://db.ygoprodeck.com/card/?search=Scrap%20Mind%20Reader) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Orthros](https://db.ygoprodeck.com/card/?search=Scrap%20Orthros) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Raptor](https://db.ygoprodeck.com/card/?search=Scrap%20Raptor) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Recycler](https://db.ygoprodeck.com/card/?search=Scrap%20Recycler) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Searcher](https://db.ygoprodeck.com/card/?search=Scrap%20Searcher) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Soldier](https://db.ygoprodeck.com/card/?search=Scrap%20Soldier) | Illegal |
@@ -4127,6 +4128,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hip Hoshiningen](https://db.ygoprodeck.com/card/?search=Hip%20Hoshiningen) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hraesvelgr, the Desperate Doom Eagle](https://db.ygoprodeck.com/card/?search=Hraesvelgr,%20the%20Desperate%20Doom%20Eagle) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [I:P Masquerena](https://db.ygoprodeck.com/card/?search=I:P%20Masquerena) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ib the World Chalice Priestess](https://db.ygoprodeck.com/card/?search=Ib%20the%20World%20Chalice%20Priestess) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Infinitrack Fortress Megaclops](https://db.ygoprodeck.com/card/?search=Infinitrack%20Fortress%20Megaclops) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Infinitrack Goliath](https://db.ygoprodeck.com/card/?search=Infinitrack%20Goliath) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Iron Knight of Revolution](https://db.ygoprodeck.com/card/?search=Iron%20Knight%20of%20Revolution) | Illegal |
@@ -9147,7 +9149,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scarr, Scout of Dark World](https://db.ygoprodeck.com/card/?search=Scarr,%20Scout%20of%20Dark%20World) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Score the Melodious Diva](https://db.ygoprodeck.com/card/?search=Score%20the%20Melodious%20Diva) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Kong](https://db.ygoprodeck.com/card/?search=Scrap%20Kong) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Raptor](https://db.ygoprodeck.com/card/?search=Scrap%20Raptor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scrap Shark](https://db.ygoprodeck.com/card/?search=Scrap%20Shark) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sea Koala](https://db.ygoprodeck.com/card/?search=Sea%20Koala) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sea Lancer](https://db.ygoprodeck.com/card/?search=Sea%20Lancer) | Unlimited |
@@ -9753,7 +9754,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Gouki The Solid Ogre](https://db.ygoprodeck.com/card/?search=Gouki%20The%20Solid%20Ogre) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Heavymetalfoes Amalgam](https://db.ygoprodeck.com/card/?search=Heavymetalfoes%20Amalgam) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Honeybot](https://db.ygoprodeck.com/card/?search=Honeybot) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ib the World Chalice Priestess](https://db.ygoprodeck.com/card/?search=Ib%20the%20World%20Chalice%20Priestess) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Inzektor Picofalena](https://db.ygoprodeck.com/card/?search=Inzektor%20Picofalena) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | Unlimited |
