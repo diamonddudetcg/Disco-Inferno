@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 176
+Estimated number of changes: 177
 
-Keep in mind there's still 1049 runs left
+Keep in mind there's still 1048 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -181,6 +181,7 @@ Keep in mind there's still 1049 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychic Feel Zone](https://db.ygoprodeck.com/card/?search=Psychic%20Feel%20Zone) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Shark Cannon](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Shark%20Cannon) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Vaylantz Wakening - Solo Activation](https://db.ygoprodeck.com/card/?search=Vaylantz%20Wakening%20-%20Solo%20Activation) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Witchcrafter Confusion Confession](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Confusion%20Confession) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Zombie World](https://db.ygoprodeck.com/card/?search=Zombie%20World) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blast Held by Destiny](https://db.ygoprodeck.com/card/?search=Blast%20Held%20by%20Destiny) | Illegal | Unlimited |
