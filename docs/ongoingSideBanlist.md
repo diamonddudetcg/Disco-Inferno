@@ -1084,7 +1084,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dimensional Alchemist](https://db.ygoprodeck.com/card/?search=Dimensional%20Alchemist) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomight Knight, the True Dracofighter](https://db.ygoprodeck.com/card/?search=Dinomight%20Knight,%20the%20True%20Dracofighter) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomight Powerload, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Dinomight%20Powerload,%20the%20Dracoslayer) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomist Ankylos](https://db.ygoprodeck.com/card/?search=Dinomist%20Ankylos) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomist Brachion](https://db.ygoprodeck.com/card/?search=Dinomist%20Brachion) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomist Ceratops](https://db.ygoprodeck.com/card/?search=Dinomist%20Ceratops) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomist Plesios](https://db.ygoprodeck.com/card/?search=Dinomist%20Plesios) | Illegal |
@@ -5722,6 +5721,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magic Gate of Miracles](https://db.ygoprodeck.com/card/?search=Magic%20Gate%20of%20Miracles) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magic Planter](https://db.ygoprodeck.com/card/?search=Magic%20Planter) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magic Reflector](https://db.ygoprodeck.com/card/?search=Magic%20Reflector) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Citadel of Endymion](https://db.ygoprodeck.com/card/?search=Magical%20Citadel%20of%20Endymion) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Labyrinth](https://db.ygoprodeck.com/card/?search=Magical%20Labyrinth) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Mallet](https://db.ygoprodeck.com/card/?search=Magical%20Mallet) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Meltdown](https://db.ygoprodeck.com/card/?search=Magical%20Meltdown) | Illegal |
@@ -8061,6 +8061,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dimension Conjurer](https://db.ygoprodeck.com/card/?search=Dimension%20Conjurer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dimension Fortress Weapon](https://db.ygoprodeck.com/card/?search=Dimension%20Fortress%20Weapon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dino-Sewing](https://db.ygoprodeck.com/card/?search=Dino-Sewing) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomist Ankylos](https://db.ygoprodeck.com/card/?search=Dinomist%20Ankylos) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinomorphia Diplos](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Diplos) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinowrestler Capaptera](https://db.ygoprodeck.com/card/?search=Dinowrestler%20Capaptera) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dinowrestler Capoeiraptor](https://db.ygoprodeck.com/card/?search=Dinowrestler%20Capoeiraptor) | Unlimited |
@@ -10337,7 +10338,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magic Formula](https://db.ygoprodeck.com/card/?search=Magic%20Formula) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magic Triangle of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Magic%20Triangle%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Blast](https://db.ygoprodeck.com/card/?search=Magical%20Blast) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Citadel of Endymion](https://db.ygoprodeck.com/card/?search=Magical%20Citadel%20of%20Endymion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Contract Door](https://db.ygoprodeck.com/card/?search=Magical%20Contract%20Door) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Dimension](https://db.ygoprodeck.com/card/?search=Magical%20Dimension) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Star Illusion](https://db.ygoprodeck.com/card/?search=Magical%20Star%20Illusion) | Unlimited |
