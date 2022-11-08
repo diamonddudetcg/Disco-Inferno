@@ -5799,6 +5799,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mischief of the Time Goddess](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Time%20Goddess) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mist Body](https://db.ygoprodeck.com/card/?search=Mist%20Body) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mistaken Arrest](https://db.ygoprodeck.com/card/?search=Mistaken%20Arrest) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mokey Mokey Smackdown](https://db.ygoprodeck.com/card/?search=Mokey%20Mokey%20Smackdown) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Molten Destruction](https://db.ygoprodeck.com/card/?search=Molten%20Destruction) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Molting Escape](https://db.ygoprodeck.com/card/?search=Molting%20Escape) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Gate](https://db.ygoprodeck.com/card/?search=Monster%20Gate) | Illegal |
@@ -10375,7 +10376,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mirror of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Mirror%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Misfortune](https://db.ygoprodeck.com/card/?search=Misfortune) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mistaken Accusation](https://db.ygoprodeck.com/card/?search=Mistaken%20Accusation) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mokey Mokey Smackdown](https://db.ygoprodeck.com/card/?search=Mokey%20Mokey%20Smackdown) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Molten Conduction Field](https://db.ygoprodeck.com/card/?search=Molten%20Conduction%20Field) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Reborn Reborn](https://db.ygoprodeck.com/card/?search=Monster%20Reborn%20Reborn) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Recovery](https://db.ygoprodeck.com/card/?search=Monster%20Recovery) | Unlimited |
