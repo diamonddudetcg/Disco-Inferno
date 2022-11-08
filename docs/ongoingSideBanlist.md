@@ -876,6 +876,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crusadia Draco](https://db.ygoprodeck.com/card/?search=Crusadia%20Draco) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crusadia Maximus](https://db.ygoprodeck.com/card/?search=Crusadia%20Maximus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crusadia Reclusia](https://db.ygoprodeck.com/card/?search=Crusadia%20Reclusia) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Amethyst Cat](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Amethyst%20Cat) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Emerald Tortoise](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Emerald%20Tortoise) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Rainbow Dragon](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Rainbow%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Sapphire Pegasus](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Sapphire%20Pegasus) | Illegal |
@@ -6935,6 +6936,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Meteor Flare](https://db.ygoprodeck.com/card/?search=Meteor%20Flare) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Meteorain](https://db.ygoprodeck.com/card/?search=Meteorain) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Michizure](https://db.ygoprodeck.com/card/?search=Michizure) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mind Crush](https://db.ygoprodeck.com/card/?search=Mind%20Crush) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mind Drain](https://db.ygoprodeck.com/card/?search=Mind%20Drain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mind Over Matter](https://db.ygoprodeck.com/card/?search=Mind%20Over%20Matter) | Illegal |
@@ -7916,7 +7918,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crusadia Leonis](https://db.ygoprodeck.com/card/?search=Crusadia%20Leonis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cryomancer of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Cryomancer%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Amber Mammoth](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Amber%20Mammoth) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Amethyst Cat](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Amethyst%20Cat) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Cobalt Eagle](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Cobalt%20Eagle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Ruby Carbuncle](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Ruby%20Carbuncle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystal Beast Topaz Tiger](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Topaz%20Tiger) | Unlimited |
@@ -11253,7 +11254,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metal Reflect Slime](https://db.ygoprodeck.com/card/?search=Metal%20Reflect%20Slime) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metalfoes Combination](https://db.ygoprodeck.com/card/?search=Metalfoes%20Combination) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metalfoes Counter](https://db.ygoprodeck.com/card/?search=Metalfoes%20Counter) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Michizure](https://db.ygoprodeck.com/card/?search=Michizure) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Micro Ray](https://db.ygoprodeck.com/card/?search=Micro%20Ray) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mimesis Elephant](https://db.ygoprodeck.com/card/?search=Mimesis%20Elephant) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mind Haxorz](https://db.ygoprodeck.com/card/?search=Mind%20Haxorz) | Unlimited |
