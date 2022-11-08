@@ -513,7 +513,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abyssdine](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssdine) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abyssgunde](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssgunde) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abysslinde](https://db.ygoprodeck.com/card/?search=Mermail%20Abysslinde) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abysspike](https://db.ygoprodeck.com/card/?search=Mermail%20Abysspike) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metalzoa](https://db.ygoprodeck.com/card/?search=Metalzoa) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Meteo the Matchless](https://db.ygoprodeck.com/card/?search=Meteo%20the%20Matchless) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Meteor Dragon Red-Eyes Impact](https://db.ygoprodeck.com/card/?search=Meteor%20Dragon%20Red-Eyes%20Impact) | Illegal |
@@ -972,7 +971,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Accesscode Talker](https://db.ygoprodeck.com/card/?search=Accesscode%20Talker) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Memorygant](https://db.ygoprodeck.com/card/?search=Altergeist%20Memorygant) | Illegal |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Amatsu-Okami of the Divine Peaks](https://db.ygoprodeck.com/card/?search=Amatsu-Okami%20of%20the%20Divine%20Peaks) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ancient Gear Ballista](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Ballista) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ancient Warriors Oath - Double Dragon Lords](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Oath%20-%20Double%20Dragon%20Lords) | Illegal |
@@ -4995,6 +4993,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abyssnerei](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssnerei) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abyssnose](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssnose) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abyssocea](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssocea) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abysspike](https://db.ygoprodeck.com/card/?search=Mermail%20Abysspike) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abyssteus](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssteus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abyssturge](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssturge) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metabo Globster](https://db.ygoprodeck.com/card/?search=Metabo%20Globster) | Unlimited |
@@ -7279,6 +7278,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Alien Shocktrooper M-Frame](https://db.ygoprodeck.com/card/?search=Alien%20Shocktrooper%20M-Frame) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Hexstia](https://db.ygoprodeck.com/card/?search=Altergeist%20Hexstia) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Kidolga](https://db.ygoprodeck.com/card/?search=Altergeist%20Kidolga) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Amphibious Swarmship Amblowhale](https://db.ygoprodeck.com/card/?search=Amphibious%20Swarmship%20Amblowhale) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Appliancer Celtopus](https://db.ygoprodeck.com/card/?search=Appliancer%20Celtopus) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Appliancer Dryer Drake](https://db.ygoprodeck.com/card/?search=Appliancer%20Dryer%20Drake) | Unlimited |

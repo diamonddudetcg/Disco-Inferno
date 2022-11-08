@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 156
+Estimated number of changes: 154
 
-Keep in mind there's still 1140 runs left
+Keep in mind there's still 1139 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -37,7 +37,6 @@ Keep in mind there's still 1140 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mega Fortress Whale](https://db.ygoprodeck.com/card/?search=Mega%20Fortress%20Whale) | Unlimited | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mermail Abysspike](https://db.ygoprodeck.com/card/?search=Mermail%20Abysspike) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Plaguespreader Zombie](https://db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie) | Unlimited | Illegal |
@@ -57,7 +56,6 @@ Keep in mind there's still 1140 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Imperion Magnum the Superconductive Battlebot](https://db.ygoprodeck.com/card/?search=Imperion%20Magnum%20the%20Superconductive%20Battlebot) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Anki](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Anki) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Ritual Beast Ulti-Apelio](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Ulti-Apelio) | Unlimited | Illegal |
-|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Primebanshee](https://db.ygoprodeck.com/card/?search=Altergeist%20Primebanshee) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | Unlimited | Illegal |
