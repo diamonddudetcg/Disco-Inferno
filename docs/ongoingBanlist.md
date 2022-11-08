@@ -348,7 +348,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ghost Fairy Elfobia](https://db.ygoprodeck.com/card/?search=Ghost%20Fairy%20Elfobia) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ghostrick Ghoul](https://db.ygoprodeck.com/card/?search=Ghostrick%20Ghoul) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gilford the Legend](https://db.ygoprodeck.com/card/?search=Gilford%20the%20Legend) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Giltia the D. Knight - Soul Spear](https://db.ygoprodeck.com/card/?search=Giltia%20the%20D.%20Knight%20-%20Soul%20Spear) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Egg Head](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Egg%20Head) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Scissor Arms](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Scissor%20Arms) | Illegal |
@@ -4031,6 +4030,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gigastone Omega](https://db.ygoprodeck.com/card/?search=Gigastone%20Omega) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gigathunder Giclops](https://db.ygoprodeck.com/card/?search=Gigathunder%20Giclops) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gilasaurus](https://db.ygoprodeck.com/card/?search=Gilasaurus) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gilford the Legend](https://db.ygoprodeck.com/card/?search=Gilford%20the%20Legend) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gilford the Lightning](https://db.ygoprodeck.com/card/?search=Gilford%20the%20Lightning) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gillagillancer](https://db.ygoprodeck.com/card/?search=Gillagillancer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Bisque Doll](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Bisque%20Doll) | Unlimited |
