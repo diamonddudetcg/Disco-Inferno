@@ -6,21 +6,21 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | 0.4383 | 0.51 | Illegal |
-[Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.4938 | 0.52 | Illegal |
-[Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4944 | 0.51 | Illegal |
-[Mushroom Man #2](https://db.ygoprodeck.com/card/?search=Mushroom%20Man%20#2) | 0.4946 | 0.54 | Illegal |
-[Witchcrafter Confusion Confession](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Confusion%20Confession) | 0.5010 | 0.39 | Unlimited |
-[Lullaby of Obedience](https://db.ygoprodeck.com/card/?search=Lullaby%20of%20Obedience) | 0.5034 | 0.48 | Unlimited |
-[Cyber Barrier Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Barrier%20Dragon) | 0.5042 | 0.48 | Unlimited |
-[Dragard](https://db.ygoprodeck.com/card/?search=Dragard) | 0.5047 | 0.49 | Unlimited |
-[Thousand-Eyes Restrict](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Restrict) | 0.5048 | 0.49 | Unlimited |
-[Toon Cyber Dragon](https://db.ygoprodeck.com/card/?search=Toon%20Cyber%20Dragon) | 0.5071 | 0.49 | Unlimited |
-[Blackwing - Blizzard the Far North](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North) | 0.5375 | 0.48 | Unlimited |
-[Abyss Dweller](https://db.ygoprodeck.com/card/?search=Abyss%20Dweller) | 0.5406 | 0.49 | Unlimited |
-[Yuki-Onna, the Icicle Mayakashi](https://db.ygoprodeck.com/card/?search=Yuki-Onna,%20the%20Icicle%20Mayakashi) | 0.5849 | 0.33 | Unlimited |
-[Cyber Revsystem](https://db.ygoprodeck.com/card/?search=Cyber%20Revsystem) | 0.8770 | 0.36 | Unlimited |
-[Number 93: Utopia Kaiser](https://db.ygoprodeck.com/card/?search=Number%2093:%20Utopia%20Kaiser) | 0.9573 | 0.35 | Unlimited |
+[Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | 0.4388 | 0.51 | Illegal |
+[Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.4940 | 0.52 | Illegal |
+[Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4945 | 0.51 | Illegal |
+[Mushroom Man #2](https://db.ygoprodeck.com/card/?search=Mushroom%20Man%20#2) | 0.4949 | 0.54 | Illegal |
+[Witchcrafter Confusion Confession](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Confusion%20Confession) | 0.5002 | 0.39 | Unlimited |
+[Lullaby of Obedience](https://db.ygoprodeck.com/card/?search=Lullaby%20of%20Obedience) | 0.5033 | 0.48 | Unlimited |
+[Cyber Barrier Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Barrier%20Dragon) | 0.5041 | 0.48 | Unlimited |
+[Dragard](https://db.ygoprodeck.com/card/?search=Dragard) | 0.5046 | 0.49 | Unlimited |
+[Thousand-Eyes Restrict](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Restrict) | 0.5047 | 0.49 | Unlimited |
+[Toon Cyber Dragon](https://db.ygoprodeck.com/card/?search=Toon%20Cyber%20Dragon) | 0.5070 | 0.49 | Unlimited |
+[Blackwing - Blizzard the Far North](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North) | 0.5371 | 0.48 | Unlimited |
+[Abyss Dweller](https://db.ygoprodeck.com/card/?search=Abyss%20Dweller) | 0.5402 | 0.49 | Unlimited |
+[Yuki-Onna, the Icicle Mayakashi](https://db.ygoprodeck.com/card/?search=Yuki-Onna,%20the%20Icicle%20Mayakashi) | 0.5831 | 0.33 | Unlimited |
+[Cyber Revsystem](https://db.ygoprodeck.com/card/?search=Cyber%20Revsystem) | 0.8734 | 0.36 | Unlimited |
+[Number 93: Utopia Kaiser](https://db.ygoprodeck.com/card/?search=Number%2093:%20Utopia%20Kaiser) | 0.9531 | 0.35 | Unlimited |
 
 <br>
 

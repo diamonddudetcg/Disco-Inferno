@@ -6859,7 +6859,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Judgment of Thunder](https://db.ygoprodeck.com/card/?search=Judgment%20of%20Thunder) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jurassic Impact](https://db.ygoprodeck.com/card/?search=Jurassic%20Impact) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Jurrac Impact](https://db.ygoprodeck.com/card/?search=Jurrac%20Impact) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kairyu-Shin's Dark Reef](https://db.ygoprodeck.com/card/?search=Kairyu-Shin's%20Dark%20Reef) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Karakuri Cash Inn](https://db.ygoprodeck.com/card/?search=Karakuri%20Cash%20Inn) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Karakuri Cash Shed](https://db.ygoprodeck.com/card/?search=Karakuri%20Cash%20Shed) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Karakuri Klock](https://db.ygoprodeck.com/card/?search=Karakuri%20Klock) | Illegal |
@@ -11189,6 +11188,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Just Desserts](https://db.ygoprodeck.com/card/?search=Just%20Desserts) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Justi-Break](https://db.ygoprodeck.com/card/?search=Justi-Break) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kaiju Capture Mission](https://db.ygoprodeck.com/card/?search=Kaiju%20Capture%20Mission) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kairyu-Shin's Dark Reef](https://db.ygoprodeck.com/card/?search=Kairyu-Shin's%20Dark%20Reef) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kashtira Preparations](https://db.ygoprodeck.com/card/?search=Kashtira%20Preparations) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [King Scarlet](https://db.ygoprodeck.com/card/?search=King%20Scarlet) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Kingyo Sukui](https://db.ygoprodeck.com/card/?search=Kingyo%20Sukui) | Unlimited |
