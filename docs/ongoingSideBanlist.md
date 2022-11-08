@@ -1902,6 +1902,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Keldo](https://db.ygoprodeck.com/card/?search=Keldo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Keldo the Sacred Protector](https://db.ygoprodeck.com/card/?search=Keldo%20the%20Sacred%20Protector) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Keurse, the Ogdoadic Light](https://db.ygoprodeck.com/card/?search=Keurse,%20the%20Ogdoadic%20Light) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Key Mouse](https://db.ygoprodeck.com/card/?search=Key%20Mouse) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kidmodo Dragon](https://db.ygoprodeck.com/card/?search=Kidmodo%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [King of Destruction - Xexex](https://db.ygoprodeck.com/card/?search=King%20of%20Destruction%20-%20Xexex) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [King of the Beasts](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Beasts) | Illegal |
@@ -2190,7 +2191,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mecha Phantom Beast Warbluran](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20Warbluran) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mecha Sea Dragon Plesion](https://db.ygoprodeck.com/card/?search=Mecha%20Sea%20Dragon%20Plesion) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mechanical Hound](https://db.ygoprodeck.com/card/?search=Mechanical%20Hound) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Medusa Worm](https://db.ygoprodeck.com/card/?search=Medusa%20Worm) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Medusa, Watcher of the Evil Eye](https://db.ygoprodeck.com/card/?search=Medusa,%20Watcher%20of%20the%20Evil%20Eye) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mega Fortress Whale](https://db.ygoprodeck.com/card/?search=Mega%20Fortress%20Whale) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Megarock Dragon](https://db.ygoprodeck.com/card/?search=Megarock%20Dragon) | Illegal |
@@ -3379,6 +3379,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Queen](https://db.ygoprodeck.com/card/?search=Volcanic%20Queen) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Rocket](https://db.ygoprodeck.com/card/?search=Volcanic%20Rocket) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Scattershot](https://db.ygoprodeck.com/card/?search=Volcanic%20Scattershot) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Shell](https://db.ygoprodeck.com/card/?search=Volcanic%20Shell) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Slicer](https://db.ygoprodeck.com/card/?search=Volcanic%20Slicer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Voltanis the Adjudicator](https://db.ygoprodeck.com/card/?search=Voltanis%20the%20Adjudicator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Voltic Kong](https://db.ygoprodeck.com/card/?search=Voltic%20Kong) | Illegal |
@@ -4057,6 +4058,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Clara & Rushka, the Ventriloduo](https://db.ygoprodeck.com/card/?search=Clara%20%26%20Rushka,%20the%20Ventriloduo) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Clock Lizard](https://db.ygoprodeck.com/card/?search=Clock%20Lizard) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Code Talker](https://db.ygoprodeck.com/card/?search=Code%20Talker) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Codebreaker Virus Berserker](https://db.ygoprodeck.com/card/?search=Codebreaker%20Virus%20Berserker) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Codebreaker Virus Swordsman](https://db.ygoprodeck.com/card/?search=Codebreaker%20Virus%20Swordsman) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Condemned Darklord](https://db.ygoprodeck.com/card/?search=Condemned%20Darklord) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Cross-Sheep](https://db.ygoprodeck.com/card/?search=Cross-Sheep) | Illegal |
@@ -8572,7 +8574,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kayenn, the Master Magma Blacksmith](https://db.ygoprodeck.com/card/?search=Kayenn,%20the%20Master%20Magma%20Blacksmith) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Keeper of the Shrine](https://db.ygoprodeck.com/card/?search=Keeper%20of%20the%20Shrine) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Key Man the Key Warrior](https://db.ygoprodeck.com/card/?search=Key%20Man%20the%20Key%20Warrior) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Key Mouse](https://db.ygoprodeck.com/card/?search=Key%20Mouse) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [King Beast Barbaros](https://db.ygoprodeck.com/card/?search=King%20Beast%20Barbaros) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [King's Knight](https://db.ygoprodeck.com/card/?search=King's%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Knight Day Grepher](https://db.ygoprodeck.com/card/?search=Knight%20Day%20Grepher) | Unlimited |
@@ -8732,6 +8733,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mecha-Dog Marron](https://db.ygoprodeck.com/card/?search=Mecha-Dog%20Marron) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Medium of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Medium%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Medium Piece Golem](https://db.ygoprodeck.com/card/?search=Medium%20Piece%20Golem) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Medusa Worm](https://db.ygoprodeck.com/card/?search=Medusa%20Worm) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mefist the Infernal General](https://db.ygoprodeck.com/card/?search=Mefist%20the%20Infernal%20General) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Megistric Maginician](https://db.ygoprodeck.com/card/?search=Megistric%20Maginician) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mei-Kou, Master of Barriers](https://db.ygoprodeck.com/card/?search=Mei-Kou,%20Master%20of%20Barriers) | Unlimited |
@@ -9524,7 +9526,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vivid Knight](https://db.ygoprodeck.com/card/?search=Vivid%20Knight) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Blaster](https://db.ygoprodeck.com/card/?search=Volcanic%20Blaster) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Hammerer](https://db.ygoprodeck.com/card/?search=Volcanic%20Hammerer) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Shell](https://db.ygoprodeck.com/card/?search=Volcanic%20Shell) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Voltester](https://db.ygoprodeck.com/card/?search=Voltester) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vortex Trooper](https://db.ygoprodeck.com/card/?search=Vortex%20Trooper) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vylon Charger](https://db.ygoprodeck.com/card/?search=Vylon%20Charger) | Unlimited |
@@ -9727,7 +9728,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Brute Enforcer](https://db.ygoprodeck.com/card/?search=Brute%20Enforcer) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Clock Spartoi](https://db.ygoprodeck.com/card/?search=Clock%20Spartoi) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Code Talker Inverted](https://db.ygoprodeck.com/card/?search=Code%20Talker%20Inverted) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Codebreaker Virus Berserker](https://db.ygoprodeck.com/card/?search=Codebreaker%20Virus%20Berserker) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Cosmic Slicer Zer'oll](https://db.ygoprodeck.com/card/?search=Cosmic%20Slicer%20Zer'oll) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Crusadia Regulex](https://db.ygoprodeck.com/card/?search=Crusadia%20Regulex) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Cyberse Accelerator](https://db.ygoprodeck.com/card/?search=Cyberse%20Accelerator) | Unlimited |
