@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 170
+Estimated number of changes: 173
 
-Keep in mind there's still 1089 runs left
+Keep in mind there's still 1088 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -40,6 +40,7 @@ Keep in mind there's still 1089 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mecha Phantom Beast O-Lion](https://db.ygoprodeck.com/card/?search=Mecha%20Phantom%20Beast%20O-Lion) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mega Fortress Whale](https://db.ygoprodeck.com/card/?search=Mega%20Fortress%20Whale) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Dag Daggerman](https://db.ygoprodeck.com/card/?search=Performapal%20Dag%20Daggerman) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Plaguespreader Zombie](https://db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie) | Unlimited | Illegal |
@@ -63,6 +64,7 @@ Keep in mind there's still 1089 runs left
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 17: Leviathan Dragon](https://db.ygoprodeck.com/card/?search=Number%2017:%20Leviathan%20Dragon) | Unlimited | Illegal |
+|<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 27: Dreadnought Dreadnoid](https://db.ygoprodeck.com/card/?search=Number%2027:%20Dreadnought%20Dreadnoid) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number C107: Neo Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20C107:%20Neo%20Galaxy-Eyes%20Tachyon%20Dragon) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Burning Soul](https://db.ygoprodeck.com/card/?search=Burning%20Soul) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | Unlimited | Illegal |
@@ -109,6 +111,7 @@ Keep in mind there's still 1089 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragonmaid Ernus](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Ernus) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Molehu](https://db.ygoprodeck.com/card/?search=Elementsaber%20Molehu) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Mouse](https://db.ygoprodeck.com/card/?search=Fluffal%20Mouse) | Illegal | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lazuli) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gilford the Legend](https://db.ygoprodeck.com/card/?search=Gilford%20the%20Legend) | Illegal | Unlimited |

@@ -323,7 +323,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Penguin](https://db.ygoprodeck.com/card/?search=Fluffal%20Penguin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fluffal Wings](https://db.ygoprodeck.com/card/?search=Fluffal%20Wings) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flying Elephant](https://db.ygoprodeck.com/card/?search=Flying%20Elephant) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fool of Prophecy](https://db.ygoprodeck.com/card/?search=Fool%20of%20Prophecy) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fortune Lady Dark](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Dark) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | Illegal |
@@ -535,6 +534,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mythical Beast Jackal King](https://db.ygoprodeck.com/card/?search=Mythical%20Beast%20Jackal%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mythical Beast Master Cerberus](https://db.ygoprodeck.com/card/?search=Mythical%20Beast%20Master%20Cerberus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Myutant M-05](https://db.ygoprodeck.com/card/?search=Myutant%20M-05) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Rosewhip](https://db.ygoprodeck.com/card/?search=Naturia%20Rosewhip) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Necroworld Banshee](https://db.ygoprodeck.com/card/?search=Necroworld%20Banshee) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Needle Worm](https://db.ygoprodeck.com/card/?search=Needle%20Worm) | Illegal |
@@ -1285,6 +1285,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 22: Zombiestein](https://db.ygoprodeck.com/card/?search=Number%2022:%20Zombiestein) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 23: Lancelot, Dark Knight of the Underworld](https://db.ygoprodeck.com/card/?search=Number%2023:%20Lancelot,%20Dark%20Knight%20of%20the%20Underworld) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 24: Dragulas the Vampiric Dragon](https://db.ygoprodeck.com/card/?search=Number%2024:%20Dragulas%20the%20Vampiric%20Dragon) | Illegal |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 27: Dreadnought Dreadnoid](https://db.ygoprodeck.com/card/?search=Number%2027:%20Dreadnought%20Dreadnoid) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 28: Titanic Moth](https://db.ygoprodeck.com/card/?search=Number%2028:%20Titanic%20Moth) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 31: Embodiment of Punishment](https://db.ygoprodeck.com/card/?search=Number%2031:%20Embodiment%20of%20Punishment) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 33: Chronomaly Machu Mech](https://db.ygoprodeck.com/card/?search=Number%2033:%20Chronomaly%20Machu%20Mech) | Illegal |
@@ -3844,6 +3845,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flying Pegasus Railroad Stampede](https://db.ygoprodeck.com/card/?search=Flying%20Pegasus%20Railroad%20Stampede) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flying Red Carp](https://db.ygoprodeck.com/card/?search=Flying%20Red%20Carp) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Flying Saucer Muusik'i](https://db.ygoprodeck.com/card/?search=Flying%20Saucer%20Muusik'i) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Force Resonator](https://db.ygoprodeck.com/card/?search=Force%20Resonator) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Formud Skipper](https://db.ygoprodeck.com/card/?search=Formud%20Skipper) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fortress Warrior](https://db.ygoprodeck.com/card/?search=Fortress%20Warrior) | Unlimited |
@@ -5130,7 +5132,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naglfar, Generaider Boss of Fire](https://db.ygoprodeck.com/card/?search=Naglfar,%20Generaider%20Boss%20of%20Fire) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nanobreaker](https://db.ygoprodeck.com/card/?search=Nanobreaker) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Antjaw](https://db.ygoprodeck.com/card/?search=Naturia%20Antjaw) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Beans](https://db.ygoprodeck.com/card/?search=Naturia%20Beans) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Beetle](https://db.ygoprodeck.com/card/?search=Naturia%20Beetle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Butterfly](https://db.ygoprodeck.com/card/?search=Naturia%20Butterfly) | Unlimited |
@@ -7927,7 +7928,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 1: Numeron Gate Ekam](https://db.ygoprodeck.com/card/?search=Number%201:%20Numeron%20Gate%20Ekam) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 25: Force Focus](https://db.ygoprodeck.com/card/?search=Number%2025:%20Force%20Focus) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 26: Spaceway Octobypass](https://db.ygoprodeck.com/card/?search=Number%2026:%20Spaceway%20Octobypass) | Unlimited |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 27: Dreadnought Dreadnoid](https://db.ygoprodeck.com/card/?search=Number%2027:%20Dreadnought%20Dreadnoid) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 29: Mannequin Cat](https://db.ygoprodeck.com/card/?search=Number%2029:%20Mannequin%20Cat) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 2: Numeron Gate Dve](https://db.ygoprodeck.com/card/?search=Number%202:%20Numeron%20Gate%20Dve) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 30: Acid Golem of Destruction](https://db.ygoprodeck.com/card/?search=Number%2030:%20Acid%20Golem%20of%20Destruction) | Unlimited |
