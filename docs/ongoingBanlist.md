@@ -1759,6 +1759,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Strike](https://db.ygoprodeck.com/card/?search=Solemn%20Strike) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Solemn Wishes](https://db.ygoprodeck.com/card/?search=Solemn%20Wishes) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Soul Drain](https://db.ygoprodeck.com/card/?search=Soul%20Drain) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spirit Barrier](https://db.ygoprodeck.com/card/?search=Spirit%20Barrier) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spiritual Light Art - Hijiri](https://db.ygoprodeck.com/card/?search=Spiritual%20Light%20Art%20-%20Hijiri) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Stellarnova Alpha](https://db.ygoprodeck.com/card/?search=Stellarnova%20Alpha) | Illegal |
@@ -11317,7 +11318,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Purification](https://db.ygoprodeck.com/card/?search=Spell%20Purification) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Reclamation](https://db.ygoprodeck.com/card/?search=Spell%20Reclamation) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Shield Type-8](https://db.ygoprodeck.com/card/?search=Spell%20Shield%20Type-8) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell-Stopping Statute](https://db.ygoprodeck.com/card/?search=Spell-Stopping%20Statute) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spellbinding Circle](https://db.ygoprodeck.com/card/?search=Spellbinding%20Circle) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spider Egg](https://db.ygoprodeck.com/card/?search=Spider%20Egg) | Unlimited |

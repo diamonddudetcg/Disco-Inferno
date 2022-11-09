@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 195
+Estimated number of changes: 196
 
-Keep in mind there's still 690 runs left
+Keep in mind there's still 689 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -90,6 +90,7 @@ Keep in mind there's still 690 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Scrubbed Raid](https://db.ygoprodeck.com/card/?search=Scrubbed%20Raid) | Unlimited | Illegal |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Toon Briefcase](https://db.ygoprodeck.com/card/?search=Toon%20Briefcase) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Void Trap Hole](https://db.ygoprodeck.com/card/?search=Void%20Trap%20Hole) | Unlimited | Illegal |
