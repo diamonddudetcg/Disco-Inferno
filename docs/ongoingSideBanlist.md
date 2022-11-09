@@ -5595,6 +5595,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hand Destruction](https://db.ygoprodeck.com/card/?search=Hand%20Destruction) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Harpie's Feather Duster](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Duster) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Harpie's Feather Rest](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Rest) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Harpies' Hunting Ground](https://db.ygoprodeck.com/card/?search=Harpies'%20Hunting%20Ground) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heart of Clear Water](https://db.ygoprodeck.com/card/?search=Heart%20of%20Clear%20Water) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heart of the Underdog](https://db.ygoprodeck.com/card/?search=Heart%20of%20the%20Underdog) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heat Wave](https://db.ygoprodeck.com/card/?search=Heat%20Wave) | Illegal |
@@ -6498,7 +6499,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Beast Soul Swap](https://db.ygoprodeck.com/card/?search=Beast%20Soul%20Swap) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Beginning of Heaven and Earth](https://db.ygoprodeck.com/card/?search=Beginning%20of%20Heaven%20and%20Earth) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Berserking](https://db.ygoprodeck.com/card/?search=Berserking) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Big Burn](https://db.ygoprodeck.com/card/?search=Big%20Burn) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Feather Beacon](https://db.ygoprodeck.com/card/?search=Black%20Feather%20Beacon) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Return](https://db.ygoprodeck.com/card/?search=Black%20Return) | Illegal |
@@ -10257,7 +10257,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Harmonic Oscillation](https://db.ygoprodeck.com/card/?search=Harmonic%20Oscillation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Harmonic Waves](https://db.ygoprodeck.com/card/?search=Harmonic%20Waves) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Harpie Lady Phoenix Formation](https://db.ygoprodeck.com/card/?search=Harpie%20Lady%20Phoenix%20Formation) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Harpies' Hunting Ground](https://db.ygoprodeck.com/card/?search=Harpies'%20Hunting%20Ground) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hazy Pillar](https://db.ygoprodeck.com/card/?search=Hazy%20Pillar) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heavy Forward](https://db.ygoprodeck.com/card/?search=Heavy%20Forward) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Herald of the Abyss](https://db.ygoprodeck.com/card/?search=Herald%20of%20the%20Abyss) | Unlimited |
@@ -10869,6 +10868,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Beetrooper Squad](https://db.ygoprodeck.com/card/?search=Beetrooper%20Squad) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Begone, Knave!](https://db.ygoprodeck.com/card/?search=Begone,%20Knave!) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Bending Destiny](https://db.ygoprodeck.com/card/?search=Bending%20Destiny) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Big Burn](https://db.ygoprodeck.com/card/?search=Big%20Burn) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [BIG Win!?](https://db.ygoprodeck.com/card/?search=BIG%20Win!?) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Birthright](https://db.ygoprodeck.com/card/?search=Birthright) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Black Cat-astrophe](https://db.ygoprodeck.com/card/?search=Black%20Cat-astrophe) | Unlimited |
