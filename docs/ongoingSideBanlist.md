@@ -2996,7 +2996,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Auspice Chunjun](https://db.ygoprodeck.com/card/?search=Swordsoul%20Auspice%20Chunjun) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul of Mo Ye](https://db.ygoprodeck.com/card/?search=Swordsoul%20of%20Mo%20Ye) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul of Taia](https://db.ygoprodeck.com/card/?search=Swordsoul%20of%20Taia) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Strategist Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Strategist%20Longyuan) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Bladefender](https://db.ygoprodeck.com/card/?search=Sylvan%20Bladefender) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Cherubsprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Cherubsprout) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Flowerknight](https://db.ygoprodeck.com/card/?search=Sylvan%20Flowerknight) | Illegal |
@@ -9284,6 +9283,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sword Hunter](https://db.ygoprodeck.com/card/?search=Sword%20Hunter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sword Master](https://db.ygoprodeck.com/card/?search=Sword%20Master) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsman from a Distant Land](https://db.ygoprodeck.com/card/?search=Swordsman%20from%20a%20Distant%20Land) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Strategist Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Strategist%20Longyuan) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Guardioak](https://db.ygoprodeck.com/card/?search=Sylvan%20Guardioak) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Lotuswain](https://db.ygoprodeck.com/card/?search=Sylvan%20Lotuswain) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Symphonic Warrior DJJ](https://db.ygoprodeck.com/card/?search=Symphonic%20Warrior%20DJJ) | Unlimited |
