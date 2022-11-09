@@ -6559,6 +6559,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chaos Burst](https://db.ygoprodeck.com/card/?search=Chaos%20Burst) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chaos Trap Hole](https://db.ygoprodeck.com/card/?search=Chaos%20Trap%20Hole) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chivalry](https://db.ygoprodeck.com/card/?search=Chivalry) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chthonian Polymer](https://db.ygoprodeck.com/card/?search=Chthonian%20Polymer) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Clay Charge](https://db.ygoprodeck.com/card/?search=Clay%20Charge) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cloak and Dagger](https://db.ygoprodeck.com/card/?search=Cloak%20and%20Dagger) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cocoon Veil](https://db.ygoprodeck.com/card/?search=Cocoon%20Veil) | Illegal |
@@ -10919,7 +10920,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chosen of Zefra](https://db.ygoprodeck.com/card/?search=Chosen%20of%20Zefra) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chronomaly Esperanza Glyph](https://db.ygoprodeck.com/card/?search=Chronomaly%20Esperanza%20Glyph) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chthonian Blast](https://db.ygoprodeck.com/card/?search=Chthonian%20Blast) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chthonian Polymer](https://db.ygoprodeck.com/card/?search=Chthonian%20Polymer) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cipher Bit](https://db.ygoprodeck.com/card/?search=Cipher%20Bit) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cipher Spectrum](https://db.ygoprodeck.com/card/?search=Cipher%20Spectrum) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Cloning](https://db.ygoprodeck.com/card/?search=Cloning) | Unlimited |
