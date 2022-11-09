@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 197
+Estimated number of changes: 198
 
-Keep in mind there's still 660 runs left
+Keep in mind there's still 659 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -206,6 +206,7 @@ Keep in mind there's still 660 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Blast Held by Destiny](https://db.ygoprodeck.com/card/?search=Blast%20Held%20by%20Destiny) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Exchange of Despair and Hope](https://db.ygoprodeck.com/card/?search=Exchange%20of%20Despair%20and%20Hope) | Illegal | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravekeeper's Trap](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Trap) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | Illegal | Unlimited |

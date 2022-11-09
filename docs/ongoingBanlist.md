@@ -1696,7 +1696,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gozen Match](https://db.ygoprodeck.com/card/?search=Gozen%20Match) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravedigger's Trap Hole](https://db.ygoprodeck.com/card/?search=Gravedigger's%20Trap%20Hole) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravekeeper's Trap](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Trap) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravity Collapse](https://db.ygoprodeck.com/card/?search=Gravity%20Collapse) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graydle Parasite](https://db.ygoprodeck.com/card/?search=Graydle%20Parasite) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | Illegal |
@@ -10671,6 +10670,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graceful Tear](https://db.ygoprodeck.com/card/?search=Graceful%20Tear) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Grand Horn of Heaven](https://db.ygoprodeck.com/card/?search=Grand%20Horn%20of%20Heaven) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Grave Lure](https://db.ygoprodeck.com/card/?search=Grave%20Lure) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravekeeper's Trap](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Trap) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravelstorm](https://db.ygoprodeck.com/card/?search=Gravelstorm) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graverobber](https://db.ygoprodeck.com/card/?search=Graverobber) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graverobber's Retribution](https://db.ygoprodeck.com/card/?search=Graverobber's%20Retribution) | Unlimited |
