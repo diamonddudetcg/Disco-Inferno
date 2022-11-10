@@ -9467,7 +9467,7 @@
 [Tri-Edge Levia](https://db.ygoprodeck.com/card/?search=Tri-Edge%20Levia) | 0.3904 |
 [The Agent of Life - Neptune](https://db.ygoprodeck.com/card/?search=The%20Agent%20of%20Life%20-%20Neptune) | 0.3904 |
 [Orcustrion](https://db.ygoprodeck.com/card/?search=Orcustrion) | 0.3907 |
-[Witchcrafter Confusion Confession](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Confusion%20Confession) | 0.3929 |
+[Witchcrafter Confusion Confession](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Confusion%20Confession) | 0.3928 |
 [Number C1000: Numerounius](https://db.ygoprodeck.com/card/?search=Number%20C1000:%20Numerounius) | 0.3997 |
 [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Interrupted%20Kaiju%20Slumber) | 0.3998 |
 [Alien Overlord](https://db.ygoprodeck.com/card/?search=Alien%20Overlord) | 0.3998 |
