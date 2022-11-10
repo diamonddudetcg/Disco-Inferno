@@ -8578,8 +8578,8 @@
 [The Bystial Alba Los](https://db.ygoprodeck.com/card/?search=The%20Bystial%20Alba%20Los) | 0.2500 |
 [Starving Venom Fusion Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venom%20Fusion%20Dragon) | 0.2500 |
 [Trickstar Lilybell](https://db.ygoprodeck.com/card/?search=Trickstar%20Lilybell) | 0.2500 |
-[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.2500 |
 [Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.2500 |
+[Dragonmaid Changeover](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Changeover) | 0.2500 |
 [Martial Metal Marcher](https://db.ygoprodeck.com/card/?search=Martial%20Metal%20Marcher) | 0.2500 |
 [Noh-P.U.N.K. Ze Amin](https://db.ygoprodeck.com/card/?search=Noh-P.U.N.K.%20Ze%20Amin) | 0.2500 |
 [Dark Advance](https://db.ygoprodeck.com/card/?search=Dark%20Advance) | 0.2500 |
@@ -8796,7 +8796,7 @@
 [Traptrix Atrax](https://db.ygoprodeck.com/card/?search=Traptrix%20Atrax) | 0.2705 |
 [Sky Striker Ace - Zeke](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Zeke) | 0.2706 |
 [Blast Held by Destiny](https://db.ygoprodeck.com/card/?search=Blast%20Held%20by%20Destiny) | 0.2708 |
-[Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | 0.2775 |
+[Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | 0.2774 |
 [Magical Musketeer Calamity](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Calamity) | 0.2795 |
 [Lunalight Reincarnation Dance](https://db.ygoprodeck.com/card/?search=Lunalight%20Reincarnation%20Dance) | 0.2796 |
 [Sunavalon Dryades](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryades) | 0.2796 |
@@ -10626,7 +10626,7 @@
 [Mysterion the Dragon Crown](https://db.ygoprodeck.com/card/?search=Mysterion%20the%20Dragon%20Crown) | 1.1298 |
 [Vylon Disigma](https://db.ygoprodeck.com/card/?search=Vylon%20Disigma) | 1.1300 |
 [World Legacy's Secret](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Secret) | 1.1306 |
-[Fiend Comedian](https://db.ygoprodeck.com/card/?search=Fiend%20Comedian) | 1.1346 |
+[Fiend Comedian](https://db.ygoprodeck.com/card/?search=Fiend%20Comedian) | 1.1345 |
 [Gnomaterial](https://db.ygoprodeck.com/card/?search=Gnomaterial) | 1.1392 |
 [Armed Dragon LV10](https://db.ygoprodeck.com/card/?search=Armed%20Dragon%20LV10) | 1.1395 |
 [Catalyst Field](https://db.ygoprodeck.com/card/?search=Catalyst%20Field) | 1.1400 |
