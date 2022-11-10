@@ -7738,8 +7738,8 @@
 [Resh Shaddoll Incarnation](https://db.ygoprodeck.com/card/?search=Resh%20Shaddoll%20Incarnation) | 0.2005 |
 [Contact with Gusto](https://db.ygoprodeck.com/card/?search=Contact%20with%20Gusto) | 0.2005 |
 [Luminous Spark](https://db.ygoprodeck.com/card/?search=Luminous%20Spark) | 0.2093 |
-[Divine Wrath](https://db.ygoprodeck.com/card/?search=Divine%20Wrath) | 0.2093 |
 [Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2093 |
+[Divine Wrath](https://db.ygoprodeck.com/card/?search=Divine%20Wrath) | 0.2093 |
 [Sauge de Fleur](https://db.ygoprodeck.com/card/?search=Sauge%20de%20Fleur) | 0.2096 |
 [Chosen One](https://db.ygoprodeck.com/card/?search=Chosen%20One) | 0.2096 |
 [Lavalval Salamander](https://db.ygoprodeck.com/card/?search=Lavalval%20Salamander) | 0.2098 |
@@ -8364,8 +8364,8 @@
 [Wattcine](https://db.ygoprodeck.com/card/?search=Wattcine) | 0.2495 |
 [Submersible Carrier Aero Shark](https://db.ygoprodeck.com/card/?search=Submersible%20Carrier%20Aero%20Shark) | 0.2496 |
 [Valhalla, Hall of the Fallen](https://db.ygoprodeck.com/card/?search=Valhalla,%20Hall%20of%20the%20Fallen) | 0.2496 |
-[Elemental HERO Thunder Giant](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Thunder%20Giant) | 0.2496 |
 [Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | 0.2496 |
+[Elemental HERO Thunder Giant](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Thunder%20Giant) | 0.2496 |
 [YZ-Tank Dragon](https://db.ygoprodeck.com/card/?search=YZ-Tank%20Dragon) | 0.2496 |
 [Disciples of the True Dracophoenix](https://db.ygoprodeck.com/card/?search=Disciples%20of%20the%20True%20Dracophoenix) | 0.2496 |
 [Drill Warrior](https://db.ygoprodeck.com/card/?search=Drill%20Warrior) | 0.2497 |
@@ -9658,7 +9658,7 @@
 [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4492 |
 [Naturia Cherries](https://db.ygoprodeck.com/card/?search=Naturia%20Cherries) | 0.4496 |
 [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | 0.4496 |
-[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4497 |
+[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4496 |
 [Lunalight White Rabbit](https://db.ygoprodeck.com/card/?search=Lunalight%20White%20Rabbit) | 0.4497 |
 [PSY-Frame Circuit](https://db.ygoprodeck.com/card/?search=PSY-Frame%20Circuit) | 0.4497 |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4497 |
