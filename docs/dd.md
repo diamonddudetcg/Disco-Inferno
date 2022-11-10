@@ -10047,7 +10047,7 @@
 [Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | 0.6200 |
 [Light Barrier](https://db.ygoprodeck.com/card/?search=Light%20Barrier) | 0.6200 |
 [Ancient Gear Hunting Hound](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Hunting%20Hound) | 0.6201 |
-[Vampire Genesis](https://db.ygoprodeck.com/card/?search=Vampire%20Genesis) | 0.6210 |
+[Vampire Genesis](https://db.ygoprodeck.com/card/?search=Vampire%20Genesis) | 0.6209 |
 [Yata-Garasu](https://db.ygoprodeck.com/card/?search=Yata-Garasu) | 0.6214 |
 [Winged Kuriboh LV10](https://db.ygoprodeck.com/card/?search=Winged%20Kuriboh%20LV10) | 0.6293 |
 [Number C107: Neo Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20C107:%20Neo%20Galaxy-Eyes%20Tachyon%20Dragon) | 0.6296 |
