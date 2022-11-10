@@ -1287,7 +1287,7 @@
 [Freki the Runick Fangs](https://db.ygoprodeck.com/card/?search=Freki%20the%20Runick%20Fangs) | 0.0451 |
 [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.0489 |
 [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.0490 |
-[Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.0491 |
+[Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.0492 |
 [Axe Dragonute](https://db.ygoprodeck.com/card/?search=Axe%20Dragonute) | 0.0499 |
 [Boss Rush](https://db.ygoprodeck.com/card/?search=Boss%20Rush) | 0.0499 |
 [Child's Play](https://db.ygoprodeck.com/card/?search=Child's%20Play) | 0.0499 |
@@ -10680,7 +10680,7 @@
 [Five-Headed Link Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Link%20Dragon) | 1.2000 |
 [Heroic Champion - Kusanagi](https://db.ygoprodeck.com/card/?search=Heroic%20Champion%20-%20Kusanagi) | 1.2000 |
 [Elemental HERO Shining Phoenix Enforcer](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Shining%20Phoenix%20Enforcer) | 1.2008 |
-[Flame Ghost](https://db.ygoprodeck.com/card/?search=Flame%20Ghost) | 1.2083 |
+[Flame Ghost](https://db.ygoprodeck.com/card/?search=Flame%20Ghost) | 1.2084 |
 [Cyber-Stein](https://db.ygoprodeck.com/card/?search=Cyber-Stein) | 1.2097 |
 [Infernoid Harmadik](https://db.ygoprodeck.com/card/?search=Infernoid%20Harmadik) | 1.2099 |
 [Bonfire Colossus](https://db.ygoprodeck.com/card/?search=Bonfire%20Colossus) | 1.2100 |
