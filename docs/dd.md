@@ -11562,7 +11562,7 @@
 [Gust Fan](https://db.ygoprodeck.com/card/?search=Gust%20Fan) | 13.3000 |
 [Sonic Maid](https://db.ygoprodeck.com/card/?search=Sonic%20Maid) | 13.4900 |
 [Rite of Aramesir](https://db.ygoprodeck.com/card/?search=Rite%20of%20Aramesir) | 13.6300 |
-[Evenly Matched](https://db.ygoprodeck.com/card/?search=Evenly%20Matched) | 13.8229 |
+[Evenly Matched](https://db.ygoprodeck.com/card/?search=Evenly%20Matched) | 13.8228 |
 [Mekk-Knight Crusadia Avramax](https://db.ygoprodeck.com/card/?search=Mekk-Knight%20Crusadia%20Avramax) | 13.9900 |
 [Blackwing - Vayu the Emblem of Honor](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Vayu%20the%20Emblem%20of%20Honor) | 13.9985 |
 [Overdrive Teleporter](https://db.ygoprodeck.com/card/?search=Overdrive%20Teleporter) | 14.5288 |
