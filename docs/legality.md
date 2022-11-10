@@ -82,6 +82,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Limited |
 | <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy) | Limited |
+| <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | Limited |
 | <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Superdreadnought Rail Cannon Gustav Max](https://db.ygoprodeck.com/card/?search=Superdreadnought%20Rail%20Cannon%20Gustav%20Max) | Limited |
 | <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | Limited |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emergency Teleport](https://db.ygoprodeck.com/card/?search=Emergency%20Teleport) | Limited |

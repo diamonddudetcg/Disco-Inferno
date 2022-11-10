@@ -43,10 +43,14 @@ We unlimited this expecting Pendulum decks to use it as an easier way to set up 
 
 When we decided to put Tempest to 3, we didn't expect every other Dragon Ruler to become legal overnight. The idea was for Dragons to have access to more extenders, not to allow people to just play 7 rulers in a deck.
 
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari)
+
+With Magnificent Mavens, Sky Striker is almost at full power. Kagari to 1 should help mitigate the power of the deck so it doesn't eat up everything. If the deck does nothing with Kagari at 1, we'll reconsider this.
 
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus)
 
 Gold Sarcophagus was hit as a Floowandereeze hit but with no Floowandereeze in the horizon, it feels like it can come back to 1.
+
 
 <br>
 

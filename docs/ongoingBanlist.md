@@ -1884,6 +1884,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Dragon Wyverburster](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zoodiac Ratpier](https://db.ygoprodeck.com/card/?search=Zoodiac%20Ratpier) | Limited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy) | Limited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | Limited |
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [PSY-Framelord Omega](https://db.ygoprodeck.com/card/?search=PSY-Framelord%20Omega) | Limited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Drident](https://db.ygoprodeck.com/card/?search=Zoodiac%20Drident) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Card Destruction](https://db.ygoprodeck.com/card/?search=Card%20Destruction) | Limited |
@@ -7475,7 +7476,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shinobi Insect Hagakuremino](https://db.ygoprodeck.com/card/?search=Shinobi%20Insect%20Hagakuremino) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Shootingcode Talker](https://db.ygoprodeck.com/card/?search=Shootingcode%20Talker) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Hayate](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Hayate) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kaina](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kaina) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Zeke](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Zeke) | Unlimited |
