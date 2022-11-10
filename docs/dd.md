@@ -6823,7 +6823,7 @@
 [Rainbow Bridge of the Heart](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20the%20Heart) | 0.1650 |
 [The Breaking Ruin God](https://db.ygoprodeck.com/card/?search=The%20Breaking%20Ruin%20God) | 0.1651 |
 [Hunter Spider](https://db.ygoprodeck.com/card/?search=Hunter%20Spider) | 0.1694 |
-[Lycanthrope](https://db.ygoprodeck.com/card/?search=Lycanthrope) | 0.1695 |
+[Lycanthrope](https://db.ygoprodeck.com/card/?search=Lycanthrope) | 0.1696 |
 [Verdant Sanctuary](https://db.ygoprodeck.com/card/?search=Verdant%20Sanctuary) | 0.1696 |
 [Lord of the Red](https://db.ygoprodeck.com/card/?search=Lord%20of%20the%20Red) | 0.1696 |
 [Crusadia Draco](https://db.ygoprodeck.com/card/?search=Crusadia%20Draco) | 0.1697 |
@@ -7899,7 +7899,7 @@
 [Vision with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Vision%20with%20Eyes%20of%20Blue) | 0.2104 |
 [Ultimate Obedient Fiend](https://db.ygoprodeck.com/card/?search=Ultimate%20Obedient%20Fiend) | 0.2107 |
 [Surgical Striker - H.A.M.P.](https://db.ygoprodeck.com/card/?search=Surgical%20Striker%20-%20H.A.M.P.) | 0.2141 |
-[Cyber Saurus](https://db.ygoprodeck.com/card/?search=Cyber%20Saurus) | 0.2195 |
+[Cyber Saurus](https://db.ygoprodeck.com/card/?search=Cyber%20Saurus) | 0.2196 |
 [Big Belly Knight](https://db.ygoprodeck.com/card/?search=Big%20Belly%20Knight) | 0.2196 |
 [Steelswarm Cell](https://db.ygoprodeck.com/card/?search=Steelswarm%20Cell) | 0.2197 |
 [Venom Cobra](https://db.ygoprodeck.com/card/?search=Venom%20Cobra) | 0.2197 |
@@ -9617,7 +9617,7 @@
 [Gilford the Legend](https://db.ygoprodeck.com/card/?search=Gilford%20the%20Legend) | 0.4309 |
 [Neo-Spacian Twinkle Moss](https://db.ygoprodeck.com/card/?search=Neo-Spacian%20Twinkle%20Moss) | 0.4392 |
 [Witchcrafter Schmietta](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Schmietta) | 0.4394 |
-[Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | 0.4395 |
+[Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | 0.4396 |
 [Nebula Dragon](https://db.ygoprodeck.com/card/?search=Nebula%20Dragon) | 0.4396 |
 [Skydive Scorcher](https://db.ygoprodeck.com/card/?search=Skydive%20Scorcher) | 0.4396 |
 [Fluffal Dog](https://db.ygoprodeck.com/card/?search=Fluffal%20Dog) | 0.4397 |
@@ -10250,7 +10250,7 @@
 [Number 39: Utopia Beyond](https://db.ygoprodeck.com/card/?search=Number%2039:%20Utopia%20Beyond) | 0.7691 |
 [Crackdown](https://db.ygoprodeck.com/card/?search=Crackdown) | 0.7694 |
 [Black Metal Dragon](https://db.ygoprodeck.com/card/?search=Black%20Metal%20Dragon) | 0.7695 |
-[Naturia Exterio](https://db.ygoprodeck.com/card/?search=Naturia%20Exterio) | 0.7695 |
+[Naturia Exterio](https://db.ygoprodeck.com/card/?search=Naturia%20Exterio) | 0.7696 |
 [Power Tool Dragon](https://db.ygoprodeck.com/card/?search=Power%20Tool%20Dragon) | 0.7699 |
 [Light and Darkness Dragon](https://db.ygoprodeck.com/card/?search=Light%20and%20Darkness%20Dragon) | 0.7700 |
 [XX-Saber Faultroll](https://db.ygoprodeck.com/card/?search=XX-Saber%20Faultroll) | 0.7700 |
