@@ -10000,7 +10000,7 @@
 [Galaxy-Eyes Solflare Dragon](https://db.ygoprodeck.com/card/?search=Galaxy-Eyes%20Solflare%20Dragon) | 0.5903 |
 [Vaylantz Wars - The Place of Beginning](https://db.ygoprodeck.com/card/?search=Vaylantz%20Wars%20-%20The%20Place%20of%20Beginning) | 0.5904 |
 [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.5905 |
-[Ancient Gear Reactor Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reactor%20Dragon) | 0.5913 |
+[Ancient Gear Reactor Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reactor%20Dragon) | 0.5914 |
 [Divine Dragon Lord Felgrand](https://db.ygoprodeck.com/card/?search=Divine%20Dragon%20Lord%20Felgrand) | 0.5997 |
 [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.5997 |
 [Magician of Black Chaos MAX](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos%20MAX) | 0.5997 |
@@ -11430,7 +11430,7 @@
 [Mathmech Superfactorial](https://db.ygoprodeck.com/card/?search=Mathmech%20Superfactorial) | 5.0520 |
 [Absorb Fusion](https://db.ygoprodeck.com/card/?search=Absorb%20Fusion) | 5.0900 |
 [Graydle Dragon](https://db.ygoprodeck.com/card/?search=Graydle%20Dragon) | 5.1009 |
-[Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | 5.1075 |
+[Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | 5.1074 |
 [Edge Imp Chain](https://db.ygoprodeck.com/card/?search=Edge%20Imp%20Chain) | 5.1211 |
 [Reaper on the Nightmare](https://db.ygoprodeck.com/card/?search=Reaper%20on%20the%20Nightmare) | 5.1221 |
 [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | 5.1241 |
