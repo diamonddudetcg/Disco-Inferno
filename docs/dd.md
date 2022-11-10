@@ -7739,7 +7739,7 @@
 [Contact with Gusto](https://db.ygoprodeck.com/card/?search=Contact%20with%20Gusto) | 0.2005 |
 [Luminous Spark](https://db.ygoprodeck.com/card/?search=Luminous%20Spark) | 0.2093 |
 [Divine Wrath](https://db.ygoprodeck.com/card/?search=Divine%20Wrath) | 0.2093 |
-[Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2094 |
+[Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2093 |
 [Sauge de Fleur](https://db.ygoprodeck.com/card/?search=Sauge%20de%20Fleur) | 0.2096 |
 [Chosen One](https://db.ygoprodeck.com/card/?search=Chosen%20One) | 0.2096 |
 [Lavalval Salamander](https://db.ygoprodeck.com/card/?search=Lavalval%20Salamander) | 0.2098 |
@@ -11187,7 +11187,7 @@
 [Xtra HERO Wonder Driver](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Wonder%20Driver) | 2.6910 |
 [Marincess Blue Slug](https://db.ygoprodeck.com/card/?search=Marincess%20Blue%20Slug) | 2.7091 |
 [Gigantic Spright](https://db.ygoprodeck.com/card/?search=Gigantic%20Spright) | 2.7101 |
-[Assault Blackwing - Raikiri the Rain Shower](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Raikiri%20the%20Rain%20Shower) | 2.7188 |
+[Assault Blackwing - Raikiri the Rain Shower](https://db.ygoprodeck.com/card/?search=Assault%20Blackwing%20-%20Raikiri%20the%20Rain%20Shower) | 2.7189 |
 [Dragonmaid Welcome](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Welcome) | 2.7382 |
 [Number 35: Ravenous Tarantula](https://db.ygoprodeck.com/card/?search=Number%2035:%20Ravenous%20Tarantula) | 2.7403 |
 [King Tiger Wanghu](https://db.ygoprodeck.com/card/?search=King%20Tiger%20Wanghu) | 2.7496 |
