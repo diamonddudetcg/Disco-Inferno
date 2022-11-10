@@ -1286,7 +1286,7 @@
 [Freki the Runick Fangs](https://db.ygoprodeck.com/card/?search=Freki%20the%20Runick%20Fangs) | 0.0451 |
 [Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.0489 |
 [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.0490 |
-[Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.0491 |
+[Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.0492 |
 [Axe Dragonute](https://db.ygoprodeck.com/card/?search=Axe%20Dragonute) | 0.0499 |
 [Boss Rush](https://db.ygoprodeck.com/card/?search=Boss%20Rush) | 0.0499 |
 [Child's Play](https://db.ygoprodeck.com/card/?search=Child's%20Play) | 0.0499 |
@@ -11362,7 +11362,7 @@
 [Abyss Shark](https://db.ygoprodeck.com/card/?search=Abyss%20Shark) | 4.2400 |
 [Arianna the Labrynth Servant](https://db.ygoprodeck.com/card/?search=Arianna%20the%20Labrynth%20Servant) | 4.2400 |
 [Runick Tip](https://db.ygoprodeck.com/card/?search=Runick%20Tip) | 4.2400 |
-[Apollousa, Bow of the Goddess](https://db.ygoprodeck.com/card/?search=Apollousa,%20Bow%20of%20the%20Goddess) | 4.2471 |
+[Apollousa, Bow of the Goddess](https://db.ygoprodeck.com/card/?search=Apollousa,%20Bow%20of%20the%20Goddess) | 4.2470 |
 [Secret Six Samurai - Hatsume](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Hatsume) | 4.2492 |
 [Imperial Bower](https://db.ygoprodeck.com/card/?search=Imperial%20Bower) | 4.2592 |
 [Ignis Phoenix, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Ignis%20Phoenix,%20the%20Dracoslayer) | 4.2720 |
