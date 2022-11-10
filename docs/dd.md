@@ -11077,7 +11077,7 @@
 [Dragunity Remus](https://db.ygoprodeck.com/card/?search=Dragunity%20Remus) | 2.1401 |
 [Red-Eyes Zombie Dragon Lord](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Zombie%20Dragon%20Lord) | 2.1402 |
 [Sacred Noble Knight of King Artorigus](https://db.ygoprodeck.com/card/?search=Sacred%20Noble%20Knight%20of%20King%20Artorigus) | 2.1427 |
-[Tri-Brigade Shuraig the Ominous Omen](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Shuraig%20the%20Ominous%20Omen) | 2.1428 |
+[Tri-Brigade Shuraig the Ominous Omen](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Shuraig%20the%20Ominous%20Omen) | 2.1429 |
 [Gameciel, the Sea Turtle Kaiju](https://db.ygoprodeck.com/card/?search=Gameciel,%20the%20Sea%20Turtle%20Kaiju) | 2.1502 |
 [Terrorking Archfiend](https://db.ygoprodeck.com/card/?search=Terrorking%20Archfiend) | 2.1599 |
 [Glife the Phantom Bird](https://db.ygoprodeck.com/card/?search=Glife%20the%20Phantom%20Bird) | 2.1600 |
@@ -11193,7 +11193,7 @@
 [Quick Launch](https://db.ygoprodeck.com/card/?search=Quick%20Launch) | 2.8007 |
 [Thunder Dragonroar](https://db.ygoprodeck.com/card/?search=Thunder%20Dragonroar) | 2.8173 |
 [Curious, the Lightsworn Dominion](https://db.ygoprodeck.com/card/?search=Curious,%20the%20Lightsworn%20Dominion) | 2.8206 |
-[Brave-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Brave-Eyes%20Pendulum%20Dragon) | 2.8343 |
+[Brave-Eyes Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Brave-Eyes%20Pendulum%20Dragon) | 2.8344 |
 [Photon Sanctuary](https://db.ygoprodeck.com/card/?search=Photon%20Sanctuary) | 2.8400 |
 [Magical Android](https://db.ygoprodeck.com/card/?search=Magical%20Android) | 2.8481 |
 [World Legacy Succession](https://db.ygoprodeck.com/card/?search=World%20Legacy%20Succession) | 2.8490 |
