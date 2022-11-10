@@ -468,7 +468,6 @@
 [Blizzard Dragon](https://db.ygoprodeck.com/card/?search=Blizzard%20Dragon) | 0.0203 |
 [Disk Magician](https://db.ygoprodeck.com/card/?search=Disk%20Magician) | 0.0203 |
 [Crystal Beast Topaz Tiger](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Topaz%20Tiger) | 0.0203 |
-[Barrier Statue of the Heavens](https://db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Heavens) | 0.0203 |
 [Left Arm Offering](https://db.ygoprodeck.com/card/?search=Left%20Arm%20Offering) | 0.0203 |
 [Petit Moth](https://db.ygoprodeck.com/card/?search=Petit%20Moth) | 0.0205 |
 [Card Advance](https://db.ygoprodeck.com/card/?search=Card%20Advance) | 0.0205 |
@@ -5841,7 +5840,6 @@
 [Satellite Synchron](https://db.ygoprodeck.com/card/?search=Satellite%20Synchron) | 0.1301 |
 [Barricadeborg Blocker](https://db.ygoprodeck.com/card/?search=Barricadeborg%20Blocker) | 0.1301 |
 [Naturia Camellia](https://db.ygoprodeck.com/card/?search=Naturia%20Camellia) | 0.1301 |
-[Barrier Statue of the Inferno](https://db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Inferno) | 0.1301 |
 [D - Formation](https://db.ygoprodeck.com/card/?search=D%20-%20Formation) | 0.1301 |
 [Prank-Kids Rocksies](https://db.ygoprodeck.com/card/?search=Prank-Kids%20Rocksies) | 0.1301 |
 [Drillroid](https://db.ygoprodeck.com/card/?search=Drillroid) | 0.1301 |
@@ -5870,7 +5868,6 @@
 [Supply](https://db.ygoprodeck.com/card/?search=Supply) | 0.1302 |
 [World Legacy - "World Armor"](https://db.ygoprodeck.com/card/?search=World%20Legacy%20-%20"World%20Armor") | 0.1302 |
 [Ancient Gear Cannon](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Cannon) | 0.1302 |
-[Barrier Statue of the Abyss](https://db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Abyss) | 0.1302 |
 [Doctor D](https://db.ygoprodeck.com/card/?search=Doctor%20D) | 0.1302 |
 [Deck Lockdown](https://db.ygoprodeck.com/card/?search=Deck%20Lockdown) | 0.1302 |
 [Eradicating Aerosol](https://db.ygoprodeck.com/card/?search=Eradicating%20Aerosol) | 0.1302 |
@@ -6819,7 +6816,6 @@
 [Relinkuriboh](https://db.ygoprodeck.com/card/?search=Relinkuriboh) | 0.1603 |
 [Flip Flop Frog](https://db.ygoprodeck.com/card/?search=Flip%20Flop%20Frog) | 0.1603 |
 [Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.1604 |
-[Fossil Dyna Pachycephalo](https://db.ygoprodeck.com/card/?search=Fossil%20Dyna%20Pachycephalo) | 0.1604 |
 [Rainbow Bridge of the Heart](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20the%20Heart) | 0.1650 |
 [The Breaking Ruin God](https://db.ygoprodeck.com/card/?search=The%20Breaking%20Ruin%20God) | 0.1651 |
 [Hunter Spider](https://db.ygoprodeck.com/card/?search=Hunter%20Spider) | 0.1694 |
@@ -8038,7 +8034,6 @@
 [Mekk-Knight Indigo Eclipse](https://db.ygoprodeck.com/card/?search=Mekk-Knight%20Indigo%20Eclipse) | 0.2201 |
 [Unchained Soul of Disaster](https://db.ygoprodeck.com/card/?search=Unchained%20Soul%20of%20Disaster) | 0.2201 |
 [Winds Over the Ice Barrier](https://db.ygoprodeck.com/card/?search=Winds%20Over%20the%20Ice%20Barrier) | 0.2201 |
-[Jowgen the Spiritualist](https://db.ygoprodeck.com/card/?search=Jowgen%20the%20Spiritualist) | 0.2201 |
 [Shield Worm](https://db.ygoprodeck.com/card/?search=Shield%20Worm) | 0.2201 |
 [Genex Ally Triarm](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Triarm) | 0.2201 |
 [Fairy Tail - Rochka](https://db.ygoprodeck.com/card/?search=Fairy%20Tail%20-%20Rochka) | 0.2201 |
@@ -8832,7 +8827,6 @@
 [Darkworld Shackles](https://db.ygoprodeck.com/card/?search=Darkworld%20Shackles) | 0.2800 |
 [Hieratic Sun Dragon Overlord of Heliopolis](https://db.ygoprodeck.com/card/?search=Hieratic%20Sun%20Dragon%20Overlord%20of%20Heliopolis) | 0.2800 |
 [Rinyan, Lightsworn Rogue](https://db.ygoprodeck.com/card/?search=Rinyan,%20Lightsworn%20Rogue) | 0.2800 |
-[Barrier Statue of the Drought](https://db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Drought) | 0.2800 |
 [Majestic Mech - Ohka](https://db.ygoprodeck.com/card/?search=Majestic%20Mech%20-%20Ohka) | 0.2800 |
 [Archfiend General](https://db.ygoprodeck.com/card/?search=Archfiend%20General) | 0.2800 |
 [Chrysalis Chicky](https://db.ygoprodeck.com/card/?search=Chrysalis%20Chicky) | 0.2800 |
@@ -9085,7 +9079,6 @@
 [Huge Revolution](https://db.ygoprodeck.com/card/?search=Huge%20Revolution) | 0.3199 |
 [Dramatic Rescue](https://db.ygoprodeck.com/card/?search=Dramatic%20Rescue) | 0.3199 |
 [Revealer of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Revealer%20of%20the%20Ice%20Barrier) | 0.3199 |
-[Barrier Statue of the Torrent](https://db.ygoprodeck.com/card/?search=Barrier%20Statue%20of%20the%20Torrent) | 0.3200 |
 [Knight of the Red Lotus](https://db.ygoprodeck.com/card/?search=Knight%20of%20the%20Red%20Lotus) | 0.3200 |
 [Cross Counter](https://db.ygoprodeck.com/card/?search=Cross%20Counter) | 0.3200 |
 [PSY-Framelord Lambda](https://db.ygoprodeck.com/card/?search=PSY-Framelord%20Lambda) | 0.3200 |
