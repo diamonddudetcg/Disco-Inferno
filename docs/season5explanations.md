@@ -54,6 +54,15 @@ Gold Sarcophagus was hit as a Floowandereeze hit but with no Floowandereeze in t
 
 <br>
 
+## Semi-Limited
+
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Shine Ball](https://db.ygoprodeck.com/card/?search=Mystical%20Shine%20Ball)
+
+A slap in the wrist to Agents. The idea was a hit that would significantly lower the ceiling of the deck without harming the consistency. Shine Ball to 2 means you get 2-3 less bodies over the course of a turn. We're not big fans of the Semi-Limited list, but limiting Shine Ball makes the deck unplayable, and leaving it at 3 was too powerful for the format.
+
+<br>
+
+
 ## Unlimited
 
 

@@ -101,6 +101,14 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 
 <br>
 
+### Semi-Limited:
+
+| Card name | Status |
+| :-- | --: |
+| <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Shine Ball](https://db.ygoprodeck.com/card/?search=Mystical%20Shine%20Ball) | Semi-Limited |
+
+<br>
+
 ### Unlimited:
 
 | Card name | Status |
