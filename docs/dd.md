@@ -8938,7 +8938,7 @@
 [Ojama Pajama](https://db.ygoprodeck.com/card/?search=Ojama%20Pajama) | 0.2904 |
 [Libromancer Fireburst](https://db.ygoprodeck.com/card/?search=Libromancer%20Fireburst) | 0.2905 |
 [Gem-Knight Lady Lapis Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lady%20Lapis%20Lazuli) | 0.2905 |
-[Dark Summoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Summoning%20Beast) | 0.2959 |
+[Dark Summoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Summoning%20Beast) | 0.2960 |
 [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | 0.2990 |
 [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.2991 |
 [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.2996 |
@@ -9379,8 +9379,8 @@
 [Elemental HERO Poison Rose](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Poison%20Rose) | 0.3801 |
 [Giga-Tech Wolf](https://db.ygoprodeck.com/card/?search=Giga-Tech%20Wolf) | 0.3801 |
 [Magicians' Combination](https://db.ygoprodeck.com/card/?search=Magicians'%20Combination) | 0.3801 |
-[Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | 0.3802 |
 [Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | 0.3802 |
+[Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | 0.3802 |
 [Dice Re-Roll](https://db.ygoprodeck.com/card/?search=Dice%20Re-Roll) | 0.3802 |
 [Photon Stream of Destruction](https://db.ygoprodeck.com/card/?search=Photon%20Stream%20of%20Destruction) | 0.3802 |
 [Windwitch - Ice Bell](https://db.ygoprodeck.com/card/?search=Windwitch%20-%20Ice%20Bell) | 0.3803 |
@@ -9651,7 +9651,7 @@
 [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4492 |
 [Naturia Cherries](https://db.ygoprodeck.com/card/?search=Naturia%20Cherries) | 0.4496 |
 [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | 0.4496 |
-[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4496 |
+[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4497 |
 [Lunalight White Rabbit](https://db.ygoprodeck.com/card/?search=Lunalight%20White%20Rabbit) | 0.4497 |
 [PSY-Frame Circuit](https://db.ygoprodeck.com/card/?search=PSY-Frame%20Circuit) | 0.4497 |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4497 |
