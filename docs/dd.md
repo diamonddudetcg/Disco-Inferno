@@ -9379,7 +9379,7 @@
 [Elemental HERO Poison Rose](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Poison%20Rose) | 0.3801 |
 [Giga-Tech Wolf](https://db.ygoprodeck.com/card/?search=Giga-Tech%20Wolf) | 0.3801 |
 [Magicians' Combination](https://db.ygoprodeck.com/card/?search=Magicians'%20Combination) | 0.3801 |
-[Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | 0.3802 |
+[Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | 0.3801 |
 [Marine Beast](https://db.ygoprodeck.com/card/?search=Marine%20Beast) | 0.3802 |
 [Dice Re-Roll](https://db.ygoprodeck.com/card/?search=Dice%20Re-Roll) | 0.3802 |
 [Photon Stream of Destruction](https://db.ygoprodeck.com/card/?search=Photon%20Stream%20of%20Destruction) | 0.3802 |
@@ -11599,7 +11599,7 @@
 [Spright Blue](https://db.ygoprodeck.com/card/?search=Spright%20Blue) | 44.1321 |
 [Key Mace #2](https://db.ygoprodeck.com/card/?search=Key%20Mace%20#2) | 44.9500 |
 [Yu-Jo Friendship](https://db.ygoprodeck.com/card/?search=Yu-Jo%20Friendship) | 59.9900 |
-[Primeval Planet Perlereino](https://db.ygoprodeck.com/card/?search=Primeval%20Planet%20Perlereino) | 70.3401 |
+[Primeval Planet Perlereino](https://db.ygoprodeck.com/card/?search=Primeval%20Planet%20Perlereino) | 70.3400 |
 [Baronne de Fleur](https://db.ygoprodeck.com/card/?search=Baronne%20de%20Fleur) | 76.5818 |
 [Novox's Prayer](https://db.ygoprodeck.com/card/?search=Novox's%20Prayer) | 77.3100 |
 [Skull Guardian](https://db.ygoprodeck.com/card/?search=Skull%20Guardian) | 239.9900 |
