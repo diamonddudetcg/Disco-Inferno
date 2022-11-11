@@ -8371,8 +8371,8 @@
 [Darkness Approaches](https://db.ygoprodeck.com/card/?search=Darkness%20Approaches) | 0.2497 |
 [Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | 0.2497 |
 [Genex Ally Reliever](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Reliever) | 0.2498 |
-[Shaddoll Dragon](https://db.ygoprodeck.com/card/?search=Shaddoll%20Dragon) | 0.2498 |
 [Pendulum Call](https://db.ygoprodeck.com/card/?search=Pendulum%20Call) | 0.2498 |
+[Shaddoll Dragon](https://db.ygoprodeck.com/card/?search=Shaddoll%20Dragon) | 0.2498 |
 [Cloudian Squall](https://db.ygoprodeck.com/card/?search=Cloudian%20Squall) | 0.2498 |
 [Fullmetalfoes Alkahest](https://db.ygoprodeck.com/card/?search=Fullmetalfoes%20Alkahest) | 0.2498 |
 [Shurit, Strategist of the Nekroz](https://db.ygoprodeck.com/card/?search=Shurit,%20Strategist%20of%20the%20Nekroz) | 0.2498 |
@@ -9650,8 +9650,8 @@
 [Amazement Attendant Comica](https://db.ygoprodeck.com/card/?search=Amazement%20Attendant%20Comica) | 0.4407 |
 [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4492 |
 [Naturia Cherries](https://db.ygoprodeck.com/card/?search=Naturia%20Cherries) | 0.4496 |
-[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4497 |
 [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | 0.4497 |
+[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4497 |
 [Lunalight White Rabbit](https://db.ygoprodeck.com/card/?search=Lunalight%20White%20Rabbit) | 0.4497 |
 [PSY-Frame Circuit](https://db.ygoprodeck.com/card/?search=PSY-Frame%20Circuit) | 0.4497 |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4497 |
@@ -10654,7 +10654,7 @@
 [Laval Lakeside Lady](https://db.ygoprodeck.com/card/?search=Laval%20Lakeside%20Lady) | 1.1701 |
 [Qliphort Stealth](https://db.ygoprodeck.com/card/?search=Qliphort%20Stealth) | 1.1714 |
 [Borrelsword Dragon](https://db.ygoprodeck.com/card/?search=Borrelsword%20Dragon) | 1.1743 |
-[Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 1.1788 |
+[Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 1.1787 |
 [Supreme King Gate Zero](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Gate%20Zero) | 1.1794 |
 [Asymmetaphys](https://db.ygoprodeck.com/card/?search=Asymmetaphys) | 1.1800 |
 [Number 57: Tri-Head Dust Dragon](https://db.ygoprodeck.com/card/?search=Number%2057:%20Tri-Head%20Dust%20Dragon) | 1.1803 |
