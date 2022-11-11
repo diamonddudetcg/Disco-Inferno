@@ -469,7 +469,7 @@
 [Disk Magician](https://db.ygoprodeck.com/card/?search=Disk%20Magician) | 0.0203 |
 [Crystal Beast Topaz Tiger](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Topaz%20Tiger) | 0.0203 |
 [Left Arm Offering](https://db.ygoprodeck.com/card/?search=Left%20Arm%20Offering) | 0.0203 |
-[Petit Moth](https://db.ygoprodeck.com/card/?search=Petit%20Moth) | 0.0205 |
+[Petit Moth](https://db.ygoprodeck.com/card/?search=Petit%20Moth) | 0.0204 |
 [Card Advance](https://db.ygoprodeck.com/card/?search=Card%20Advance) | 0.0205 |
 [Elemental HERO Mariner](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Mariner) | 0.0206 |
 [Card Destruction](https://db.ygoprodeck.com/card/?search=Card%20Destruction) | 0.0207 |
@@ -7291,7 +7291,7 @@
 [Hajun, the Winged Mayakashi](https://db.ygoprodeck.com/card/?search=Hajun,%20the%20Winged%20Mayakashi) | 0.1805 |
 [Hundred Eyes Dragon](https://db.ygoprodeck.com/card/?search=Hundred%20Eyes%20Dragon) | 0.1851 |
 [Inspection](https://db.ygoprodeck.com/card/?search=Inspection) | 0.1894 |
-[Gilford the Lightning](https://db.ygoprodeck.com/card/?search=Gilford%20the%20Lightning) | 0.1895 |
+[Gilford the Lightning](https://db.ygoprodeck.com/card/?search=Gilford%20the%20Lightning) | 0.1896 |
 [Gachi Gachi Gantetsu](https://db.ygoprodeck.com/card/?search=Gachi%20Gachi%20Gantetsu) | 0.1897 |
 [Hunting Instinct](https://db.ygoprodeck.com/card/?search=Hunting%20Instinct) | 0.1897 |
 [Electric Lizard](https://db.ygoprodeck.com/card/?search=Electric%20Lizard) | 0.1897 |
@@ -9645,7 +9645,7 @@
 [Old Entity Hastorr](https://db.ygoprodeck.com/card/?search=Old%20Entity%20Hastorr) | 0.4404 |
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4404 |
 [Swordsoul Sinister Sovereign - Qixing Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Sinister%20Sovereign%20-%20Qixing%20Longyuan) | 0.4404 |
-[Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | 0.4405 |
+[Amaze Attraction Cyclo-Coaster](https://db.ygoprodeck.com/card/?search=Amaze%20Attraction%20Cyclo-Coaster) | 0.4404 |
 [Freed the Brave Wanderer](https://db.ygoprodeck.com/card/?search=Freed%20the%20Brave%20Wanderer) | 0.4405 |
 [Amazement Attendant Comica](https://db.ygoprodeck.com/card/?search=Amazement%20Attendant%20Comica) | 0.4407 |
 [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4492 |
