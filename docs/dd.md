@@ -11449,7 +11449,7 @@
 [Cosmic Fortress Gol'gar](https://db.ygoprodeck.com/card/?search=Cosmic%20Fortress%20Gol'gar) | 5.6200 |
 [Man-Eating Black Shark](https://db.ygoprodeck.com/card/?search=Man-Eating%20Black%20Shark) | 5.6295 |
 [Dragonmaid Lorpar](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Lorpar) | 5.6304 |
-[Runick Fountain](https://db.ygoprodeck.com/card/?search=Runick%20Fountain) | 5.7134 |
+[Runick Fountain](https://db.ygoprodeck.com/card/?search=Runick%20Fountain) | 5.7133 |
 [Kelbek the Ancient Vanguard](https://db.ygoprodeck.com/card/?search=Kelbek%20the%20Ancient%20Vanguard) | 5.7290 |
 [Garoozis](https://db.ygoprodeck.com/card/?search=Garoozis) | 5.7598 |
 [Spellbound](https://db.ygoprodeck.com/card/?search=Spellbound) | 5.8181 |
