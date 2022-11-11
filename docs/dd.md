@@ -8796,7 +8796,7 @@
 [Traptrix Atrax](https://db.ygoprodeck.com/card/?search=Traptrix%20Atrax) | 0.2705 |
 [Sky Striker Ace - Zeke](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Zeke) | 0.2706 |
 [Blast Held by Destiny](https://db.ygoprodeck.com/card/?search=Blast%20Held%20by%20Destiny) | 0.2708 |
-[Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | 0.2774 |
+[Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | 0.2773 |
 [Magical Musketeer Calamity](https://db.ygoprodeck.com/card/?search=Magical%20Musketeer%20Calamity) | 0.2795 |
 [Lunalight Reincarnation Dance](https://db.ygoprodeck.com/card/?search=Lunalight%20Reincarnation%20Dance) | 0.2796 |
 [Sunavalon Dryades](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryades) | 0.2796 |
