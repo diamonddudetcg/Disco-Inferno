@@ -11362,7 +11362,7 @@
 [Abyss Shark](https://db.ygoprodeck.com/card/?search=Abyss%20Shark) | 4.2400 |
 [Arianna the Labrynth Servant](https://db.ygoprodeck.com/card/?search=Arianna%20the%20Labrynth%20Servant) | 4.2400 |
 [Runick Tip](https://db.ygoprodeck.com/card/?search=Runick%20Tip) | 4.2400 |
-[Apollousa, Bow of the Goddess](https://db.ygoprodeck.com/card/?search=Apollousa,%20Bow%20of%20the%20Goddess) | 4.2470 |
+[Apollousa, Bow of the Goddess](https://db.ygoprodeck.com/card/?search=Apollousa,%20Bow%20of%20the%20Goddess) | 4.2469 |
 [Secret Six Samurai - Hatsume](https://db.ygoprodeck.com/card/?search=Secret%20Six%20Samurai%20-%20Hatsume) | 4.2492 |
 [Imperial Bower](https://db.ygoprodeck.com/card/?search=Imperial%20Bower) | 4.2592 |
 [Ignis Phoenix, the Dracoslayer](https://db.ygoprodeck.com/card/?search=Ignis%20Phoenix,%20the%20Dracoslayer) | 4.2720 |
