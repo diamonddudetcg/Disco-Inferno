@@ -8353,7 +8353,7 @@
 [Blackwing - Kochi the Daybreak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Kochi%20the%20Daybreak) | 0.2404 |
 [Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.2405 |
 [Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | 0.2487 |
-[Predaplant Ophrys Scorpio](https://db.ygoprodeck.com/card/?search=Predaplant%20Ophrys%20Scorpio) | 0.2488 |
+[Predaplant Ophrys Scorpio](https://db.ygoprodeck.com/card/?search=Predaplant%20Ophrys%20Scorpio) | 0.2487 |
 [Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | 0.2490 |
 [Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20%26%20Snow%20Rabbit) | 0.2494 |
 [Wattcine](https://db.ygoprodeck.com/card/?search=Wattcine) | 0.2495 |
@@ -9930,8 +9930,8 @@
 [The Weather Painter Moonbow](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Moonbow) | 0.5598 |
 [Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.5599 |
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.5599 |
-[Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | 0.5599 |
 [Altergeist Memorygant](https://db.ygoprodeck.com/card/?search=Altergeist%20Memorygant) | 0.5599 |
+[Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | 0.5599 |
 [Magical Scientist](https://db.ygoprodeck.com/card/?search=Magical%20Scientist) | 0.5599 |
 [Clear Vice Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Vice%20Dragon) | 0.5600 |
 [Token Collector](https://db.ygoprodeck.com/card/?search=Token%20Collector) | 0.5600 |
@@ -11335,8 +11335,8 @@
 [Number 37: Hope Woven Dragon Spider Shark](https://db.ygoprodeck.com/card/?search=Number%2037:%20Hope%20Woven%20Dragon%20Spider%20Shark) | 3.9494 |
 [Cherubini, Ebon Angel of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Cherubini,%20Ebon%20Angel%20of%20the%20Burning%20Abyss) | 3.9500 |
 [Ancient Gear Ballista](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Ballista) | 3.9799 |
-[Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | 3.9883 |
 [Kitchen Dragonmaid](https://db.ygoprodeck.com/card/?search=Kitchen%20Dragonmaid) | 3.9883 |
+[Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | 3.9883 |
 [Unchained Abomination](https://db.ygoprodeck.com/card/?search=Unchained%20Abomination) | 3.9900 |
 [Alsei, the Sylvan High Protector](https://db.ygoprodeck.com/card/?search=Alsei,%20the%20Sylvan%20High%20Protector) | 3.9900 |
 [Ancient Gear Fortress](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Fortress) | 3.9900 |
