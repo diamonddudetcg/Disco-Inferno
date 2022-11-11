@@ -9928,8 +9928,8 @@
 [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.5597 |
 [Gladiator Beast Andal](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Andal) | 0.5598 |
 [The Weather Painter Moonbow](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Moonbow) | 0.5598 |
-[Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.5599 |
 [Altergeist Memorygant](https://db.ygoprodeck.com/card/?search=Altergeist%20Memorygant) | 0.5599 |
+[Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.5599 |
 [Raviel, Lord of Phantasms](https://db.ygoprodeck.com/card/?search=Raviel,%20Lord%20of%20Phantasms) | 0.5599 |
 [Malefic Truth Dragon](https://db.ygoprodeck.com/card/?search=Malefic%20Truth%20Dragon) | 0.5599 |
 [Magical Scientist](https://db.ygoprodeck.com/card/?search=Magical%20Scientist) | 0.5599 |
@@ -11240,10 +11240,10 @@
 [Master Peace, the True Dracoslaying King](https://db.ygoprodeck.com/card/?search=Master%20Peace,%20the%20True%20Dracoslaying%20King) | 3.0000 |
 [Ride of the Valkyries](https://db.ygoprodeck.com/card/?search=Ride%20of%20the%20Valkyries) | 3.0000 |
 [Wind-Up Rat](https://db.ygoprodeck.com/card/?search=Wind-Up%20Rat) | 3.0094 |
-[Swordsoul of Mo Ye](https://db.ygoprodeck.com/card/?search=Swordsoul%20of%20Mo%20Ye) | 3.0128 |
+[Swordsoul of Mo Ye](https://db.ygoprodeck.com/card/?search=Swordsoul%20of%20Mo%20Ye) | 3.0127 |
 [Abyss-sphere](https://db.ygoprodeck.com/card/?search=Abyss-sphere) | 3.0300 |
 [Number 23: Lancelot, Dark Knight of the Underworld](https://db.ygoprodeck.com/card/?search=Number%2023:%20Lancelot,%20Dark%20Knight%20of%20the%20Underworld) | 3.0409 |
-[Keldo the Sacred Protector](https://db.ygoprodeck.com/card/?search=Keldo%20the%20Sacred%20Protector) | 3.0633 |
+[Keldo the Sacred Protector](https://db.ygoprodeck.com/card/?search=Keldo%20the%20Sacred%20Protector) | 3.0632 |
 [Mathmech Equation](https://db.ygoprodeck.com/card/?search=Mathmech%20Equation) | 3.0695 |
 [Colosseum - Cage of the Gladiator Beasts](https://db.ygoprodeck.com/card/?search=Colosseum%20-%20Cage%20of%20the%20Gladiator%20Beasts) | 3.0700 |
 [Brotherhood of the Fire Fist - Eagle](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Eagle) | 3.0700 |
@@ -11278,7 +11278,7 @@
 [Number 52: Diamond Crab King](https://db.ygoprodeck.com/card/?search=Number%2052:%20Diamond%20Crab%20King) | 3.3899 |
 [Elemental HERO Storm Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Storm%20Neos) | 3.4000 |
 [Vermillion Sparrow](https://db.ygoprodeck.com/card/?search=Vermillion%20Sparrow) | 3.4106 |
-[Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | 3.4157 |
+[Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | 3.4156 |
 [Union Carrier](https://db.ygoprodeck.com/card/?search=Union%20Carrier) | 3.4190 |
 [Number 84: Pain Gainer](https://db.ygoprodeck.com/card/?search=Number%2084:%20Pain%20Gainer) | 3.4202 |
 [Madolche Salon](https://db.ygoprodeck.com/card/?search=Madolche%20Salon) | 3.4500 |
