@@ -9373,7 +9373,7 @@
 [Kozmo Sliprider](https://db.ygoprodeck.com/card/?search=Kozmo%20Sliprider) | 0.3800 |
 [Infernalqueen Archfiend](https://db.ygoprodeck.com/card/?search=Infernalqueen%20Archfiend) | 0.3800 |
 [Mermail Abyssmander](https://db.ygoprodeck.com/card/?search=Mermail%20Abyssmander) | 0.3800 |
-[Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | 0.3801 |
+[Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | 0.3800 |
 [Granadora](https://db.ygoprodeck.com/card/?search=Granadora) | 0.3801 |
 [Doom Kraken](https://db.ygoprodeck.com/card/?search=Doom%20Kraken) | 0.3801 |
 [Reasoning](https://db.ygoprodeck.com/card/?search=Reasoning) | 0.3801 |
@@ -9734,7 +9734,7 @@
 [Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | 0.4776 |
 [Dark Magician the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20the%20Dragon%20Knight) | 0.4783 |
 [Red-Eyes Wyvern](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Wyvern) | 0.4792 |
-[Soul Crossing](https://db.ygoprodeck.com/card/?search=Soul%20Crossing) | 0.4794 |
+[Soul Crossing](https://db.ygoprodeck.com/card/?search=Soul%20Crossing) | 0.4795 |
 [Shien's Dojo](https://db.ygoprodeck.com/card/?search=Shien's%20Dojo) | 0.4795 |
 [Jurrac Guaiba](https://db.ygoprodeck.com/card/?search=Jurrac%20Guaiba) | 0.4796 |
 [Jurrac Monoloph](https://db.ygoprodeck.com/card/?search=Jurrac%20Monoloph) | 0.4796 |
