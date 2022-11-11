@@ -8370,8 +8370,8 @@
 [Elemental HERO Darkbright](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Darkbright) | 0.2497 |
 [Darkness Approaches](https://db.ygoprodeck.com/card/?search=Darkness%20Approaches) | 0.2497 |
 [Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | 0.2497 |
-[Genex Ally Reliever](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Reliever) | 0.2498 |
 [Pendulum Call](https://db.ygoprodeck.com/card/?search=Pendulum%20Call) | 0.2498 |
+[Genex Ally Reliever](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Reliever) | 0.2498 |
 [Shaddoll Dragon](https://db.ygoprodeck.com/card/?search=Shaddoll%20Dragon) | 0.2498 |
 [Cloudian Squall](https://db.ygoprodeck.com/card/?search=Cloudian%20Squall) | 0.2498 |
 [Fullmetalfoes Alkahest](https://db.ygoprodeck.com/card/?search=Fullmetalfoes%20Alkahest) | 0.2498 |
@@ -11278,7 +11278,7 @@
 [Number 52: Diamond Crab King](https://db.ygoprodeck.com/card/?search=Number%2052:%20Diamond%20Crab%20King) | 3.3899 |
 [Elemental HERO Storm Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Storm%20Neos) | 3.4000 |
 [Vermillion Sparrow](https://db.ygoprodeck.com/card/?search=Vermillion%20Sparrow) | 3.4106 |
-[Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | 3.4177 |
+[Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | 3.4176 |
 [Union Carrier](https://db.ygoprodeck.com/card/?search=Union%20Carrier) | 3.4190 |
 [Number 84: Pain Gainer](https://db.ygoprodeck.com/card/?search=Number%2084:%20Pain%20Gainer) | 3.4202 |
 [Madolche Salon](https://db.ygoprodeck.com/card/?search=Madolche%20Salon) | 3.4500 |
@@ -11542,7 +11542,7 @@
 [Psychic End Punisher](https://db.ygoprodeck.com/card/?search=Psychic%20End%20Punisher) | 9.9900 |
 [Triple Tactics Talent](https://db.ygoprodeck.com/card/?search=Triple%20Tactics%20Talent) | 9.9910 |
 [Iron Knight of Revolution](https://db.ygoprodeck.com/card/?search=Iron%20Knight%20of%20Revolution) | 9.9950 |
-[Red-Eyes Baby Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Baby%20Dragon) | 10.3052 |
+[Red-Eyes Baby Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Baby%20Dragon) | 10.3051 |
 [Red-Eyes Dark Dragoon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Dark%20Dragoon) | 10.3420 |
 [Alba-Lenatus the Abyss Dragon](https://db.ygoprodeck.com/card/?search=Alba-Lenatus%20the%20Abyss%20Dragon) | 10.4400 |
 [Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | 10.5559 |
