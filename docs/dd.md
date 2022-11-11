@@ -9126,7 +9126,7 @@
 [Speedroid Ultra Hound](https://db.ygoprodeck.com/card/?search=Speedroid%20Ultra%20Hound) | 0.3294 |
 [Revendread Slayer](https://db.ygoprodeck.com/card/?search=Revendread%20Slayer) | 0.3295 |
 [Abyss Script - Abysstainment](https://db.ygoprodeck.com/card/?search=Abyss%20Script%20-%20Abysstainment) | 0.3298 |
-[Black Rose Dragon](https://db.ygoprodeck.com/card/?search=Black%20Rose%20Dragon) | 0.3298 |
+[Black Rose Dragon](https://db.ygoprodeck.com/card/?search=Black%20Rose%20Dragon) | 0.3299 |
 [Vampire Sucker](https://db.ygoprodeck.com/card/?search=Vampire%20Sucker) | 0.3299 |
 [Number 36: Chronomaly Chateau Huyuk](https://db.ygoprodeck.com/card/?search=Number%2036:%20Chronomaly%20Chateau%20Huyuk) | 0.3299 |
 [Hi-Speedroid Kendama](https://db.ygoprodeck.com/card/?search=Hi-Speedroid%20Kendama) | 0.3299 |
