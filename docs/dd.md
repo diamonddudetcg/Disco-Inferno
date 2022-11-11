@@ -9650,8 +9650,8 @@
 [Amazement Attendant Comica](https://db.ygoprodeck.com/card/?search=Amazement%20Attendant%20Comica) | 0.4407 |
 [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4492 |
 [Naturia Cherries](https://db.ygoprodeck.com/card/?search=Naturia%20Cherries) | 0.4496 |
-[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4496 |
 [White Aura Bihamut](https://db.ygoprodeck.com/card/?search=White%20Aura%20Bihamut) | 0.4496 |
+[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4497 |
 [Lunalight White Rabbit](https://db.ygoprodeck.com/card/?search=Lunalight%20White%20Rabbit) | 0.4497 |
 [PSY-Frame Circuit](https://db.ygoprodeck.com/card/?search=PSY-Frame%20Circuit) | 0.4497 |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4497 |
@@ -11335,7 +11335,7 @@
 [Number 37: Hope Woven Dragon Spider Shark](https://db.ygoprodeck.com/card/?search=Number%2037:%20Hope%20Woven%20Dragon%20Spider%20Shark) | 3.9494 |
 [Cherubini, Ebon Angel of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Cherubini,%20Ebon%20Angel%20of%20the%20Burning%20Abyss) | 3.9500 |
 [Ancient Gear Ballista](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Ballista) | 3.9799 |
-[Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | 3.9882 |
+[Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | 3.9883 |
 [Kitchen Dragonmaid](https://db.ygoprodeck.com/card/?search=Kitchen%20Dragonmaid) | 3.9883 |
 [Unchained Abomination](https://db.ygoprodeck.com/card/?search=Unchained%20Abomination) | 3.9900 |
 [Alsei, the Sylvan High Protector](https://db.ygoprodeck.com/card/?search=Alsei,%20the%20Sylvan%20High%20Protector) | 3.9900 |
@@ -11370,7 +11370,7 @@
 [Ushi Oni](https://db.ygoprodeck.com/card/?search=Ushi%20Oni) | 4.3200 |
 [Blue-Eyes Alternative Ultimate Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Alternative%20Ultimate%20Dragon) | 4.3408 |
 [Wave-Motion Inferno](https://db.ygoprodeck.com/card/?search=Wave-Motion%20Inferno) | 4.3500 |
-[Spright Starter](https://db.ygoprodeck.com/card/?search=Spright%20Starter) | 4.3578 |
+[Spright Starter](https://db.ygoprodeck.com/card/?search=Spright%20Starter) | 4.3579 |
 [Ib the World Chalice Justiciar](https://db.ygoprodeck.com/card/?search=Ib%20the%20World%20Chalice%20Justiciar) | 4.3699 |
 [Tribe-Infecting Virus](https://db.ygoprodeck.com/card/?search=Tribe-Infecting%20Virus) | 4.4293 |
 [Number 65: Djinn Buster](https://db.ygoprodeck.com/card/?search=Number%2065:%20Djinn%20Buster) | 4.4500 |
@@ -11494,7 +11494,7 @@
 [Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | 7.4950 |
 [Last Day of Witch](https://db.ygoprodeck.com/card/?search=Last%20Day%20of%20Witch) | 7.4999 |
 [Blackbeard, the Plunder Patroll Captain](https://db.ygoprodeck.com/card/?search=Blackbeard,%20the%20Plunder%20Patroll%20Captain) | 7.5000 |
-[Kashtira Unicorn](https://db.ygoprodeck.com/card/?search=Kashtira%20Unicorn) | 7.5278 |
+[Kashtira Unicorn](https://db.ygoprodeck.com/card/?search=Kashtira%20Unicorn) | 7.5279 |
 [The Zombie Vampire](https://db.ygoprodeck.com/card/?search=The%20Zombie%20Vampire) | 7.5413 |
 [Scrapyard](https://db.ygoprodeck.com/card/?search=Scrapyard) | 7.6219 |
 [Brotherhood of the Fire Fist - Elephant](https://db.ygoprodeck.com/card/?search=Brotherhood%20of%20the%20Fire%20Fist%20-%20Elephant) | 7.6501 |
