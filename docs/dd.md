@@ -9920,7 +9920,7 @@
 [Charge of the Light Brigade](https://db.ygoprodeck.com/card/?search=Charge%20of%20the%20Light%20Brigade) | 0.5503 |
 [Cyber Laser Dragon](https://db.ygoprodeck.com/card/?search=Cyber%20Laser%20Dragon) | 0.5503 |
 [Rank-Up-Magic Doom Double Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Doom%20Double%20Force) | 0.5506 |
-[Libromancer Doombroker](https://db.ygoprodeck.com/card/?search=Libromancer%20Doombroker) | 0.5508 |
+[Libromancer Doombroker](https://db.ygoprodeck.com/card/?search=Libromancer%20Doombroker) | 0.5507 |
 [Number 27: Dreadnought Dreadnoid](https://db.ygoprodeck.com/card/?search=Number%2027:%20Dreadnought%20Dreadnoid) | 0.5589 |
 [Junk Servant](https://db.ygoprodeck.com/card/?search=Junk%20Servant) | 0.5592 |
 [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.5595 |
@@ -11423,7 +11423,7 @@
 [Mathmech Superfactorial](https://db.ygoprodeck.com/card/?search=Mathmech%20Superfactorial) | 5.0520 |
 [Absorb Fusion](https://db.ygoprodeck.com/card/?search=Absorb%20Fusion) | 5.0900 |
 [Graydle Dragon](https://db.ygoprodeck.com/card/?search=Graydle%20Dragon) | 5.1009 |
-[Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | 5.1071 |
+[Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | 5.1070 |
 [Edge Imp Chain](https://db.ygoprodeck.com/card/?search=Edge%20Imp%20Chain) | 5.1211 |
 [Reaper on the Nightmare](https://db.ygoprodeck.com/card/?search=Reaper%20on%20the%20Nightmare) | 5.1221 |
 [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | 5.1241 |
