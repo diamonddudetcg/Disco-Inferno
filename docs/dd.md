@@ -11343,7 +11343,7 @@
 [Gyaku-Gire Panda](https://db.ygoprodeck.com/card/?search=Gyaku-Gire%20Panda) | 3.9900 |
 [Temperance of Prophecy](https://db.ygoprodeck.com/card/?search=Temperance%20of%20Prophecy) | 3.9900 |
 [Zeta Reticulant](https://db.ygoprodeck.com/card/?search=Zeta%20Reticulant) | 3.9900 |
-[Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | 3.9908 |
+[Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | 3.9909 |
 [Skullbird](https://db.ygoprodeck.com/card/?search=Skullbird) | 4.0000 |
 [Great Bill](https://db.ygoprodeck.com/card/?search=Great%20Bill) | 4.0000 |
 [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | 4.0000 |
@@ -11423,7 +11423,7 @@
 [Mathmech Superfactorial](https://db.ygoprodeck.com/card/?search=Mathmech%20Superfactorial) | 5.0520 |
 [Absorb Fusion](https://db.ygoprodeck.com/card/?search=Absorb%20Fusion) | 5.0900 |
 [Graydle Dragon](https://db.ygoprodeck.com/card/?search=Graydle%20Dragon) | 5.1009 |
-[Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | 5.1063 |
+[Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | 5.1062 |
 [Edge Imp Chain](https://db.ygoprodeck.com/card/?search=Edge%20Imp%20Chain) | 5.1211 |
 [Reaper on the Nightmare](https://db.ygoprodeck.com/card/?search=Reaper%20on%20the%20Nightmare) | 5.1221 |
 [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | 5.1240 |
