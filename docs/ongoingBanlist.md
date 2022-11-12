@@ -2,7 +2,7 @@
 title: "Disco Inferno Forbidden & Limited List"
 ---
 
-This is the Magnificent Mavens Disco Inferno banlist.
+This is the Season 6 Disco Inferno banlist.
 
 You can find the most recent banlist file [HERE](https://drive.google.com/file/d/1E6Y4P6NovTzc6q9uiefR8b2fd3g6mbR2/view)
 
