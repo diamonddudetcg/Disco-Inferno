@@ -9885,7 +9885,7 @@
 [Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | 0.5305 |
 [Blackwing Armed Wing](https://db.ygoprodeck.com/card/?search=Blackwing%20Armed%20Wing) | 0.5307 |
 [Blue-Eyes Ultimate Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Ultimate%20Dragon) | 0.5309 |
-[Mushroom Man #2](https://db.ygoprodeck.com/card/?search=Mushroom%20Man%20#2) | 0.5388 |
+[Mushroom Man #2](https://db.ygoprodeck.com/card/?search=Mushroom%20Man%20#2) | 0.5389 |
 [Evilswarm Castor](https://db.ygoprodeck.com/card/?search=Evilswarm%20Castor) | 0.5391 |
 [Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.5394 |
 [Destruction Sword Memories](https://db.ygoprodeck.com/card/?search=Destruction%20Sword%20Memories) | 0.5395 |
@@ -10654,7 +10654,7 @@
 [Laval Lakeside Lady](https://db.ygoprodeck.com/card/?search=Laval%20Lakeside%20Lady) | 1.1701 |
 [Qliphort Stealth](https://db.ygoprodeck.com/card/?search=Qliphort%20Stealth) | 1.1714 |
 [Borrelsword Dragon](https://db.ygoprodeck.com/card/?search=Borrelsword%20Dragon) | 1.1743 |
-[Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 1.1778 |
+[Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 1.1777 |
 [Supreme King Gate Zero](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Gate%20Zero) | 1.1794 |
 [Asymmetaphys](https://db.ygoprodeck.com/card/?search=Asymmetaphys) | 1.1800 |
 [Number 57: Tri-Head Dust Dragon](https://db.ygoprodeck.com/card/?search=Number%2057:%20Tri-Head%20Dust%20Dragon) | 1.1803 |
