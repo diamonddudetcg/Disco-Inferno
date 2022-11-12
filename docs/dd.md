@@ -1284,7 +1284,7 @@
 [Scareclaw Decline](https://db.ygoprodeck.com/card/?search=Scareclaw%20Decline) | 0.0450 |
 [Live☆Twin Channel](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Channel) | 0.0450 |
 [Freki the Runick Fangs](https://db.ygoprodeck.com/card/?search=Freki%20the%20Runick%20Fangs) | 0.0451 |
-[Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.0489 |
+[Skull Meister](https://db.ygoprodeck.com/card/?search=Skull%20Meister) | 0.0490 |
 [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.0490 |
 [Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | 0.0492 |
 [Axe Dragonute](https://db.ygoprodeck.com/card/?search=Axe%20Dragonute) | 0.0499 |
@@ -3032,7 +3032,7 @@
 [Penguin Soldier](https://db.ygoprodeck.com/card/?search=Penguin%20Soldier) | 0.0703 |
 [Ancient Warriors - Valiant Zhang De](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Valiant%20Zhang%20De) | 0.0703 |
 [Big Evolution Pill](https://db.ygoprodeck.com/card/?search=Big%20Evolution%20Pill) | 0.0703 |
-[Performapal Odd-Eyes Dissolver](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Dissolver) | 0.0705 |
+[Performapal Odd-Eyes Dissolver](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Dissolver) | 0.0704 |
 [Big Burn](https://db.ygoprodeck.com/card/?search=Big%20Burn) | 0.0709 |
 [Amazoness Hot Spring](https://db.ygoprodeck.com/card/?search=Amazoness%20Hot%20Spring) | 0.0750 |
 [Dream Cicada](https://db.ygoprodeck.com/card/?search=Dream%20Cicada) | 0.0750 |
@@ -11016,7 +11016,7 @@
 [Chaos Space](https://db.ygoprodeck.com/card/?search=Chaos%20Space) | 1.9500 |
 [Immortal Phoenix Gearfried](https://db.ygoprodeck.com/card/?search=Immortal%20Phoenix%20Gearfried) | 1.9500 |
 [Loptr, Shadow of the Generaider Bosses](https://db.ygoprodeck.com/card/?search=Loptr,%20Shadow%20of%20the%20Generaider%20Bosses) | 1.9500 |
-[Dark Armed, the Dragon of Annihilation](https://db.ygoprodeck.com/card/?search=Dark%20Armed,%20the%20Dragon%20of%20Annihilation) | 1.9589 |
+[Dark Armed, the Dragon of Annihilation](https://db.ygoprodeck.com/card/?search=Dark%20Armed,%20the%20Dragon%20of%20Annihilation) | 1.9588 |
 [Black Luster Soldier - Envoy of the Evening Twilight](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Envoy%20of%20the%20Evening%20Twilight) | 1.9600 |
 [Elemental HERO Stratos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Stratos) | 1.9698 |
 [Chronomaly Crystal Chrononaut](https://db.ygoprodeck.com/card/?search=Chronomaly%20Crystal%20Chrononaut) | 1.9701 |
@@ -11506,7 +11506,7 @@
 [Turu-Purun](https://db.ygoprodeck.com/card/?search=Turu-Purun) | 7.9100 |
 [Sixth Sense](https://db.ygoprodeck.com/card/?search=Sixth%20Sense) | 7.9199 |
 [I:P Masquerena](https://db.ygoprodeck.com/card/?search=I:P%20Masquerena) | 7.9200 |
-[Denglong, First of the Yang Zing](https://db.ygoprodeck.com/card/?search=Denglong,%20First%20of%20the%20Yang%20Zing) | 7.9831 |
+[Denglong, First of the Yang Zing](https://db.ygoprodeck.com/card/?search=Denglong,%20First%20of%20the%20Yang%20Zing) | 7.9830 |
 [Kamionwizard](https://db.ygoprodeck.com/card/?search=Kamionwizard) | 8.0000 |
 [Unity](https://db.ygoprodeck.com/card/?search=Unity) | 8.0011 |
 [Borreload Savage Dragon](https://db.ygoprodeck.com/card/?search=Borreload%20Savage%20Dragon) | 8.0011 |
