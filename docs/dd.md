@@ -8371,8 +8371,8 @@
 [Darkness Approaches](https://db.ygoprodeck.com/card/?search=Darkness%20Approaches) | 0.2497 |
 [Tri-Brigade Bearbrumm the Rampant Rampager](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Bearbrumm%20the%20Rampant%20Rampager) | 0.2497 |
 [Genex Ally Reliever](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Reliever) | 0.2498 |
-[Shaddoll Dragon](https://db.ygoprodeck.com/card/?search=Shaddoll%20Dragon) | 0.2498 |
 [Pendulum Call](https://db.ygoprodeck.com/card/?search=Pendulum%20Call) | 0.2498 |
+[Shaddoll Dragon](https://db.ygoprodeck.com/card/?search=Shaddoll%20Dragon) | 0.2498 |
 [Cloudian Squall](https://db.ygoprodeck.com/card/?search=Cloudian%20Squall) | 0.2498 |
 [Fullmetalfoes Alkahest](https://db.ygoprodeck.com/card/?search=Fullmetalfoes%20Alkahest) | 0.2498 |
 [Shurit, Strategist of the Nekroz](https://db.ygoprodeck.com/card/?search=Shurit,%20Strategist%20of%20the%20Nekroz) | 0.2498 |
@@ -11423,7 +11423,7 @@
 [Mathmech Superfactorial](https://db.ygoprodeck.com/card/?search=Mathmech%20Superfactorial) | 5.0520 |
 [Absorb Fusion](https://db.ygoprodeck.com/card/?search=Absorb%20Fusion) | 5.0900 |
 [Graydle Dragon](https://db.ygoprodeck.com/card/?search=Graydle%20Dragon) | 5.1009 |
-[Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | 5.1066 |
+[Black Luster Soldier - Soldier of Chaos](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Soldier%20of%20Chaos) | 5.1065 |
 [Edge Imp Chain](https://db.ygoprodeck.com/card/?search=Edge%20Imp%20Chain) | 5.1211 |
 [Reaper on the Nightmare](https://db.ygoprodeck.com/card/?search=Reaper%20on%20the%20Nightmare) | 5.1221 |
 [Instant Contact](https://db.ygoprodeck.com/card/?search=Instant%20Contact) | 5.1240 |
