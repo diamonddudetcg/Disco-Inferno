@@ -7894,7 +7894,7 @@
 [All-Eyes Phantom Dragon](https://db.ygoprodeck.com/card/?search=All-Eyes%20Phantom%20Dragon) | 0.2103 |
 [Vision with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Vision%20with%20Eyes%20of%20Blue) | 0.2104 |
 [Ultimate Obedient Fiend](https://db.ygoprodeck.com/card/?search=Ultimate%20Obedient%20Fiend) | 0.2107 |
-[Surgical Striker - H.A.M.P.](https://db.ygoprodeck.com/card/?search=Surgical%20Striker%20-%20H.A.M.P.) | 0.2134 |
+[Surgical Striker - H.A.M.P.](https://db.ygoprodeck.com/card/?search=Surgical%20Striker%20-%20H.A.M.P.) | 0.2133 |
 [Cyber Saurus](https://db.ygoprodeck.com/card/?search=Cyber%20Saurus) | 0.2196 |
 [Big Belly Knight](https://db.ygoprodeck.com/card/?search=Big%20Belly%20Knight) | 0.2196 |
 [Steelswarm Cell](https://db.ygoprodeck.com/card/?search=Steelswarm%20Cell) | 0.2197 |
@@ -9683,7 +9683,7 @@
 [Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4504 |
 [Nekroz of Areadbhair](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Areadbhair) | 0.4506 |
 [Swordsoul Supreme Sovereign - Chengying](https://db.ygoprodeck.com/card/?search=Swordsoul%20Supreme%20Sovereign%20-%20Chengying) | 0.4507 |
-[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4511 |
+[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4510 |
 [Network Trap Hole](https://db.ygoprodeck.com/card/?search=Network%20Trap%20Hole) | 0.4589 |
 [Number 106: Giant Hand](https://db.ygoprodeck.com/card/?search=Number%20106:%20Giant%20Hand) | 0.4591 |
 [Hidden Village of Ninjitsu Arts](https://db.ygoprodeck.com/card/?search=Hidden%20Village%20of%20Ninjitsu%20Arts) | 0.4597 |
@@ -11580,7 +11580,7 @@
 [Toon Black Luster Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Black%20Luster%20Soldier) | 19.9900 |
 [Dimension Fusion](https://db.ygoprodeck.com/card/?search=Dimension%20Fusion) | 22.9728 |
 [Forbidden Droplet](https://db.ygoprodeck.com/card/?search=Forbidden%20Droplet) | 23.1364 |
-[Ultimate Slayer](https://db.ygoprodeck.com/card/?search=Ultimate%20Slayer) | 23.1475 |
+[Ultimate Slayer](https://db.ygoprodeck.com/card/?search=Ultimate%20Slayer) | 23.1474 |
 [Maiden of the Moonlight](https://db.ygoprodeck.com/card/?search=Maiden%20of%20the%20Moonlight) | 24.7900 |
 [Number 90: Galaxy-Eyes Photon Lord](https://db.ygoprodeck.com/card/?search=Number%2090:%20Galaxy-Eyes%20Photon%20Lord) | 24.9900 |
 [Wilmee](https://db.ygoprodeck.com/card/?search=Wilmee) | 25.3600 |
