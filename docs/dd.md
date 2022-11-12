@@ -10253,7 +10253,7 @@
 [Present Card](https://db.ygoprodeck.com/card/?search=Present%20Card) | 0.7704 |
 [Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.7706 |
 [Witchcrafter Vice-Madame](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Vice-Madame) | 0.7714 |
-[Phalanx Pike](https://db.ygoprodeck.com/card/?search=Phalanx%20Pike) | 0.7791 |
+[Phalanx Pike](https://db.ygoprodeck.com/card/?search=Phalanx%20Pike) | 0.7792 |
 [Emissary of the Afterlife](https://db.ygoprodeck.com/card/?search=Emissary%20of%20the%20Afterlife) | 0.7797 |
 [Number 20: Giga-Brilliant](https://db.ygoprodeck.com/card/?search=Number%2020:%20Giga-Brilliant) | 0.7798 |
 [Tin Goldfish](https://db.ygoprodeck.com/card/?search=Tin%20Goldfish) | 0.7798 |
