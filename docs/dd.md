@@ -8868,7 +8868,7 @@
 [Gladiator Beast Hoplomus](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Hoplomus) | 0.2802 |
 [Dhampir Vampire Sheridan](https://db.ygoprodeck.com/card/?search=Dhampir%20Vampire%20Sheridan) | 0.2802 |
 [Magister of Endymion](https://db.ygoprodeck.com/card/?search=Magister%20of%20Endymion) | 0.2802 |
-[Wind-Up Zenmaines](https://db.ygoprodeck.com/card/?search=Wind-Up%20Zenmaines) | 0.2803 |
+[Wind-Up Zenmaines](https://db.ygoprodeck.com/card/?search=Wind-Up%20Zenmaines) | 0.2802 |
 [Necroface](https://db.ygoprodeck.com/card/?search=Necroface) | 0.2803 |
 [Caius the Mega Monarch](https://db.ygoprodeck.com/card/?search=Caius%20the%20Mega%20Monarch) | 0.2803 |
 [Treeborn Frog](https://db.ygoprodeck.com/card/?search=Treeborn%20Frog) | 0.2803 |
@@ -8938,7 +8938,7 @@
 [Ojama Pajama](https://db.ygoprodeck.com/card/?search=Ojama%20Pajama) | 0.2904 |
 [Libromancer Fireburst](https://db.ygoprodeck.com/card/?search=Libromancer%20Fireburst) | 0.2904 |
 [Gem-Knight Lady Lapis Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lady%20Lapis%20Lazuli) | 0.2905 |
-[Dark Summoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Summoning%20Beast) | 0.2957 |
+[Dark Summoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Summoning%20Beast) | 0.2956 |
 [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | 0.2990 |
 [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.2991 |
 [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.2996 |
@@ -9890,7 +9890,7 @@
 [Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.5394 |
 [Destruction Sword Memories](https://db.ygoprodeck.com/card/?search=Destruction%20Sword%20Memories) | 0.5395 |
 [Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | 0.5397 |
-[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5397 |
+[The Phantom Knights of Rusty Bardiche](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Rusty%20Bardiche) | 0.5398 |
 [Jurassic World](https://db.ygoprodeck.com/card/?search=Jurassic%20World) | 0.5398 |
 [Number 14: Greedy Sarameya](https://db.ygoprodeck.com/card/?search=Number%2014:%20Greedy%20Sarameya) | 0.5400 |
 [Fool of Prophecy](https://db.ygoprodeck.com/card/?search=Fool%20of%20Prophecy) | 0.5400 |
@@ -11506,7 +11506,7 @@
 [Turu-Purun](https://db.ygoprodeck.com/card/?search=Turu-Purun) | 7.9100 |
 [Sixth Sense](https://db.ygoprodeck.com/card/?search=Sixth%20Sense) | 7.9199 |
 [I:P Masquerena](https://db.ygoprodeck.com/card/?search=I:P%20Masquerena) | 7.9200 |
-[Denglong, First of the Yang Zing](https://db.ygoprodeck.com/card/?search=Denglong,%20First%20of%20the%20Yang%20Zing) | 7.9797 |
+[Denglong, First of the Yang Zing](https://db.ygoprodeck.com/card/?search=Denglong,%20First%20of%20the%20Yang%20Zing) | 7.9796 |
 [Kamionwizard](https://db.ygoprodeck.com/card/?search=Kamionwizard) | 8.0000 |
 [Unity](https://db.ygoprodeck.com/card/?search=Unity) | 8.0011 |
 [Borreload Savage Dragon](https://db.ygoprodeck.com/card/?search=Borreload%20Savage%20Dragon) | 8.0011 |
