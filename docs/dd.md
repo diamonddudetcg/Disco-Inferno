@@ -9277,7 +9277,7 @@
 [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.3506 |
 [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.3507 |
 [Zoodiac Chakanine](https://db.ygoprodeck.com/card/?search=Zoodiac%20Chakanine) | 0.3508 |
-[Junk Forward](https://db.ygoprodeck.com/card/?search=Junk%20Forward) | 0.3562 |
+[Junk Forward](https://db.ygoprodeck.com/card/?search=Junk%20Forward) | 0.3561 |
 [Copycat](https://db.ygoprodeck.com/card/?search=Copycat) | 0.3593 |
 [Blackwing - Kalut the Moon Shadow](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Kalut%20the%20Moon%20Shadow) | 0.3595 |
 [Infinitrack Goliath](https://db.ygoprodeck.com/card/?search=Infinitrack%20Goliath) | 0.3596 |
@@ -11506,7 +11506,7 @@
 [Turu-Purun](https://db.ygoprodeck.com/card/?search=Turu-Purun) | 7.9100 |
 [Sixth Sense](https://db.ygoprodeck.com/card/?search=Sixth%20Sense) | 7.9199 |
 [I:P Masquerena](https://db.ygoprodeck.com/card/?search=I:P%20Masquerena) | 7.9200 |
-[Denglong, First of the Yang Zing](https://db.ygoprodeck.com/card/?search=Denglong,%20First%20of%20the%20Yang%20Zing) | 7.9798 |
+[Denglong, First of the Yang Zing](https://db.ygoprodeck.com/card/?search=Denglong,%20First%20of%20the%20Yang%20Zing) | 7.9797 |
 [Kamionwizard](https://db.ygoprodeck.com/card/?search=Kamionwizard) | 8.0000 |
 [Unity](https://db.ygoprodeck.com/card/?search=Unity) | 8.0011 |
 [Borreload Savage Dragon](https://db.ygoprodeck.com/card/?search=Borreload%20Savage%20Dragon) | 8.0011 |
