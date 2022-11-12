@@ -8938,7 +8938,7 @@
 [Ojama Pajama](https://db.ygoprodeck.com/card/?search=Ojama%20Pajama) | 0.2904 |
 [Libromancer Fireburst](https://db.ygoprodeck.com/card/?search=Libromancer%20Fireburst) | 0.2904 |
 [Gem-Knight Lady Lapis Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lady%20Lapis%20Lazuli) | 0.2905 |
-[Dark Summoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Summoning%20Beast) | 0.2958 |
+[Dark Summoning Beast](https://db.ygoprodeck.com/card/?search=Dark%20Summoning%20Beast) | 0.2957 |
 [Predapractice](https://db.ygoprodeck.com/card/?search=Predapractice) | 0.2990 |
 [Foolish Return](https://db.ygoprodeck.com/card/?search=Foolish%20Return) | 0.2991 |
 [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.2996 |
@@ -11506,7 +11506,7 @@
 [Turu-Purun](https://db.ygoprodeck.com/card/?search=Turu-Purun) | 7.9100 |
 [Sixth Sense](https://db.ygoprodeck.com/card/?search=Sixth%20Sense) | 7.9199 |
 [I:P Masquerena](https://db.ygoprodeck.com/card/?search=I:P%20Masquerena) | 7.9200 |
-[Denglong, First of the Yang Zing](https://db.ygoprodeck.com/card/?search=Denglong,%20First%20of%20the%20Yang%20Zing) | 7.9819 |
+[Denglong, First of the Yang Zing](https://db.ygoprodeck.com/card/?search=Denglong,%20First%20of%20the%20Yang%20Zing) | 7.9818 |
 [Kamionwizard](https://db.ygoprodeck.com/card/?search=Kamionwizard) | 8.0000 |
 [Unity](https://db.ygoprodeck.com/card/?search=Unity) | 8.0011 |
 [Borreload Savage Dragon](https://db.ygoprodeck.com/card/?search=Borreload%20Savage%20Dragon) | 8.0011 |
