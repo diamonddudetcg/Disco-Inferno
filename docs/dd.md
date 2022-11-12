@@ -8358,8 +8358,8 @@
 [Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20%26%20Snow%20Rabbit) | 0.2494 |
 [Wattcine](https://db.ygoprodeck.com/card/?search=Wattcine) | 0.2495 |
 [Submersible Carrier Aero Shark](https://db.ygoprodeck.com/card/?search=Submersible%20Carrier%20Aero%20Shark) | 0.2496 |
-[Valhalla, Hall of the Fallen](https://db.ygoprodeck.com/card/?search=Valhalla,%20Hall%20of%20the%20Fallen) | 0.2496 |
 [Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | 0.2496 |
+[Valhalla, Hall of the Fallen](https://db.ygoprodeck.com/card/?search=Valhalla,%20Hall%20of%20the%20Fallen) | 0.2496 |
 [Elemental HERO Thunder Giant](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Thunder%20Giant) | 0.2496 |
 [YZ-Tank Dragon](https://db.ygoprodeck.com/card/?search=YZ-Tank%20Dragon) | 0.2496 |
 [Disciples of the True Dracophoenix](https://db.ygoprodeck.com/card/?search=Disciples%20of%20the%20True%20Dracophoenix) | 0.2496 |
@@ -9579,7 +9579,7 @@
 [Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | 0.4206 |
 [Gravekeeper's Trap](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Trap) | 0.4259 |
 [Mayakashi Mayhem](https://db.ygoprodeck.com/card/?search=Mayakashi%20Mayhem) | 0.4292 |
-[Karakuri Strategist mdl 248 "Nishipachi"](https://db.ygoprodeck.com/card/?search=Karakuri%20Strategist%20mdl%20248%20"Nishipachi") | 0.4294 |
+[Karakuri Strategist mdl 248 "Nishipachi"](https://db.ygoprodeck.com/card/?search=Karakuri%20Strategist%20mdl%20248%20"Nishipachi") | 0.4295 |
 [Mystic Swordsman LV2](https://db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV2) | 0.4296 |
 [Whitebeard, the Plunder Patroll Helm](https://db.ygoprodeck.com/card/?search=Whitebeard,%20the%20Plunder%20Patroll%20Helm) | 0.4297 |
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.4297 |
@@ -11450,7 +11450,7 @@
 [Man-Eating Black Shark](https://db.ygoprodeck.com/card/?search=Man-Eating%20Black%20Shark) | 5.6295 |
 [Dragonmaid Lorpar](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Lorpar) | 5.6304 |
 [Runick Fountain](https://db.ygoprodeck.com/card/?search=Runick%20Fountain) | 5.7133 |
-[Kelbek the Ancient Vanguard](https://db.ygoprodeck.com/card/?search=Kelbek%20the%20Ancient%20Vanguard) | 5.7285 |
+[Kelbek the Ancient Vanguard](https://db.ygoprodeck.com/card/?search=Kelbek%20the%20Ancient%20Vanguard) | 5.7284 |
 [Garoozis](https://db.ygoprodeck.com/card/?search=Garoozis) | 5.7598 |
 [Spellbound](https://db.ygoprodeck.com/card/?search=Spellbound) | 5.8181 |
 [Blackwing Full Armor Master](https://db.ygoprodeck.com/card/?search=Blackwing%20Full%20Armor%20Master) | 5.9691 |
