@@ -11316,7 +11316,7 @@
 [Tearlaments Kaleido-Heart](https://db.ygoprodeck.com/card/?search=Tearlaments%20Kaleido-Heart) | 3.7807 |
 [Gladiator Beast Essedarii](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Essedarii) | 3.7900 |
 [Soul Hunter](https://db.ygoprodeck.com/card/?search=Soul%20Hunter) | 3.7900 |
-[Gravekeeper's Recruiter](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Recruiter) | 3.8210 |
+[Gravekeeper's Recruiter](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Recruiter) | 3.8209 |
 [Elemental HERO Gaia](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Gaia) | 3.8241 |
 [Gladiator Beast Retiari](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Retiari) | 3.8265 |
 [Dinomorphia Domain](https://db.ygoprodeck.com/card/?search=Dinomorphia%20Domain) | 3.8396 |
@@ -11343,7 +11343,7 @@
 [Gyaku-Gire Panda](https://db.ygoprodeck.com/card/?search=Gyaku-Gire%20Panda) | 3.9900 |
 [Temperance of Prophecy](https://db.ygoprodeck.com/card/?search=Temperance%20of%20Prophecy) | 3.9900 |
 [Zeta Reticulant](https://db.ygoprodeck.com/card/?search=Zeta%20Reticulant) | 3.9900 |
-[Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | 3.9909 |
+[Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | 3.9910 |
 [Skullbird](https://db.ygoprodeck.com/card/?search=Skullbird) | 4.0000 |
 [Great Bill](https://db.ygoprodeck.com/card/?search=Great%20Bill) | 4.0000 |
 [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | 4.0000 |
