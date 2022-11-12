@@ -10,9 +10,9 @@ title:  "Disco Inferno"
 
 [Changes to the official F&L list](legality)
 
-[Season 4 banlist](banlist)
+[Season 5 banlist](banlist)
 
-[Season 4 changes](season4explanations)
+[Season 5 changes](season5explanations)
 
 ## Rotation Speculation for Season 5
 
