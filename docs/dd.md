@@ -9354,7 +9354,7 @@
 [War Rock Bashileos](https://db.ygoprodeck.com/card/?search=War%20Rock%20Bashileos) | 0.3704 |
 [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | 0.3705 |
 [Ancient Warriors - Ingenious Zhuge Kong](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Ingenious%20Zhuge%20Kong) | 0.3706 |
-[Cyber Revsystem](https://db.ygoprodeck.com/card/?search=Cyber%20Revsystem) | 0.3732 |
+[Cyber Revsystem](https://db.ygoprodeck.com/card/?search=Cyber%20Revsystem) | 0.3731 |
 [Gear Gigant X](https://db.ygoprodeck.com/card/?search=Gear%20Gigant%20X) | 0.3795 |
 [Soul Absorption](https://db.ygoprodeck.com/card/?search=Soul%20Absorption) | 0.3796 |
 [Theinen the Great Sphinx](https://db.ygoprodeck.com/card/?search=Theinen%20the%20Great%20Sphinx) | 0.3796 |
@@ -10029,7 +10029,7 @@
 [D/D/D Wave High King Caesar](https://db.ygoprodeck.com/card/?search=D/D/D%20Wave%20High%20King%20Caesar) | 0.6102 |
 [D/D/D Abyss King Gilgamesh](https://db.ygoprodeck.com/card/?search=D/D/D%20Abyss%20King%20Gilgamesh) | 0.6103 |
 [Legendary Six Samurai - Kizan](https://db.ygoprodeck.com/card/?search=Legendary%20Six%20Samurai%20-%20Kizan) | 0.6191 |
-[Stealth Kragen Spawn](https://db.ygoprodeck.com/card/?search=Stealth%20Kragen%20Spawn) | 0.6194 |
+[Stealth Kragen Spawn](https://db.ygoprodeck.com/card/?search=Stealth%20Kragen%20Spawn) | 0.6193 |
 [Scrubbed Raid](https://db.ygoprodeck.com/card/?search=Scrubbed%20Raid) | 0.6194 |
 [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | 0.6194 |
 [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.6198 |
