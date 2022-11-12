@@ -11253,7 +11253,7 @@
 [Number 76: Harmonizer Gradielle](https://db.ygoprodeck.com/card/?search=Number%2076:%20Harmonizer%20Gradielle) | 3.1009 |
 [Darkest Diabolos, Lord of the Lair](https://db.ygoprodeck.com/card/?search=Darkest%20Diabolos,%20Lord%20of%20the%20Lair) | 3.1095 |
 [Wind-Up Carrier Zenmaity](https://db.ygoprodeck.com/card/?search=Wind-Up%20Carrier%20Zenmaity) | 3.1200 |
-[Cyber Dragon Infinity](https://db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Infinity) | 3.1325 |
+[Cyber Dragon Infinity](https://db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Infinity) | 3.1324 |
 [Sengenjin](https://db.ygoprodeck.com/card/?search=Sengenjin) | 3.1499 |
 [Igknight Crusader](https://db.ygoprodeck.com/card/?search=Igknight%20Crusader) | 3.1597 |
 [Kozmo Dark Planet](https://db.ygoprodeck.com/card/?search=Kozmo%20Dark%20Planet) | 3.1601 |
@@ -11278,7 +11278,7 @@
 [Number 52: Diamond Crab King](https://db.ygoprodeck.com/card/?search=Number%2052:%20Diamond%20Crab%20King) | 3.3899 |
 [Elemental HERO Storm Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Storm%20Neos) | 3.4000 |
 [Vermillion Sparrow](https://db.ygoprodeck.com/card/?search=Vermillion%20Sparrow) | 3.4106 |
-[Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | 3.4127 |
+[Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | 3.4126 |
 [Union Carrier](https://db.ygoprodeck.com/card/?search=Union%20Carrier) | 3.4190 |
 [Number 84: Pain Gainer](https://db.ygoprodeck.com/card/?search=Number%2084:%20Pain%20Gainer) | 3.4202 |
 [Madolche Salon](https://db.ygoprodeck.com/card/?search=Madolche%20Salon) | 3.4500 |
