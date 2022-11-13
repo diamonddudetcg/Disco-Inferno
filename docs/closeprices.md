@@ -9,7 +9,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4406 | 0.81 | Illegal |
 [Dark Magician the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20the%20Dragon%20Knight) | 0.4787 | 0.96 | Illegal |
 [Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.4805 | 0.80 | Illegal |
-[Blackwing - Blizzard the Far North](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North) | 0.4819 | 1.09 | Illegal |
+[Blackwing - Blizzard the Far North](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North) | 0.4820 | 1.09 | Illegal |
 [Zoodiac Boarbow](https://db.ygoprodeck.com/card/?search=Zoodiac%20Boarbow) | 0.4988 | 0.57 | Illegal |
 [Subterror Nemesis Archer](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Archer) | 0.4998 | 0.61 | Illegal |
 [Demise, King of Armageddon](https://db.ygoprodeck.com/card/?search=Demise,%20King%20of%20Armageddon) | 0.5000 | 0.51 | Illegal |
@@ -26,7 +26,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | 0.5198 | 0.36 | Unlimited |
 [Aroma Garden](https://db.ygoprodeck.com/card/?search=Aroma%20Garden) | 0.5199 | 0.37 | Unlimited |
 [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | 0.5202 | 0.38 | Unlimited |
-[Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.5299 | 0.36 | Unlimited |
+[Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.5298 | 0.36 | Unlimited |
 [Obelisk the Tormentor](https://db.ygoprodeck.com/card/?search=Obelisk%20the%20Tormentor) | 0.5996 | 0.02 | Unlimited |
 
 <br>
