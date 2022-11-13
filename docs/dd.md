@@ -11573,7 +11573,7 @@
 [Delinquent Duo](https://db.ygoprodeck.com/card/?search=Delinquent%20Duo) | 15.6567 |
 [Cranium Fish](https://db.ygoprodeck.com/card/?search=Cranium%20Fish) | 15.9200 |
 [Dancing Elf](https://db.ygoprodeck.com/card/?search=Dancing%20Elf) | 17.9903 |
-[Number F0: Utopic Draco Future](https://db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Draco%20Future) | 18.7921 |
+[Number F0: Utopic Draco Future](https://db.ygoprodeck.com/card/?search=Number%20F0:%20Utopic%20Draco%20Future) | 18.7920 |
 [Selene, Queen of the Master Magicians](https://db.ygoprodeck.com/card/?search=Selene,%20Queen%20of%20the%20Master%20Magicians) | 18.8493 |
 [Queen of Autumn Leaves](https://db.ygoprodeck.com/card/?search=Queen%20of%20Autumn%20Leaves) | 19.4800 |
 [Gravity Behemoth](https://db.ygoprodeck.com/card/?search=Gravity%20Behemoth) | 19.9900 |
