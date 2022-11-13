@@ -22,7 +22,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | 0.5102 | 0.44 | Unlimited |
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5103 | 0.45 | Unlimited |
 [Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | 0.5104 | 0.45 | Unlimited |
-[Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.5193 | 0.39 | Unlimited |
+[Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.5192 | 0.39 | Unlimited |
 [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | 0.5198 | 0.36 | Unlimited |
 [Aroma Garden](https://db.ygoprodeck.com/card/?search=Aroma%20Garden) | 0.5199 | 0.37 | Unlimited |
 [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | 0.5202 | 0.38 | Unlimited |
