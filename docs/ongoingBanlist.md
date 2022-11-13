@@ -672,6 +672,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Stalagmo](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Stalagmo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Ultramafus](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Ultramafus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Umastryx](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Umastryx) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Nemesis Archer](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Archer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Super Quantum Green Layer](https://db.ygoprodeck.com/card/?search=Super%20Quantum%20Green%20Layer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Superancient Deepsea King Coelacanth](https://db.ygoprodeck.com/card/?search=Superancient%20Deepsea%20King%20Coelacanth) | Illegal |
@@ -6162,7 +6163,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Behemoth Voltelluric](https://db.ygoprodeck.com/card/?search=Subterror%20Behemoth%20Voltelluric) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Fiendess](https://db.ygoprodeck.com/card/?search=Subterror%20Fiendess) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Guru](https://db.ygoprodeck.com/card/?search=Subterror%20Guru) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Nemesis Archer](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Archer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Nemesis Defender](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Defender) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Nemesis Warrior](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Warrior) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Suijin](https://db.ygoprodeck.com/card/?search=Suijin) | Unlimited |
