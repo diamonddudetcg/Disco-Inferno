@@ -8573,8 +8573,8 @@
 [Guard Penguin](https://db.ygoprodeck.com/card/?search=Guard%20Penguin) | 0.2500 |
 [Number C43: High Manipulator of Chaos](https://db.ygoprodeck.com/card/?search=Number%20C43:%20High%20Manipulator%20of%20Chaos) | 0.2500 |
 [Fusion Deployment](https://db.ygoprodeck.com/card/?search=Fusion%20Deployment) | 0.2500 |
-[Madolche Mewfeuille](https://db.ygoprodeck.com/card/?search=Madolche%20Mewfeuille) | 0.2500 |
 [Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.2500 |
+[Madolche Mewfeuille](https://db.ygoprodeck.com/card/?search=Madolche%20Mewfeuille) | 0.2500 |
 [Core Compression](https://db.ygoprodeck.com/card/?search=Core%20Compression) | 0.2500 |
 [The Bystial Alba Los](https://db.ygoprodeck.com/card/?search=The%20Bystial%20Alba%20Los) | 0.2500 |
 [Starving Venom Fusion Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venom%20Fusion%20Dragon) | 0.2500 |
@@ -10654,7 +10654,7 @@
 [Laval Lakeside Lady](https://db.ygoprodeck.com/card/?search=Laval%20Lakeside%20Lady) | 1.1701 |
 [Qliphort Stealth](https://db.ygoprodeck.com/card/?search=Qliphort%20Stealth) | 1.1714 |
 [Borrelsword Dragon](https://db.ygoprodeck.com/card/?search=Borrelsword%20Dragon) | 1.1743 |
-[Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 1.1769 |
+[Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | 1.1768 |
 [Supreme King Gate Zero](https://db.ygoprodeck.com/card/?search=Supreme%20King%20Gate%20Zero) | 1.1794 |
 [Asymmetaphys](https://db.ygoprodeck.com/card/?search=Asymmetaphys) | 1.1800 |
 [Number 57: Tri-Head Dust Dragon](https://db.ygoprodeck.com/card/?search=Number%2057:%20Tri-Head%20Dust%20Dragon) | 1.1803 |
