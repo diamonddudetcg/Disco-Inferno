@@ -8351,7 +8351,7 @@
 [Reptilianne Hydra](https://db.ygoprodeck.com/card/?search=Reptilianne%20Hydra) | 0.2403 |
 [Rikka Flurries](https://db.ygoprodeck.com/card/?search=Rikka%20Flurries) | 0.2404 |
 [Blackwing - Kochi the Daybreak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Kochi%20the%20Daybreak) | 0.2404 |
-[Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.2405 |
+[Gladiator Beast Darius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Darius) | 0.2404 |
 [Blaster, Dragon Ruler of Infernos](https://db.ygoprodeck.com/card/?search=Blaster,%20Dragon%20Ruler%20of%20Infernos) | 0.2487 |
 [Predaplant Ophrys Scorpio](https://db.ygoprodeck.com/card/?search=Predaplant%20Ophrys%20Scorpio) | 0.2488 |
 [Obedience Schooled](https://db.ygoprodeck.com/card/?search=Obedience%20Schooled) | 0.2490 |
@@ -9577,7 +9577,7 @@
 [Day-Breaker the Shining Magical Warrior](https://db.ygoprodeck.com/card/?search=Day-Breaker%20the%20Shining%20Magical%20Warrior) | 0.4203 |
 [Psychic Feel Zone](https://db.ygoprodeck.com/card/?search=Psychic%20Feel%20Zone) | 0.4204 |
 [Sky Galloping Gaia the Dragon Champion](https://db.ygoprodeck.com/card/?search=Sky%20Galloping%20Gaia%20the%20Dragon%20Champion) | 0.4206 |
-[Gravekeeper's Trap](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Trap) | 0.4259 |
+[Gravekeeper's Trap](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Trap) | 0.4258 |
 [Mayakashi Mayhem](https://db.ygoprodeck.com/card/?search=Mayakashi%20Mayhem) | 0.4293 |
 [Karakuri Strategist mdl 248 "Nishipachi"](https://db.ygoprodeck.com/card/?search=Karakuri%20Strategist%20mdl%20248%20"Nishipachi") | 0.4295 |
 [Mystic Swordsman LV2](https://db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV2) | 0.4296 |
