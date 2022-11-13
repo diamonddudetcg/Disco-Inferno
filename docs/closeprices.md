@@ -18,7 +18,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5096 | 0.34 | Unlimited |
 [Gateway to Chaos](https://db.ygoprodeck.com/card/?search=Gateway%20to%20Chaos) | 0.5096 | 0.39 | Unlimited |
 [Plaguespreader Zombie](https://db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie) | 0.5098 | 0.40 | Unlimited |
-[Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | 0.5102 | 0.44 | Unlimited |
+[Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | 0.5101 | 0.44 | Unlimited |
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5102 | 0.45 | Unlimited |
 [Right Arm of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Arm%20of%20the%20Forbidden%20One) | 0.5103 | 0.45 | Unlimited |
 [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.5192 | 0.39 | Unlimited |
@@ -26,7 +26,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Aroma Garden](https://db.ygoprodeck.com/card/?search=Aroma%20Garden) | 0.5198 | 0.37 | Unlimited |
 [Black Horn of Heaven](https://db.ygoprodeck.com/card/?search=Black%20Horn%20of%20Heaven) | 0.5201 | 0.38 | Unlimited |
 [Buten](https://db.ygoprodeck.com/card/?search=Buten) | 0.5297 | 0.36 | Unlimited |
-[Obelisk the Tormentor](https://db.ygoprodeck.com/card/?search=Obelisk%20the%20Tormentor) | 0.5993 | 0.02 | Unlimited |
+[Obelisk the Tormentor](https://db.ygoprodeck.com/card/?search=Obelisk%20the%20Tormentor) | 0.5992 | 0.02 | Unlimited |
 
 <br>
 
