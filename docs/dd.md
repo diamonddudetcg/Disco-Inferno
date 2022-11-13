@@ -7733,7 +7733,7 @@
 [Morphtronic Smartfon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Smartfon) | 0.2004 |
 [Resh Shaddoll Incarnation](https://db.ygoprodeck.com/card/?search=Resh%20Shaddoll%20Incarnation) | 0.2005 |
 [Contact with Gusto](https://db.ygoprodeck.com/card/?search=Contact%20with%20Gusto) | 0.2005 |
-[Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2082 |
+[Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2081 |
 [Luminous Spark](https://db.ygoprodeck.com/card/?search=Luminous%20Spark) | 0.2093 |
 [Divine Wrath](https://db.ygoprodeck.com/card/?search=Divine%20Wrath) | 0.2093 |
 [Sauge de Fleur](https://db.ygoprodeck.com/card/?search=Sauge%20de%20Fleur) | 0.2096 |
@@ -8358,8 +8358,8 @@
 [Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20%26%20Snow%20Rabbit) | 0.2494 |
 [Wattcine](https://db.ygoprodeck.com/card/?search=Wattcine) | 0.2495 |
 [Submersible Carrier Aero Shark](https://db.ygoprodeck.com/card/?search=Submersible%20Carrier%20Aero%20Shark) | 0.2496 |
-[Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | 0.2496 |
 [Valhalla, Hall of the Fallen](https://db.ygoprodeck.com/card/?search=Valhalla,%20Hall%20of%20the%20Fallen) | 0.2496 |
+[Blade Armor Ninja](https://db.ygoprodeck.com/card/?search=Blade%20Armor%20Ninja) | 0.2496 |
 [Elemental HERO Thunder Giant](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Thunder%20Giant) | 0.2496 |
 [YZ-Tank Dragon](https://db.ygoprodeck.com/card/?search=YZ-Tank%20Dragon) | 0.2496 |
 [Disciples of the True Dracophoenix](https://db.ygoprodeck.com/card/?search=Disciples%20of%20the%20True%20Dracophoenix) | 0.2496 |
@@ -8574,8 +8574,8 @@
 [Number C43: High Manipulator of Chaos](https://db.ygoprodeck.com/card/?search=Number%20C43:%20High%20Manipulator%20of%20Chaos) | 0.2500 |
 [Fusion Deployment](https://db.ygoprodeck.com/card/?search=Fusion%20Deployment) | 0.2500 |
 [Madolche Mewfeuille](https://db.ygoprodeck.com/card/?search=Madolche%20Mewfeuille) | 0.2500 |
-[Core Compression](https://db.ygoprodeck.com/card/?search=Core%20Compression) | 0.2500 |
 [Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.2500 |
+[Core Compression](https://db.ygoprodeck.com/card/?search=Core%20Compression) | 0.2500 |
 [The Bystial Alba Los](https://db.ygoprodeck.com/card/?search=The%20Bystial%20Alba%20Los) | 0.2500 |
 [Starving Venom Fusion Dragon](https://db.ygoprodeck.com/card/?search=Starving%20Venom%20Fusion%20Dragon) | 0.2500 |
 [Trickstar Lilybell](https://db.ygoprodeck.com/card/?search=Trickstar%20Lilybell) | 0.2500 |
@@ -11277,7 +11277,7 @@
 [Darkness Metal, the Dragon of Dark Steel](https://db.ygoprodeck.com/card/?search=Darkness%20Metal,%20the%20Dragon%20of%20Dark%20Steel) | 3.3784 |
 [Number 52: Diamond Crab King](https://db.ygoprodeck.com/card/?search=Number%2052:%20Diamond%20Crab%20King) | 3.3899 |
 [Elemental HERO Storm Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Storm%20Neos) | 3.4000 |
-[Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | 3.4104 |
+[Chiwen, Light of the Yang Zing](https://db.ygoprodeck.com/card/?search=Chiwen,%20Light%20of%20the%20Yang%20Zing) | 3.4103 |
 [Vermillion Sparrow](https://db.ygoprodeck.com/card/?search=Vermillion%20Sparrow) | 3.4105 |
 [Union Carrier](https://db.ygoprodeck.com/card/?search=Union%20Carrier) | 3.4190 |
 [Number 84: Pain Gainer](https://db.ygoprodeck.com/card/?search=Number%2084:%20Pain%20Gainer) | 3.4202 |
