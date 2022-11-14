@@ -6,25 +6,25 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Winged Dragon, Guardian of the Fortress #2](https://db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2) | 0.0318 | 3.65 | Illegal |
-[Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2231 | 2.58 | Illegal |
+[Winged Dragon, Guardian of the Fortress #2](https://db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2) | 0.0319 | 3.65 | Illegal |
+[Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2232 | 2.58 | Illegal |
 [Archfiend Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Archfiend%20Marmot%20of%20Nefariousness) | 0.2600 | 1.91 | Illegal |
 [Stuffed Animal](https://db.ygoprodeck.com/card/?search=Stuffed%20Animal) | 0.2605 | 2.00 | Illegal |
-[Myutant ST-46](https://db.ygoprodeck.com/card/?search=Myutant%20ST-46) | 0.2622 | 2.29 | Illegal |
+[Myutant ST-46](https://db.ygoprodeck.com/card/?search=Myutant%20ST-46) | 0.2623 | 2.29 | Illegal |
 [Awakening of the Sacred Beasts](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Sacred%20Beasts) | 0.2624 | 2.31 | Illegal |
 [Torrential Reborn](https://db.ygoprodeck.com/card/?search=Torrential%20Reborn) | 0.3455 | 2.91 | Illegal |
 [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.3558 | 1.17 | Illegal |
-[Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.3574 | 1.42 | Illegal |
-[Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | 0.3853 | 1.29 | Illegal |
+[Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.3575 | 1.42 | Illegal |
+[Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | 0.3854 | 1.29 | Illegal |
 [Ursarctic Septentrion](https://db.ygoprodeck.com/card/?search=Ursarctic%20Septentrion) | 0.4069 | 1.55 | Illegal |
 [Stardust Shimmer](https://db.ygoprodeck.com/card/?search=Stardust%20Shimmer) | 0.4233 | 0.97 | Illegal |
-[Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4431 | 0.81 | Illegal |
+[Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4432 | 0.81 | Illegal |
 [Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4519 | 0.80 | Illegal |
 [Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4536 | 0.85 | Illegal |
-[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4536 | 1.15 | Illegal |
+[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4537 | 1.15 | Illegal |
 [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | 0.4538 | 1.02 | Illegal |
 [Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4540 | 1.02 | Illegal |
-[Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | 0.4811 | 1.11 | Illegal |
+[Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | 0.4812 | 1.11 | Illegal |
 [Transcode Talker](https://db.ygoprodeck.com/card/?search=Transcode%20Talker) | 0.4817 | 0.77 | Illegal |
 [Dark Magician the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20the%20Dragon%20Knight) | 0.4821 | 0.96 | Illegal |
 [Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.4828 | 0.80 | Illegal |
@@ -32,13 +32,13 @@ This is a list of cards that are likely to change legality before the next rotat
 [Daigusto Falcos](https://db.ygoprodeck.com/card/?search=Daigusto%20Falcos) | 0.4906 | 0.59 | Illegal |
 [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | 0.4907 | 0.65 | Illegal |
 [Blackwing - Hillen the Tengu-wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Hillen%20the%20Tengu-wind) | 0.4912 | 0.69 | Illegal |
-[Gravekeeper's Shaman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Shaman) | 0.4929 | 0.98 | Illegal |
+[Gravekeeper's Shaman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Shaman) | 0.4930 | 0.98 | Illegal |
 [Blackwing - Sudri the Phantom Glimmer](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Sudri%20the%20Phantom%20Glimmer) | 0.4931 | 1.00 | Illegal |
 [Nekogal #2](https://db.ygoprodeck.com/card/?search=Nekogal%20#2) | 0.4931 | 1.00 | Illegal |
 [S-Force Rappa Chiyomaru](https://db.ygoprodeck.com/card/?search=S-Force%20Rappa%20Chiyomaru) | 0.4939 | 1.14 | Illegal |
 [Zoodiac Boarbow](https://db.ygoprodeck.com/card/?search=Zoodiac%20Boarbow) | 0.4993 | 0.57 | Illegal |
 [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | 0.5074 | 0.41 | Unlimited |
-[NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5086 | 0.34 | Unlimited |
+[NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5085 | 0.34 | Unlimited |
 [Gateway to Chaos](https://db.ygoprodeck.com/card/?search=Gateway%20to%20Chaos) | 0.5089 | 0.39 | Unlimited |
 [Plaguespreader Zombie](https://db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie) | 0.5091 | 0.40 | Unlimited |
 [Tri-Brigade Kitt](https://db.ygoprodeck.com/card/?search=Tri-Brigade%20Kitt) | 0.5097 | 0.44 | Unlimited |
