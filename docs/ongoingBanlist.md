@@ -626,6 +626,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose, Warrior of Revenge](https://db.ygoprodeck.com/card/?search=Rose,%20Warrior%20of%20Revenge) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Royal Swamp Eel](https://db.ygoprodeck.com/card/?search=Royal%20Swamp%20Eel) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [S-Force Rappa Chiyomaru](https://db.ygoprodeck.com/card/?search=S-Force%20Rappa%20Chiyomaru) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sage with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Sage%20with%20Eyes%20of%20Blue) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Spinny](https://db.ygoprodeck.com/card/?search=Salamangreat%20Spinny) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sandaion, the Timelord](https://db.ygoprodeck.com/card/?search=Sandaion,%20the%20Timelord) | Illegal |
@@ -5760,7 +5761,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [S-Force Orrafist](https://db.ygoprodeck.com/card/?search=S-Force%20Orrafist) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [S-Force Pla-Tina](https://db.ygoprodeck.com/card/?search=S-Force%20Pla-Tina) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [S-Force Professor DiGamma](https://db.ygoprodeck.com/card/?search=S-Force%20Professor%20DiGamma) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [S-Force Rappa Chiyomaru](https://db.ygoprodeck.com/card/?search=S-Force%20Rappa%20Chiyomaru) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [S-Force Retroactive](https://db.ygoprodeck.com/card/?search=S-Force%20Retroactive) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Saambell the Star Bonder](https://db.ygoprodeck.com/card/?search=Saambell%20the%20Star%20Bonder) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Saambell the Summoner](https://db.ygoprodeck.com/card/?search=Saambell%20the%20Summoner) | Unlimited |
