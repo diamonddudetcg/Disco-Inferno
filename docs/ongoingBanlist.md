@@ -52,6 +52,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mushroom Man](https://db.ygoprodeck.com/card/?search=Mushroom%20Man) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Necrolancer the Time-lord](https://db.ygoprodeck.com/card/?search=Necrolancer%20the%20Time-lord) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Nekogal #1](https://db.ygoprodeck.com/card/?search=Nekogal%20#1) | Illegal |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Nekogal #2](https://db.ygoprodeck.com/card/?search=Nekogal%20#2) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Obese Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Obese%20Marmot%20of%20Nefariousness) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Odd-Eyes Arc Pendulum Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Arc%20Pendulum%20Dragon) | Illegal |
@@ -174,6 +175,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Kris the Crack of Dawn](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Kris%20the%20Crack%20of%20Dawn) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Simoon the Poison Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Simoon%20the%20Poison%20Wind) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Steam the Cloak](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Steam%20the%20Cloak) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Sudri the Phantom Glimmer](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Sudri%20the%20Phantom%20Glimmer) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Vayu the Emblem of Honor](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Vayu%20the%20Emblem%20of%20Honor) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blazing Cartesia, the Virtuous](https://db.ygoprodeck.com/card/?search=Blazing%20Cartesia,%20the%20Virtuous) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blue Dragon Ninja](https://db.ygoprodeck.com/card/?search=Blue%20Dragon%20Ninja) | Illegal |
@@ -2214,7 +2216,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Elf](https://db.ygoprodeck.com/card/?search=Mystical%20Elf) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Sheep #2](https://db.ygoprodeck.com/card/?search=Mystical%20Sheep%20#2) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Neck Hunter](https://db.ygoprodeck.com/card/?search=Neck%20Hunter) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Nekogal #2](https://db.ygoprodeck.com/card/?search=Nekogal%20#2) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Nemuriko](https://db.ygoprodeck.com/card/?search=Nemuriko) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Neo Aqua Madoor](https://db.ygoprodeck.com/card/?search=Neo%20Aqua%20Madoor) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Neo Bug](https://db.ygoprodeck.com/card/?search=Neo%20Bug) | Unlimited |
@@ -2808,7 +2809,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Shamal the Sandstorm](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Shamal%20the%20Sandstorm) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Shura the Blue Flame](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Shura%20the%20Blue%20Flame) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Sirocco the Dawn](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Sirocco%20the%20Dawn) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Sudri the Phantom Glimmer](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Sudri%20the%20Phantom%20Glimmer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Tornado the Reverse Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Tornado%20the%20Reverse%20Wind) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Vata the Emblem of Wandering](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Vata%20the%20Emblem%20of%20Wandering) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Zephyros the Elite](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Zephyros%20the%20Elite) | Unlimited |
