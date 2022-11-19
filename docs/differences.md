@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 20
+Estimated number of changes: 21
 
-Keep in mind there's still 7203 runs left
+Keep in mind there's still 7202 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -23,6 +23,7 @@ Keep in mind there's still 7203 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Subterror Nemesis Archer](https://db.ygoprodeck.com/card/?search=Subterror%20Nemesis%20Archer) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Time Thief Adjuster](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Adjuster) | Unlimited | Illegal |
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Demise, King of Armageddon](https://db.ygoprodeck.com/card/?search=Demise,%20King%20of%20Armageddon) | Unlimited | Illegal |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dark Magician the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20the%20Dragon%20Knight) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgios) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Boarbow](https://db.ygoprodeck.com/card/?search=Zoodiac%20Boarbow) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | Unlimited | Illegal |
