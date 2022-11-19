@@ -798,6 +798,8 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Advanced Crystal Beast Sapphire Pegasus](https://db.ygoprodeck.com/card/?search=Advanced%20Crystal%20Beast%20Sapphire%20Pegasus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Senko the Skybolt Star](https://db.ygoprodeck.com/card/?search=Senko%20the%20Skybolt%20Star) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genta, Gateman of Dark World](https://db.ygoprodeck.com/card/?search=Genta,%20Gateman%20of%20Dark%20World) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Reign-Beaux, Overking of Dark World](https://db.ygoprodeck.com/card/?search=Reign-Beaux,%20Overking%20of%20Dark%20World) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Archfiend's Awakening](https://db.ygoprodeck.com/card/?search=Archfiend's%20Awakening) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Black Luster Soldier - Super Soldier](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Super%20Soldier) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Blue-Eyes Chaos Dragon](https://db.ygoprodeck.com/card/?search=Blue-Eyes%20Chaos%20Dragon) | Illegal |
@@ -1670,6 +1672,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ninjitsu Art of Mosquito Marching](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Mosquito%20Marching) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Royal Straight](https://db.ygoprodeck.com/card/?search=Royal%20Straight) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tool Box](https://db.ygoprodeck.com/card/?search=Tool%20Box) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dark World Accession](https://db.ygoprodeck.com/card/?search=Dark%20World%20Accession) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Abyss-sphere](https://db.ygoprodeck.com/card/?search=Abyss-sphere) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Shamanism](https://db.ygoprodeck.com/card/?search=Amazoness%20Shamanism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Amazoness Willpower](https://db.ygoprodeck.com/card/?search=Amazoness%20Willpower) | Illegal |
@@ -1812,6 +1815,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [World Legacy's Secret](https://db.ygoprodeck.com/card/?search=World%20Legacy's%20Secret) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Xyz Reborn](https://db.ygoprodeck.com/card/?search=Xyz%20Reborn) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Yang Zing Creation](https://db.ygoprodeck.com/card/?search=Yang%20Zing%20Creation) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dark World Punishment](https://db.ygoprodeck.com/card/?search=Dark%20World%20Punishment) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amazoness Archer](https://db.ygoprodeck.com/card/?search=Amazoness%20Archer) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amorphage Goliath](https://db.ygoprodeck.com/card/?search=Amorphage%20Goliath) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Amorphage Sloth](https://db.ygoprodeck.com/card/?search=Amorphage%20Sloth) | Forbidden |
