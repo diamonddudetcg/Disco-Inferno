@@ -6,10 +6,10 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Winged Dragon, Guardian of the Fortress #2](https://db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2) | 0.1457 | 3.65 | Illegal |
-[Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2973 | 2.58 | Illegal |
+[Winged Dragon, Guardian of the Fortress #2](https://db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2) | 0.1458 | 3.65 | Illegal |
+[Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.2974 | 2.58 | Illegal |
 [Archfiend Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Archfiend%20Marmot%20of%20Nefariousness) | 0.3119 | 1.91 | Illegal |
-[Stuffed Animal](https://db.ygoprodeck.com/card/?search=Stuffed%20Animal) | 0.3152 | 2.00 | Illegal |
+[Stuffed Animal](https://db.ygoprodeck.com/card/?search=Stuffed%20Animal) | 0.3153 | 2.00 | Illegal |
 [Myutant ST-46](https://db.ygoprodeck.com/card/?search=Myutant%20ST-46) | 0.3261 | 2.29 | Illegal |
 [Awakening of the Sacred Beasts](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Sacred%20Beasts) | 0.3268 | 2.31 | Illegal |
 [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.3815 | 1.17 | Illegal |
@@ -19,7 +19,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Stardust Shimmer](https://db.ygoprodeck.com/card/?search=Stardust%20Shimmer) | 0.4405 | 0.97 | Illegal |
 [Ursarctic Septentrion](https://db.ygoprodeck.com/card/?search=Ursarctic%20Septentrion) | 0.4429 | 1.55 | Illegal |
 [Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4547 | 0.81 | Illegal |
-[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4628 | 0.80 | Illegal |
+[Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4629 | 0.80 | Illegal |
 [Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4661 | 0.85 | Illegal |
 [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | 0.4716 | 1.02 | Illegal |
 [Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4718 | 1.02 | Illegal |
