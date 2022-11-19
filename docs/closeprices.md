@@ -6,30 +6,30 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Winged Dragon, Guardian of the Fortress #2](https://db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2) | 0.1656 | 3.65 | Illegal |
+[Winged Dragon, Guardian of the Fortress #2](https://db.ygoprodeck.com/card/?search=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#2) | 0.1657 | 3.65 | Illegal |
 [Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | 0.3103 | 2.58 | Illegal |
 [Archfiend Marmot of Nefariousness](https://db.ygoprodeck.com/card/?search=Archfiend%20Marmot%20of%20Nefariousness) | 0.3210 | 1.91 | Illegal |
 [Stuffed Animal](https://db.ygoprodeck.com/card/?search=Stuffed%20Animal) | 0.3248 | 2.00 | Illegal |
-[Myutant ST-46](https://db.ygoprodeck.com/card/?search=Myutant%20ST-46) | 0.3372 | 2.29 | Illegal |
+[Myutant ST-46](https://db.ygoprodeck.com/card/?search=Myutant%20ST-46) | 0.3373 | 2.29 | Illegal |
 [Awakening of the Sacred Beasts](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Sacred%20Beasts) | 0.3381 | 2.31 | Illegal |
 [Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.3859 | 1.17 | Illegal |
-[Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.3967 | 1.42 | Illegal |
+[Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.3968 | 1.42 | Illegal |
 [Swordsoul Grandmaster - Chixiao](https://db.ygoprodeck.com/card/?search=Swordsoul%20Grandmaster%20-%20Chixiao) | 0.4188 | 1.29 | Illegal |
 [Torrential Reborn](https://db.ygoprodeck.com/card/?search=Torrential%20Reborn) | 0.4403 | 2.91 | Illegal |
 [Stardust Shimmer](https://db.ygoprodeck.com/card/?search=Stardust%20Shimmer) | 0.4435 | 0.97 | Illegal |
 [Ursarctic Septentrion](https://db.ygoprodeck.com/card/?search=Ursarctic%20Septentrion) | 0.4492 | 1.55 | Illegal |
 [Teva](https://db.ygoprodeck.com/card/?search=Teva) | 0.4567 | 0.81 | Illegal |
 [Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4648 | 0.80 | Illegal |
-[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4682 | 0.85 | Illegal |
+[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4683 | 0.85 | Illegal |
 [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | 0.4747 | 1.02 | Illegal |
-[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4749 | 1.02 | Illegal |
+[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4750 | 1.02 | Illegal |
 [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4794 | 1.15 | Illegal |
 [Transcode Talker](https://db.ygoprodeck.com/card/?search=Transcode%20Talker) | 0.4924 | 0.77 | Illegal |
 [Daigusto Falcos](https://db.ygoprodeck.com/card/?search=Daigusto%20Falcos) | 0.4943 | 0.59 | Illegal |
 [Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.4945 | 0.80 | Illegal |
 [Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | 0.4966 | 0.65 | Illegal |
-[Blackwing - Hillen the Tengu-wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Hillen%20the%20Tengu-wind) | 0.4985 | 0.69 | Illegal |
-[Dark Magician the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20the%20Dragon%20Knight) | 0.4997 | 0.96 | Illegal |
+[Blackwing - Hillen the Tengu-wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Hillen%20the%20Tengu-wind) | 0.4986 | 0.69 | Illegal |
+[Dark Magician the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20the%20Dragon%20Knight) | 0.4998 | 0.96 | Illegal |
 [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5023 | 0.34 | Unlimited |
 [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | 0.5038 | 0.41 | Unlimited |
 [Gateway to Chaos](https://db.ygoprodeck.com/card/?search=Gateway%20to%20Chaos) | 0.5045 | 0.39 | Unlimited |
