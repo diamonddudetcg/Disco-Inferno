@@ -21,7 +21,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Demise, King of Armageddon](https://db.ygoprodeck.com/card/?search=Demise,%20King%20of%20Armageddon) | 0.5002 | 0.39 | Unlimited |
 [Plaguespreader Zombie](https://db.ygoprodeck.com/card/?search=Plaguespreader%20Zombie) | 0.5038 | 0.46 | Unlimited |
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5065 | 0.36 | Unlimited |
-[Tool Box](https://db.ygoprodeck.com/card/?search=Tool%20Box) | 0.5091 | 0.20 | Unlimited |
+[Tool Box](https://db.ygoprodeck.com/card/?search=Tool%20Box) | 0.5090 | 0.20 | Unlimited |
 [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | 0.5103 | 0.28 | Unlimited |
 [Aroma Garden](https://db.ygoprodeck.com/card/?search=Aroma%20Garden) | 0.5112 | 0.36 | Unlimited |
 [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.5117 | 0.36 | Unlimited |
