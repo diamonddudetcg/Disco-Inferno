@@ -34,7 +34,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.5210 | 0.35 | Unlimited |
 [Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | 0.5263 | 0.33 | Unlimited |
 [Mischief of the Gnomes](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Gnomes) | 0.5409 | 0.17 | Unlimited |
-[Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.5442 | 0.15 | Unlimited |
+[Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.5441 | 0.15 | Unlimited |
 [Obelisk the Tormentor](https://db.ygoprodeck.com/card/?search=Obelisk%20the%20Tormentor) | 0.5672 | 0.02 | Unlimited |
 
 <br>
