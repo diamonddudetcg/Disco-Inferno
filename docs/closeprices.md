@@ -16,7 +16,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4876 | 0.97 | Illegal |
 [Salamangreat Roar](https://db.ygoprodeck.com/card/?search=Salamangreat%20Roar) | 0.4924 | 0.65 | Illegal |
 [Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.4979 | 0.81 | Illegal |
-[Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.4982 | 0.73 | Illegal |
+[Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.4983 | 0.73 | Illegal |
 [Sky Cavalry Centaurea](https://db.ygoprodeck.com/card/?search=Sky%20Cavalry%20Centaurea) | 0.4998 | 0.51 | Illegal |
 [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5002 | 0.25 | Unlimited |
 [Demise, King of Armageddon](https://db.ygoprodeck.com/card/?search=Demise,%20King%20of%20Armageddon) | 0.5004 | 0.39 | Unlimited |
@@ -28,7 +28,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.5120 | 0.36 | Unlimited |
 [Blackwing - Blizzard the Far North](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North) | 0.5149 | 0.27 | Unlimited |
 [Gottoms' Emergency Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Emergency%20Call) | 0.5157 | 0.39 | Unlimited |
-[Terrorking Archfiend](https://db.ygoprodeck.com/card/?search=Terrorking%20Archfiend) | 0.5195 | 0.02 | Unlimited |
+[Terrorking Archfiend](https://db.ygoprodeck.com/card/?search=Terrorking%20Archfiend) | 0.5194 | 0.02 | Unlimited |
 [Senko the Skybolt Star](https://db.ygoprodeck.com/card/?search=Senko%20the%20Skybolt%20Star) | 0.5195 | 0.06 | Unlimited |
 [Raidraptor - Tribute Lanius](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Tribute%20Lanius) | 0.5197 | 0.35 | Unlimited |
 [Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.5210 | 0.35 | Unlimited |
