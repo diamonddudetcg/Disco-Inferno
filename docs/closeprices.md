@@ -31,7 +31,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Terrorking Archfiend](https://db.ygoprodeck.com/card/?search=Terrorking%20Archfiend) | 0.5196 | 0.02 | Unlimited |
 [Senko the Skybolt Star](https://db.ygoprodeck.com/card/?search=Senko%20the%20Skybolt%20Star) | 0.5196 | 0.06 | Unlimited |
 [Raidraptor - Tribute Lanius](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Tribute%20Lanius) | 0.5198 | 0.35 | Unlimited |
-[Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.5211 | 0.35 | Unlimited |
+[Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.5210 | 0.35 | Unlimited |
 [Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | 0.5264 | 0.33 | Unlimited |
 [Mischief of the Gnomes](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Gnomes) | 0.5411 | 0.17 | Unlimited |
 [Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.5443 | 0.15 | Unlimited |
