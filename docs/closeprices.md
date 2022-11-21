@@ -14,8 +14,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4679 | 0.80 | Illegal |
 [Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4718 | 0.85 | Illegal |
 [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | 0.4798 | 1.02 | Illegal |
-[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4800 | 1.02 | Illegal |
-[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4856 | 1.15 | Illegal |
+[Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4801 | 1.02 | Illegal |
+[Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4857 | 1.15 | Illegal |
 [Daigusto Falcos](https://db.ygoprodeck.com/card/?search=Daigusto%20Falcos) | 0.4952 | 0.59 | Illegal |
 [Noble Knight Bedwyr](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Bedwyr) | 0.4973 | 0.80 | Illegal |
 [NEXT](https://db.ygoprodeck.com/card/?search=NEXT) | 0.5008 | 0.34 | Unlimited |
