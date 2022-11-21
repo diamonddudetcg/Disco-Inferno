@@ -10,7 +10,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Awakening of the Sacred Beasts](https://db.ygoprodeck.com/card/?search=Awakening%20of%20the%20Sacred%20Beasts) | 0.3664 | 2.35 | Illegal |
 [Celestial Knightlord Parshath](https://db.ygoprodeck.com/card/?search=Celestial%20Knightlord%20Parshath) | 0.4111 | 1.32 | Illegal |
 [Effect Veiler](https://db.ygoprodeck.com/card/?search=Effect%20Veiler) | 0.4696 | 0.81 | Illegal |
-[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4738 | 0.90 | Illegal |
+[Rainbow Bridge of Salvation](https://db.ygoprodeck.com/card/?search=Rainbow%20Bridge%20of%20Salvation) | 0.4739 | 0.90 | Illegal |
 [Dual Avatar Invitation](https://db.ygoprodeck.com/card/?search=Dual%20Avatar%20Invitation) | 0.4826 | 1.04 | Illegal |
 [Personal Spoofing](https://db.ygoprodeck.com/card/?search=Personal%20Spoofing) | 0.4827 | 1.01 | Illegal |
 [Dark Ruler No More](https://db.ygoprodeck.com/card/?search=Dark%20Ruler%20No%20More) | 0.4885 | 0.97 | Illegal |
@@ -23,7 +23,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5066 | 0.36 | Unlimited |
 [Tool Box](https://db.ygoprodeck.com/card/?search=Tool%20Box) | 0.5091 | 0.20 | Unlimited |
 [Dragunity Knight - Areadbhair](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Areadbhair) | 0.5104 | 0.28 | Unlimited |
-[Aroma Garden](https://db.ygoprodeck.com/card/?search=Aroma%20Garden) | 0.5113 | 0.36 | Unlimited |
+[Aroma Garden](https://db.ygoprodeck.com/card/?search=Aroma%20Garden) | 0.5112 | 0.36 | Unlimited |
 [Scrap-Iron Scarecrow](https://db.ygoprodeck.com/card/?search=Scrap-Iron%20Scarecrow) | 0.5117 | 0.36 | Unlimited |
 [Blackwing - Blizzard the Far North](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North) | 0.5145 | 0.27 | Unlimited |
 [Gottoms' Emergency Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Emergency%20Call) | 0.5155 | 0.39 | Unlimited |
