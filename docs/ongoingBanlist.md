@@ -168,7 +168,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bi'an, Earth of the Yang Zing](https://db.ygoprodeck.com/card/?search=Bi'an,%20Earth%20of%20the%20Yang%20Zing) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Black Luster Soldier - Envoy of the Evening Twilight](https://db.ygoprodeck.com/card/?search=Black%20Luster%20Soldier%20-%20Envoy%20of%20the%20Evening%20Twilight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Black Metal Dragon](https://db.ygoprodeck.com/card/?search=Black%20Metal%20Dragon) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Gale the Whirlwind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gale%20the%20Whirlwind) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Gladius the Midnight Sun](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gladius%20the%20Midnight%20Sun) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Harmattan the Dust](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Harmattan%20the%20Dust) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Hillen the Tengu-wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Hillen%20the%20Tengu-wind) | Illegal |
@@ -483,6 +482,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lucent, Netherlord of Dark World](https://db.ygoprodeck.com/card/?search=Lucent,%20Netherlord%20of%20Dark%20World) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lumina, Twilightsworn Shaman](https://db.ygoprodeck.com/card/?search=Lumina,%20Twilightsworn%20Shaman) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Lyrilusc - Celestine Wagtail](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Celestine%20Wagtail) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machina Citadel](https://db.ygoprodeck.com/card/?search=Machina%20Citadel) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machina Metalcruncher](https://db.ygoprodeck.com/card/?search=Machina%20Metalcruncher) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machine King](https://db.ygoprodeck.com/card/?search=Machine%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Anjelly](https://db.ygoprodeck.com/card/?search=Madolche%20Anjelly) | Illegal |
@@ -2809,6 +2809,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Elphin the Raven](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Elphin%20the%20Raven) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Etesian of Two Swords](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Etesian%20of%20Two%20Swords) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Fane the Steel Chain](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Fane%20the%20Steel%20Chain) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Gale the Whirlwind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gale%20the%20Whirlwind) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Ghibli the Searing Wind](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Ghibli%20the%20Searing%20Wind) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Gust the Backblast](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Gust%20the%20Backblast) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Blackwing - Hurricane the Tornado](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Hurricane%20the%20Tornado) | Unlimited |
@@ -4796,7 +4797,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ma'at](https://db.ygoprodeck.com/card/?search=Ma'at) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machina Air Raider](https://db.ygoprodeck.com/card/?search=Machina%20Air%20Raider) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machina Cannon](https://db.ygoprodeck.com/card/?search=Machina%20Cannon) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machina Citadel](https://db.ygoprodeck.com/card/?search=Machina%20Citadel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machina Defender](https://db.ygoprodeck.com/card/?search=Machina%20Defender) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machina Force](https://db.ygoprodeck.com/card/?search=Machina%20Force) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Machina Fortress](https://db.ygoprodeck.com/card/?search=Machina%20Fortress) | Unlimited |
