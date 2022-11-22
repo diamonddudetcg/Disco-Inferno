@@ -28,7 +28,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Blackwing - Blizzard the Far North](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Blizzard%20the%20Far%20North) | 0.5143 | 0.27 | Unlimited |
 [Gottoms' Emergency Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Emergency%20Call) | 0.5154 | 0.39 | Unlimited |
 [Terrorking Archfiend](https://db.ygoprodeck.com/card/?search=Terrorking%20Archfiend) | 0.5181 | 0.02 | Unlimited |
-[Senko the Skybolt Star](https://db.ygoprodeck.com/card/?search=Senko%20the%20Skybolt%20Star) | 0.5183 | 0.06 | Unlimited |
+[Senko the Skybolt Star](https://db.ygoprodeck.com/card/?search=Senko%20the%20Skybolt%20Star) | 0.5182 | 0.06 | Unlimited |
 [Raidraptor - Tribute Lanius](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Tribute%20Lanius) | 0.5193 | 0.35 | Unlimited |
 [Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | 0.5205 | 0.35 | Unlimited |
 [Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | 0.5258 | 0.33 | Unlimited |
