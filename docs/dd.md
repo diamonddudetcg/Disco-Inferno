@@ -5631,7 +5631,6 @@
 [Gradius' Option](https://db.ygoprodeck.com/card/?search=Gradius'%20Option) | 0.1250 |
 [Live☆Twin Ki-sikil](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Ki-sikil) | 0.1250 |
 [Dice Roll Battle](https://db.ygoprodeck.com/card/?search=Dice%20Roll%20Battle) | 0.1251 |
-[Future Fusion](https://db.ygoprodeck.com/card/?search=Future%20Fusion) | 0.1277 |
 [D.D.M. - Different Dimension Master](https://db.ygoprodeck.com/card/?search=D.D.M.%20-%20Different%20Dimension%20Master) | 0.1284 |
 [Code Generator](https://db.ygoprodeck.com/card/?search=Code%20Generator) | 0.1284 |
 [Cyber Falcon](https://db.ygoprodeck.com/card/?search=Cyber%20Falcon) | 0.1284 |
@@ -10428,9 +10427,9 @@
 [Pot of Greed](https://db.ygoprodeck.com/card/?search=Pot%20of%20Greed) | 0.9476 |
 [Darkness Neosphere](https://db.ygoprodeck.com/card/?search=Darkness%20Neosphere) | 0.9488 |
 [Number 88: Gimmick Puppet of Leo](https://db.ygoprodeck.com/card/?search=Number%2088:%20Gimmick%20Puppet%20of%20Leo) | 0.9491 |
+[Striker Dragon](https://db.ygoprodeck.com/card/?search=Striker%20Dragon) | 0.9500 |
 [Abyss Soldier](https://db.ygoprodeck.com/card/?search=Abyss%20Soldier) | 0.9500 |
 [Stone Dragon](https://db.ygoprodeck.com/card/?search=Stone%20Dragon) | 0.9500 |
-[Striker Dragon](https://db.ygoprodeck.com/card/?search=Striker%20Dragon) | 0.9500 |
 [Yubel - Terror Incarnate](https://db.ygoprodeck.com/card/?search=Yubel%20-%20Terror%20Incarnate) | 0.9500 |
 [Fortune Lady Wind](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Wind) | 0.9500 |
 [Megasonic Eye](https://db.ygoprodeck.com/card/?search=Megasonic%20Eye) | 0.9507 |

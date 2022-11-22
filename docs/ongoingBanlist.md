@@ -1878,6 +1878,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Card of Safe Return](https://db.ygoprodeck.com/card/?search=Card%20of%20Safe%20Return) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cold Wave](https://db.ygoprodeck.com/card/?search=Cold%20Wave) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Fusion](https://db.ygoprodeck.com/card/?search=Future%20Fusion) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Giant Trunade](https://db.ygoprodeck.com/card/?search=Giant%20Trunade) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Heavy Storm](https://db.ygoprodeck.com/card/?search=Heavy%20Storm) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Last Will](https://db.ygoprodeck.com/card/?search=Last%20Will) | Forbidden |
@@ -8804,7 +8805,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Tag](https://db.ygoprodeck.com/card/?search=Fusion%20Tag) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fusion Weapon](https://db.ygoprodeck.com/card/?search=Fusion%20Weapon) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Drive](https://db.ygoprodeck.com/card/?search=Future%20Drive) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Fusion](https://db.ygoprodeck.com/card/?search=Future%20Fusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Glow](https://db.ygoprodeck.com/card/?search=Future%20Glow) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Visions](https://db.ygoprodeck.com/card/?search=Future%20Visions) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gagagaback](https://db.ygoprodeck.com/card/?search=Gagagaback) | Unlimited |
