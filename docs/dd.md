@@ -9822,7 +9822,6 @@
 [D.D. Dynamite](https://db.ygoprodeck.com/card/?search=D.D.%20Dynamite) | 0.4979 |
 [Exodia, the Legendary Defender](https://db.ygoprodeck.com/card/?search=Exodia,%20the%20Legendary%20Defender) | 0.4982 |
 [Mystic Swordsman LV2](https://db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV2) | 0.4985 |
-[Swordsoul Strategist Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Strategist%20Longyuan) | 0.4991 |
 [Chaos Hunter](https://db.ygoprodeck.com/card/?search=Chaos%20Hunter) | 0.4995 |
 [Evigishki Tetrogre](https://db.ygoprodeck.com/card/?search=Evigishki%20Tetrogre) | 0.5000 |
 [Gallis the Star Beast](https://db.ygoprodeck.com/card/?search=Gallis%20the%20Star%20Beast) | 0.5000 |

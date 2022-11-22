@@ -35,6 +35,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majesty's Fiend](https://db.ygoprodeck.com/card/?search=Majesty's%20Fiend) | Forbidden |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Morphtronic Telefon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Telefon) | Forbidden |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scary Moth](https://db.ygoprodeck.com/card/?search=Scary%20Moth) | Forbidden |
+| <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Strategist Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Strategist%20Longyuan) | Forbidden |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Cannon Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Cannon%20Soldier) | Forbidden |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanity's Fiend](https://db.ygoprodeck.com/card/?search=Vanity's%20Fiend) | Forbidden |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Forbidden |
@@ -56,7 +57,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Mid-Breaker Field](https://db.ygoprodeck.com/card/?search=Magical%20Mid-Breaker%20Field) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magicalized Duston Mop](https://db.ygoprodeck.com/card/?search=Magicalized%20Duston%20Mop) | Forbidden |
-| <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mystic Mine](https://db.ygoprodeck.com/card/?search=Mystic%20Mine) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Set Rotation](https://db.ygoprodeck.com/card/?search=Set%20Rotation) | Forbidden |
 | <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Anti-Spell Fragrance](https://db.ygoprodeck.com/card/?search=Anti-Spell%20Fragrance) | Forbidden |

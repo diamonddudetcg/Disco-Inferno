@@ -1850,6 +1850,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mind Master](https://db.ygoprodeck.com/card/?search=Mind%20Master) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Morphtronic Telefon](https://db.ygoprodeck.com/card/?search=Morphtronic%20Telefon) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Scary Moth](https://db.ygoprodeck.com/card/?search=Scary%20Moth) | Forbidden |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Strategist Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Strategist%20Longyuan) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Cannon Soldier](https://db.ygoprodeck.com/card/?search=Toon%20Cannon%20Soldier) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanity's Fiend](https://db.ygoprodeck.com/card/?search=Vanity's%20Fiend) | Forbidden |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanity's Ruler](https://db.ygoprodeck.com/card/?search=Vanity's%20Ruler) | Forbidden |
@@ -6276,7 +6277,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsman from a Distant Land](https://db.ygoprodeck.com/card/?search=Swordsman%20from%20a%20Distant%20Land) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Auspice Chunjun](https://db.ygoprodeck.com/card/?search=Swordsoul%20Auspice%20Chunjun) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul of Taia](https://db.ygoprodeck.com/card/?search=Swordsoul%20of%20Taia) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Strategist Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Strategist%20Longyuan) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Bladefender](https://db.ygoprodeck.com/card/?search=Sylvan%20Bladefender) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Cherubsprout](https://db.ygoprodeck.com/card/?search=Sylvan%20Cherubsprout) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sylvan Flowerknight](https://db.ygoprodeck.com/card/?search=Sylvan%20Flowerknight) | Unlimited |
