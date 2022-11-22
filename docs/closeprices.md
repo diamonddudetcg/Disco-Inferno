@@ -6,8 +6,8 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | 0.4996 | 0.51 | Illegal |
-[Koa'ki Meiru Supplier](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Supplier) | 0.6686 | 0.43 | Unlimited |
+[Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | 0.4999 | 0.51 | Illegal |
+[Koa'ki Meiru Supplier](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Supplier) | 0.6602 | 0.43 | Unlimited |
 
 <br>
 
