@@ -1928,9 +1928,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mobilize - Engage!](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mobilize%20-%20Engage!) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Terraforming](https://db.ygoprodeck.com/card/?search=Terraforming) | Limited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Explosion](https://db.ygoprodeck.com/card/?search=Magical%20Explosion) | Limited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Limited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Shine Ball](https://db.ygoprodeck.com/card/?search=Mystical%20Shine%20Ball) | Semi-Limited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Semi-Limited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [7 Colored Fish](https://db.ygoprodeck.com/card/?search=7%20Colored%20Fish) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Acrobat Monkey](https://db.ygoprodeck.com/card/?search=Acrobat%20Monkey) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Aitsu](https://db.ygoprodeck.com/card/?search=Aitsu) | Unlimited |
@@ -8734,6 +8732,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Domei](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Domei) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Gyokkou](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Gyokkou) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Ingen](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Ingen) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Tenki](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tenki) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Tensu](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Tensu) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Formation - Yoko](https://db.ygoprodeck.com/card/?search=Fire%20Formation%20-%20Yoko) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fire Fortress atop Liang Peak](https://db.ygoprodeck.com/card/?search=Fire%20Fortress%20atop%20Liang%20Peak) | Unlimited |
@@ -10975,6 +10974,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metamorphortress](https://db.ygoprodeck.com/card/?search=Metamorphortress) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaphys Ascension](https://db.ygoprodeck.com/card/?search=Metaphys%20Ascension) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaphys Dimension](https://db.ygoprodeck.com/card/?search=Metaphys%20Dimension) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Metaverse](https://db.ygoprodeck.com/card/?search=Metaverse) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Meteor Flare](https://db.ygoprodeck.com/card/?search=Meteor%20Flare) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Meteorain](https://db.ygoprodeck.com/card/?search=Meteorain) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Michizure](https://db.ygoprodeck.com/card/?search=Michizure) | Unlimited |
