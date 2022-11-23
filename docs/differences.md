@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 269
+Estimated number of changes: 268
 
-Keep in mind there's still 6108 runs left
+Keep in mind there's still 6107 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -271,7 +271,6 @@ Keep in mind there's still 6108 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gottoms' Emergency Call](https://db.ygoprodeck.com/card/?search=Gottoms'%20Emergency%20Call) | Illegal | Unlimited |
-|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravity Collapse](https://db.ygoprodeck.com/card/?search=Gravity%20Collapse) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Humid Winds](https://db.ygoprodeck.com/card/?search=Humid%20Winds) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mischief of the Gnomes](https://db.ygoprodeck.com/card/?search=Mischief%20of%20the%20Gnomes) | Illegal | Unlimited |

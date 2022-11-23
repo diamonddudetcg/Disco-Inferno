@@ -1722,6 +1722,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gozen Match](https://db.ygoprodeck.com/card/?search=Gozen%20Match) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravedigger's Trap Hole](https://db.ygoprodeck.com/card/?search=Gravedigger's%20Trap%20Hole) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravity Collapse](https://db.ygoprodeck.com/card/?search=Gravity%20Collapse) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graydle Parasite](https://db.ygoprodeck.com/card/?search=Graydle%20Parasite) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Harpie's Feather Storm](https://db.ygoprodeck.com/card/?search=Harpie's%20Feather%20Storm) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Hidden Soldiers](https://db.ygoprodeck.com/card/?search=Hidden%20Soldiers) | Illegal |
@@ -10724,7 +10725,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graverobber's Retribution](https://db.ygoprodeck.com/card/?search=Graverobber's%20Retribution) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graveyard of Wandering Souls](https://db.ygoprodeck.com/card/?search=Graveyard%20of%20Wandering%20Souls) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravity Bind](https://db.ygoprodeck.com/card/?search=Gravity%20Bind) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Gravity Collapse](https://db.ygoprodeck.com/card/?search=Gravity%20Collapse) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graydle Combat](https://db.ygoprodeck.com/card/?search=Graydle%20Combat) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Graydle Split](https://db.ygoprodeck.com/card/?search=Graydle%20Split) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Greed](https://db.ygoprodeck.com/card/?search=Greed) | Unlimited |
