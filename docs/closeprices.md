@@ -6,9 +6,9 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[True Draco Heritage](https://db.ygoprodeck.com/card/?search=True%20Draco%20Heritage) | 0.4008 | 0.57 | Illegal |
-[Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | 0.4012 | 0.60 | Illegal |
-[Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.4109 | 0.71 | Illegal |
+[True Draco Heritage](https://db.ygoprodeck.com/card/?search=True%20Draco%20Heritage) | 0.4009 | 0.57 | Illegal |
+[Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | 0.4013 | 0.60 | Illegal |
+[Darkness Destroyer](https://db.ygoprodeck.com/card/?search=Darkness%20Destroyer) | 0.4110 | 0.71 | Illegal |
 [Foolish Burial Goods](https://db.ygoprodeck.com/card/?search=Foolish%20Burial%20Goods) | 0.4914 | 0.52 | Illegal |
 [Gem-Turtle](https://db.ygoprodeck.com/card/?search=Gem-Turtle) | 0.4918 | 0.54 | Illegal |
 [Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | 0.4926 | 0.58 | Illegal |
@@ -16,28 +16,28 @@ This is a list of cards that are likely to change legality before the next rotat
 [Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | 0.4942 | 0.56 | Illegal |
 [Daigusto Falcos](https://db.ygoprodeck.com/card/?search=Daigusto%20Falcos) | 0.4943 | 0.58 | Illegal |
 [Exodius the Ultimate Forbidden Lord](https://db.ygoprodeck.com/card/?search=Exodius%20the%20Ultimate%20Forbidden%20Lord) | 0.4954 | 0.53 | Illegal |
-[Blackwing - Kalut the Moon Shadow](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Kalut%20the%20Moon%20Shadow) | 0.5086 | 0.05 | Unlimited |
-[Traptrix Sera](https://db.ygoprodeck.com/card/?search=Traptrix%20Sera) | 0.5111 | 0.17 | Unlimited |
-[Koa'ki Meiru Supplier](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Supplier) | 0.5326 | 0.43 | Unlimited |
-[Madolche Tea Break](https://db.ygoprodeck.com/card/?search=Madolche%20Tea%20Break) | 0.5384 | 0.03 | Unlimited |
-[Despian Quaeritis](https://db.ygoprodeck.com/card/?search=Despian%20Quaeritis) | 0.5440 | 0.25 | Unlimited |
-[The Phantom Knights of Torn Scales](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Torn%20Scales) | 0.5645 | 0.46 | Unlimited |
-[Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.5739 | 0.07 | Unlimited |
-[Frightfur Patchwork](https://db.ygoprodeck.com/card/?search=Frightfur%20Patchwork) | 0.5779 | 0.39 | Unlimited |
-[Surgical Striker - H.A.M.P.](https://db.ygoprodeck.com/card/?search=Surgical%20Striker%20-%20H.A.M.P.) | 0.6087 | 0.02 | Unlimited |
-[Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | 0.6258 | 0.07 | Unlimited |
-[Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20%26%20Snow%20Rabbit) | 0.6698 | 0.25 | Unlimited |
-[Lyrilusc - Ensemblue Robin](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Ensemblue%20Robin) | 0.6778 | 0.22 | Unlimited |
-[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.7101 | 0.12 | Unlimited |
-[Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.7215 | 0.04 | Unlimited |
-[Lyrilusc - Celestine Wagtail](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Celestine%20Wagtail) | 0.7646 | 0.12 | Unlimited |
-[Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | 0.7678 | 0.06 | Unlimited |
-[Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | 0.7837 | 0.02 | Unlimited |
-[Dragunity Arma Gram](https://db.ygoprodeck.com/card/?search=Dragunity%20Arma%20Gram) | 0.7936 | 0.33 | Unlimited |
-[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.8097 | 0.03 | Unlimited |
-[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.8138 | 0.25 | Unlimited |
-[Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20%26%20Haunted%20Mansion) | 0.8488 | 0.14 | Unlimited |
-[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.8622 | 0.06 | Unlimited |
+[Blackwing - Kalut the Moon Shadow](https://db.ygoprodeck.com/card/?search=Blackwing%20-%20Kalut%20the%20Moon%20Shadow) | 0.5085 | 0.07 | Unlimited |
+[Traptrix Sera](https://db.ygoprodeck.com/card/?search=Traptrix%20Sera) | 0.5110 | 0.15 | Unlimited |
+[Koa'ki Meiru Supplier](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Supplier) | 0.5325 | 0.43 | Unlimited |
+[Madolche Tea Break](https://db.ygoprodeck.com/card/?search=Madolche%20Tea%20Break) | 0.5383 | 0.06 | Unlimited |
+[Despian Quaeritis](https://db.ygoprodeck.com/card/?search=Despian%20Quaeritis) | 0.5439 | 0.24 | Unlimited |
+[The Phantom Knights of Torn Scales](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Torn%20Scales) | 0.5645 | 0.42 | Unlimited |
+[Madolche Magileine](https://db.ygoprodeck.com/card/?search=Madolche%20Magileine) | 0.5737 | 0.07 | Unlimited |
+[Frightfur Patchwork](https://db.ygoprodeck.com/card/?search=Frightfur%20Patchwork) | 0.5778 | 0.39 | Unlimited |
+[Surgical Striker - H.A.M.P.](https://db.ygoprodeck.com/card/?search=Surgical%20Striker%20-%20H.A.M.P.) | 0.6085 | 0.03 | Unlimited |
+[Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | 0.6256 | 0.04 | Unlimited |
+[Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20%26%20Snow%20Rabbit) | 0.6697 | 0.23 | Unlimited |
+[Lyrilusc - Ensemblue Robin](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Ensemblue%20Robin) | 0.6777 | 0.23 | Unlimited |
+[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.7099 | 0.13 | Unlimited |
+[Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.7213 | 0.04 | Unlimited |
+[Lyrilusc - Celestine Wagtail](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Celestine%20Wagtail) | 0.7644 | 0.18 | Unlimited |
+[Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | 0.7676 | 0.06 | Unlimited |
+[Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | 0.7835 | 0.04 | Unlimited |
+[Predaplant Ophrys Scorpio](https://db.ygoprodeck.com/card/?search=Predaplant%20Ophrys%20Scorpio) | 0.7933 | 0.34 | Unlimited |
+[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.8095 | 0.04 | Unlimited |
+[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.8136 | 0.25 | Unlimited |
+[Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20%26%20Haunted%20Mansion) | 0.8486 | 0.13 | Unlimited |
+[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.8620 | 0.05 | Unlimited |
 
 <br>
 
