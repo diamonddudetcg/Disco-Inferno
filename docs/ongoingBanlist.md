@@ -1365,6 +1365,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Toadally Awesome](https://db.ygoprodeck.com/card/?search=Toadally%20Awesome) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Traptrix Rafflesia](https://db.ygoprodeck.com/card/?search=Traptrix%20Rafflesia) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Tri-Edge Levia](https://db.ygoprodeck.com/card/?search=Tri-Edge%20Levia) | Illegal |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Vylon Disigma](https://db.ygoprodeck.com/card/?search=Vylon%20Disigma) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Wind-Up Carrier Zenmaity](https://db.ygoprodeck.com/card/?search=Wind-Up%20Carrier%20Zenmaity) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Zoodiac Broadbull](https://db.ygoprodeck.com/card/?search=Zoodiac%20Broadbull) | Illegal |
@@ -1869,7 +1870,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number 86: Heroic Champion - Rhongomyniad](https://db.ygoprodeck.com/card/?search=Number%2086:%20Heroic%20Champion%20-%20Rhongomyniad) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Number S0: Utopic ZEXAL](https://db.ygoprodeck.com/card/?search=Number%20S0:%20Utopic%20ZEXAL) | Forbidden |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Outer Entity Azathot](https://db.ygoprodeck.com/card/?search=Outer%20Entity%20Azathot) | Forbidden |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [True King of All Calamities](https://db.ygoprodeck.com/card/?search=True%20King%20of%20All%20Calamities) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Card of Safe Return](https://db.ygoprodeck.com/card/?search=Card%20of%20Safe%20Return) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Cold Wave](https://db.ygoprodeck.com/card/?search=Cold%20Wave) | Forbidden |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |
