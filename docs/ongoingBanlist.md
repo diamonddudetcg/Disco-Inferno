@@ -1752,6 +1752,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Mystical Refpanel](https://db.ygoprodeck.com/card/?search=Mystical%20Refpanel) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Naturia Sacred Tree](https://db.ygoprodeck.com/card/?search=Naturia%20Sacred%20Tree) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Needle Ceiling](https://db.ygoprodeck.com/card/?search=Needle%20Ceiling) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Oh F!sh!](https://db.ygoprodeck.com/card/?search=Oh%20F!sh!) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Overwhelm](https://db.ygoprodeck.com/card/?search=Overwhelm) | Illegal |
@@ -11043,7 +11044,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Ninjitsu Art of Transformation](https://db.ygoprodeck.com/card/?search=Ninjitsu%20Art%20of%20Transformation) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Nitwit Outwit](https://db.ygoprodeck.com/card/?search=Nitwit%20Outwit) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [No Entry!!](https://db.ygoprodeck.com/card/?search=No%20Entry!!) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Non Aggression Area](https://db.ygoprodeck.com/card/?search=Non%20Aggression%20Area) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Non-Fusion Area](https://db.ygoprodeck.com/card/?search=Non-Fusion%20Area) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Nordic Relic Brisingamen](https://db.ygoprodeck.com/card/?search=Nordic%20Relic%20Brisingamen) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Nordic Relic Gungnir](https://db.ygoprodeck.com/card/?search=Nordic%20Relic%20Gungnir) | Unlimited |
