@@ -1686,6 +1686,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Breakthrough Skill](https://db.ygoprodeck.com/card/?search=Breakthrough%20Skill) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Conquistador of the Golden Land](https://db.ygoprodeck.com/card/?search=Conquistador%20of%20the%20Golden%20Land) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Crackdown](https://db.ygoprodeck.com/card/?search=Crackdown) | Illegal |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D.D. Dynamite](https://db.ygoprodeck.com/card/?search=D.D.%20Dynamite) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D2 Shield](https://db.ygoprodeck.com/card/?search=D2%20Shield) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Damage Polarizer](https://db.ygoprodeck.com/card/?search=Damage%20Polarizer) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dark Cure](https://db.ygoprodeck.com/card/?search=Dark%20Cure) | Illegal |
@@ -10400,7 +10401,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D - Time](https://db.ygoprodeck.com/card/?search=D%20-%20Time) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D-Fusion](https://db.ygoprodeck.com/card/?search=D-Fusion) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D. Tribe](https://db.ygoprodeck.com/card/?search=D.%20Tribe) | Unlimited |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D.D. Dynamite](https://db.ygoprodeck.com/card/?search=D.D.%20Dynamite) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D.D. Trap Hole](https://db.ygoprodeck.com/card/?search=D.D.%20Trap%20Hole) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D.D.D. - Different Dimension Derby](https://db.ygoprodeck.com/card/?search=D.D.D.%20-%20Different%20Dimension%20Derby) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [D/D Recruits](https://db.ygoprodeck.com/card/?search=D/D%20Recruits) | Unlimited |
