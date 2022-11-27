@@ -507,7 +507,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metalzoa](https://db.ygoprodeck.com/card/?search=Metalzoa) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Meteo the Matchless](https://db.ygoprodeck.com/card/?search=Meteo%20the%20Matchless) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Meteor Dragon Red-Eyes Impact](https://db.ygoprodeck.com/card/?search=Meteor%20Dragon%20Red-Eyes%20Impact) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Michion, the Timelord](https://db.ygoprodeck.com/card/?search=Michion,%20the%20Timelord) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Millennium Scorpion](https://db.ygoprodeck.com/card/?search=Millennium%20Scorpion) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Millennium-Eyes Illusionist](https://db.ygoprodeck.com/card/?search=Millennium-Eyes%20Illusionist) | Illegal |
@@ -5039,6 +5038,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metaphys Ragnarok](https://db.ygoprodeck.com/card/?search=Metaphys%20Ragnarok) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metaphys Tyrant Dragon](https://db.ygoprodeck.com/card/?search=Metaphys%20Tyrant%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Metrognome](https://db.ygoprodeck.com/card/?search=Metrognome) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mezuki](https://db.ygoprodeck.com/card/?search=Mezuki) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Micro Coder](https://db.ygoprodeck.com/card/?search=Micro%20Coder) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mid Shield Gardna](https://db.ygoprodeck.com/card/?search=Mid%20Shield%20Gardna) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Milla the Temporal Magician](https://db.ygoprodeck.com/card/?search=Milla%20the%20Temporal%20Magician) | Unlimited |
