@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 268
+Estimated number of changes: 269
 
-Keep in mind there's still 4989 runs left
+Keep in mind there's still 4988 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -252,6 +252,7 @@ Keep in mind there's still 4989 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragunity Divine Lance](https://db.ygoprodeck.com/card/?search=Dragunity%20Divine%20Lance) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emblem of the Plunder Patroll](https://db.ygoprodeck.com/card/?search=Emblem%20of%20the%20Plunder%20Patroll) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Beast's Respite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Respite) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gold Sarcophagus](https://db.ygoprodeck.com/card/?search=Gold%20Sarcophagus) | Limited | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jurassic World](https://db.ygoprodeck.com/card/?search=Jurassic%20World) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | Illegal | Unlimited |

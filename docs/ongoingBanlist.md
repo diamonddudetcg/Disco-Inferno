@@ -1470,7 +1470,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ghost Meets Girl - A Shiranui's Story](https://db.ygoprodeck.com/card/?search=Ghost%20Meets%20Girl%20-%20A%20Shiranui's%20Story) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gishki Aquamirror](https://db.ygoprodeck.com/card/?search=Gishki%20Aquamirror) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Beast's Battle Manica](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Battle%20Manica) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Beast's Respite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Respite) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Taming](https://db.ygoprodeck.com/card/?search=Gladiator%20Taming) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Glass Slippers](https://db.ygoprodeck.com/card/?search=Glass%20Slippers) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | Illegal |
@@ -8849,6 +8848,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Beast's Battle Gladius](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Battle%20Gladius) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Beast's Battle Halberd](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Battle%20Halberd) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Beast's Comeback](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Comeback) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Beast's Respite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast's%20Respite) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Proving Ground](https://db.ygoprodeck.com/card/?search=Gladiator%20Proving%20Ground) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator Rejection](https://db.ygoprodeck.com/card/?search=Gladiator%20Rejection) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gladiator's Return](https://db.ygoprodeck.com/card/?search=Gladiator's%20Return) | Unlimited |
