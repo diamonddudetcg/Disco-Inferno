@@ -522,6 +522,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mudora the Sword Oracle](https://db.ygoprodeck.com/card/?search=Mudora%20the%20Sword%20Oracle) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mushroom Man #2](https://db.ygoprodeck.com/card/?search=Mushroom%20Man%20#2) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Piper](https://db.ygoprodeck.com/card/?search=Mystic%20Piper) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Swordsman LV2](https://db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV2) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystical Elf - White Lightning](https://db.ygoprodeck.com/card/?search=Mystical%20Elf%20-%20White%20Lightning) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystical Knight of Jackal](https://db.ygoprodeck.com/card/?search=Mystical%20Knight%20of%20Jackal) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystical Sheep #1](https://db.ygoprodeck.com/card/?search=Mystical%20Sheep%20#1) | Illegal |
@@ -5129,7 +5130,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mysterious Puppeteer](https://db.ygoprodeck.com/card/?search=Mysterious%20Puppeteer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Lamp](https://db.ygoprodeck.com/card/?search=Mystic%20Lamp) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Macrocarpa Seed](https://db.ygoprodeck.com/card/?search=Mystic%20Macrocarpa%20Seed) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Swordsman LV2](https://db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV2) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Swordsman LV4](https://db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV4) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Swordsman LV6](https://db.ygoprodeck.com/card/?search=Mystic%20Swordsman%20LV6) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mystic Tomato](https://db.ygoprodeck.com/card/?search=Mystic%20Tomato) | Unlimited |
