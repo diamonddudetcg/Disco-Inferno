@@ -1374,7 +1374,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Amazoness Fighting Spirit](https://db.ygoprodeck.com/card/?search=Amazoness%20Fighting%20Spirit) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Amazoness Heirloom](https://db.ygoprodeck.com/card/?search=Amazoness%20Heirloom) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Chant](https://db.ygoprodeck.com/card/?search=Ancient%20Chant) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Forest](https://db.ygoprodeck.com/card/?search=Ancient%20Forest) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Catapult](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Catapult) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Fortress](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Fortress) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Tank](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Tank) | Illegal |
@@ -8189,6 +8188,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Amplifier](https://db.ygoprodeck.com/card/?search=Amplifier) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Amulet of Ambition](https://db.ygoprodeck.com/card/?search=Amulet%20of%20Ambition) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient City - Rainbow Ruins](https://db.ygoprodeck.com/card/?search=Ancient%20City%20-%20Rainbow%20Ruins) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Forest](https://db.ygoprodeck.com/card/?search=Ancient%20Forest) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Castle](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Castle) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Drill](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Drill) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Gear Explosive](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Explosive) | Unlimited |
