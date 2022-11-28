@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 274
+Estimated number of changes: 275
 
-Keep in mind there's still 4783 runs left
+Keep in mind there's still 4782 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -180,6 +180,7 @@ Keep in mind there's still 4783 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dupe Frog](https://db.ygoprodeck.com/card/?search=Dupe%20Frog) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Elementsaber Makani](https://db.ygoprodeck.com/card/?search=Elementsaber%20Makani) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fenghuang](https://db.ygoprodeck.com/card/?search=Fenghuang) | Illegal | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Giant Orc](https://db.ygoprodeck.com/card/?search=Giant%20Orc) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Girsu, the Orcust Mekk-Knight](https://db.ygoprodeck.com/card/?search=Girsu,%20the%20Orcust%20Mekk-Knight) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Murmillo](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Murmillo) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | Illegal | Unlimited |
