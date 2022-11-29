@@ -892,7 +892,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fiend Skull Dragon](https://db.ygoprodeck.com/card/?search=Fiend%20Skull%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Five-Headed Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Flame Ghost](https://db.ygoprodeck.com/card/?search=Flame%20Ghost) | Illegal |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Dragon Skullgar](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgar) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgios) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Warrior Skull King](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20King) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Daredevil](https://db.ygoprodeck.com/card/?search=Frightfur%20Daredevil) | Illegal |
@@ -7144,6 +7143,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Flame Swordsman](https://db.ygoprodeck.com/card/?search=Flame%20Swordsman) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Flower Wolf](https://db.ygoprodeck.com/card/?search=Flower%20Wolf) | Unlimited |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Dragon Skullgar](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgar) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Machine Skull Buggy](https://db.ygoprodeck.com/card/?search=Fossil%20Machine%20Skull%20Buggy) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Machine Skull Convoy](https://db.ygoprodeck.com/card/?search=Fossil%20Machine%20Skull%20Convoy) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Machine Skull Wagon](https://db.ygoprodeck.com/card/?search=Fossil%20Machine%20Skull%20Wagon) | Unlimited |
