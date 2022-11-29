@@ -6,17 +6,17 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Psychic Lifetrancer](https://db.ygoprodeck.com/card/?search=Psychic%20Lifetrancer) | 0.3097 | 0.70 | Illegal |
-[Sandaion, the Timelord](https://db.ygoprodeck.com/card/?search=Sandaion,%20the%20Timelord) | 0.3236 | 2.66 | Illegal |
-[Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | 0.3765 | 0.76 | Illegal |
-[Number Wall](https://db.ygoprodeck.com/card/?search=Number%20Wall) | 0.3830 | 1.28 | Illegal |
-[Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | 0.3985 | 0.64 | Illegal |
-[Archfiend's Manifestation](https://db.ygoprodeck.com/card/?search=Archfiend's%20Manifestation) | 0.4289 | 0.69 | Illegal |
-[Garuda the Wind Spirit](https://db.ygoprodeck.com/card/?search=Garuda%20the%20Wind%20Spirit) | 0.4322 | 0.65 | Illegal |
+[Psychic Lifetrancer](https://db.ygoprodeck.com/card/?search=Psychic%20Lifetrancer) | 0.3098 | 0.70 | Illegal |
+[Sandaion, the Timelord](https://db.ygoprodeck.com/card/?search=Sandaion,%20the%20Timelord) | 0.3241 | 2.66 | Illegal |
+[Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | 0.3766 | 0.76 | Illegal |
+[Number Wall](https://db.ygoprodeck.com/card/?search=Number%20Wall) | 0.3832 | 1.28 | Illegal |
+[Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | 0.3986 | 0.64 | Illegal |
+[Archfiend's Manifestation](https://db.ygoprodeck.com/card/?search=Archfiend's%20Manifestation) | 0.4290 | 0.69 | Illegal |
+[Garuda the Wind Spirit](https://db.ygoprodeck.com/card/?search=Garuda%20the%20Wind%20Spirit) | 0.4323 | 0.65 | Illegal |
 [D/D/D Super Doom King Bright Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Bright%20Armageddon) | 0.4432 | 0.56 | Illegal |
 [Raidraptor Replica](https://db.ygoprodeck.com/card/?search=Raidraptor%20Replica) | 0.4447 | 0.58 | Illegal |
-[Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | 0.4519 | 0.58 | Illegal |
-[Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | 0.4521 | 0.56 | Illegal |
+[Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | 0.4520 | 0.58 | Illegal |
+[Red-Eyes Black Flare Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Black%20Flare%20Dragon) | 0.4522 | 0.56 | Illegal |
 [Evigishki Soul Ogre](https://db.ygoprodeck.com/card/?search=Evigishki%20Soul%20Ogre) | 0.4595 | 0.56 | Illegal |
 [Number 97: Draglubion](https://db.ygoprodeck.com/card/?search=Number%2097:%20Draglubion) | 0.4627 | 0.58 | Illegal |
 [Ceruli, Guru of Dark World](https://db.ygoprodeck.com/card/?search=Ceruli,%20Guru%20of%20Dark%20World) | 0.4656 | 0.56 | Illegal |
@@ -25,7 +25,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Vendread Battlelord](https://db.ygoprodeck.com/card/?search=Vendread%20Battlelord) | 0.4777 | 0.54 | Illegal |
 [The Weather Painter Moonbow](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Moonbow) | 0.4786 | 0.54 | Illegal |
 [Redbeard, the Plunder Patroll Matey](https://db.ygoprodeck.com/card/?search=Redbeard,%20the%20Plunder%20Patroll%20Matey) | 0.4787 | 0.56 | Illegal |
-[Right Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Leg%20of%20the%20Forbidden%20One) | 0.4799 | 0.58 | Illegal |
+[Right Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Right%20Leg%20of%20the%20Forbidden%20One) | 0.4800 | 0.58 | Illegal |
 [Supermagic Sword of Raptinus](https://db.ygoprodeck.com/card/?search=Supermagic%20Sword%20of%20Raptinus) | 0.4914 | 0.68 | Illegal |
 [Missus Radiant](https://db.ygoprodeck.com/card/?search=Missus%20Radiant) | 0.4918 | 0.58 | Illegal |
 [Fortune Lady Calling](https://db.ygoprodeck.com/card/?search=Fortune%20Lady%20Calling) | 0.4992 | 0.51 | Illegal |
@@ -34,37 +34,36 @@ This is a list of cards that are likely to change legality before the next rotat
 [Infernity Launcher](https://db.ygoprodeck.com/card/?search=Infernity%20Launcher) | 0.5028 | 0.42 | Limited |
 [Destruction Sword Memories](https://db.ygoprodeck.com/card/?search=Destruction%20Sword%20Memories) | 0.5052 | 0.46 | Unlimited |
 [Clear Vice Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Vice%20Dragon) | 0.5072 | 0.39 | Unlimited |
-[Edge Imp Chain](https://db.ygoprodeck.com/card/?search=Edge%20Imp%20Chain) | 0.5088 | 0.02 | Unlimited |
+[Edge Imp Chain](https://db.ygoprodeck.com/card/?search=Edge%20Imp%20Chain) | 0.5087 | 0.02 | Unlimited |
 [Suanni, Fire of the Yang Zing](https://db.ygoprodeck.com/card/?search=Suanni,%20Fire%20of%20the%20Yang%20Zing) | 0.5088 | 0.49 | Unlimited |
-[Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.5131 | 0.45 | Unlimited |
+[Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.5130 | 0.45 | Unlimited |
 [Fool of Prophecy](https://db.ygoprodeck.com/card/?search=Fool%20of%20Prophecy) | 0.5131 | 0.45 | Unlimited |
-[Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.5163 | 0.08 | Unlimited |
-[Fossil Dragon Skullgar](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgar) | 0.5187 | 0.10 | Unlimited |
+[Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | 0.5161 | 0.02 | Unlimited |
+[Fossil Dragon Skullgar](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgar) | 0.5186 | 0.10 | Unlimited |
 [Magical Musket - Desperado](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Desperado) | 0.5201 | 0.39 | Unlimited |
 [Frightfur Patchwork](https://db.ygoprodeck.com/card/?search=Frightfur%20Patchwork) | 0.5204 | 0.39 | Unlimited |
 [Scrubbed Raid](https://db.ygoprodeck.com/card/?search=Scrubbed%20Raid) | 0.5229 | 0.45 | Unlimited |
 [Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | 0.5290 | 0.44 | Unlimited |
-[The Phantom Knights of Torn Scales](https://db.ygoprodeck.com/card/?search=The%20Phantom%20Knights%20of%20Torn%20Scales) | 0.5295 | 0.46 | Unlimited |
-[Gigobyte](https://db.ygoprodeck.com/card/?search=Gigobyte) | 0.5330 | 0.46 | Unlimited |
-[Rank-Up-Magic Doom Double Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Doom%20Double%20Force) | 0.5347 | 0.40 | Unlimited |
+[Gigobyte](https://db.ygoprodeck.com/card/?search=Gigobyte) | 0.5329 | 0.46 | Unlimited |
+[Rank-Up-Magic Doom Double Force](https://db.ygoprodeck.com/card/?search=Rank-Up-Magic%20Doom%20Double%20Force) | 0.5346 | 0.40 | Unlimited |
 [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | 0.5374 | 0.42 | Unlimited |
-[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.5391 | 0.18 | Unlimited |
+[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.5390 | 0.14 | Unlimited |
 [Ghost Ogre & Snow Rabbit](https://db.ygoprodeck.com/card/?search=Ghost%20Ogre%20%26%20Snow%20Rabbit) | 0.5414 | 0.26 | Unlimited |
-[Lyrilusc - Ensemblue Robin](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Ensemblue%20Robin) | 0.5470 | 0.25 | Unlimited |
-[Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | 0.5480 | 0.06 | Unlimited |
-[Machine King](https://db.ygoprodeck.com/card/?search=Machine%20King) | 0.5493 | 0.35 | Unlimited |
+[Lyrilusc - Ensemblue Robin](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Ensemblue%20Robin) | 0.5469 | 0.27 | Unlimited |
+[Sky Striker Ace - Shizuku](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Shizuku) | 0.5479 | 0.05 | Unlimited |
+[Machine King](https://db.ygoprodeck.com/card/?search=Machine%20King) | 0.5492 | 0.35 | Unlimited |
 [D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | 0.5545 | 0.42 | Unlimited |
-[Raiza the Mega Monarch](https://db.ygoprodeck.com/card/?search=Raiza%20the%20Mega%20Monarch) | 0.5561 | 0.44 | Unlimited |
-[Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | 0.5592 | 0.07 | Unlimited |
-[Lyrilusc - Celestine Wagtail](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Celestine%20Wagtail) | 0.5767 | 0.13 | Unlimited |
-[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5769 | 0.02 | Unlimited |
+[Raiza the Mega Monarch](https://db.ygoprodeck.com/card/?search=Raiza%20the%20Mega%20Monarch) | 0.5560 | 0.44 | Unlimited |
+[Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | 0.5591 | 0.07 | Unlimited |
+[Lyrilusc - Celestine Wagtail](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Celestine%20Wagtail) | 0.5766 | 0.17 | Unlimited |
+[Paleozoic Olenoides](https://db.ygoprodeck.com/card/?search=Paleozoic%20Olenoides) | 0.5768 | 0.08 | Unlimited |
 [Magician of Black Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos) | 0.5837 | 0.38 | Unlimited |
-[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgios) | 0.5862 | 0.39 | Unlimited |
-[Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | 0.6077 | 0.15 | Unlimited |
-[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.6133 | 0.07 | Unlimited |
-[Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20%26%20Haunted%20Mansion) | 0.6353 | 0.15 | Unlimited |
-[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.6412 | 0.28 | Unlimited |
-[Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | 0.8953 | 0.02 | Unlimited |
+[Fossil Dragon Skullgios](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgios) | 0.5861 | 0.39 | Unlimited |
+[Weathering Soldier](https://db.ygoprodeck.com/card/?search=Weathering%20Soldier) | 0.6076 | 0.15 | Unlimited |
+[Paleozoic Dinomischus](https://db.ygoprodeck.com/card/?search=Paleozoic%20Dinomischus) | 0.6132 | 0.05 | Unlimited |
+[Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20%26%20Haunted%20Mansion) | 0.6352 | 0.15 | Unlimited |
+[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.6411 | 0.26 | Unlimited |
+[Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | 0.8951 | 0.02 | Unlimited |
 
 <br>
 
