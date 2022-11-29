@@ -1613,6 +1613,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Koi Koi](https://db.ygoprodeck.com/card/?search=Super%20Koi%20Koi) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Polymerization](https://db.ygoprodeck.com/card/?search=Super%20Polymerization) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Soldier Ritual](https://db.ygoprodeck.com/card/?search=Super%20Soldier%20Ritual) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Supermagic Sword of Raptinus](https://db.ygoprodeck.com/card/?search=Supermagic%20Sword%20of%20Raptinus) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sword of Dragon's Soul](https://db.ygoprodeck.com/card/?search=Sword%20of%20Dragon's%20Soul) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Swordsoul Emergence](https://db.ygoprodeck.com/card/?search=Swordsoul%20Emergence) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Tenacity of the Monarchs](https://db.ygoprodeck.com/card/?search=Tenacity%20of%20the%20Monarchs) | Illegal |
@@ -9748,7 +9749,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Solar Nutrient](https://db.ygoprodeck.com/card/?search=Super%20Solar%20Nutrient) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Soldier Synthesis](https://db.ygoprodeck.com/card/?search=Super%20Soldier%20Synthesis) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Strident Blaze](https://db.ygoprodeck.com/card/?search=Super%20Strident%20Blaze) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Supermagic Sword of Raptinus](https://db.ygoprodeck.com/card/?search=Supermagic%20Sword%20of%20Raptinus) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Supernatural Danger Zone](https://db.ygoprodeck.com/card/?search=Supernatural%20Danger%20Zone) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Supervise](https://db.ygoprodeck.com/card/?search=Supervise) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Supply Squad](https://db.ygoprodeck.com/card/?search=Supply%20Squad) | Unlimited |
