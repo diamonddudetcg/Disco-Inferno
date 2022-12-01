@@ -342,7 +342,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Armadillo](https://db.ygoprodeck.com/card/?search=Gem-Armadillo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Alexandrite](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Alexandrite) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Obsidian](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Obsidian) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Turtle](https://db.ygoprodeck.com/card/?search=Gem-Turtle) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Genex Ally Duradark](https://db.ygoprodeck.com/card/?search=Genex%20Ally%20Duradark) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ghost Belle & Haunted Mansion](https://db.ygoprodeck.com/card/?search=Ghost%20Belle%20%26%20Haunted%20Mansion) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ghost Fairy Elfobia](https://db.ygoprodeck.com/card/?search=Ghost%20Fairy%20Elfobia) | Illegal |
@@ -3962,6 +3961,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Quartz](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Quartz) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Knight Sardonyx](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Sardonyx) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Merchant](https://db.ygoprodeck.com/card/?search=Gem-Merchant) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Turtle](https://db.ygoprodeck.com/card/?search=Gem-Turtle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gemini Imps](https://db.ygoprodeck.com/card/?search=Gemini%20Imps) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gemini Lancer](https://db.ygoprodeck.com/card/?search=Gemini%20Lancer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gemini Scorpion](https://db.ygoprodeck.com/card/?search=Gemini%20Scorpion) | Unlimited |
