@@ -1256,7 +1256,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Lavalval Chain](https://db.ygoprodeck.com/card/?search=Lavalval%20Chain) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Leviair the Sea Dragon](https://db.ygoprodeck.com/card/?search=Leviair%20the%20Sea%20Dragon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Lightning Chidori](https://db.ygoprodeck.com/card/?search=Lightning%20Chidori) | Illegal |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Lyrilusc - Ensemblue Robin](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Ensemblue%20Robin) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Madolche Queen Tiaramisu](https://db.ygoprodeck.com/card/?search=Madolche%20Queen%20Tiaramisu) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Meliae of the Trees](https://db.ygoprodeck.com/card/?search=Meliae%20of%20the%20Trees) | Illegal |
@@ -7933,6 +7932,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Lavalval Ignis](https://db.ygoprodeck.com/card/?search=Lavalval%20Ignis) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Light Dragon @Ignister](https://db.ygoprodeck.com/card/?search=Light%20Dragon%20@Ignister) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Lyrilusc - Assembled Nightingale](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Assembled%20Nightingale) | Unlimited |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Lyrilusc - Ensemblue Robin](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Ensemblue%20Robin) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Lyrilusc - Promenade Thrush](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Promenade%20Thrush) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Lyrilusc - Recital Starling](https://db.ygoprodeck.com/card/?search=Lyrilusc%20-%20Recital%20Starling) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Madolche Teacher Glassouffle](https://db.ygoprodeck.com/card/?search=Madolche%20Teacher%20Glassouffle) | Unlimited |
