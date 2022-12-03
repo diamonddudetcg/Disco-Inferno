@@ -18,6 +18,19 @@ Tenyi Swordsoul was undoubtedly the best deck in the format, and Longyuan was th
 
 ## Limited
 
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Bigfoot!](https://db.ygoprodeck.com/card/?search=Danger!%20Bigfoot!")
+
+
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!")
+
+
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Thunderbird!](https://db.ygoprodeck.com/card/?search=Danger!%20Thunderbird!")
+
+
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Mothman!](https://db.ygoprodeck.com/card/?search=Danger!%20Mothman!")
+
+With the release of the Dark World structure deck, Dark World is poised to be a very frustrating top deck. Limiting the most powerful Dangers will hopefully make it easier to deal with.
+
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Kyubi - Shenshen](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Kyubi%20-%20Shenshen)
 
 Virtual World has been legal in multiple formats and it's done pretty much nothing. Although Shenshen is a crazy powerful card in low powered environments, we're going to test it at 1 to see how it performs.
