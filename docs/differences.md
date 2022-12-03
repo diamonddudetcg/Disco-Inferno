@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 274
+Estimated number of changes: 273
 
-Keep in mind there's still 3399 runs left
+Keep in mind there's still 3398 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -120,7 +120,6 @@ Keep in mind there's still 3399 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychic Feel Zone](https://db.ygoprodeck.com/card/?search=Psychic%20Feel%20Zone) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sacred Sword of Seven Stars](https://db.ygoprodeck.com/card/?search=Sacred%20Sword%20of%20Seven%20Stars) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | Unlimited | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sky Striker Mecha - Widow Anchor](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Mecha%20-%20Widow%20Anchor) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stardust Shimmer](https://db.ygoprodeck.com/card/?search=Stardust%20Shimmer) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Koi Koi](https://db.ygoprodeck.com/card/?search=Super%20Koi%20Koi) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Supermagic Sword of Raptinus](https://db.ygoprodeck.com/card/?search=Supermagic%20Sword%20of%20Raptinus) | Unlimited | Illegal |
