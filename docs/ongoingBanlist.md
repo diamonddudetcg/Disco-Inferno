@@ -711,7 +711,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Dragon](https://db.ygoprodeck.com/card/?search=Vampire%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Fraulein](https://db.ygoprodeck.com/card/?search=Vampire%20Fraulein) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Genesis](https://db.ygoprodeck.com/card/?search=Vampire%20Genesis) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Ghost](https://db.ygoprodeck.com/card/?search=Vampire%20Ghost) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Voivode](https://db.ygoprodeck.com/card/?search=Vampire%20Voivode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Awakening Forests](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Awakening%20Forests) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Flourishing Hills](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flourishing%20Hills) | Illegal |
@@ -6595,6 +6594,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Valkyrion the Magna Warrior](https://db.ygoprodeck.com/card/?search=Valkyrion%20the%20Magna%20Warrior) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Duke](https://db.ygoprodeck.com/card/?search=Vampire%20Duke) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Familiar](https://db.ygoprodeck.com/card/?search=Vampire%20Familiar) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Ghost](https://db.ygoprodeck.com/card/?search=Vampire%20Ghost) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Grace](https://db.ygoprodeck.com/card/?search=Vampire%20Grace) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Grimson](https://db.ygoprodeck.com/card/?search=Vampire%20Grimson) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Hunter](https://db.ygoprodeck.com/card/?search=Vampire%20Hunter) | Unlimited |

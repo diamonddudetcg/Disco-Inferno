@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 333
+Estimated number of changes: 332
 
-Keep in mind there's still 3240 runs left
+Keep in mind there's still 3239 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -67,7 +67,6 @@ Keep in mind there's still 3240 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Toon Cyber Dragon](https://db.ygoprodeck.com/card/?search=Toon%20Cyber%20Dragon) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Traptrix Atrax](https://db.ygoprodeck.com/card/?search=Traptrix%20Atrax) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | Unlimited | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Ghost](https://db.ygoprodeck.com/card/?search=Vampire%20Ghost) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Awakening Forests](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Awakening%20Forests) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Misting Seedlings](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Misting%20Seedlings) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Volcanic Scattershot](https://db.ygoprodeck.com/card/?search=Volcanic%20Scattershot) | Unlimited | Illegal |
