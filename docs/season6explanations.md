@@ -14,17 +14,21 @@ You know the drill.
 
 Tenyi Swordsoul was undoubtedly the best deck in the format, and Longyuan was the lynchpin of the archetype. Without it, access to powerful LV10 synchro plays is closed, and the power level hopefully will get more in line with the rest of Disco Inferno.
 
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Fusion](https://db.ygoprodeck.com/card?search=Future%20Fusion)
-
-Essentially the Predaplant 1 card combo, Instant Fusion generates way too much advantage by itself to be allowed in the format.
-
 <br>
 
 ## Limited
 
+<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Kyubi - Shenshen](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Kyubi%20-%20Shenshen)
+
+Virtual World has been legal in multiple formats and it's done pretty much nothing. Although Shenshen is a crazy powerful card in low powered environments, we're going to test it at 1 to see how it performs.
+
 <br>
 
 ## Semi-Limited
+
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari)
+
+Sky Striker hasn't done anything even after MAMA. Out of an abundance of caution we're not instantly unlimiting Kagari, but if SS does nothing next season, she'll probably become unlimited.
 
 <br>
 
