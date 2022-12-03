@@ -55,7 +55,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Called by the Grave](https://db.ygoprodeck.com/card/?search=Called%20by%20the%20Grave) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Domain of the True Monarchs](https://db.ygoprodeck.com/card/?search=Domain%20of%20the%20True%20Monarchs) | Forbidden |
-| <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Future Fusion](https://db.ygoprodeck.com/card/?search=Future%20Fusion) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Mid-Breaker Field](https://db.ygoprodeck.com/card/?search=Magical%20Mid-Breaker%20Field) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magicalized Duston Mop](https://db.ygoprodeck.com/card/?search=Magicalized%20Duston%20Mop) | Forbidden |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Secret Village of the Spellcasters](https://db.ygoprodeck.com/card/?search=Secret%20Village%20of%20the%20Spellcasters) | Forbidden |
