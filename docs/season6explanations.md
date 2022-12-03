@@ -24,12 +24,9 @@ Tenyi Swordsoul was undoubtedly the best deck in the format, and Longyuan was th
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!")
 
 
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Thunderbird!](https://db.ygoprodeck.com/card/?search=Danger!%20Thunderbird!")
-
-
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Mothman!](https://db.ygoprodeck.com/card/?search=Danger!%20Mothman!")
 
-With the release of the Dark World structure deck, Dark World is poised to be a very frustrating top deck. Limiting the most powerful Dangers will hopefully make it easier to deal with.
+With the release of the Dark World structure deck, Dark World is poised to be a very frustrating top deck. Limiting the most powerful Dangers will hopefully make it easier to deal with. We are leaving Thunderbird at 3 as a going second tool, but if it sees too much play, we might revisit this decision later.
 
 <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Kyubi - Shenshen](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Kyubi%20-%20Shenshen)
 
