@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 329
+Estimated number of changes: 330
 
-Keep in mind there's still 3251 runs left
+Keep in mind there's still 3250 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -138,6 +138,7 @@ Keep in mind there's still 3251 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Torrential Reborn](https://db.ygoprodeck.com/card/?search=Torrential%20Reborn) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Swordsoul Strategist Longyuan](https://db.ygoprodeck.com/card/?search=Swordsoul%20Strategist%20Longyuan) | Unlimited | Forbidden |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Bigfoot!](https://db.ygoprodeck.com/card/?search=Danger!%20Bigfoot!) | Illegal | Limited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | Illegal | Limited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Mothman!](https://db.ygoprodeck.com/card/?search=Danger!%20Mothman!) | Illegal | Limited |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Virtual World Kyubi - Shenshen](https://db.ygoprodeck.com/card/?search=Virtual%20World%20Kyubi%20-%20Shenshen) | Forbidden | Limited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Change of Heart](https://db.ygoprodeck.com/card/?search=Change%20of%20Heart) | Illegal | Limited |
