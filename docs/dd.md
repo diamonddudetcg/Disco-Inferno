@@ -4784,7 +4784,7 @@
 [Specimen Inspection](https://db.ygoprodeck.com/card/?search=Specimen%20Inspection) | 0.1012 |
 [Fossil Warrior Skull Bone](https://db.ygoprodeck.com/card/?search=Fossil%20Warrior%20Skull%20Bone) | 0.1013 |
 [Fossil Dragon Skullgar](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgar) | 0.1020 |
-[Lucent, Netherlord of Dark World](https://db.ygoprodeck.com/card/?search=Lucent,%20Netherlord%20of%20Dark%20World) | 0.1039 |
+[Lucent, Netherlord of Dark World](https://db.ygoprodeck.com/card/?search=Lucent,%20Netherlord%20of%20Dark%20World) | 0.1038 |
 [Kashtira Ogre](https://db.ygoprodeck.com/card/?search=Kashtira%20Ogre) | 0.1049 |
 [Royal Straight](https://db.ygoprodeck.com/card/?search=Royal%20Straight) | 0.1050 |
 [Ultimate Crystal Rainbow Dragon Overdrive](https://db.ygoprodeck.com/card/?search=Ultimate%20Crystal%20Rainbow%20Dragon%20Overdrive) | 0.1050 |
