@@ -2471,7 +2471,7 @@
 [Danger! Mothman!](https://db.ygoprodeck.com/card/?search=Danger!%20Mothman!) | 0.0612 |
 [Dark Contract with the Eternal Darkness](https://db.ygoprodeck.com/card/?search=Dark%20Contract%20with%20the%20Eternal%20Darkness) | 0.0617 |
 [Number 97: Draglubion](https://db.ygoprodeck.com/card/?search=Number%2097:%20Draglubion) | 0.0617 |
-[Danger! Thunderbird!](https://db.ygoprodeck.com/card/?search=Danger!%20Thunderbird!) | 0.0621 |
+[Danger! Thunderbird!](https://db.ygoprodeck.com/card/?search=Danger!%20Thunderbird!) | 0.0622 |
 [Red Rose Dragon](https://db.ygoprodeck.com/card/?search=Red%20Rose%20Dragon) | 0.0622 |
 [Gem-Knight Fusion](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Fusion) | 0.0623 |
 [Latinum, Exarch of Dark World](https://db.ygoprodeck.com/card/?search=Latinum,%20Exarch%20of%20Dark%20World) | 0.0644 |
@@ -11560,7 +11560,7 @@
 [Red-Eyes Baby Dragon](https://db.ygoprodeck.com/card/?search=Red-Eyes%20Baby%20Dragon) | 11.9844 |
 [Hugin the Runick Wings](https://db.ygoprodeck.com/card/?search=Hugin%20the%20Runick%20Wings) | 11.9869 |
 [Mystical Refpanel](https://db.ygoprodeck.com/card/?search=Mystical%20Refpanel) | 11.9946 |
-[Key Mace #2](https://db.ygoprodeck.com/card/?search=Key%20Mace%20#2) | 12.7431 |
+[Key Mace #2](https://db.ygoprodeck.com/card/?search=Key%20Mace%20#2) | 12.7430 |
 [Gust Fan](https://db.ygoprodeck.com/card/?search=Gust%20Fan) | 12.9200 |
 [Overdrive Teleporter](https://db.ygoprodeck.com/card/?search=Overdrive%20Teleporter) | 13.3230 |
 [Infernoble Knight - Renaud](https://db.ygoprodeck.com/card/?search=Infernoble%20Knight%20-%20Renaud) | 13.3297 |
