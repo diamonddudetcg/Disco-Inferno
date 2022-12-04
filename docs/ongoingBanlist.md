@@ -225,7 +225,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Nessie!](https://db.ygoprodeck.com/card/?search=Danger!%20Nessie!) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Ogopogo!](https://db.ygoprodeck.com/card/?search=Danger!%20Ogopogo!) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger!? Jackalope?](https://db.ygoprodeck.com/card/?search=Danger!?%20Jackalope?) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Elf](https://db.ygoprodeck.com/card/?search=Dark%20Elf) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Magician Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dark Sage](https://db.ygoprodeck.com/card/?search=Dark%20Sage) | Illegal |
@@ -1814,6 +1813,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Bigfoot!](https://db.ygoprodeck.com/card/?search=Danger!%20Bigfoot!) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Mothman!](https://db.ygoprodeck.com/card/?search=Danger!%20Mothman!) | Limited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Eclipse Wyvern](https://db.ygoprodeck.com/card/?search=Eclipse%20Wyvern) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majespecter Unicorn - Kirin](https://db.ygoprodeck.com/card/?search=Majespecter%20Unicorn%20-%20Kirin) | Limited |
