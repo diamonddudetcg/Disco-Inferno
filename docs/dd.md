@@ -11604,7 +11604,7 @@
 [Spright Blue](https://db.ygoprodeck.com/card/?search=Spright%20Blue) | 38.2876 |
 [Breath of Light](https://db.ygoprodeck.com/card/?search=Breath%20of%20Light) | 41.8600 |
 [Elemental HERO Air Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Air%20Neos) | 41.9400 |
-[Novox's Prayer](https://db.ygoprodeck.com/card/?search=Novox's%20Prayer) | 46.4744 |
+[Novox's Prayer](https://db.ygoprodeck.com/card/?search=Novox's%20Prayer) | 46.4743 |
 [Primeval Planet Perlereino](https://db.ygoprodeck.com/card/?search=Primeval%20Planet%20Perlereino) | 55.4852 |
 [Yu-Jo Friendship](https://db.ygoprodeck.com/card/?search=Yu-Jo%20Friendship) | 59.9900 |
 [Baronne de Fleur](https://db.ygoprodeck.com/card/?search=Baronne%20de%20Fleur) | 75.1574 |
