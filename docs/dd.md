@@ -1810,8 +1810,8 @@
 [Revendread Executor](https://db.ygoprodeck.com/card/?search=Revendread%20Executor) | 0.0502 |
 [Crystal Beast Emerald Tortoise](https://db.ygoprodeck.com/card/?search=Crystal%20Beast%20Emerald%20Tortoise) | 0.0502 |
 [Spirit Ryu](https://db.ygoprodeck.com/card/?search=Spirit%20Ryu) | 0.0502 |
-[Dark World Punishment](https://db.ygoprodeck.com/card/?search=Dark%20World%20Punishment) | 0.0503 |
 [Condolence Puppet](https://db.ygoprodeck.com/card/?search=Condolence%20Puppet) | 0.0503 |
+[Dark World Punishment](https://db.ygoprodeck.com/card/?search=Dark%20World%20Punishment) | 0.0503 |
 [Gigaplant](https://db.ygoprodeck.com/card/?search=Gigaplant) | 0.0503 |
 [Earthbound Spirit](https://db.ygoprodeck.com/card/?search=Earthbound%20Spirit) | 0.0504 |
 [A Hero Lives](https://db.ygoprodeck.com/card/?search=A%20Hero%20Lives) | 0.0504 |
