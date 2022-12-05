@@ -12,7 +12,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Predaplant Darlingtonia Cobra](https://db.ygoprodeck.com/card/?search=Predaplant%20Darlingtonia%20Cobra) | 0.4998 | 0.63 | Illegal |
 [Shafu, the Wheeled Mayakashi](https://db.ygoprodeck.com/card/?search=Shafu,%20the%20Wheeled%20Mayakashi) | 0.5001 | 0.48 | Unlimited |
 [Orcust Harp Horror](https://db.ygoprodeck.com/card/?search=Orcust%20Harp%20Horror) | 0.5002 | 0.40 | Unlimited |
-[Ritual Beast Tamer Lara](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Lara) | 0.5003 | 0.45 | Unlimited |
+[Ritual Beast Tamer Lara](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Lara) | 0.5002 | 0.45 | Unlimited |
 
 <br>
 
