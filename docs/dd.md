@@ -6735,7 +6735,7 @@
 [Mine Mole](https://db.ygoprodeck.com/card/?search=Mine%20Mole) | 0.1597 |
 [Doomsday Horror](https://db.ygoprodeck.com/card/?search=Doomsday%20Horror) | 0.1597 |
 [Decode Talker Extended](https://db.ygoprodeck.com/card/?search=Decode%20Talker%20Extended) | 0.1597 |
-[King of the Skull Servants](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants) | 0.1598 |
+[King of the Skull Servants](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Skull%20Servants) | 0.1597 |
 [Mermail Abysslung](https://db.ygoprodeck.com/card/?search=Mermail%20Abysslung) | 0.1598 |
 [Hysteric Sign](https://db.ygoprodeck.com/card/?search=Hysteric%20Sign) | 0.1598 |
 [Harpie's Pet Baby Dragon](https://db.ygoprodeck.com/card/?search=Harpie's%20Pet%20Baby%20Dragon) | 0.1598 |
