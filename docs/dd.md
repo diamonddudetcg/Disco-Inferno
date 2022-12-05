@@ -8759,8 +8759,8 @@
 [Drowning Mirror Force](https://db.ygoprodeck.com/card/?search=Drowning%20Mirror%20Force) | 0.2599 |
 [Firewing Pegasus](https://db.ygoprodeck.com/card/?search=Firewing%20Pegasus) | 0.2599 |
 [Thunderspeed Summon](https://db.ygoprodeck.com/card/?search=Thunderspeed%20Summon) | 0.2599 |
-[Performapal Five-Rainbow Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Five-Rainbow%20Magician) | 0.2599 |
 [Live☆Twin Lil-la Treat](https://db.ygoprodeck.com/card/?search=Live☆Twin%20Lil-la%20Treat) | 0.2599 |
+[Performapal Five-Rainbow Magician](https://db.ygoprodeck.com/card/?search=Performapal%20Five-Rainbow%20Magician) | 0.2599 |
 [Traptrix Mantis](https://db.ygoprodeck.com/card/?search=Traptrix%20Mantis) | 0.2599 |
 [Scarred Warrior](https://db.ygoprodeck.com/card/?search=Scarred%20Warrior) | 0.2599 |
 [Quiet Life](https://db.ygoprodeck.com/card/?search=Quiet%20Life) | 0.2599 |
