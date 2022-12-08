@@ -6,8 +6,8 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | 0.4542 | 0.73 | Illegal |
-[Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | 0.4547 | 1.87 | Illegal |
+[Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | 0.4543 | 0.73 | Illegal |
+[Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | 0.4549 | 1.87 | Illegal |
 [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.4612 | 0.73 | Illegal |
 [Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4886 | 0.60 | Illegal |
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.4889 | 0.56 | Illegal |
@@ -15,7 +15,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Caius the Shadow Monarch](https://db.ygoprodeck.com/card/?search=Caius%20the%20Shadow%20Monarch) | 0.4920 | 0.54 | Illegal |
 [Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4936 | 0.58 | Illegal |
 [Ancient Gear Reactor Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reactor%20Dragon) | 0.4984 | 0.67 | Illegal |
-[Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.5012 | 0.43 | Unlimited |
+[Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.5011 | 0.43 | Unlimited |
 [Junk Forward](https://db.ygoprodeck.com/card/?search=Junk%20Forward) | 0.5013 | 0.43 | Unlimited |
 [Deck Devastation Virus](https://db.ygoprodeck.com/card/?search=Deck%20Devastation%20Virus) | 0.5022 | 0.20 | Unlimited |
 [Whitebeard, the Plunder Patroll Helm](https://db.ygoprodeck.com/card/?search=Whitebeard,%20the%20Plunder%20Patroll%20Helm) | 0.5035 | 0.48 | Unlimited |
