@@ -1625,7 +1625,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dark Sacrifice](https://db.ygoprodeck.com/card/?search=Dark%20Sacrifice) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dark Spirit Art - Greed](https://db.ygoprodeck.com/card/?search=Dark%20Spirit%20Art%20-%20Greed) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Darkfall](https://db.ygoprodeck.com/card/?search=Darkfall) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Deck Devastation Virus](https://db.ygoprodeck.com/card/?search=Deck%20Devastation%20Virus) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Destined Rivals](https://db.ygoprodeck.com/card/?search=Destined%20Rivals) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Destructive Daruma Karma Cannon](https://db.ygoprodeck.com/card/?search=Destructive%20Daruma%20Karma%20Cannon) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Different Dimension Ground](https://db.ygoprodeck.com/card/?search=Different%20Dimension%20Ground) | Illegal |
@@ -10435,6 +10434,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Deal of Phantom](https://db.ygoprodeck.com/card/?search=Deal%20of%20Phantom) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dealer's Choice](https://db.ygoprodeck.com/card/?search=Dealer's%20Choice) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Debunk](https://db.ygoprodeck.com/card/?search=Debunk) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Deck Devastation Virus](https://db.ygoprodeck.com/card/?search=Deck%20Devastation%20Virus) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Deep Dark Trap Hole](https://db.ygoprodeck.com/card/?search=Deep%20Dark%20Trap%20Hole) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Defenders Intersect](https://db.ygoprodeck.com/card/?search=Defenders%20Intersect) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Defense Draw](https://db.ygoprodeck.com/card/?search=Defense%20Draw) | Unlimited |
