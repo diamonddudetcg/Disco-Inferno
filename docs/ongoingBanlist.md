@@ -1014,7 +1014,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [SPYRAL Double Helix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Double%20Helix) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Summon Sorceress](https://db.ygoprodeck.com/card/?search=Summon%20Sorceress) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Dryas](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryas) | Illegal |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Dryatrentiay](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryatrentiay) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunvine Thrasher](https://db.ygoprodeck.com/card/?search=Sunvine%20Thrasher) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [T.G. Trident Launcher](https://db.ygoprodeck.com/card/?search=T.G.%20Trident%20Launcher) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Arrival Cyberse @Ignister](https://db.ygoprodeck.com/card/?search=The%20Arrival%20Cyberse%20@Ignister) | Illegal |
@@ -7473,6 +7472,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Daphne](https://db.ygoprodeck.com/card/?search=Sunavalon%20Daphne) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Dryades](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryades) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Dryanome](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryanome) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Dryatrentiay](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryatrentiay) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Melias](https://db.ygoprodeck.com/card/?search=Sunavalon%20Melias) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunvine Gardna](https://db.ygoprodeck.com/card/?search=Sunvine%20Gardna) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunvine Healer](https://db.ygoprodeck.com/card/?search=Sunvine%20Healer) | Unlimited |
