@@ -11,7 +11,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.4908 | 0.56 | Illegal |
 [Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4916 | 0.60 | Illegal |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4929 | 0.57 | Illegal |
-[Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | 0.4929 | 1.87 | Illegal |
+[Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | 0.4931 | 1.87 | Illegal |
 [Caius the Shadow Monarch](https://db.ygoprodeck.com/card/?search=Caius%20the%20Shadow%20Monarch) | 0.4933 | 0.54 | Illegal |
 [Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4959 | 0.58 | Illegal |
 [Odd-Eyes Phantasma Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Phantasma%20Dragon) | 0.5016 | 0.37 | Unlimited |
