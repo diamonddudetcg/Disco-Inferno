@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 332
+Estimated number of changes: 333
 
-Keep in mind there's still 1662 runs left
+Keep in mind there's still 1661 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -346,6 +346,7 @@ Keep in mind there's still 1662 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Dark World Punishment](https://db.ygoprodeck.com/card/?search=Dark%20World%20Punishment) | New card | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Spell Vanishing](https://db.ygoprodeck.com/card/?search=Spell%20Vanishing) | Illegal | Unlimited |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Revived Sky God](https://db.ygoprodeck.com/card/?search=The%20Revived%20Sky%20God) | Illegal | Unlimited |
+|<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | Illegal | Unlimited |
 
 <br>
 
