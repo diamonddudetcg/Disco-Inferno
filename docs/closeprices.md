@@ -11,7 +11,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.4940 | 0.56 | Illegal |
 [Caius the Shadow Monarch](https://db.ygoprodeck.com/card/?search=Caius%20the%20Shadow%20Monarch) | 0.4954 | 0.54 | Illegal |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4964 | 0.57 | Illegal |
-[Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4965 | 0.60 | Illegal |
+[Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4966 | 0.60 | Illegal |
 [Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4998 | 0.58 | Illegal |
 [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | 0.5013 | 0.45 | Unlimited |
 [Whitebeard, the Plunder Patroll Helm](https://db.ygoprodeck.com/card/?search=Whitebeard,%20the%20Plunder%20Patroll%20Helm) | 0.5018 | 0.48 | Unlimited |
