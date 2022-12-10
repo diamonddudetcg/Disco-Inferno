@@ -7,13 +7,13 @@ This is a list of cards that are likely to change legality before the next rotat
 | Card name | Average | Last | Projected legality |
 | :-- |
 [Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | 0.4678 | 0.73 | Illegal |
-[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.4744 | 0.73 | Illegal |
+[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.4745 | 0.73 | Illegal |
 [Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.4924 | 0.56 | Illegal |
-[Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4940 | 0.60 | Illegal |
+[Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4941 | 0.60 | Illegal |
 [Caius the Shadow Monarch](https://db.ygoprodeck.com/card/?search=Caius%20the%20Shadow%20Monarch) | 0.4944 | 0.54 | Illegal |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4946 | 0.57 | Illegal |
 [Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4978 | 0.58 | Illegal |
-[Dragoness the Wicked Knight](https://db.ygoprodeck.com/card/?search=Dragoness%20the%20Wicked%20Knight) | 0.5007 | 0.38 | Unlimited |
+[Dragoness the Wicked Knight](https://db.ygoprodeck.com/card/?search=Dragoness%20the%20Wicked%20Knight) | 0.5006 | 0.38 | Unlimited |
 [Whitebeard, the Plunder Patroll Helm](https://db.ygoprodeck.com/card/?search=Whitebeard,%20the%20Plunder%20Patroll%20Helm) | 0.5023 | 0.48 | Unlimited |
 [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | 0.5026 | 0.45 | Unlimited |
 [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | 0.5052 | 0.46 | Unlimited |
