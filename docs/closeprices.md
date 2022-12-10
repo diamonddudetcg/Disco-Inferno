@@ -7,9 +7,9 @@ This is a list of cards that are likely to change legality before the next rotat
 | Card name | Average | Last | Projected legality |
 | :-- |
 [Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | 0.4683 | 0.73 | Illegal |
-[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.4749 | 0.73 | Illegal |
-[Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.4925 | 0.56 | Illegal |
-[Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4942 | 0.60 | Illegal |
+[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.4750 | 0.73 | Illegal |
+[Spright Jet](https://db.ygoprodeck.com/card/?search=Spright%20Jet) | 0.4926 | 0.56 | Illegal |
+[Chain Material](https://db.ygoprodeck.com/card/?search=Chain%20Material) | 0.4943 | 0.60 | Illegal |
 [Caius the Shadow Monarch](https://db.ygoprodeck.com/card/?search=Caius%20the%20Shadow%20Monarch) | 0.4944 | 0.54 | Illegal |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4948 | 0.57 | Illegal |
 [Nimble Beaver](https://db.ygoprodeck.com/card/?search=Nimble%20Beaver) | 0.4980 | 0.58 | Illegal |
