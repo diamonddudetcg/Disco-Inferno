@@ -710,7 +710,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tyler the Great Warrior](https://db.ygoprodeck.com/card/?search=Tyler%20the%20Great%20Warrior) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ulevo](https://db.ygoprodeck.com/card/?search=Ulevo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ultimate Insect LV7](https://db.ygoprodeck.com/card/?search=Ultimate%20Insect%20LV7) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Valkyrie Brunhilde](https://db.ygoprodeck.com/card/?search=Valkyrie%20Brunhilde) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Baby](https://db.ygoprodeck.com/card/?search=Vampire%20Baby) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Dragon](https://db.ygoprodeck.com/card/?search=Vampire%20Dragon) | Illegal |
@@ -6568,6 +6567,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Unmasked Dragon](https://db.ygoprodeck.com/card/?search=Unmasked%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Unshaven Angler](https://db.ygoprodeck.com/card/?search=Unshaven%20Angler) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Upstart Golden Ninja](https://db.ygoprodeck.com/card/?search=Upstart%20Golden%20Ninja) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megabilis](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megabilis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megapolar](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megapolar) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ursarctic Megatanus](https://db.ygoprodeck.com/card/?search=Ursarctic%20Megatanus) | Unlimited |
