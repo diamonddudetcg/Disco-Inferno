@@ -13,7 +13,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Ancient Gear Reactor Dragon](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Reactor%20Dragon) | 0.5007 | 0.37 | Unlimited |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.5008 | 0.38 | Unlimited |
 [D/D/D Flame King Genghis](https://db.ygoprodeck.com/card/?search=D/D/D%20Flame%20King%20Genghis) | 0.5037 | 0.32 | Unlimited |
-[Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | 0.5110 | 0.16 | Unlimited |
+[Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | 0.5109 | 0.16 | Unlimited |
 
 <br>
 
