@@ -36,13 +36,19 @@ Virtual World has been legal in multiple formats and it's done pretty much nothi
 
 ## Semi-Limited
 
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect)
+
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari)
 
-Sky Striker hasn't done anything even after MAMA. Out of an abundance of caution we're not instantly unlimiting Kagari, but if SS does nothing next season, she'll probably become unlimited.
+None of these decks have done anything thus far. If any of them become overbearing we'll revisit these hits, but we want the format to be as open as possible.
 
 <br>
 
 ## Unlimited
+
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen)
+
+With just 1 Robina, Eglen can come back to 3.
 
 <br>
 
