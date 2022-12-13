@@ -10,7 +10,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Uria, Lord of Searing Flames](https://db.ygoprodeck.com/card/?search=Uria,%20Lord%20of%20Searing%20Flames) | 0.4988 | 0.54 | Illegal |
 [Whitebeard, the Plunder Patroll Helm](https://db.ygoprodeck.com/card/?search=Whitebeard,%20the%20Plunder%20Patroll%20Helm) | 0.5000 | 0.47 | Unlimited |
 [D/D/D Flame King Genghis](https://db.ygoprodeck.com/card/?search=D/D/D%20Flame%20King%20Genghis) | 0.5012 | 0.32 | Unlimited |
-[Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | 0.5062 | 0.16 | Unlimited |
+[Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | 0.5061 | 0.16 | Unlimited |
 
 <br>
 
