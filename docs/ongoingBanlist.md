@@ -1819,7 +1819,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Mothman!](https://db.ygoprodeck.com/card/?search=Danger!%20Mothman!) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Eclipse Wyvern](https://db.ygoprodeck.com/card/?search=Eclipse%20Wyvern) | Limited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majespecter Unicorn - Kirin](https://db.ygoprodeck.com/card/?search=Majespecter%20Unicorn%20-%20Kirin) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Monkeyboard](https://db.ygoprodeck.com/card/?search=Performapal%20Monkeyboard) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Limited |
@@ -1850,6 +1849,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Terraforming](https://db.ygoprodeck.com/card/?search=Terraforming) | Limited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Magical Explosion](https://db.ygoprodeck.com/card/?search=Magical%20Explosion) | Limited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Shine Ball](https://db.ygoprodeck.com/card/?search=Mystical%20Shine%20Ball) | Semi-Limited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen) | Semi-Limited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | Semi-Limited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [7 Colored Fish](https://db.ygoprodeck.com/card/?search=7%20Colored%20Fish) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Acrobat Monkey](https://db.ygoprodeck.com/card/?search=Acrobat%20Monkey) | Unlimited |

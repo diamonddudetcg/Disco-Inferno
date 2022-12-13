@@ -84,11 +84,9 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Chupacabra!](https://db.ygoprodeck.com/card/?search=Danger!%20Chupacabra!) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Mothman!](https://db.ygoprodeck.com/card/?search=Danger!%20Mothman!) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Eclipse Wyvern](https://db.ygoprodeck.com/card/?search=Eclipse%20Wyvern) | Limited |
-| <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Robina](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Robina) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majespecter Unicorn - Kirin](https://db.ygoprodeck.com/card/?search=Majespecter%20Unicorn%20-%20Kirin) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | Limited |
-| <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Limited |
 | <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy) | Limited |
@@ -108,6 +106,8 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | Card name | Status |
 | :-- | --: |
 | <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Shine Ball](https://db.ygoprodeck.com/card/?search=Mystical%20Shine%20Ball) | Semi-Limited |
+| <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Eglen](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Eglen) | Semi-Limited |
+| <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Resonance Insect](https://db.ygoprodeck.com/card/?search=Resonance%20Insect) | Semi-Limited |
 | <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kagari](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kagari) | Semi-Limited |
 
 <br>
