@@ -6,21 +6,21 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Harpie Channeler](https://db.ygoprodeck.com/card/?search=Harpie%20Channeler) | 0.4572 | 0.94 | Illegal |
-[Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | 0.4633 | 0.91 | Illegal |
-[Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | 0.4921 | 0.63 | Illegal |
-[Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | 0.4959 | 0.63 | Illegal |
+[Harpie Channeler](https://db.ygoprodeck.com/card/?search=Harpie%20Channeler) | 0.4577 | 0.94 | Illegal |
+[Magical Musket - Dancing Needle](https://db.ygoprodeck.com/card/?search=Magical%20Musket%20-%20Dancing%20Needle) | 0.4638 | 0.91 | Illegal |
+[Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | 0.4922 | 0.63 | Illegal |
+[Time Thief Double Barrel](https://db.ygoprodeck.com/card/?search=Time%20Thief%20Double%20Barrel) | 0.4960 | 0.63 | Illegal |
 [Constellar Sombre](https://db.ygoprodeck.com/card/?search=Constellar%20Sombre) | 0.4970 | 0.57 | Illegal |
-[Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Ruby) | 0.4989 | 0.54 | Illegal |
+[Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Ruby) | 0.4990 | 0.54 | Illegal |
 [Infinite Machine](https://db.ygoprodeck.com/card/?search=Infinite%20Machine) | 0.4993 | 0.56 | Illegal |
 [Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | 0.5016 | 0.46 | Unlimited |
-[Swordsman of Revealing Light](https://db.ygoprodeck.com/card/?search=Swordsman%20of%20Revealing%20Light) | 0.5034 | 0.41 | Unlimited |
-[Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | 0.5045 | 0.45 | Unlimited |
-[Dark Magician the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20the%20Dragon%20Knight) | 0.5047 | 0.17 | Unlimited |
-[Present Card](https://db.ygoprodeck.com/card/?search=Present%20Card) | 0.5053 | 0.39 | Unlimited |
-[Phantom Fortress Enterblathnir](https://db.ygoprodeck.com/card/?search=Phantom%20Fortress%20Enterblathnir) | 0.5080 | 0.41 | Unlimited |
-[Witchcrafter Vice-Madame](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Vice-Madame) | 0.5110 | 0.43 | Unlimited |
-[Laundry Dragonmaid](https://db.ygoprodeck.com/card/?search=Laundry%20Dragonmaid) | 0.5125 | 0.39 | Unlimited |
+[Swordsman of Revealing Light](https://db.ygoprodeck.com/card/?search=Swordsman%20of%20Revealing%20Light) | 0.5033 | 0.41 | Unlimited |
+[Dark Magician the Dragon Knight](https://db.ygoprodeck.com/card/?search=Dark%20Magician%20the%20Dragon%20Knight) | 0.5043 | 0.17 | Unlimited |
+[Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | 0.5044 | 0.45 | Unlimited |
+[Present Card](https://db.ygoprodeck.com/card/?search=Present%20Card) | 0.5052 | 0.39 | Unlimited |
+[Phantom Fortress Enterblathnir](https://db.ygoprodeck.com/card/?search=Phantom%20Fortress%20Enterblathnir) | 0.5079 | 0.41 | Unlimited |
+[Witchcrafter Vice-Madame](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Vice-Madame) | 0.5109 | 0.43 | Unlimited |
+[Laundry Dragonmaid](https://db.ygoprodeck.com/card/?search=Laundry%20Dragonmaid) | 0.5124 | 0.39 | Unlimited |
 
 <br>
 
