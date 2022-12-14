@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 334
+Estimated number of changes: 333
 
-Keep in mind there's still 243 runs left
+Keep in mind there's still 242 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -41,7 +41,6 @@ Keep in mind there's still 243 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Garuda the Wind Spirit](https://db.ygoprodeck.com/card/?search=Garuda%20the%20Wind%20Spirit) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gem-Turtle](https://db.ygoprodeck.com/card/?search=Gem-Turtle) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gimmick Puppet Gear Changer](https://db.ygoprodeck.com/card/?search=Gimmick%20Puppet%20Gear%20Changer) | Unlimited | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Guard](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Guard) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Shaman](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Shaman) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Great Moth](https://db.ygoprodeck.com/card/?search=Great%20Moth) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Guardian Ceal](https://db.ygoprodeck.com/card/?search=Guardian%20Ceal) | Unlimited | Illegal |
