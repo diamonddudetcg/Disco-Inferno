@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 332
+Estimated number of changes: 331
 
-Keep in mind there's still 135 runs left
+Keep in mind there's still 134 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -247,7 +247,6 @@ Keep in mind there's still 135 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Amulet Dragon](https://db.ygoprodeck.com/card/?search=Amulet%20Dragon) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D.3.S. Frog](https://db.ygoprodeck.com/card/?search=D.3.S.%20Frog) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dragoness the Wicked Knight](https://db.ygoprodeck.com/card/?search=Dragoness%20the%20Wicked%20Knight) | Illegal | Unlimited |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Ruby) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Masked HERO Anki](https://db.ygoprodeck.com/card/?search=Masked%20HERO%20Anki) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dyna Tank](https://db.ygoprodeck.com/card/?search=Dyna%20Tank) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Grapha, Dragon Overlord of Dark World](https://db.ygoprodeck.com/card/?search=Grapha,%20Dragon%20Overlord%20of%20Dark%20World) | New card | Unlimited |
