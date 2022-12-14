@@ -1546,7 +1546,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook of Life](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Life) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook of Secrets](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Secrets) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook of the Master](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20the%20Master) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbound](https://db.ygoprodeck.com/card/?search=Spellbound) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spiritualism](https://db.ygoprodeck.com/card/?search=Spiritualism) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spright Starter](https://db.ygoprodeck.com/card/?search=Spright%20Starter) | Illegal |
@@ -9657,6 +9656,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook of Miracles](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Miracles) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook of Power](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Power) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook of Wisdom](https://db.ygoprodeck.com/card/?search=Spellbook%20of%20Wisdom) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook Star Hall](https://db.ygoprodeck.com/card/?search=Spellbook%20Star%20Hall) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spider Web](https://db.ygoprodeck.com/card/?search=Spider%20Web) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spiders' Lair](https://db.ygoprodeck.com/card/?search=Spiders'%20Lair) | Unlimited |

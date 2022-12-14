@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 331
+Estimated number of changes: 330
 
-Keep in mind there's still 120 runs left
+Keep in mind there's still 119 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -114,7 +114,6 @@ Keep in mind there's still 120 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Sacred Sword of Seven Stars](https://db.ygoprodeck.com/card/?search=Sacred%20Sword%20of%20Seven%20Stars) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | Unlimited | Illegal |
-|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Spellbook Organization](https://db.ygoprodeck.com/card/?search=Spellbook%20Organization) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stardust Shimmer](https://db.ygoprodeck.com/card/?search=Stardust%20Shimmer) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Koi Koi](https://db.ygoprodeck.com/card/?search=Super%20Koi%20Koi) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Supermagic Sword of Raptinus](https://db.ygoprodeck.com/card/?search=Supermagic%20Sword%20of%20Raptinus) | Unlimited | Illegal |
