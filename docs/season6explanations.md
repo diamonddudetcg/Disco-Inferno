@@ -2,7 +2,7 @@
 title:  "Disco Inferno"
 ---
 
-## Disco Inferno Season 5 Banlist explanations:
+## Disco Inferno Season 6 Banlist explanations:
 
 
 You know the drill.
