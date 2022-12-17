@@ -6,7 +6,6 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Meotoko](https://db.ygoprodeck.com/card/?search=Meotoko) | 0.4993 | 0.99 | Illegal |
 
 <br>
 
