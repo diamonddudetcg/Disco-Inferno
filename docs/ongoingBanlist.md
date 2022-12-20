@@ -25,7 +25,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Dungeon Worm](https://db.ygoprodeck.com/card/?search=Dungeon%20Worm) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Fairy Dragon](https://db.ygoprodeck.com/card/?search=Fairy%20Dragon) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Fairy's Gift](https://db.ygoprodeck.com/card/?search=Fairy's%20Gift) | Illegal |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Faith Bird](https://db.ygoprodeck.com/card/?search=Faith%20Bird) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Flame Viper](https://db.ygoprodeck.com/card/?search=Flame%20Viper) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Flying Penguin](https://db.ygoprodeck.com/card/?search=Flying%20Penguin) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Garnecia Elefantis](https://db.ygoprodeck.com/card/?search=Garnecia%20Elefantis) | Illegal |
@@ -1998,6 +1997,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Empress Mantis](https://db.ygoprodeck.com/card/?search=Empress%20Mantis) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Enchanting Mermaid](https://db.ygoprodeck.com/card/?search=Enchanting%20Mermaid) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Evilswarm Heliotrope](https://db.ygoprodeck.com/card/?search=Evilswarm%20Heliotrope) | Unlimited |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Faith Bird](https://db.ygoprodeck.com/card/?search=Faith%20Bird) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Feral Imp](https://db.ygoprodeck.com/card/?search=Feral%20Imp) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Fiend Reflection #2](https://db.ygoprodeck.com/card/?search=Fiend%20Reflection%20#2) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Fiend Scorpion](https://db.ygoprodeck.com/card/?search=Fiend%20Scorpion) | Unlimited |

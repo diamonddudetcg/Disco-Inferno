@@ -8,14 +8,13 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 143
+Estimated number of changes: 142
 
-Keep in mind there's still 7423 runs left
+Keep in mind there's still 7422 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Ancient Tool](https://db.ygoprodeck.com/card/?search=Ancient%20Tool) | Unlimited | Illegal |
-|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Faith Bird](https://db.ygoprodeck.com/card/?search=Faith%20Bird) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Insect Knight](https://db.ygoprodeck.com/card/?search=Insect%20Knight) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Killer Needle](https://db.ygoprodeck.com/card/?search=Killer%20Needle) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Meotoko](https://db.ygoprodeck.com/card/?search=Meotoko) | Unlimited | Illegal |
