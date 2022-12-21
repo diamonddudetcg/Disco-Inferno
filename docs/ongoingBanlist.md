@@ -222,7 +222,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cloudian - Sheep Cloud](https://db.ygoprodeck.com/card/?search=Cloudian%20-%20Sheep%20Cloud) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cockroach Knight](https://db.ygoprodeck.com/card/?search=Cockroach%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Colossal Fighter/Assault Mode](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter/Assault%20Mode) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Sombre](https://db.ygoprodeck.com/card/?search=Constellar%20Sombre) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cranium Fish](https://db.ygoprodeck.com/card/?search=Cranium%20Fish) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Creation Resonator](https://db.ygoprodeck.com/card/?search=Creation%20Resonator) | Illegal |
@@ -553,7 +552,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ogdoabyss, the Ogdoadic Overlord](https://db.ygoprodeck.com/card/?search=Ogdoabyss,%20the%20Ogdoadic%20Overlord) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Orgoth the Relentless](https://db.ygoprodeck.com/card/?search=Orgoth%20the%20Relentless) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overdrive Teleporter](https://db.ygoprodeck.com/card/?search=Overdrive%20Teleporter) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Paces, Light of the Ghoti](https://db.ygoprodeck.com/card/?search=Paces,%20Light%20of%20the%20Ghoti) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Palladium Oracle Mahad](https://db.ygoprodeck.com/card/?search=Palladium%20Oracle%20Mahad) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Parallel eXceed](https://db.ygoprodeck.com/card/?search=Parallel%20eXceed) | Illegal |
@@ -3039,6 +3037,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Alrescha](https://db.ygoprodeck.com/card/?search=Constellar%20Alrescha) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Antares](https://db.ygoprodeck.com/card/?search=Constellar%20Antares) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Caduceus](https://db.ygoprodeck.com/card/?search=Constellar%20Caduceus) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Leonis](https://db.ygoprodeck.com/card/?search=Constellar%20Leonis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Pollux](https://db.ygoprodeck.com/card/?search=Constellar%20Pollux) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Rasalhague](https://db.ygoprodeck.com/card/?search=Constellar%20Rasalhague) | Unlimited |
@@ -5280,6 +5279,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overlay Eater](https://db.ygoprodeck.com/card/?search=Overlay%20Eater) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overlay Owl](https://db.ygoprodeck.com/card/?search=Overlay%20Owl) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overlay Sentinel](https://db.ygoprodeck.com/card/?search=Overlay%20Sentinel) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Oxygeddon](https://db.ygoprodeck.com/card/?search=Oxygeddon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Oyster Meister](https://db.ygoprodeck.com/card/?search=Oyster%20Meister) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [P.M. Captor](https://db.ygoprodeck.com/card/?search=P.M.%20Captor) | Unlimited |
