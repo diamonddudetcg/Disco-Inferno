@@ -984,7 +984,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Decode Talker Heatsoul](https://db.ygoprodeck.com/card/?search=Decode%20Talker%20Heatsoul) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Dharc the Dark Charmer, Gloomy](https://db.ygoprodeck.com/card/?search=Dharc%20the%20Dark%20Charmer,%20Gloomy) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Double Headed Anger Knuckle](https://db.ygoprodeck.com/card/?search=Double%20Headed%20Anger%20Knuckle) | Illegal |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Duel Link Dragon, the Duel Dragon](https://db.ygoprodeck.com/card/?search=Duel%20Link%20Dragon,%20the%20Duel%20Dragon) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Five-Headed Link Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Link%20Dragon) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Flash Charge Dragon](https://db.ygoprodeck.com/card/?search=Flash%20Charge%20Dragon) | Illegal |
@@ -7345,6 +7344,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Dispatchparazzi](https://db.ygoprodeck.com/card/?search=Dispatchparazzi) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Donner, Dagger Fur Hire](https://db.ygoprodeck.com/card/?search=Donner,%20Dagger%20Fur%20Hire) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Doublebyte Dragon](https://db.ygoprodeck.com/card/?search=Doublebyte%20Dragon) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Dragunity Knight - Romulus](https://db.ygoprodeck.com/card/?search=Dragunity%20Knight%20-%20Romulus) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Duelittle Chimera](https://db.ygoprodeck.com/card/?search=Duelittle%20Chimera) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Elphase](https://db.ygoprodeck.com/card/?search=Elphase) | Unlimited |
