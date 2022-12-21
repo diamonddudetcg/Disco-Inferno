@@ -427,7 +427,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Joker's Knight](https://db.ygoprodeck.com/card/?search=Joker's%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Junk Servant](https://db.ygoprodeck.com/card/?search=Junk%20Servant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Aeolo](https://db.ygoprodeck.com/card/?search=Jurrac%20Aeolo) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Guaiba](https://db.ygoprodeck.com/card/?search=Jurrac%20Guaiba) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Velo](https://db.ygoprodeck.com/card/?search=Jurrac%20Velo) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kaiser Glider - Golden Burst](https://db.ygoprodeck.com/card/?search=Kaiser%20Glider%20-%20Golden%20Burst) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Karakuri Merchant mdl 177 "Inashichi"](https://db.ygoprodeck.com/card/?search=Karakuri%20Merchant%20mdl%20177%20"Inashichi") | Illegal |
@@ -4493,6 +4492,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Brachis](https://db.ygoprodeck.com/card/?search=Jurrac%20Brachis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Dino](https://db.ygoprodeck.com/card/?search=Jurrac%20Dino) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Gallim](https://db.ygoprodeck.com/card/?search=Jurrac%20Gallim) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Guaiba](https://db.ygoprodeck.com/card/?search=Jurrac%20Guaiba) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Herra](https://db.ygoprodeck.com/card/?search=Jurrac%20Herra) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Iguanon](https://db.ygoprodeck.com/card/?search=Jurrac%20Iguanon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Monoloph](https://db.ygoprodeck.com/card/?search=Jurrac%20Monoloph) | Unlimited |

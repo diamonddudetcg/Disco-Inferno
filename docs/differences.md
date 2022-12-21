@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 143
+Estimated number of changes: 142
 
-Keep in mind there's still 7042 runs left
+Keep in mind there's still 7041 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -40,7 +40,6 @@ Keep in mind there's still 7042 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Gravekeeper's Descendant](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Descendant) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Harpie Channeler](https://db.ygoprodeck.com/card/?search=Harpie%20Channeler) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Infernity Knight](https://db.ygoprodeck.com/card/?search=Infernity%20Knight) | Unlimited | Illegal |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Jurrac Guaiba](https://db.ygoprodeck.com/card/?search=Jurrac%20Guaiba) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Koa'ki Meiru Crusader](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Crusader) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Koa'ki Meiru Ghoulungulate](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Ghoulungulate) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Obelisk the Tormentor](https://db.ygoprodeck.com/card/?search=Obelisk%20the%20Tormentor) | Unlimited | Illegal |
