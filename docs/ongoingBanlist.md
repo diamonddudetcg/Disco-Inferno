@@ -686,6 +686,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Weather Painter Cloud](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Cloud) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Weather Painter Sun](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Sun) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The White Stone of Ancients](https://db.ygoprodeck.com/card/?search=The%20White%20Stone%20of%20Ancients) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Winged Dragon of Ra](https://db.ygoprodeck.com/card/?search=The%20Winged%20Dragon%20of%20Ra) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Winged Dragon of Ra - Immortal Phoenix](https://db.ygoprodeck.com/card/?search=The%20Winged%20Dragon%20of%20Ra%20-%20Immortal%20Phoenix) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Winged Dragon of Ra - Sphere Mode](https://db.ygoprodeck.com/card/?search=The%20Winged%20Dragon%20of%20Ra%20-%20Sphere%20Mode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Therion "King" Regulus](https://db.ygoprodeck.com/card/?search=Therion%20"King"%20Regulus) | Illegal |
@@ -6391,7 +6392,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Wicked Dreadroot](https://db.ygoprodeck.com/card/?search=The%20Wicked%20Dreadroot) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Wicked Eraser](https://db.ygoprodeck.com/card/?search=The%20Wicked%20Eraser) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Wicked Worm Beast](https://db.ygoprodeck.com/card/?search=The%20Wicked%20Worm%20Beast) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Winged Dragon of Ra](https://db.ygoprodeck.com/card/?search=The%20Winged%20Dragon%20of%20Ra) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Theban Nightmare](https://db.ygoprodeck.com/card/?search=Theban%20Nightmare) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Theinen the Great Sphinx](https://db.ygoprodeck.com/card/?search=Theinen%20the%20Great%20Sphinx) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Therion "Bull" Ain](https://db.ygoprodeck.com/card/?search=Therion%20"Bull"%20Ain) | Unlimited |
