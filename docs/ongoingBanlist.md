@@ -1035,7 +1035,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Summon Sorceress](https://db.ygoprodeck.com/card/?search=Summon%20Sorceress) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunavalon Dryas](https://db.ygoprodeck.com/card/?search=Sunavalon%20Dryas) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunvine Thrasher](https://db.ygoprodeck.com/card/?search=Sunvine%20Thrasher) | Illegal |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [T.G. Trident Launcher](https://db.ygoprodeck.com/card/?search=T.G.%20Trident%20Launcher) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Arrival Cyberse @Ignister](https://db.ygoprodeck.com/card/?search=The%20Arrival%20Cyberse%20@Ignister) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [The Weather Painter Moonbow](https://db.ygoprodeck.com/card/?search=The%20Weather%20Painter%20Moonbow) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Topologic Gumblar Dragon](https://db.ygoprodeck.com/card/?search=Topologic%20Gumblar%20Dragon) | Illegal |
@@ -7482,6 +7481,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sunvine Healer](https://db.ygoprodeck.com/card/?search=Sunvine%20Healer) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Superheavy Samurai Scarecrow](https://db.ygoprodeck.com/card/?search=Superheavy%20Samurai%20Scarecrow) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sylvan Dancepione](https://db.ygoprodeck.com/card/?search=Sylvan%20Dancepione) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [T.G. Trident Launcher](https://db.ygoprodeck.com/card/?search=T.G.%20Trident%20Launcher) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Talkback Lancer](https://db.ygoprodeck.com/card/?search=Talkback%20Lancer) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Taotie Dragon](https://db.ygoprodeck.com/card/?search=Taotie%20Dragon) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Tenyi Spirit - Sahasrara](https://db.ygoprodeck.com/card/?search=Tenyi%20Spirit%20-%20Sahasrara) | Unlimited |
