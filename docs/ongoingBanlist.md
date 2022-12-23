@@ -730,6 +730,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Voivode](https://db.ygoprodeck.com/card/?search=Vampire%20Voivode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Venom Snake](https://db.ygoprodeck.com/card/?search=Venom%20Snake) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Awakening Forests](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Awakening%20Forests) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Flourishing Hills](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flourishing%20Hills) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vijam the Cubic Seed](https://db.ygoprodeck.com/card/?search=Vijam%20the%20Cubic%20Seed) | Illegal |
@@ -6636,7 +6637,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Venom Boa](https://db.ygoprodeck.com/card/?search=Venom%20Boa) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Venom Serpent](https://db.ygoprodeck.com/card/?search=Venom%20Serpent) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ventdra, the Empowered Warrior](https://db.ygoprodeck.com/card/?search=Ventdra,%20the%20Empowered%20Warrior) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Flowering Fields](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Flowering%20Fields) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Misting Seedlings](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Misting%20Seedlings) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Thawing Mountains](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Thawing%20Mountains) | Unlimited |
