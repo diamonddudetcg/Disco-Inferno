@@ -6,27 +6,27 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.3680 | 0.61 | Illegal |
-[Karbonala Warrior](https://db.ygoprodeck.com/card/?search=Karbonala%20Warrior) | 0.3742 | 0.74 | Illegal |
-[Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | 0.3946 | 0.58 | Illegal |
-[Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.3965 | 0.59 | Illegal |
+[Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.3681 | 0.61 | Illegal |
+[Karbonala Warrior](https://db.ygoprodeck.com/card/?search=Karbonala%20Warrior) | 0.3744 | 0.74 | Illegal |
+[Wall of Thorns](https://db.ygoprodeck.com/card/?search=Wall%20of%20Thorns) | 0.3947 | 0.58 | Illegal |
+[Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.3966 | 0.59 | Illegal |
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.4000 | 0.58 | Illegal |
-[Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | 0.4206 | 0.72 | Illegal |
-[Ojamassimilation](https://db.ygoprodeck.com/card/?search=Ojamassimilation) | 0.4278 | 0.58 | Illegal |
-[Starry Knight Rayel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Rayel) | 0.4312 | 0.60 | Illegal |
+[Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | 0.4207 | 0.72 | Illegal |
+[Ojamassimilation](https://db.ygoprodeck.com/card/?search=Ojamassimilation) | 0.4279 | 0.58 | Illegal |
+[Starry Knight Rayel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Rayel) | 0.4313 | 0.60 | Illegal |
 [Kozmo Tincan](https://db.ygoprodeck.com/card/?search=Kozmo%20Tincan) | 0.4359 | 0.56 | Illegal |
 [Magician of Black Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos) | 0.4366 | 0.60 | Illegal |
-[Dragunity Whirlwind](https://db.ygoprodeck.com/card/?search=Dragunity%20Whirlwind) | 0.4377 | 0.64 | Illegal |
-[Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | 0.4407 | 0.64 | Illegal |
+[Dragunity Whirlwind](https://db.ygoprodeck.com/card/?search=Dragunity%20Whirlwind) | 0.4378 | 0.64 | Illegal |
+[Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | 0.4408 | 0.64 | Illegal |
 [Gabrion, the Timelord](https://db.ygoprodeck.com/card/?search=Gabrion,%20the%20Timelord) | 0.4448 | 0.55 | Illegal |
-[Tin Goldfish](https://db.ygoprodeck.com/card/?search=Tin%20Goldfish) | 0.4454 | 0.63 | Illegal |
-[Madolche Hootcake](https://db.ygoprodeck.com/card/?search=Madolche%20Hootcake) | 0.4473 | 0.68 | Illegal |
+[Tin Goldfish](https://db.ygoprodeck.com/card/?search=Tin%20Goldfish) | 0.4455 | 0.63 | Illegal |
+[Madolche Hootcake](https://db.ygoprodeck.com/card/?search=Madolche%20Hootcake) | 0.4474 | 0.68 | Illegal |
 [Venom Cobra](https://db.ygoprodeck.com/card/?search=Venom%20Cobra) | 0.4502 | 0.55 | Illegal |
-[Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.4590 | 0.56 | Illegal |
-[Nebula Dragon](https://db.ygoprodeck.com/card/?search=Nebula%20Dragon) | 0.4611 | 0.68 | Illegal |
-[Leghul](https://db.ygoprodeck.com/card/?search=Leghul) | 0.4667 | 0.55 | Illegal |
+[Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.4591 | 0.56 | Illegal |
+[Nebula Dragon](https://db.ygoprodeck.com/card/?search=Nebula%20Dragon) | 0.4612 | 0.68 | Illegal |
+[Leghul](https://db.ygoprodeck.com/card/?search=Leghul) | 0.4668 | 0.55 | Illegal |
 [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | 0.4676 | 0.53 | Illegal |
-[Super Soldier Ritual](https://db.ygoprodeck.com/card/?search=Super%20Soldier%20Ritual) | 0.4747 | 0.60 | Illegal |
+[Super Soldier Ritual](https://db.ygoprodeck.com/card/?search=Super%20Soldier%20Ritual) | 0.4748 | 0.60 | Illegal |
 [Number C32: Shark Drake Veiss](https://db.ygoprodeck.com/card/?search=Number%20C32:%20Shark%20Drake%20Veiss) | 0.4748 | 0.56 | Illegal |
 [Knight of the Red Lotus](https://db.ygoprodeck.com/card/?search=Knight%20of%20the%20Red%20Lotus) | 0.4749 | 0.54 | Illegal |
 [Thousand-Eyes Restrict](https://db.ygoprodeck.com/card/?search=Thousand-Eyes%20Restrict) | 0.4753 | 0.52 | Illegal |
@@ -34,11 +34,11 @@ This is a list of cards that are likely to change legality before the next rotat
 [Number C107: Neo Galaxy-Eyes Tachyon Dragon](https://db.ygoprodeck.com/card/?search=Number%20C107:%20Neo%20Galaxy-Eyes%20Tachyon%20Dragon) | 0.4794 | 0.61 | Illegal |
 [Golden Castle of Stromberg](https://db.ygoprodeck.com/card/?search=Golden%20Castle%20of%20Stromberg) | 0.4795 | 0.54 | Illegal |
 [Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | 0.4799 | 0.53 | Illegal |
-[Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.4806 | 0.54 | Illegal |
+[Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.4807 | 0.54 | Illegal |
 [Ritual Beast Tamer Elder](https://db.ygoprodeck.com/card/?search=Ritual%20Beast%20Tamer%20Elder) | 0.4811 | 0.52 | Illegal |
 [Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | 0.4879 | 0.58 | Illegal |
 [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | 0.4887 | 0.58 | Illegal |
-[Monk of the Tenyi](https://db.ygoprodeck.com/card/?search=Monk%20of%20the%20Tenyi) | 0.4887 | 0.54 | Illegal |
+[Monk of the Tenyi](https://db.ygoprodeck.com/card/?search=Monk%20of%20the%20Tenyi) | 0.4888 | 0.54 | Illegal |
 [Arionpos, Serpent of the Ghoti](https://db.ygoprodeck.com/card/?search=Arionpos,%20Serpent%20of%20the%20Ghoti) | 0.4889 | 0.69 | Illegal |
 [The Tyrant Neptune](https://db.ygoprodeck.com/card/?search=The%20Tyrant%20Neptune) | 0.4907 | 0.53 | Illegal |
 [Get Out!](https://db.ygoprodeck.com/card/?search=Get%20Out!) | 0.4953 | 0.54 | Illegal |
@@ -46,22 +46,22 @@ This is a list of cards that are likely to change legality before the next rotat
 [Messenger of Peace](https://db.ygoprodeck.com/card/?search=Messenger%20of%20Peace) | 0.4992 | 0.54 | Illegal |
 [D/D/D Super Doom King Dark Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Dark%20Armageddon) | 0.4999 | 0.53 | Illegal |
 [Graceful Dice](https://db.ygoprodeck.com/card/?search=Graceful%20Dice) | 0.5001 | 0.47 | Unlimited |
-[Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | 0.5003 | 0.37 | Unlimited |
+[Glorious Numbers](https://db.ygoprodeck.com/card/?search=Glorious%20Numbers) | 0.5002 | 0.37 | Unlimited |
 [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | 0.5013 | 0.41 | Unlimited |
-[Dragon Seeker](https://db.ygoprodeck.com/card/?search=Dragon%20Seeker) | 0.5117 | 0.45 | Unlimited |
-[Atlantean Dragoons](https://db.ygoprodeck.com/card/?search=Atlantean%20Dragoons) | 0.5151 | 0.49 | Unlimited |
+[Dragon Seeker](https://db.ygoprodeck.com/card/?search=Dragon%20Seeker) | 0.5116 | 0.45 | Unlimited |
+[Atlantean Dragoons](https://db.ygoprodeck.com/card/?search=Atlantean%20Dragoons) | 0.5150 | 0.49 | Unlimited |
 [Supermagic Sword of Raptinus](https://db.ygoprodeck.com/card/?search=Supermagic%20Sword%20of%20Raptinus) | 0.5186 | 0.45 | Unlimited |
 [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.5201 | 0.49 | Unlimited |
-[Kozmo Sliprider](https://db.ygoprodeck.com/card/?search=Kozmo%20Sliprider) | 0.5225 | 0.44 | Unlimited |
+[Kozmo Sliprider](https://db.ygoprodeck.com/card/?search=Kozmo%20Sliprider) | 0.5224 | 0.44 | Unlimited |
 [Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.5378 | 0.46 | Unlimited |
-[Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | 0.5390 | 0.48 | Unlimited |
+[Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | 0.5389 | 0.48 | Unlimited |
 [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5453 | 0.39 | Unlimited |
 [Gravity Collapse](https://db.ygoprodeck.com/card/?search=Gravity%20Collapse) | 0.5460 | 0.43 | Unlimited |
-[Amulet Dragon](https://db.ygoprodeck.com/card/?search=Amulet%20Dragon) | 0.5495 | 0.45 | Unlimited |
+[Amulet Dragon](https://db.ygoprodeck.com/card/?search=Amulet%20Dragon) | 0.5494 | 0.45 | Unlimited |
 [Dante, Pilgrim of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Dante,%20Pilgrim%20of%20the%20Burning%20Abyss) | 0.5567 | 0.47 | Unlimited |
-[Skill Drain](https://db.ygoprodeck.com/card/?search=Skill%20Drain) | 0.6043 | 0.12 | Unlimited |
-[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.7550 | 0.38 | Unlimited |
-[Hexe Trude](https://db.ygoprodeck.com/card/?search=Hexe%20Trude) | 0.7900 | 0.20 | Unlimited |
+[Skill Drain](https://db.ygoprodeck.com/card/?search=Skill%20Drain) | 0.6041 | 0.12 | Unlimited |
+[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.7549 | 0.38 | Unlimited |
+[Hexe Trude](https://db.ygoprodeck.com/card/?search=Hexe%20Trude) | 0.7898 | 0.20 | Unlimited |
 
 <br>
 
