@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 153
+Estimated number of changes: 154
 
-Keep in mind there's still 5764 runs left
+Keep in mind there's still 5763 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -82,6 +82,7 @@ Keep in mind there's still 5764 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Ancient Forest](https://db.ygoprodeck.com/card/?search=Ancient%20Forest) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Infernity Launcher](https://db.ygoprodeck.com/card/?search=Infernity%20Launcher) | Limited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Magical Mallet](https://db.ygoprodeck.com/card/?search=Magical%20Mallet) | Unlimited | Illegal |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Messenger of Peace](https://db.ygoprodeck.com/card/?search=Messenger%20of%20Peace) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Piercing the Darkness](https://db.ygoprodeck.com/card/?search=Piercing%20the%20Darkness) | Unlimited | Illegal |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychic Feel Zone](https://db.ygoprodeck.com/card/?search=Psychic%20Feel%20Zone) | Unlimited | Illegal |

@@ -1474,6 +1474,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Marincess Dive](https://db.ygoprodeck.com/card/?search=Marincess%20Dive) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mathmech Equation](https://db.ygoprodeck.com/card/?search=Mathmech%20Equation) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mayhem Fur Hire](https://db.ygoprodeck.com/card/?search=Mayhem%20Fur%20Hire) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Messenger of Peace](https://db.ygoprodeck.com/card/?search=Messenger%20of%20Peace) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metalsilver Armor](https://db.ygoprodeck.com/card/?search=Metalsilver%20Armor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metamorphosis](https://db.ygoprodeck.com/card/?search=Metamorphosis) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Meteonis Drytron](https://db.ygoprodeck.com/card/?search=Meteonis%20Drytron) | Illegal |
@@ -9143,7 +9144,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Merciful Machine Angel](https://db.ygoprodeck.com/card/?search=Merciful%20Machine%20Angel) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mesmeric Control](https://db.ygoprodeck.com/card/?search=Mesmeric%20Control) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Message in a Bottle](https://db.ygoprodeck.com/card/?search=Message%20in%20a%20Bottle) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Messenger of Peace](https://db.ygoprodeck.com/card/?search=Messenger%20of%20Peace) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metalfoes Fusion](https://db.ygoprodeck.com/card/?search=Metalfoes%20Fusion) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metamorformation](https://db.ygoprodeck.com/card/?search=Metamorformation) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Metaphys Factor](https://db.ygoprodeck.com/card/?search=Metaphys%20Factor) | Unlimited |
