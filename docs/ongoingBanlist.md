@@ -1197,6 +1197,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Cyber Dragon Nova](https://db.ygoprodeck.com/card/?search=Cyber%20Dragon%20Nova) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Deviser King Deus Machinex](https://db.ygoprodeck.com/card/?search=D/D/D%20Deviser%20King%20Deus%20Machinex) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Marksman King Tell](https://db.ygoprodeck.com/card/?search=D/D/D%20Marksman%20King%20Tell) | Illegal |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Super Doom King Dark Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Dark%20Armageddon) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Wave High King Caesar](https://db.ygoprodeck.com/card/?search=D/D/D%20Wave%20High%20King%20Caesar) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Daigusto Phoenix](https://db.ygoprodeck.com/card/?search=Daigusto%20Phoenix) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Dante, Traveler of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Dante,%20Traveler%20of%20the%20Burning%20Abyss) | Illegal |
@@ -1429,7 +1430,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Glass Slippers](https://db.ygoprodeck.com/card/?search=Glass%20Slippers) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Good & Evil in the Burning Abyss](https://db.ygoprodeck.com/card/?search=Good%20%26%20Evil%20in%20the%20Burning%20Abyss) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Graceful Charity](https://db.ygoprodeck.com/card/?search=Graceful%20Charity) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Graceful Dice](https://db.ygoprodeck.com/card/?search=Graceful%20Dice) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gravekeeper's Servant](https://db.ygoprodeck.com/card/?search=Gravekeeper's%20Servant) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Greed Grado](https://db.ygoprodeck.com/card/?search=Greed%20Grado) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gust Fan](https://db.ygoprodeck.com/card/?search=Gust%20Fan) | Illegal |
@@ -7831,7 +7831,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [CXyz Skypalace Babylon](https://db.ygoprodeck.com/card/?search=CXyz%20Skypalace%20Babylon) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Cyberse Reminder](https://db.ygoprodeck.com/card/?search=Cyberse%20Reminder) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Stone King Darius](https://db.ygoprodeck.com/card/?search=D/D/D%20Stone%20King%20Darius) | Unlimited |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Super Doom King Dark Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Dark%20Armageddon) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Wave King Caesar](https://db.ygoprodeck.com/card/?search=D/D/D%20Wave%20King%20Caesar) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Daigusto Emeral](https://db.ygoprodeck.com/card/?search=Daigusto%20Emeral) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Dark Anthelion Dragon](https://db.ygoprodeck.com/card/?search=Dark%20Anthelion%20Dragon) | Unlimited |
@@ -8870,6 +8869,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gouki Face Turn](https://db.ygoprodeck.com/card/?search=Gouki%20Face%20Turn) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gouki Finishing Move](https://db.ygoprodeck.com/card/?search=Gouki%20Finishing%20Move) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gouki Re-Match](https://db.ygoprodeck.com/card/?search=Gouki%20Re-Match) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Graceful Dice](https://db.ygoprodeck.com/card/?search=Graceful%20Dice) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Grand Convergence](https://db.ygoprodeck.com/card/?search=Grand%20Convergence) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Grand Spiritual Art - Ichirin](https://db.ygoprodeck.com/card/?search=Grand%20Spiritual%20Art%20-%20Ichirin) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Gravedigger Ghoul](https://db.ygoprodeck.com/card/?search=Gravedigger%20Ghoul) | Unlimited |
