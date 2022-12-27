@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 155
+Estimated number of changes: 156
 
-Keep in mind there's still 5415 runs left
+Keep in mind there's still 5414 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -75,6 +75,7 @@ Keep in mind there's still 5415 runs left
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Arionpos, Serpent of the Ghoti](https://db.ygoprodeck.com/card/?search=Arionpos,%20Serpent%20of%20the%20Ghoti) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Daigusto Gulldos](https://db.ygoprodeck.com/card/?search=Daigusto%20Gulldos) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Guoglim, Spear of the Ghoti](https://db.ygoprodeck.com/card/?search=Guoglim,%20Spear%20of%20the%20Ghoti) | Unlimited | Illegal |
+|<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Junk Gardna](https://db.ygoprodeck.com/card/?search=Junk%20Gardna) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Lavalval Dragun](https://db.ygoprodeck.com/card/?search=Lavalval%20Dragun) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Coach King Giantrainer](https://db.ygoprodeck.com/card/?search=Coach%20King%20Giantrainer) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [D/D/D Super Doom King Dark Armageddon](https://db.ygoprodeck.com/card/?search=D/D/D%20Super%20Doom%20King%20Dark%20Armageddon) | Unlimited | Illegal |
