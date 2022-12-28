@@ -609,6 +609,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rokket Recharger](https://db.ygoprodeck.com/card/?search=Rokket%20Recharger) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rose, Warrior of Revenge](https://db.ygoprodeck.com/card/?search=Rose,%20Warrior%20of%20Revenge) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Royal Swamp Eel](https://db.ygoprodeck.com/card/?search=Royal%20Swamp%20Eel) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [S-Force Rappa Chiyomaru](https://db.ygoprodeck.com/card/?search=S-Force%20Rappa%20Chiyomaru) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Sage with Eyes of Blue](https://db.ygoprodeck.com/card/?search=Sage%20with%20Eyes%20of%20Blue) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Salamangreat Spinny](https://db.ygoprodeck.com/card/?search=Salamangreat%20Spinny) | Illegal |
@@ -5743,7 +5744,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Royal Knight of the Ice Barrier](https://db.ygoprodeck.com/card/?search=Royal%20Knight%20of%20the%20Ice%20Barrier) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Royal Magical Library](https://db.ygoprodeck.com/card/?search=Royal%20Magical%20Library) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Royal Straight Slasher](https://db.ygoprodeck.com/card/?search=Royal%20Straight%20Slasher) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rubic, Malebranche of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Rubic,%20Malebranche%20of%20the%20Burning%20Abyss) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ruddy Rose Witch](https://db.ygoprodeck.com/card/?search=Ruddy%20Rose%20Witch) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ruffian Railcar](https://db.ygoprodeck.com/card/?search=Ruffian%20Railcar) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Rush Warrior](https://db.ygoprodeck.com/card/?search=Rush%20Warrior) | Unlimited |
