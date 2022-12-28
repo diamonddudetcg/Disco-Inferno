@@ -6,28 +6,28 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[EN Shuffle](https://db.ygoprodeck.com/card/?search=EN%20Shuffle) | 0.3076 | 1.00 | Illegal |
+[EN Shuffle](https://db.ygoprodeck.com/card/?search=EN%20Shuffle) | 0.3078 | 1.00 | Illegal |
 [Archfiend Black Skull Dragon](https://db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon) | 0.3949 | 0.66 | Illegal |
 [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.3950 | 0.68 | Illegal |
-[Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.3995 | 0.62 | Illegal |
+[Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.3996 | 0.62 | Illegal |
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4057 | 0.60 | Illegal |
-[Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4275 | 0.61 | Illegal |
+[Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4276 | 0.61 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4381 | 0.56 | Illegal |
-[Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | 0.4383 | 0.56 | Illegal |
-[World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4391 | 0.59 | Illegal |
-[Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | 0.4392 | 0.56 | Illegal |
+[Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | 0.4384 | 0.56 | Illegal |
+[World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4392 | 0.59 | Illegal |
+[Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | 0.4393 | 0.56 | Illegal |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4429 | 0.65 | Illegal |
 [Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.4441 | 0.59 | Illegal |
 [Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.4447 | 0.55 | Illegal |
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.4457 | 0.59 | Illegal |
-[Maximum Six](https://db.ygoprodeck.com/card/?search=Maximum%20Six) | 0.4481 | 0.79 | Illegal |
+[Maximum Six](https://db.ygoprodeck.com/card/?search=Maximum%20Six) | 0.4482 | 0.79 | Illegal |
 [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | 0.4489 | 0.56 | Illegal |
 [Akashic Magician](https://db.ygoprodeck.com/card/?search=Akashic%20Magician) | 0.4559 | 0.64 | Illegal |
 [Garuda the Wind Spirit](https://db.ygoprodeck.com/card/?search=Garuda%20the%20Wind%20Spirit) | 0.4579 | 0.57 | Illegal |
 [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.4625 | 0.53 | Illegal |
 [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | 0.4662 | 0.55 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4696 | 0.55 | Illegal |
-[Gabrion, the Timelord](https://db.ygoprodeck.com/card/?search=Gabrion,%20the%20Timelord) | 0.4706 | 0.55 | Illegal |
+[Gabrion, the Timelord](https://db.ygoprodeck.com/card/?search=Gabrion,%20the%20Timelord) | 0.4707 | 0.55 | Illegal |
 [Venom Cobra](https://db.ygoprodeck.com/card/?search=Venom%20Cobra) | 0.4747 | 0.55 | Illegal |
 [Lyna the Light Charmer](https://db.ygoprodeck.com/card/?search=Lyna%20the%20Light%20Charmer) | 0.4749 | 0.60 | Illegal |
 [Witchcrafter Vice-Madame](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Vice-Madame) | 0.4759 | 0.52 | Illegal |
@@ -38,10 +38,10 @@ This is a list of cards that are likely to change legality before the next rotat
 [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | 0.4835 | 0.52 | Illegal |
 [Starry Knight Rayel](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Rayel) | 0.4858 | 0.69 | Illegal |
 [Overtex Qoatlus](https://db.ygoprodeck.com/card/?search=Overtex%20Qoatlus) | 0.4882 | 0.52 | Illegal |
-[Karbonala Warrior](https://db.ygoprodeck.com/card/?search=Karbonala%20Warrior) | 0.4888 | 0.91 | Illegal |
+[Karbonala Warrior](https://db.ygoprodeck.com/card/?search=Karbonala%20Warrior) | 0.4890 | 0.91 | Illegal |
 [Magician of Black Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos) | 0.4913 | 0.70 | Illegal |
-[Tuning Magician](https://db.ygoprodeck.com/card/?search=Tuning%20Magician) | 0.4925 | 0.60 | Illegal |
-[Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | 0.4926 | 0.66 | Illegal |
+[Tuning Magician](https://db.ygoprodeck.com/card/?search=Tuning%20Magician) | 0.4926 | 0.60 | Illegal |
+[Lunalight Wolf](https://db.ygoprodeck.com/card/?search=Lunalight%20Wolf) | 0.4927 | 0.66 | Illegal |
 [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.4952 | 0.54 | Illegal |
 [Infinite Light](https://db.ygoprodeck.com/card/?search=Infinite%20Light) | 0.4966 | 0.56 | Illegal |
 [Soul Absorption](https://db.ygoprodeck.com/card/?search=Soul%20Absorption) | 0.4967 | 0.51 | Illegal |
@@ -67,15 +67,15 @@ This is a list of cards that are likely to change legality before the next rotat
 [Hero of the East](https://db.ygoprodeck.com/card/?search=Hero%20of%20the%20East) | 0.5311 | 0.42 | Unlimited |
 [Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | 0.5324 | 0.43 | Unlimited |
 [Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | 0.5374 | 0.41 | Unlimited |
-[Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | 0.5485 | 0.36 | Unlimited |
+[Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | 0.5484 | 0.36 | Unlimited |
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5550 | 0.45 | Unlimited |
 [Shiranui Squire](https://db.ygoprodeck.com/card/?search=Shiranui%20Squire) | 0.5587 | 0.42 | Unlimited |
-[Synkron Resonator](https://db.ygoprodeck.com/card/?search=Synkron%20Resonator) | 0.5937 | 0.35 | Unlimited |
-[Cross-Sheep](https://db.ygoprodeck.com/card/?search=Cross-Sheep) | 0.5947 | 0.06 | Unlimited |
-[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.6188 | 0.40 | Limited |
-[Hexe Trude](https://db.ygoprodeck.com/card/?search=Hexe%20Trude) | 0.6450 | 0.20 | Unlimited |
-[Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.6509 | 0.30 | Unlimited |
-[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.6628 | 0.38 | Unlimited |
+[Synkron Resonator](https://db.ygoprodeck.com/card/?search=Synkron%20Resonator) | 0.5936 | 0.35 | Unlimited |
+[Cross-Sheep](https://db.ygoprodeck.com/card/?search=Cross-Sheep) | 0.5945 | 0.06 | Unlimited |
+[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.6187 | 0.40 | Limited |
+[Hexe Trude](https://db.ygoprodeck.com/card/?search=Hexe%20Trude) | 0.6448 | 0.20 | Unlimited |
+[Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.6508 | 0.30 | Unlimited |
+[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.6627 | 0.38 | Unlimited |
 
 <br>
 
