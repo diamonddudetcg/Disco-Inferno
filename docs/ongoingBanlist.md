@@ -444,6 +444,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [King of the Swamp](https://db.ygoprodeck.com/card/?search=King%20of%20the%20Swamp) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [King Tiger Wanghu](https://db.ygoprodeck.com/card/?search=King%20Tiger%20Wanghu) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kitchen Dragonmaid](https://db.ygoprodeck.com/card/?search=Kitchen%20Dragonmaid) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Knight of the Red Lotus](https://db.ygoprodeck.com/card/?search=Knight%20of%20the%20Red%20Lotus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Knightmare Corruptor Iblee](https://db.ygoprodeck.com/card/?search=Knightmare%20Corruptor%20Iblee) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Koa'ki Meiru Bergzak](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Bergzak) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Koa'ki Meiru Crusader](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Crusader) | Illegal |
@@ -4556,7 +4557,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kiseitai](https://db.ygoprodeck.com/card/?search=Kiseitai) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Kiwi Magician Girl](https://db.ygoprodeck.com/card/?search=Kiwi%20Magician%20Girl) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Knight Day Grepher](https://db.ygoprodeck.com/card/?search=Knight%20Day%20Grepher) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Knight of the Red Lotus](https://db.ygoprodeck.com/card/?search=Knight%20of%20the%20Red%20Lotus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Knightmare Incarnation Idlee](https://db.ygoprodeck.com/card/?search=Knightmare%20Incarnation%20Idlee) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Koa'ki Meiru Beetle](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Beetle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Koa'ki Meiru Boulder](https://db.ygoprodeck.com/card/?search=Koa'ki%20Meiru%20Boulder) | Unlimited |
