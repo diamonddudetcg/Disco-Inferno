@@ -799,6 +799,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Herald of Perfection](https://db.ygoprodeck.com/card/?search=Herald%20of%20Perfection) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Illusion of Chaos](https://db.ygoprodeck.com/card/?search=Illusion%20of%20Chaos) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Libromancer Doombroker](https://db.ygoprodeck.com/card/?search=Libromancer%20Doombroker) | Illegal |
+<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Magician of Black Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Magician of Black Chaos MAX](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos%20MAX) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Malacoda, Netherlord of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Malacoda,%20Netherlord%20of%20the%20Burning%20Abyss) | Illegal |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Nekroz of Areadbhair](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Areadbhair) | Illegal |
@@ -6963,7 +6964,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Litmus Doom Swordsman](https://db.ygoprodeck.com/card/?search=Litmus%20Doom%20Swordsman) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Lord of the Red](https://db.ygoprodeck.com/card/?search=Lord%20of%20the%20Red) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Lycanthrope](https://db.ygoprodeck.com/card/?search=Lycanthrope) | Unlimited |
-<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Magician of Black Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Black%20Chaos) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Magician of Chaos](https://db.ygoprodeck.com/card/?search=Magician%20of%20Chaos) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Magikey Mechmortar - Garesglasser](https://db.ygoprodeck.com/card/?search=Magikey%20Mechmortar%20-%20Garesglasser) | Unlimited |
 <img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Magikey Mechmusket - Batosbuster](https://db.ygoprodeck.com/card/?search=Magikey%20Mechmusket%20-%20Batosbuster) | Unlimited |
