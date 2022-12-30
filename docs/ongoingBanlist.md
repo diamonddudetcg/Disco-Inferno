@@ -773,7 +773,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yellow Baboon, Archer of the Forest](https://db.ygoprodeck.com/card/?search=Yellow%20Baboon,%20Archer%20of%20the%20Forest) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel - Terror Incarnate](https://db.ygoprodeck.com/card/?search=Yubel%20-%20Terror%20Incarnate) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel - The Ultimate Nightmare](https://db.ygoprodeck.com/card/?search=Yubel%20-%20The%20Ultimate%20Nightmare) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zep, Ruby of the Ghoti](https://db.ygoprodeck.com/card/?search=Zep,%20Ruby%20of%20the%20Ghoti) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zeta Reticulant](https://db.ygoprodeck.com/card/?search=Zeta%20Reticulant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zone Eater](https://db.ygoprodeck.com/card/?search=Zone%20Eater) | Illegal |
@@ -6884,6 +6883,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yubel](https://db.ygoprodeck.com/card/?search=Yubel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Yuki-Musume, the Ice Mayakashi](https://db.ygoprodeck.com/card/?search=Yuki-Musume,%20the%20Ice%20Mayakashi) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Z-Metal Tank](https://db.ygoprodeck.com/card/?search=Z-Metal%20Tank) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zaborg the Mega Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Mega%20Monarch) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zaborg the Thunder Monarch](https://db.ygoprodeck.com/card/?search=Zaborg%20the%20Thunder%20Monarch) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zalamander Catalyzer](https://db.ygoprodeck.com/card/?search=Zalamander%20Catalyzer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zany Zebra](https://db.ygoprodeck.com/card/?search=Zany%20Zebra) | Unlimited |
