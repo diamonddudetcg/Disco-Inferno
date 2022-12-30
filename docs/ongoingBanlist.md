@@ -1514,7 +1514,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Opti-Camouflage Armor](https://db.ygoprodeck.com/card/?search=Opti-Camouflage%20Armor) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Orcustrated Return](https://db.ygoprodeck.com/card/?search=Orcustrated%20Return) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Painful Choice](https://db.ygoprodeck.com/card/?search=Painful%20Choice) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pantheism of the Monarchs](https://db.ygoprodeck.com/card/?search=Pantheism%20of%20the%20Monarchs) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Phalanx Pike](https://db.ygoprodeck.com/card/?search=Phalanx%20Pike) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Photon Sanctuary](https://db.ygoprodeck.com/card/?search=Photon%20Sanctuary) | Illegal |
@@ -9297,6 +9296,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Packet Swap](https://db.ygoprodeck.com/card/?search=Packet%20Swap) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Painful Decision](https://db.ygoprodeck.com/card/?search=Painful%20Decision) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Painful Return](https://db.ygoprodeck.com/card/?search=Painful%20Return) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Palace of the Elemental Lords](https://db.ygoprodeck.com/card/?search=Palace%20of%20the%20Elemental%20Lords) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pandemonium](https://db.ygoprodeck.com/card/?search=Pandemonium) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Parallel Panzer](https://db.ygoprodeck.com/card/?search=Parallel%20Panzer) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Parallel Twister](https://db.ygoprodeck.com/card/?search=Parallel%20Twister) | Unlimited |
