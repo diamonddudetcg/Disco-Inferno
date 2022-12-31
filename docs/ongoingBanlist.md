@@ -488,6 +488,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Master Peace, the True Dracoslaying King](https://db.ygoprodeck.com/card/?search=Master%20Peace,%20the%20True%20Dracoslaying%20King) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Sigma](https://db.ygoprodeck.com/card/?search=Mathmech%20Sigma) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Subtraction](https://db.ygoprodeck.com/card/?search=Mathmech%20Subtraction) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maximum Six](https://db.ygoprodeck.com/card/?search=Maximum%20Six) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maxx "C"](https://db.ygoprodeck.com/card/?search=Maxx%20"C") | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mayosenju Daibak](https://db.ygoprodeck.com/card/?search=Mayosenju%20Daibak) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mekk-Knight Blue Sky](https://db.ygoprodeck.com/card/?search=Mekk-Knight%20Blue%20Sky) | Illegal |
@@ -4921,7 +4922,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Nabla](https://db.ygoprodeck.com/card/?search=Mathmech%20Nabla) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Matriarch of Nephthys](https://db.ygoprodeck.com/card/?search=Matriarch%20of%20Nephthys) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Max Warrior](https://db.ygoprodeck.com/card/?search=Max%20Warrior) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maximum Six](https://db.ygoprodeck.com/card/?search=Maximum%20Six) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mayosenju Hitot](https://db.ygoprodeck.com/card/?search=Mayosenju%20Hitot) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mazera DeVille](https://db.ygoprodeck.com/card/?search=Mazera%20DeVille) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mecha Bunny](https://db.ygoprodeck.com/card/?search=Mecha%20Bunny) | Unlimited |
