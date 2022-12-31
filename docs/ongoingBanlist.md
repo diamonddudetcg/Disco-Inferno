@@ -893,7 +893,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Lady Brilliant Diamond](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lady%20Brilliant%20Diamond) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Master Diamond](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Master%20Diamond) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Prismaura](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Prismaura) | Illegal |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Ruby) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gilti-Gearfried the Magical Steel Knight](https://db.ygoprodeck.com/card/?search=Gilti-Gearfried%20the%20Magical%20Steel%20Knight) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Essedarii](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Essedarii) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gladiator Beast Gaiodiaz](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Gaiodiaz) | Illegal |
@@ -7135,6 +7134,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Aquamarine](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Aquamarine) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Lady Lapis Lazuli](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lady%20Lapis%20Lazuli) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Lady Rose Diamond](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Lady%20Rose%20Diamond) | Unlimited |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Ruby) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Seraphinite](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Seraphinite) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Topaz](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Topaz) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Zirconia](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Zirconia) | Unlimited |

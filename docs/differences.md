@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 172
+Estimated number of changes: 173
 
-Keep in mind there's still 4112 runs left
+Keep in mind there's still 4111 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -152,6 +152,7 @@ Keep in mind there's still 4112 runs left
 |<img src="assets/ritual.png" alt="Ritual Monster" width="12" height="12"/> [Nekroz of Trishula](https://db.ygoprodeck.com/card/?search=Nekroz%20of%20Trishula) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Archfiend's Manifestation](https://db.ygoprodeck.com/card/?search=Archfiend's%20Manifestation) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Dante, Pilgrim of the Burning Abyss](https://db.ygoprodeck.com/card/?search=Dante,%20Pilgrim%20of%20the%20Burning%20Abyss) | Illegal | Unlimited |
+|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Gem-Knight Ruby](https://db.ygoprodeck.com/card/?search=Gem-Knight%20Ruby) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Idaten the Conqueror Star](https://db.ygoprodeck.com/card/?search=Idaten%20the%20Conqueror%20Star) | Illegal | Unlimited |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Witchcrafter Vice-Madame](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Vice-Madame) | Illegal | Unlimited |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Cross-Sheep](https://db.ygoprodeck.com/card/?search=Cross-Sheep) | Illegal | Unlimited |
