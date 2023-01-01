@@ -958,6 +958,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Warrior of Tradition](https://db.ygoprodeck.com/card/?search=Warrior%20of%20Tradition) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Zombie Warrior](https://db.ygoprodeck.com/card/?search=Zombie%20Warrior) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Accesscode Talker](https://db.ygoprodeck.com/card/?search=Accesscode%20Talker) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Akashic Magician](https://db.ygoprodeck.com/card/?search=Akashic%20Magician) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Aleister the Invoker of Madness](https://db.ygoprodeck.com/card/?search=Aleister%20the%20Invoker%20of%20Madness) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Amatsu-Okami of the Divine Peaks](https://db.ygoprodeck.com/card/?search=Amatsu-Okami%20of%20the%20Divine%20Peaks) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ancient Gear Ballista](https://db.ygoprodeck.com/card/?search=Ancient%20Gear%20Ballista) | Illegal |
@@ -7279,7 +7280,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Abyss Actor - Hyper Director](https://db.ygoprodeck.com/card/?search=Abyss%20Actor%20-%20Hyper%20Director) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Abyss Keeper](https://db.ygoprodeck.com/card/?search=Abyss%20Keeper) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Agave Dragon](https://db.ygoprodeck.com/card/?search=Agave%20Dragon) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Akashic Magician](https://db.ygoprodeck.com/card/?search=Akashic%20Magician) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Alien Shocktrooper M-Frame](https://db.ygoprodeck.com/card/?search=Alien%20Shocktrooper%20M-Frame) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Hexstia](https://db.ygoprodeck.com/card/?search=Altergeist%20Hexstia) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Altergeist Kidolga](https://db.ygoprodeck.com/card/?search=Altergeist%20Kidolga) | Unlimited |
