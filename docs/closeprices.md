@@ -6,31 +6,31 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Naturia Sacred Tree](https://db.ygoprodeck.com/card/?search=Naturia%20Sacred%20Tree) | 0.1757 | 0.95 | Illegal |
-[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.2474 | 3.14 | Illegal |
-[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.3002 | 1.79 | Illegal |
-[Madolche Promenade](https://db.ygoprodeck.com/card/?search=Madolche%20Promenade) | 0.3982 | 1.83 | Illegal |
+[Naturia Sacred Tree](https://db.ygoprodeck.com/card/?search=Naturia%20Sacred%20Tree) | 0.1759 | 0.95 | Illegal |
+[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.2480 | 3.14 | Illegal |
+[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.3005 | 1.79 | Illegal |
+[Madolche Promenade](https://db.ygoprodeck.com/card/?search=Madolche%20Promenade) | 0.3985 | 1.83 | Illegal |
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4565 | 0.60 | Illegal |
-[Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.4571 | 0.62 | Illegal |
+[Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.4572 | 0.62 | Illegal |
 [Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | 0.4589 | 0.72 | Illegal |
-[Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | 0.4595 | 0.74 | Illegal |
-[Archfiend Black Skull Dragon](https://db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon) | 0.4641 | 0.66 | Illegal |
-[Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | 0.4675 | 0.98 | Illegal |
-[Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.4694 | 0.68 | Illegal |
+[Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | 0.4596 | 0.74 | Illegal |
+[Archfiend Black Skull Dragon](https://db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon) | 0.4642 | 0.66 | Illegal |
+[Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | 0.4676 | 0.98 | Illegal |
+[Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | 0.4695 | 0.68 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4699 | 0.56 | Illegal |
 [Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | 0.4701 | 0.56 | Illegal |
 [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | 0.4708 | 0.56 | Illegal |
 [Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.4722 | 0.55 | Illegal |
 [Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4752 | 0.61 | Illegal |
 [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | 0.4779 | 0.56 | Illegal |
-[World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4785 | 0.59 | Illegal |
+[World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4786 | 0.59 | Illegal |
 [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.4801 | 0.53 | Illegal |
 [Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.4822 | 0.59 | Illegal |
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.4834 | 0.59 | Illegal |
 [Garuda the Wind Spirit](https://db.ygoprodeck.com/card/?search=Garuda%20the%20Wind%20Spirit) | 0.4872 | 0.57 | Illegal |
 [Witchcrafter Vice-Madame](https://db.ygoprodeck.com/card/?search=Witchcrafter%20Vice-Madame) | 0.4874 | 0.52 | Illegal |
 [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | 0.4881 | 0.55 | Illegal |
-[EN Shuffle](https://db.ygoprodeck.com/card/?search=EN%20Shuffle) | 0.4886 | 1.00 | Illegal |
+[EN Shuffle](https://db.ygoprodeck.com/card/?search=EN%20Shuffle) | 0.4887 | 1.00 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4906 | 0.55 | Illegal |
 [Gabrion, the Timelord](https://db.ygoprodeck.com/card/?search=Gabrion,%20the%20Timelord) | 0.4914 | 0.55 | Illegal |
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.4927 | 0.53 | Illegal |
@@ -38,7 +38,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | 0.4930 | 0.52 | Illegal |
 [Venom Cobra](https://db.ygoprodeck.com/card/?search=Venom%20Cobra) | 0.4944 | 0.55 | Illegal |
 [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | 0.4952 | 0.53 | Illegal |
-[Clear Vice Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Vice%20Dragon) | 0.4996 | 0.55 | Illegal |
+[Clear Vice Dragon](https://db.ygoprodeck.com/card/?search=Clear%20Vice%20Dragon) | 0.4997 | 0.55 | Illegal |
 [Hero of the East](https://db.ygoprodeck.com/card/?search=Hero%20of%20the%20East) | 0.5021 | 0.42 | Unlimited |
 [Merlin](https://db.ygoprodeck.com/card/?search=Merlin) | 0.5041 | 0.41 | Unlimited |
 [Libromancer Doombroker](https://db.ygoprodeck.com/card/?search=Libromancer%20Doombroker) | 0.5044 | 0.44 | Unlimited |
@@ -48,8 +48,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | 0.5077 | 0.48 | Unlimited |
 [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5093 | 0.39 | Unlimited |
 [Shiranui Squire](https://db.ygoprodeck.com/card/?search=Shiranui%20Squire) | 0.5225 | 0.42 | Unlimited |
-[Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5276 | 0.45 | Unlimited |
-[Hexe Trude](https://db.ygoprodeck.com/card/?search=Hexe%20Trude) | 0.5287 | 0.20 | Unlimited |
+[Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5275 | 0.45 | Unlimited |
+[Hexe Trude](https://db.ygoprodeck.com/card/?search=Hexe%20Trude) | 0.5286 | 0.20 | Unlimited |
 [Synkron Resonator](https://db.ygoprodeck.com/card/?search=Synkron%20Resonator) | 0.5300 | 0.35 | Unlimited |
 [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.5592 | 0.30 | Unlimited |
 [Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5616 | 0.40 | Limited |
