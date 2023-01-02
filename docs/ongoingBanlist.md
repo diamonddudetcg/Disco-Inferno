@@ -1420,6 +1420,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Earthshattering Event](https://db.ygoprodeck.com/card/?search=Earthshattering%20Event) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Eldlixir of Black Awakening](https://db.ygoprodeck.com/card/?search=Eldlixir%20of%20Black%20Awakening) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Elf's Light](https://db.ygoprodeck.com/card/?search=Elf's%20Light) | Illegal |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EN Shuffle](https://db.ygoprodeck.com/card/?search=EN%20Shuffle) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Endless Engine Argyro System](https://db.ygoprodeck.com/card/?search=Endless%20Engine%20Argyro%20System) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Exosister Pax](https://db.ygoprodeck.com/card/?search=Exosister%20Pax) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Fateful Adventure](https://db.ygoprodeck.com/card/?search=Fateful%20Adventure) | Illegal |
@@ -8651,7 +8652,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Emerging Emergency Rescute Rescue](https://db.ygoprodeck.com/card/?search=Emerging%20Emergency%20Rescute%20Rescue) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Empowerment](https://db.ygoprodeck.com/card/?search=Empowerment) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EN - Engage Neo Space](https://db.ygoprodeck.com/card/?search=EN%20-%20Engage%20Neo%20Space) | Unlimited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EN Shuffle](https://db.ygoprodeck.com/card/?search=EN%20Shuffle) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [EN Wave](https://db.ygoprodeck.com/card/?search=EN%20Wave) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Enchanting Fitting Room](https://db.ygoprodeck.com/card/?search=Enchanting%20Fitting%20Room) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [End of the World](https://db.ygoprodeck.com/card/?search=End%20of%20the%20World) | Unlimited |
