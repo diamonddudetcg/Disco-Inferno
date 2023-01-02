@@ -1729,7 +1729,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Saber Hole](https://db.ygoprodeck.com/card/?search=Saber%20Hole) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Secret Barrel](https://db.ygoprodeck.com/card/?search=Secret%20Barrel) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shaddoll Schism](https://db.ygoprodeck.com/card/?search=Shaddoll%20Schism) | Illegal |
-<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Sixth Sense](https://db.ygoprodeck.com/card/?search=Sixth%20Sense) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Skill Drain](https://db.ygoprodeck.com/card/?search=Skill%20Drain) | Illegal |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Smashing Horn](https://db.ygoprodeck.com/card/?search=Smashing%20Horn) | Illegal |
@@ -11314,6 +11313,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow Impulse](https://db.ygoprodeck.com/card/?search=Shadow%20Impulse) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow of Eyes](https://db.ygoprodeck.com/card/?search=Shadow%20of%20Eyes) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow Spell](https://db.ygoprodeck.com/card/?search=Shadow%20Spell) | Unlimited |
+<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shadow-Imprisoning Mirror](https://db.ygoprodeck.com/card/?search=Shadow-Imprisoning%20Mirror) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shapesister](https://db.ygoprodeck.com/card/?search=Shapesister) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shattered Axe](https://db.ygoprodeck.com/card/?search=Shattered%20Axe) | Unlimited |
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Shield Handler](https://db.ygoprodeck.com/card/?search=Shield%20Handler) | Unlimited |
