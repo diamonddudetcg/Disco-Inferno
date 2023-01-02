@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 178
+Estimated number of changes: 179
 
-Keep in mind there's still 3555 runs left
+Keep in mind there's still 3554 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -120,6 +120,7 @@ Keep in mind there's still 3555 runs left
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Revived Sky God](https://db.ygoprodeck.com/card/?search=The%20Revived%20Sky%20God) | Unlimited | Illegal |
 |<img src="assets/trap.png" alt="Trap" width="12" height="12"/> [The Sanctified Darklord](https://db.ygoprodeck.com/card/?search=The%20Sanctified%20Darklord) | Unlimited | Illegal |
 |<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Superdreadnought Rail Cannon Gustav Max](https://db.ygoprodeck.com/card/?search=Superdreadnought%20Rail%20Cannon%20Gustav%20Max) | Illegal | Limited |
+|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hero of the East](https://db.ygoprodeck.com/card/?search=Hero%20of%20the%20East) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Temple of Skulls](https://db.ygoprodeck.com/card/?search=Temple%20of%20Skulls) | Illegal | Unlimited |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Wolf](https://db.ygoprodeck.com/card/?search=Wolf) | Illegal | Unlimited |

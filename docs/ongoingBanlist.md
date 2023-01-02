@@ -35,7 +35,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Gruesome Goo](https://db.ygoprodeck.com/card/?search=Gruesome%20Goo) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Happy Lover](https://db.ygoprodeck.com/card/?search=Happy%20Lover) | Illegal |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hero of the East](https://db.ygoprodeck.com/card/?search=Hero%20of%20the%20East) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Igknight Crusader](https://db.ygoprodeck.com/card/?search=Igknight%20Crusader) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Insect Knight](https://db.ygoprodeck.com/card/?search=Insect%20Knight) | Illegal |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Invader from Another Dimension](https://db.ygoprodeck.com/card/?search=Invader%20from%20Another%20Dimension) | Illegal |
@@ -2069,6 +2068,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Harpie Lady](https://db.ygoprodeck.com/card/?search=Harpie%20Lady) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Headless Knight](https://db.ygoprodeck.com/card/?search=Headless%20Knight) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hercules Beetle](https://db.ygoprodeck.com/card/?search=Hercules%20Beetle) | Unlimited |
+<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hero of the East](https://db.ygoprodeck.com/card/?search=Hero%20of%20the%20East) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hibikime](https://db.ygoprodeck.com/card/?search=Hibikime) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Hieratic Seal of the Sun Dragon Overlord](https://db.ygoprodeck.com/card/?search=Hieratic%20Seal%20of%20the%20Sun%20Dragon%20Overlord) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [High Tide Gyojin](https://db.ygoprodeck.com/card/?search=High%20Tide%20Gyojin) | Unlimited |
