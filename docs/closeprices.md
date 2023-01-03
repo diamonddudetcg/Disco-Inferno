@@ -6,15 +6,15 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.3738 | 1.79 | Illegal |
-[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.3914 | 3.50 | Illegal |
+[Madolche Puddingcess Chocolat-a-la-Mode](https://db.ygoprodeck.com/card/?search=Madolche%20Puddingcess%20Chocolat-a-la-Mode) | 0.3741 | 1.79 | Illegal |
+[Raidraptor - Arsenal Falcon](https://db.ygoprodeck.com/card/?search=Raidraptor%20-%20Arsenal%20Falcon) | 0.3920 | 3.50 | Illegal |
 [Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4207 | 0.65 | Illegal |
-[Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4635 | 0.60 | Illegal |
+[Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4636 | 0.60 | Illegal |
 [Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.4652 | 0.62 | Illegal |
-[Madolche Promenade](https://db.ygoprodeck.com/card/?search=Madolche%20Promenade) | 0.4681 | 1.55 | Illegal |
-[Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | 0.4713 | 0.57 | Illegal |
+[Madolche Promenade](https://db.ygoprodeck.com/card/?search=Madolche%20Promenade) | 0.4683 | 1.55 | Illegal |
+[Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | 0.4714 | 0.57 | Illegal |
 [Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | 0.4733 | 0.70 | Illegal |
-[Archfiend Black Skull Dragon](https://db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon) | 0.4738 | 0.66 | Illegal |
+[Archfiend Black Skull Dragon](https://db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon) | 0.4739 | 0.66 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4744 | 0.56 | Illegal |
 [Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | 0.4746 | 0.56 | Illegal |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4751 | 0.65 | Illegal |
@@ -24,20 +24,20 @@ This is a list of cards that are likely to change legality before the next rotat
 [Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4817 | 0.55 | Illegal |
 [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | 0.4820 | 0.56 | Illegal |
 [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.4826 | 0.53 | Illegal |
-[World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4840 | 0.59 | Illegal |
-[Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.4875 | 0.59 | Illegal |
+[World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4841 | 0.59 | Illegal |
+[Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.4876 | 0.59 | Illegal |
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.4887 | 0.59 | Illegal |
 [Girsu, the Orcust Mekk-Knight](https://db.ygoprodeck.com/card/?search=Girsu,%20the%20Orcust%20Mekk-Knight) | 0.4905 | 0.53 | Illegal |
 [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | 0.4912 | 0.55 | Illegal |
 [Garuda the Wind Spirit](https://db.ygoprodeck.com/card/?search=Garuda%20the%20Wind%20Spirit) | 0.4913 | 0.57 | Illegal |
 [Kozmo DOG Fighter](https://db.ygoprodeck.com/card/?search=Kozmo%20DOG%20Fighter) | 0.4921 | 0.53 | Illegal |
-[Dogoran, the Mad Flame Kaiju](https://db.ygoprodeck.com/card/?search=Dogoran,%20the%20Mad%20Flame%20Kaiju) | 0.4928 | 0.56 | Illegal |
-[Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | 0.4929 | 1.00 | Illegal |
+[Dogoran, the Mad Flame Kaiju](https://db.ygoprodeck.com/card/?search=Dogoran,%20the%20Mad%20Flame%20Kaiju) | 0.4929 | 0.56 | Illegal |
+[Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | 0.4930 | 1.00 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4934 | 0.51 | Illegal |
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.4936 | 0.51 | Illegal |
 [Gabrion, the Timelord](https://db.ygoprodeck.com/card/?search=Gabrion,%20the%20Timelord) | 0.4943 | 0.55 | Illegal |
 [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | 0.4944 | 0.52 | Illegal |
-[Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.4945 | 0.53 | Illegal |
+[Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.4946 | 0.53 | Illegal |
 [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | 0.4953 | 0.54 | Illegal |
 [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | 0.4969 | 0.53 | Illegal |
 [Venom Cobra](https://db.ygoprodeck.com/card/?search=Venom%20Cobra) | 0.4971 | 0.55 | Illegal |
@@ -53,7 +53,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5237 | 0.45 | Unlimited |
 [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.5464 | 0.30 | Unlimited |
 [Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5536 | 0.40 | Limited |
-[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5786 | 0.38 | Unlimited |
+[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5785 | 0.38 | Unlimited |
 
 <br>
 
