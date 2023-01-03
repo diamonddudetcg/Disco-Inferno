@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 180
+Estimated number of changes: 181
 
-Keep in mind there's still 3357 runs left
+Keep in mind there's still 3356 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -33,6 +33,7 @@ Keep in mind there's still 3357 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D/D Cerberus](https://db.ygoprodeck.com/card/?search=D/D%20Cerberus) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D/D Nighthowl](https://db.ygoprodeck.com/card/?search=D/D%20Nighthowl) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [D/D/D Rebel King Leonidas](https://db.ygoprodeck.com/card/?search=D/D/D%20Rebel%20King%20Leonidas) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger!? Tsuchinoko?](https://db.ygoprodeck.com/card/?search=Danger!?%20Tsuchinoko?) | Limited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Darklord Ixchel](https://db.ygoprodeck.com/card/?search=Darklord%20Ixchel) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Endymion, the Mighty Master of Magic](https://db.ygoprodeck.com/card/?search=Endymion,%20the%20Mighty%20Master%20of%20Magic) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fog King](https://db.ygoprodeck.com/card/?search=Fog%20King) | Unlimited | Illegal |
