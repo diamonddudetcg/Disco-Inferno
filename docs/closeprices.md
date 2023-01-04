@@ -7,7 +7,7 @@ This is a list of cards that are likely to change legality before the next rotat
 | Card name | Average | Last | Projected legality |
 | :-- |
 [Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4417 | 0.65 | Illegal |
-[Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4760 | 0.60 | Illegal |
+[Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4761 | 0.60 | Illegal |
 [Gladiator Beast Samnite](https://db.ygoprodeck.com/card/?search=Gladiator%20Beast%20Samnite) | 0.4794 | 0.62 | Illegal |
 [Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | 0.4804 | 0.57 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4822 | 0.56 | Illegal |
@@ -15,12 +15,12 @@ This is a list of cards that are likely to change legality before the next rotat
 [Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.4828 | 0.55 | Illegal |
 [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | 0.4830 | 0.56 | Illegal |
 [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.4869 | 0.53 | Illegal |
-[Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4879 | 0.55 | Illegal |
+[Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4880 | 0.55 | Illegal |
 [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | 0.4891 | 0.56 | Illegal |
 [Archfiend Black Skull Dragon](https://db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon) | 0.4909 | 0.66 | Illegal |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4911 | 0.65 | Illegal |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4938 | 0.59 | Illegal |
-[Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | 0.4940 | 0.70 | Illegal |
+[Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | 0.4941 | 0.70 | Illegal |
 [Girsu, the Orcust Mekk-Knight](https://db.ygoprodeck.com/card/?search=Girsu,%20the%20Orcust%20Mekk-Knight) | 0.4941 | 0.53 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4950 | 0.51 | Illegal |
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.4951 | 0.51 | Illegal |
@@ -44,7 +44,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Shiranui Squire](https://db.ygoprodeck.com/card/?search=Shiranui%20Squire) | 0.5085 | 0.42 | Unlimited |
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5170 | 0.45 | Unlimited |
 [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.5238 | 0.30 | Unlimited |
-[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5396 | 0.40 | Limited |
+[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5395 | 0.40 | Limited |
 [Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5604 | 0.38 | Unlimited |
 
 <br>
