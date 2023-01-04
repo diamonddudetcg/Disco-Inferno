@@ -312,6 +312,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fiber Jar](https://db.ygoprodeck.com/card/?search=Fiber%20Jar) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Filo, Messenger Fur Hire](https://db.ygoprodeck.com/card/?search=Filo,%20Messenger%20Fur%20Hire) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire Flint Lady](https://db.ygoprodeck.com/card/?search=Fire%20Flint%20Lady) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Barong](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Barong) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Yaksha](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Yaksha) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King High Avatar Garunix](https://db.ygoprodeck.com/card/?search=Fire%20King%20High%20Avatar%20Garunix) | Illegal |
@@ -3758,7 +3759,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire Ant Ascator](https://db.ygoprodeck.com/card/?search=Fire%20Ant%20Ascator) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire Cracker](https://db.ygoprodeck.com/card/?search=Fire%20Cracker) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire Hand](https://db.ygoprodeck.com/card/?search=Fire%20Hand) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Garunix](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Garunix) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire King Avatar Kirin](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Kirin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Fire Princess](https://db.ygoprodeck.com/card/?search=Fire%20Princess) | Unlimited |
