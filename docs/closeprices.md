@@ -21,7 +21,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4954 | 0.51 | Illegal |
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.4955 | 0.51 | Illegal |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4958 | 0.65 | Illegal |
-[Archfiend Black Skull Dragon](https://db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon) | 0.4958 | 0.66 | Illegal |
+[Archfiend Black Skull Dragon](https://db.ygoprodeck.com/card/?search=Archfiend%20Black%20Skull%20Dragon) | 0.4959 | 0.66 | Illegal |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4966 | 0.59 | Illegal |
 [Kozmo DOG Fighter](https://db.ygoprodeck.com/card/?search=Kozmo%20DOG%20Fighter) | 0.4966 | 0.53 | Illegal |
 [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | 0.4974 | 0.52 | Illegal |
@@ -35,7 +35,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.5040 | 0.49 | Unlimited |
 [Shiranui Squire](https://db.ygoprodeck.com/card/?search=Shiranui%20Squire) | 0.5059 | 0.42 | Unlimited |
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5150 | 0.45 | Unlimited |
-[Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.5173 | 0.30 | Unlimited |
+[Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.5172 | 0.30 | Unlimited |
 [Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5355 | 0.40 | Limited |
 [Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5551 | 0.38 | Unlimited |
 
