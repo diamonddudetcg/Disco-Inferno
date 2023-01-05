@@ -27,7 +27,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | 0.4973 | 0.52 | Illegal |
 [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | 0.4979 | 0.55 | Illegal |
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.4986 | 0.53 | Illegal |
-[Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | 0.4992 | 0.70 | Illegal |
+[Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | 0.4993 | 0.70 | Illegal |
 [Bad Reaction to Simochi](https://db.ygoprodeck.com/card/?search=Bad%20Reaction%20to%20Simochi) | 0.4993 | 0.59 | Illegal |
 [Synkron Resonator](https://db.ygoprodeck.com/card/?search=Synkron%20Resonator) | 0.5015 | 0.35 | Unlimited |
 [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=Charubin%20the%20Fire%20Knight) | 0.5024 | 0.49 | Unlimited |
@@ -37,8 +37,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Shiranui Squire](https://db.ygoprodeck.com/card/?search=Shiranui%20Squire) | 0.5063 | 0.42 | Unlimited |
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5153 | 0.45 | Unlimited |
 [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.5182 | 0.30 | Unlimited |
-[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5361 | 0.40 | Limited |
-[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5559 | 0.38 | Unlimited |
+[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5360 | 0.40 | Limited |
+[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5558 | 0.38 | Unlimited |
 
 <br>
 
