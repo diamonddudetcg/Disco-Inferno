@@ -271,6 +271,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Ecclesia, the Virtuous](https://db.ygoprodeck.com/card/?search=Dogmatika%20Ecclesia,%20the%20Virtuous) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Maximus](https://db.ygoprodeck.com/card/?search=Dogmatika%20Maximus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogoran, the Mad Flame Kaiju](https://db.ygoprodeck.com/card/?search=Dogoran,%20the%20Mad%20Flame%20Kaiju) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doomkaiser Dragon/Assault Mode](https://db.ygoprodeck.com/card/?search=Doomkaiser%20Dragon/Assault%20Mode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [DoSolfachord Coolia](https://db.ygoprodeck.com/card/?search=DoSolfachord%20Coolia) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Double Iris Magician](https://db.ygoprodeck.com/card/?search=Double%20Iris%20Magician) | Illegal |
@@ -3460,7 +3461,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Donpa, Marksman Fur Hire](https://db.ygoprodeck.com/card/?search=Donpa,%20Marksman%20Fur%20Hire) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Donyoribo @Ignister](https://db.ygoprodeck.com/card/?search=Donyoribo%20@Ignister) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doodle Beast - Stego](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Stego) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doodle Beast - Tyranno](https://db.ygoprodeck.com/card/?search=Doodle%20Beast%20-%20Tyranno) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doom Donuts](https://db.ygoprodeck.com/card/?search=Doom%20Donuts) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doom Dozer](https://db.ygoprodeck.com/card/?search=Doom%20Dozer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doom Kraken](https://db.ygoprodeck.com/card/?search=Doom%20Kraken) | Unlimited |
