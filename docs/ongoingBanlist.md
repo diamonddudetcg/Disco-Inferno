@@ -270,6 +270,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Diviner of the Herald](https://db.ygoprodeck.com/card/?search=Diviner%20of%20the%20Herald) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Ecclesia, the Virtuous](https://db.ygoprodeck.com/card/?search=Dogmatika%20Ecclesia,%20the%20Virtuous) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Maximus](https://db.ygoprodeck.com/card/?search=Dogmatika%20Maximus) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogoran, the Mad Flame Kaiju](https://db.ygoprodeck.com/card/?search=Dogoran,%20the%20Mad%20Flame%20Kaiju) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doomkaiser Dragon/Assault Mode](https://db.ygoprodeck.com/card/?search=Doomkaiser%20Dragon/Assault%20Mode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [DoSolfachord Coolia](https://db.ygoprodeck.com/card/?search=DoSolfachord%20Coolia) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Double Iris Magician](https://db.ygoprodeck.com/card/?search=Double%20Iris%20Magician) | Illegal |
@@ -3449,7 +3450,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Fleurdelis, the Knighted](https://db.ygoprodeck.com/card/?search=Dogmatika%20Fleurdelis,%20the%20Knighted) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Nexus](https://db.ygoprodeck.com/card/?search=Dogmatika%20Nexus) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogmatika Theo, the Iron Punch](https://db.ygoprodeck.com/card/?search=Dogmatika%20Theo,%20the%20Iron%20Punch) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogoran, the Mad Flame Kaiju](https://db.ygoprodeck.com/card/?search=Dogoran,%20the%20Mad%20Flame%20Kaiju) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dogu](https://db.ygoprodeck.com/card/?search=Dogu) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doitsu](https://db.ygoprodeck.com/card/?search=Doitsu) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Doki Doki](https://db.ygoprodeck.com/card/?search=Doki%20Doki) | Unlimited |
