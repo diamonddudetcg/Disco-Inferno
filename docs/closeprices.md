@@ -23,7 +23,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Kozmo DOG Fighter](https://db.ygoprodeck.com/card/?search=Kozmo%20DOG%20Fighter) | 0.4975 | 0.53 | Illegal |
 [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | 0.4980 | 0.52 | Illegal |
 [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | 0.4990 | 0.59 | Illegal |
-[Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | 0.4994 | 0.55 | Illegal |
+[Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | 0.4995 | 0.55 | Illegal |
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.4995 | 0.53 | Illegal |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.4997 | 0.65 | Illegal |
 [Ancient Warriors - Ingenious Zhuge Kong](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20-%20Ingenious%20Zhuge%20Kong) | 0.5020 | 0.48 | Unlimited |
