@@ -198,6 +198,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Arasuda](https://db.ygoprodeck.com/card/?search=Bujin%20Arasuda) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Hirume](https://db.ygoprodeck.com/card/?search=Bujin%20Hirume) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Mikazuchi](https://db.ygoprodeck.com/card/?search=Bujin%20Mikazuchi) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Burning Skull Head](https://db.ygoprodeck.com/card/?search=Burning%20Skull%20Head) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buten](https://db.ygoprodeck.com/card/?search=Buten) | Illegal |
@@ -2868,7 +2869,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bubonic Vermin](https://db.ygoprodeck.com/card/?search=Bubonic%20Vermin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Mahitotsu](https://db.ygoprodeck.com/card/?search=Bujin%20Mahitotsu) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Torifune](https://db.ygoprodeck.com/card/?search=Bujin%20Torifune) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Boar](https://db.ygoprodeck.com/card/?search=Bujingi%20Boar) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Centipede](https://db.ygoprodeck.com/card/?search=Bujingi%20Centipede) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Bujingi Crane](https://db.ygoprodeck.com/card/?search=Bujingi%20Crane) | Unlimited |
