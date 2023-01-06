@@ -6,9 +6,9 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4560 | 0.65 | Illegal |
+[Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4561 | 0.65 | Illegal |
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4846 | 0.60 | Illegal |
-[Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | 0.4865 | 0.57 | Illegal |
+[Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | 0.4866 | 0.57 | Illegal |
 [Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.4875 | 0.55 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4876 | 0.56 | Illegal |
 [Primula the Rikka Fairy](https://db.ygoprodeck.com/card/?search=Primula%20the%20Rikka%20Fairy) | 0.4877 | 0.56 | Illegal |
@@ -28,9 +28,9 @@ This is a list of cards that are likely to change legality before the next rotat
 [Shiranui Squire](https://db.ygoprodeck.com/card/?search=Shiranui%20Squire) | 0.5024 | 0.42 | Unlimited |
 [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.5035 | 0.49 | Unlimited |
 [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | 0.5084 | 0.30 | Unlimited |
-[Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5124 | 0.45 | Unlimited |
-[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5300 | 0.40 | Limited |
-[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5480 | 0.38 | Unlimited |
+[Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5123 | 0.45 | Unlimited |
+[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5299 | 0.40 | Limited |
+[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5479 | 0.38 | Unlimited |
 
 <br>
 
