@@ -14,6 +14,6 @@ title:  "Disco Inferno"
 
 [Season 6 changes](season6explanations)
 
-## Rotation Speculation for Season 6
+## Rotation Speculation for Season 7
 
 [Current differences](differences)
