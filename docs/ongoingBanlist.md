@@ -1231,7 +1231,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evilswarm Exciton Knight](https://db.ygoprodeck.com/card/?search=Evilswarm%20Exciton%20Knight) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evilswarm Ophion](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ophion) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evolzar Dolkka](https://db.ygoprodeck.com/card/?search=Evolzar%20Dolkka) | Illegal |
-<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evolzar Solda](https://db.ygoprodeck.com/card/?search=Evolzar%20Solda) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Exosister Mikailis](https://db.ygoprodeck.com/card/?search=Exosister%20Mikailis) | Illegal |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Exosisters Magnifica](https://db.ygoprodeck.com/card/?search=Exosisters%20Magnifica) | Illegal |
@@ -7862,6 +7861,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evilswarm Nightmare](https://db.ygoprodeck.com/card/?search=Evilswarm%20Nightmare) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evilswarm Ouroboros](https://db.ygoprodeck.com/card/?search=Evilswarm%20Ouroboros) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evilswarm Thanatos](https://db.ygoprodeck.com/card/?search=Evilswarm%20Thanatos) | Unlimited |
+<img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Evolzar Laggia](https://db.ygoprodeck.com/card/?search=Evolzar%20Laggia) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Exosister Asophiel](https://db.ygoprodeck.com/card/?search=Exosister%20Asophiel) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Exosister Gibrine](https://db.ygoprodeck.com/card/?search=Exosister%20Gibrine) | Unlimited |
 <img src="assets/xyz.png" alt="XYZ Monster" width="12" height="12"/> [Exosister Kaspitell](https://db.ygoprodeck.com/card/?search=Exosister%20Kaspitell) | Unlimited |
