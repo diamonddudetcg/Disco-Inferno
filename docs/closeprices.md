@@ -6,7 +6,7 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4750 | 0.65 | Illegal |
+[Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4751 | 0.65 | Illegal |
 [Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.4936 | 0.55 | Illegal |
 [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.4938 | 0.53 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4947 | 0.56 | Illegal |
@@ -18,7 +18,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.4975 | 0.51 | Illegal |
 [Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4979 | 0.55 | Illegal |
 [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | 0.5001 | 0.48 | Unlimited |
-[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5003 | 0.39 | Unlimited |
+[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5002 | 0.39 | Unlimited |
 [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=Charubin%20the%20Fire%20Knight) | 0.5007 | 0.49 | Unlimited |
 [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.5021 | 0.49 | Unlimited |
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5062 | 0.45 | Unlimited |
