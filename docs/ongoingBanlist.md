@@ -887,7 +887,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Elemental HERO Wildedge](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Wildedge) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Malicious Bane](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Malicious%20Bane) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fiend Skull Dragon](https://db.ygoprodeck.com/card/?search=Fiend%20Skull%20Dragon) | Illegal |
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Five-Headed Dragon](https://db.ygoprodeck.com/card/?search=Five-Headed%20Dragon) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Flame Ghost](https://db.ygoprodeck.com/card/?search=Flame%20Ghost) | Illegal |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Frightfur Daredevil](https://db.ygoprodeck.com/card/?search=Frightfur%20Daredevil) | Illegal |
@@ -7119,6 +7118,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Lightning Golem](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Lightning%20Golem) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Malicious Fiend](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Malicious%20Fiend) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Evil HERO Wild Cyclone](https://db.ygoprodeck.com/card/?search=Evil%20HERO%20Wild%20Cyclone) | Unlimited |
+<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Flame Swordsman](https://db.ygoprodeck.com/card/?search=Flame%20Swordsman) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Flower Wolf](https://db.ygoprodeck.com/card/?search=Flower%20Wolf) | Unlimited |
 <img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Fossil Dragon Skullgar](https://db.ygoprodeck.com/card/?search=Fossil%20Dragon%20Skullgar) | Unlimited |

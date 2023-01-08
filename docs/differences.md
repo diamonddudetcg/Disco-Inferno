@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 205
+Estimated number of changes: 204
 
-Keep in mind there's still 1812 runs left
+Keep in mind there's still 1811 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -89,7 +89,6 @@ Keep in mind there's still 1812 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Chimeratech Fortress Dragon](https://db.ygoprodeck.com/card/?search=Chimeratech%20Fortress%20Dragon) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [D.3.S. Frog](https://db.ygoprodeck.com/card/?search=D.3.S.%20Frog) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Despian Quaeritis](https://db.ygoprodeck.com/card/?search=Despian%20Quaeritis) | Unlimited | Illegal |
-|<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Karbonala Warrior](https://db.ygoprodeck.com/card/?search=Karbonala%20Warrior) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Akashic Magician](https://db.ygoprodeck.com/card/?search=Akashic%20Magician) | Unlimited | Illegal |
