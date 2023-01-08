@@ -745,7 +745,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Fraulein](https://db.ygoprodeck.com/card/?search=Vampire%20Fraulein) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Genesis](https://db.ygoprodeck.com/card/?search=Vampire%20Genesis) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampire Voivode](https://db.ygoprodeck.com/card/?search=Vampire%20Voivode) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Venom Snake](https://db.ygoprodeck.com/card/?search=Venom%20Snake) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vera the Vernusylph Goddess](https://db.ygoprodeck.com/card/?search=Vera%20the%20Vernusylph%20Goddess) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vernusylph of the Awakening Forests](https://db.ygoprodeck.com/card/?search=Vernusylph%20of%20the%20Awakening%20Forests) | Illegal |
@@ -6628,6 +6627,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampiric Koala](https://db.ygoprodeck.com/card/?search=Vampiric%20Koala) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vampiric Orchis](https://db.ygoprodeck.com/card/?search=Vampiric%20Orchis) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Van'Dalgyon the Dark Dragon Lord](https://db.ygoprodeck.com/card/?search=Van'Dalgyon%20the%20Dark%20Dragon%20Lord) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanguard of the Dragon](https://db.ygoprodeck.com/card/?search=Vanguard%20of%20the%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vanguard of the Underground Emperor](https://db.ygoprodeck.com/card/?search=Vanguard%20of%20the%20Underground%20Emperor) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Vaylantz Buster Baron](https://db.ygoprodeck.com/card/?search=Vaylantz%20Buster%20Baron) | Unlimited |

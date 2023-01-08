@@ -17,14 +17,13 @@ This is a list of cards that are likely to change legality before the next rotat
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4974 | 0.51 | Illegal |
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.4975 | 0.51 | Illegal |
 [Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4980 | 0.55 | Illegal |
-[Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5000 | 0.39 | Unlimited |
 [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | 0.5001 | 0.48 | Unlimited |
 [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=Charubin%20the%20Fire%20Knight) | 0.5007 | 0.49 | Unlimited |
 [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | 0.5021 | 0.49 | Unlimited |
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5061 | 0.45 | Unlimited |
 [Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.5101 | 0.39 | Unlimited |
-[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5170 | 0.40 | Limited |
-[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5312 | 0.38 | Unlimited |
+[Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | 0.5169 | 0.40 | Limited |
+[Last Chapter of the Noble Knights](https://db.ygoprodeck.com/card/?search=Last%20Chapter%20of%20the%20Noble%20Knights) | 0.5311 | 0.38 | Unlimited |
 
 <br>
 
