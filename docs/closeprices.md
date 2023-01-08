@@ -15,7 +15,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | 0.4956 | 0.56 | Illegal |
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4964 | 0.60 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4974 | 0.51 | Illegal |
-[Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.4975 | 0.51 | Illegal |
+[Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.4976 | 0.51 | Illegal |
 [Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4981 | 0.55 | Illegal |
 [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | 0.5000 | 0.48 | Unlimited |
 [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=Charubin%20the%20Fire%20Knight) | 0.5006 | 0.49 | Unlimited |
