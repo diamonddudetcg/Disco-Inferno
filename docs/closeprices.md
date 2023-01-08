@@ -6,8 +6,8 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4752 | 0.65 | Illegal |
-[Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.4936 | 0.55 | Illegal |
+[Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | 0.4753 | 0.65 | Illegal |
+[Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.4937 | 0.55 | Illegal |
 [Treacherous Trap Hole](https://db.ygoprodeck.com/card/?search=Treacherous%20Trap%20Hole) | 0.4939 | 0.53 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4948 | 0.56 | Illegal |
 [Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | 0.4948 | 0.57 | Illegal |
@@ -16,7 +16,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Kycoo the Ghost Destroyer](https://db.ygoprodeck.com/card/?search=Kycoo%20the%20Ghost%20Destroyer) | 0.4960 | 0.60 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4974 | 0.51 | Illegal |
 [Underdog](https://db.ygoprodeck.com/card/?search=Underdog) | 0.4975 | 0.51 | Illegal |
-[Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4979 | 0.55 | Illegal |
+[Rodenut](https://db.ygoprodeck.com/card/?search=Rodenut) | 0.4980 | 0.55 | Illegal |
 [First of the Dragons](https://db.ygoprodeck.com/card/?search=First%20of%20the%20Dragons) | 0.5001 | 0.48 | Unlimited |
 [Vanadis of the Nordic Ascendant](https://db.ygoprodeck.com/card/?search=Vanadis%20of%20the%20Nordic%20Ascendant) | 0.5001 | 0.39 | Unlimited |
 [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=Charubin%20the%20Fire%20Knight) | 0.5007 | 0.49 | Unlimited |
