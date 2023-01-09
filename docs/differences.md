@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 207
+Estimated number of changes: 208
 
-Keep in mind there's still 1453 runs left
+Keep in mind there's still 1452 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -61,6 +61,7 @@ Keep in mind there's still 1453 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Chouxvalier](https://db.ygoprodeck.com/card/?search=Madolche%20Chouxvalier) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Hootcake](https://db.ygoprodeck.com/card/?search=Madolche%20Hootcake) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maximum Six](https://db.ygoprodeck.com/card/?search=Maximum%20Six) | Unlimited | Illegal |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nebula Dragon](https://db.ygoprodeck.com/card/?search=Nebula%20Dragon) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Obelisk the Tormentor](https://db.ygoprodeck.com/card/?search=Obelisk%20the%20Tormentor) | Unlimited | Illegal |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Odd-Eyes Saber Dragon](https://db.ygoprodeck.com/card/?search=Odd-Eyes%20Saber%20Dragon) | Unlimited | Illegal |

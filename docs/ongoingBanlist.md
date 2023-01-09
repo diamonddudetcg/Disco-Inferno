@@ -532,6 +532,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mythical Beast Master Cerberus](https://db.ygoprodeck.com/card/?search=Mythical%20Beast%20Master%20Cerberus) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Myutant M-05](https://db.ygoprodeck.com/card/?search=Myutant%20M-05) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Myutant ST-46](https://db.ygoprodeck.com/card/?search=Myutant%20ST-46) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Rosewhip](https://db.ygoprodeck.com/card/?search=Naturia%20Rosewhip) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nebula Dragon](https://db.ygoprodeck.com/card/?search=Nebula%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Necroworld Banshee](https://db.ygoprodeck.com/card/?search=Necroworld%20Banshee) | Illegal |
@@ -5132,7 +5133,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naglfar, Generaider Boss of Fire](https://db.ygoprodeck.com/card/?search=Naglfar,%20Generaider%20Boss%20of%20Fire) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nanobreaker](https://db.ygoprodeck.com/card/?search=Nanobreaker) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Antjaw](https://db.ygoprodeck.com/card/?search=Naturia%20Antjaw) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Beans](https://db.ygoprodeck.com/card/?search=Naturia%20Beans) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Beetle](https://db.ygoprodeck.com/card/?search=Naturia%20Beetle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Butterfly](https://db.ygoprodeck.com/card/?search=Naturia%20Butterfly) | Unlimited |
