@@ -7,8 +7,8 @@ This is a list of cards that are likely to change legality before the next rotat
 | Card name | Average | Last | Projected legality |
 | :-- |
 [Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4672 | 0.70 | Illegal |
-[Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4720 | 0.74 | Illegal |
-[Hidden Spellbook](https://db.ygoprodeck.com/card/?search=Hidden%20Spellbook) | 0.4751 | 0.69 | Illegal |
+[Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4721 | 0.74 | Illegal |
+[Hidden Spellbook](https://db.ygoprodeck.com/card/?search=Hidden%20Spellbook) | 0.4752 | 0.69 | Illegal |
 [Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | 0.4756 | 0.72 | Illegal |
 [Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.4772 | 0.77 | Illegal |
 [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4789 | 0.63 | Illegal |
@@ -19,22 +19,22 @@ This is a list of cards that are likely to change legality before the next rotat
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4974 | 0.53 | Illegal |
 [Generaider Boss Quest](https://db.ygoprodeck.com/card/?search=Generaider%20Boss%20Quest) | 0.4976 | 0.64 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4981 | 0.52 | Illegal |
-[Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | 0.4991 | 0.61 | Illegal |
+[Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | 0.4992 | 0.61 | Illegal |
 [Charubin the Fire Knight](https://db.ygoprodeck.com/card/?search=Charubin%20the%20Fire%20Knight) | 0.5002 | 0.49 | Unlimited |
-[Gagaga Child](https://db.ygoprodeck.com/card/?search=Gagaga%20Child) | 0.5004 | 0.29 | Unlimited |
+[Gagaga Child](https://db.ygoprodeck.com/card/?search=Gagaga%20Child) | 0.5003 | 0.29 | Unlimited |
 [Kozmo DOG Fighter](https://db.ygoprodeck.com/card/?search=Kozmo%20DOG%20Fighter) | 0.5016 | 0.47 | Unlimited |
 [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | 0.5020 | 0.47 | Unlimited |
 [Zombie Necronize](https://db.ygoprodeck.com/card/?search=Zombie%20Necronize) | 0.5022 | 0.36 | Unlimited |
-[Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | 0.5028 | 0.37 | Forbidden |
+[Brilliant Fusion](https://db.ygoprodeck.com/card/?search=Brilliant%20Fusion) | 0.5027 | 0.37 | Forbidden |
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.5035 | 0.48 | Unlimited |
 [Fire King Avatar Arvata](https://db.ygoprodeck.com/card/?search=Fire%20King%20Avatar%20Arvata) | 0.5038 | 0.38 | Unlimited |
-[Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.5046 | 0.39 | Unlimited |
+[Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.5045 | 0.39 | Unlimited |
 [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | 0.5054 | 0.42 | Unlimited |
 [Darklord Ixchel](https://db.ygoprodeck.com/card/?search=Darklord%20Ixchel) | 0.5056 | 0.35 | Unlimited |
+[Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.5062 | 0.39 | Unlimited |
 [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | 0.5062 | 0.45 | Unlimited |
-[Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.5063 | 0.39 | Unlimited |
-[Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | 0.5074 | 0.40 | Unlimited |
-[Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | 0.5090 | 0.36 | Unlimited |
+[Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | 0.5073 | 0.40 | Unlimited |
+[Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | 0.5089 | 0.36 | Unlimited |
 [Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | 0.5136 | 0.34 | Unlimited |
 [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.5141 | 0.33 | Unlimited |
 [Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.5161 | 0.31 | Unlimited |
@@ -44,7 +44,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | 0.5226 | 0.22 | Unlimited |
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5256 | 0.29 | Unlimited |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5272 | 0.27 | Unlimited |
-[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5745 | 0.02 | Unlimited |
+[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5744 | 0.02 | Unlimited |
 
 <br>
 
