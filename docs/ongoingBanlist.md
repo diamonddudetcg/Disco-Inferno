@@ -973,6 +973,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ancient Warriors Oath - Double Dragon Lords](https://db.ygoprodeck.com/card/?search=Ancient%20Warriors%20Oath%20-%20Double%20Dragon%20Lords) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Apollousa, Bow of the Goddess](https://db.ygoprodeck.com/card/?search=Apollousa,%20Bow%20of%20the%20Goddess) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Aromaseraphy Jasmine](https://db.ygoprodeck.com/card/?search=Aromaseraphy%20Jasmine) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Artifact Dagda](https://db.ygoprodeck.com/card/?search=Artifact%20Dagda) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Benghalancer the Resurgent](https://db.ygoprodeck.com/card/?search=Benghalancer%20the%20Resurgent) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Beyond the Pendulum](https://db.ygoprodeck.com/card/?search=Beyond%20the%20Pendulum) | Illegal |
@@ -7302,7 +7303,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Appliancer Vacculephant](https://db.ygoprodeck.com/card/?search=Appliancer%20Vacculephant) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Arcana Extra Joker](https://db.ygoprodeck.com/card/?search=Arcana%20Extra%20Joker) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Armillyre, the Starleader Dragon](https://db.ygoprodeck.com/card/?search=Armillyre,%20the%20Starleader%20Dragon) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Auram the World Chalice Blademaster](https://db.ygoprodeck.com/card/?search=Auram%20the%20World%20Chalice%20Blademaster) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Aussa the Earth Charmer, Immovable](https://db.ygoprodeck.com/card/?search=Aussa%20the%20Earth%20Charmer,%20Immovable) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Avendread Savior](https://db.ygoprodeck.com/card/?search=Avendread%20Savior) | Unlimited |

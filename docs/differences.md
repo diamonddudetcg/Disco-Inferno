@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 205
+Estimated number of changes: 206
 
-Keep in mind there's still 1545 runs left
+Keep in mind there's still 1544 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -93,6 +93,7 @@ Keep in mind there's still 1545 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Karbonala Warrior](https://db.ygoprodeck.com/card/?search=Karbonala%20Warrior) | Unlimited | Illegal |
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Akashic Magician](https://db.ygoprodeck.com/card/?search=Akashic%20Magician) | Unlimited | Illegal |
+|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Artemis, the Magistus Moon Maiden](https://db.ygoprodeck.com/card/?search=Artemis,%20the%20Magistus%20Moon%20Maiden) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Imduk the World Chalice Dragon](https://db.ygoprodeck.com/card/?search=Imduk%20the%20World%20Chalice%20Dragon) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Monk of the Tenyi](https://db.ygoprodeck.com/card/?search=Monk%20of%20the%20Tenyi) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | Unlimited | Illegal |
