@@ -2207,7 +2207,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Peacock](https://db.ygoprodeck.com/card/?search=Peacock) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Pendulum Machine](https://db.ygoprodeck.com/card/?search=Pendulum%20Machine) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [People Running About](https://db.ygoprodeck.com/card/?search=People%20Running%20About) | Unlimited |
-<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Performapal Odd-Eyes Seer](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Seer) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Petit Angel](https://db.ygoprodeck.com/card/?search=Petit%20Angel) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Petit Dragon](https://db.ygoprodeck.com/card/?search=Petit%20Dragon) | Unlimited |
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Petit Moth](https://db.ygoprodeck.com/card/?search=Petit%20Moth) | Unlimited |
@@ -5379,6 +5378,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Odd-Eyes Dissolver](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Dissolver) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Odd-Eyes Light Phoenix](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Light%20Phoenix) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Odd-Eyes Minitaurus](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Minitaurus) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Odd-Eyes Seer](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Seer) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Odd-Eyes Unicorn](https://db.ygoprodeck.com/card/?search=Performapal%20Odd-Eyes%20Unicorn) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Parrotrio](https://db.ygoprodeck.com/card/?search=Performapal%20Parrotrio) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Partnaga](https://db.ygoprodeck.com/card/?search=Performapal%20Partnaga) | Unlimited |
