@@ -6,7 +6,7 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4761 | 0.70 | Illegal |
+[Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4762 | 0.70 | Illegal |
 [Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4823 | 0.74 | Illegal |
 [Hidden Spellbook](https://db.ygoprodeck.com/card/?search=Hidden%20Spellbook) | 0.4834 | 0.69 | Illegal |
 [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4847 | 0.63 | Illegal |
@@ -16,7 +16,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | 0.4934 | 0.55 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4986 | 0.53 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4990 | 0.52 | Illegal |
-[Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.5002 | 0.39 | Unlimited |
+[Neo Galaxy-Eyes Cipher Dragon](https://db.ygoprodeck.com/card/?search=Neo%20Galaxy-Eyes%20Cipher%20Dragon) | 0.5001 | 0.39 | Unlimited |
 [Kozmo DOG Fighter](https://db.ygoprodeck.com/card/?search=Kozmo%20DOG%20Fighter) | 0.5004 | 0.47 | Unlimited |
 [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | 0.5008 | 0.47 | Unlimited |
 [Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.5018 | 0.39 | Unlimited |
@@ -26,14 +26,14 @@ This is a list of cards that are likely to change legality before the next rotat
 [Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | 0.5032 | 0.40 | Unlimited |
 [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | 0.5041 | 0.45 | Unlimited |
 [Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | 0.5069 | 0.34 | Unlimited |
-[Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.5071 | 0.33 | Unlimited |
+[Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.5070 | 0.33 | Unlimited |
 [Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.5082 | 0.31 | Unlimited |
 [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | 0.5104 | 0.34 | Unlimited |
 [Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | 0.5110 | 0.22 | Unlimited |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5150 | 0.38 | Unlimited |
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5166 | 0.29 | Unlimited |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5173 | 0.27 | Unlimited |
-[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5533 | 0.02 | Unlimited |
+[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5532 | 0.02 | Unlimited |
 
 <br>
 
