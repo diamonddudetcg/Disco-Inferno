@@ -27,12 +27,12 @@ This is a list of cards that are likely to change legality before the next rotat
 [Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | 0.5059 | 0.34 | Unlimited |
 [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.5060 | 0.33 | Unlimited |
 [Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.5070 | 0.31 | Unlimited |
-[Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | 0.5093 | 0.22 | Unlimited |
+[Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | 0.5092 | 0.22 | Unlimited |
 [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | 0.5094 | 0.34 | Unlimited |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5142 | 0.38 | Unlimited |
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5152 | 0.29 | Unlimited |
-[Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5159 | 0.27 | Unlimited |
-[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5501 | 0.02 | Unlimited |
+[Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5158 | 0.27 | Unlimited |
+[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5500 | 0.02 | Unlimited |
 
 <br>
 
