@@ -206,7 +206,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [C-Crush Wyvern](https://db.ygoprodeck.com/card/?search=C-Crush%20Wyvern) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Caam, Serenity of Gusto](https://db.ygoprodeck.com/card/?search=Caam,%20Serenity%20of%20Gusto) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Caius the Shadow Monarch](https://db.ygoprodeck.com/card/?search=Caius%20the%20Shadow%20Monarch) | Illegal |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Chamber Dragonmaid](https://db.ygoprodeck.com/card/?search=Chamber%20Dragonmaid) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Chaos Emperor, the Dragon of Armageddon](https://db.ygoprodeck.com/card/?search=Chaos%20Emperor,%20the%20Dragon%20of%20Armageddon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Chaos-End Master](https://db.ygoprodeck.com/card/?search=Chaos-End%20Master) | Illegal |
@@ -2927,6 +2926,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Catnipped Kitty](https://db.ygoprodeck.com/card/?search=Catnipped%20Kitty) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Catoblepas and the Witch of Fate](https://db.ygoprodeck.com/card/?search=Catoblepas%20and%20the%20Witch%20of%20Fate) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Catoblepas, Familiar of the Evil Eye](https://db.ygoprodeck.com/card/?search=Catoblepas,%20Familiar%20of%20the%20Evil%20Eye) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Celestia, Lightsworn Angel](https://db.ygoprodeck.com/card/?search=Celestia,%20Lightsworn%20Angel) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Celestial Apparatus Tesea](https://db.ygoprodeck.com/card/?search=Celestial%20Apparatus%20Tesea) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Celtic Guard of Noble Arms](https://db.ygoprodeck.com/card/?search=Celtic%20Guard%20of%20Noble%20Arms) | Unlimited |

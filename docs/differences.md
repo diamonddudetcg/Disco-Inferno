@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 202
+Estimated number of changes: 203
 
-Keep in mind there's still 992 runs left
+Keep in mind there's still 991 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -142,6 +142,7 @@ Keep in mind there's still 992 runs left
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Wolf](https://db.ygoprodeck.com/card/?search=Wolf) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Artifact Moralltach](https://db.ygoprodeck.com/card/?search=Artifact%20Moralltach) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Buster Whelp of the Destruction Swordsman](https://db.ygoprodeck.com/card/?search=Buster%20Whelp%20of%20the%20Destruction%20Swordsman) | Illegal | Unlimited |
+|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Counselor Lily](https://db.ygoprodeck.com/card/?search=Counselor%20Lily) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Destiny HERO - Dasher](https://db.ygoprodeck.com/card/?search=Destiny%20HERO%20-%20Dasher) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Dragon Seeker](https://db.ygoprodeck.com/card/?search=Dragon%20Seeker) | Illegal | Unlimited |
