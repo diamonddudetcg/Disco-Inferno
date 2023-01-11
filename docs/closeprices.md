@@ -6,17 +6,17 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4839 | 0.70 | Illegal |
+[Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4840 | 0.70 | Illegal |
 [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4898 | 0.63 | Illegal |
 [Hidden Spellbook](https://db.ygoprodeck.com/card/?search=Hidden%20Spellbook) | 0.4906 | 0.69 | Illegal |
 [Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4913 | 0.74 | Illegal |
 [Stumbling](https://db.ygoprodeck.com/card/?search=Stumbling) | 0.4931 | 0.57 | Illegal |
 [Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | 0.4932 | 0.72 | Illegal |
 [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | 0.4954 | 0.55 | Illegal |
-[Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.4982 | 0.77 | Illegal |
+[Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.4983 | 0.77 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4997 | 0.52 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4997 | 0.53 | Illegal |
-[Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | 0.5009 | 0.22 | Unlimited |
+[Grave of the Super Ancient Organism](https://db.ygoprodeck.com/card/?search=Grave%20of%20the%20Super%20Ancient%20Organism) | 0.5008 | 0.22 | Unlimited |
 [Heavy Armored Train Ironwolf](https://db.ygoprodeck.com/card/?search=Heavy%20Armored%20Train%20Ironwolf) | 0.5009 | 0.33 | Unlimited |
 [Ojama Duo](https://db.ygoprodeck.com/card/?search=Ojama%20Duo) | 0.5011 | 0.34 | Unlimited |
 [Arisen Gaia the Fierce Knight](https://db.ygoprodeck.com/card/?search=Arisen%20Gaia%20the%20Fierce%20Knight) | 0.5013 | 0.31 | Unlimited |
@@ -26,7 +26,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5087 | 0.29 | Unlimited |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5087 | 0.27 | Unlimited |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5103 | 0.38 | Unlimited |
-[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5347 | 0.02 | Unlimited |
+[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5346 | 0.02 | Unlimited |
 
 <br>
 
