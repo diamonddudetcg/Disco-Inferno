@@ -1416,7 +1416,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dimensional Fissure](https://db.ygoprodeck.com/card/?search=Dimensional%20Fissure) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Double Evolution Pill](https://db.ygoprodeck.com/card/?search=Double%20Evolution%20Pill) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Draconnection](https://db.ygoprodeck.com/card/?search=Draconnection) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonic Diagram](https://db.ygoprodeck.com/card/?search=Dragonic%20Diagram) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonmaid Hospitality](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Hospitality) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragonmaid Welcome](https://db.ygoprodeck.com/card/?search=Dragonmaid%20Welcome) | Illegal |
@@ -8594,6 +8593,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Laser](https://db.ygoprodeck.com/card/?search=Dragon%20Laser) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Mastery](https://db.ygoprodeck.com/card/?search=Dragon%20Mastery) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Nails](https://db.ygoprodeck.com/card/?search=Dragon%20Nails) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Revival Rhapsody](https://db.ygoprodeck.com/card/?search=Dragon%20Revival%20Rhapsody) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Shield](https://db.ygoprodeck.com/card/?search=Dragon%20Shield) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Dragon Shrine](https://db.ygoprodeck.com/card/?search=Dragon%20Shrine) | Unlimited |
