@@ -7,13 +7,13 @@ This is a list of cards that are likely to change legality before the next rotat
 | Card name | Average | Last | Projected legality |
 | :-- |
 [Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4811 | 0.70 | Illegal |
-[Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4879 | 0.63 | Illegal |
+[Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4880 | 0.63 | Illegal |
 [Hidden Spellbook](https://db.ygoprodeck.com/card/?search=Hidden%20Spellbook) | 0.4880 | 0.69 | Illegal |
 [Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4881 | 0.74 | Illegal |
 [Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | 0.4902 | 0.72 | Illegal |
 [Stumbling](https://db.ygoprodeck.com/card/?search=Stumbling) | 0.4921 | 0.57 | Illegal |
-[Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.4947 | 0.77 | Illegal |
 [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | 0.4947 | 0.55 | Illegal |
+[Dystopia the Despondent](https://db.ygoprodeck.com/card/?search=Dystopia%20the%20Despondent) | 0.4947 | 0.77 | Illegal |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.4993 | 0.53 | Illegal |
 [The Chaos Creator](https://db.ygoprodeck.com/card/?search=The%20Chaos%20Creator) | 0.4994 | 0.52 | Illegal |
 [Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | 0.5000 | 0.36 | Unlimited |
@@ -30,7 +30,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5115 | 0.29 | Unlimited |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5118 | 0.27 | Unlimited |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5120 | 0.38 | Unlimited |
-[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5414 | 0.02 | Unlimited |
+[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5413 | 0.02 | Unlimited |
 
 <br>
 
