@@ -9,7 +9,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4834 | 0.70 | Illegal |
 [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4894 | 0.63 | Illegal |
 [Hidden Spellbook](https://db.ygoprodeck.com/card/?search=Hidden%20Spellbook) | 0.4901 | 0.69 | Illegal |
-[Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4906 | 0.74 | Illegal |
+[Number S39: Utopia the Lightning](https://db.ygoprodeck.com/card/?search=Number%20S39:%20Utopia%20the%20Lightning) | 0.4907 | 0.74 | Illegal |
 [Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | 0.4926 | 0.72 | Illegal |
 [Stumbling](https://db.ygoprodeck.com/card/?search=Stumbling) | 0.4929 | 0.57 | Illegal |
 [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | 0.4953 | 0.55 | Illegal |
@@ -23,7 +23,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.5019 | 0.48 | Unlimited |
 [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | 0.5023 | 0.45 | Unlimited |
 [Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | 0.5049 | 0.34 | Unlimited |
-[Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5093 | 0.29 | Unlimited |
+[Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5092 | 0.29 | Unlimited |
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5093 | 0.27 | Unlimited |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5106 | 0.38 | Unlimited |
 [Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5360 | 0.02 | Unlimited |
