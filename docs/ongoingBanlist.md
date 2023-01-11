@@ -492,6 +492,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Marincess Springirl](https://db.ygoprodeck.com/card/?search=Marincess%20Springirl) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Masked Chameleon](https://db.ygoprodeck.com/card/?search=Masked%20Chameleon) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Master Peace, the True Dracoslaying King](https://db.ygoprodeck.com/card/?search=Master%20Peace,%20the%20True%20Dracoslaying%20King) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Sigma](https://db.ygoprodeck.com/card/?search=Mathmech%20Sigma) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Subtraction](https://db.ygoprodeck.com/card/?search=Mathmech%20Subtraction) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Maximum Six](https://db.ygoprodeck.com/card/?search=Maximum%20Six) | Illegal |
@@ -1021,7 +1022,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Muckraker From the Underworld](https://db.ygoprodeck.com/card/?search=Muckraker%20From%20the%20Underworld) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Nephthys, the Sacred Flame](https://db.ygoprodeck.com/card/?search=Nephthys,%20the%20Sacred%20Flame) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ningirsu the World Chalice Warrior](https://db.ygoprodeck.com/card/?search=Ningirsu%20the%20World%20Chalice%20Warrior) | Illegal |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Noritoshi in Darkest Rainment](https://db.ygoprodeck.com/card/?search=Noritoshi%20in%20Darkest%20Rainment) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Orcustrion](https://db.ygoprodeck.com/card/?search=Orcustrion) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Pentestag](https://db.ygoprodeck.com/card/?search=Pentestag) | Illegal |
@@ -4911,7 +4911,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Materiactor Gigadra](https://db.ygoprodeck.com/card/?search=Materiactor%20Gigadra) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathematician](https://db.ygoprodeck.com/card/?search=Mathematician) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Addition](https://db.ygoprodeck.com/card/?search=Mathmech%20Addition) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Diameter](https://db.ygoprodeck.com/card/?search=Mathmech%20Diameter) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Division](https://db.ygoprodeck.com/card/?search=Mathmech%20Division) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mathmech Multiplication](https://db.ygoprodeck.com/card/?search=Mathmech%20Multiplication) | Unlimited |
@@ -7430,6 +7429,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Mistar Boy](https://db.ygoprodeck.com/card/?search=Mistar%20Boy) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Neo Super Quantal Mech King Blaster Magna](https://db.ygoprodeck.com/card/?search=Neo%20Super%20Quantal%20Mech%20King%20Blaster%20Magna) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Nephthys, the Sacred Preserver](https://db.ygoprodeck.com/card/?search=Nephthys,%20the%20Sacred%20Preserver) | Unlimited |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ninja Grandmaster Saizo](https://db.ygoprodeck.com/card/?search=Ninja%20Grandmaster%20Saizo) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Ojama Emperor](https://db.ygoprodeck.com/card/?search=Ojama%20Emperor) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Overburst Dragon](https://db.ygoprodeck.com/card/?search=Overburst%20Dragon) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Paleozoic Cambroraster](https://db.ygoprodeck.com/card/?search=Paleozoic%20Cambroraster) | Unlimited |
