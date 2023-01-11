@@ -20,7 +20,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Neo Space](https://db.ygoprodeck.com/card/?search=Neo%20Space) | 0.5003 | 0.39 | Unlimited |
 [Dragon Ravine](https://db.ygoprodeck.com/card/?search=Dragon%20Ravine) | 0.5004 | 0.47 | Unlimited |
 [Bujingi Sinyou](https://db.ygoprodeck.com/card/?search=Bujingi%20Sinyou) | 0.5010 | 0.42 | Unlimited |
-[Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | 0.5014 | 0.36 | Unlimited |
+[Roaring Ocean Snake](https://db.ygoprodeck.com/card/?search=Roaring%20Ocean%20Snake) | 0.5013 | 0.36 | Unlimited |
 [Cave Dragon](https://db.ygoprodeck.com/card/?search=Cave%20Dragon) | 0.5019 | 0.40 | Unlimited |
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.5023 | 0.48 | Unlimited |
 [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | 0.5034 | 0.45 | Unlimited |
