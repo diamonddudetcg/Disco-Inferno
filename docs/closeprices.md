@@ -17,7 +17,7 @@ This is a list of cards that are likely to change legality before the next rotat
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5011 | 0.27 | Unlimited |
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.5011 | 0.48 | Unlimited |
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5017 | 0.29 | Unlimited |
-[Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5062 | 0.38 | Unlimited |
+[Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5061 | 0.38 | Unlimited |
 [Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5104 | 0.05 | Unlimited |
 [Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5183 | 0.02 | Unlimited |
 
