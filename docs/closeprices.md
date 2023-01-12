@@ -6,7 +6,7 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4913 | 0.70 | Illegal |
+[Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4914 | 0.70 | Illegal |
 [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4946 | 0.63 | Illegal |
 [Stumbling](https://db.ygoprodeck.com/card/?search=Stumbling) | 0.4957 | 0.57 | Illegal |
 [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | 0.4973 | 0.55 | Illegal |
@@ -18,8 +18,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.5011 | 0.48 | Unlimited |
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5012 | 0.29 | Unlimited |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5058 | 0.38 | Unlimited |
-[Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5092 | 0.04 | Unlimited |
-[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5171 | 0.02 | Unlimited |
+[Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5092 | 0.02 | Unlimited |
+[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5170 | 0.02 | Unlimited |
 
 <br>
 
