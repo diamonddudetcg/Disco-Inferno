@@ -6,7 +6,7 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4883 | 0.70 | Illegal |
+[Photon Strike Bounzer](https://db.ygoprodeck.com/card/?search=Photon%20Strike%20Bounzer) | 0.4884 | 0.70 | Illegal |
 [Noble Knight Artorigus](https://db.ygoprodeck.com/card/?search=Noble%20Knight%20Artorigus) | 0.4926 | 0.63 | Illegal |
 [Stumbling](https://db.ygoprodeck.com/card/?search=Stumbling) | 0.4946 | 0.57 | Illegal |
 [Hidden Spellbook](https://db.ygoprodeck.com/card/?search=Hidden%20Spellbook) | 0.4947 | 0.69 | Illegal |
@@ -19,8 +19,8 @@ This is a list of cards that are likely to change legality before the next rotat
 [Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5038 | 0.27 | Unlimited |
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5042 | 0.29 | Unlimited |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5076 | 0.38 | Unlimited |
-[Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5158 | 0.05 | Unlimited |
-[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5242 | 0.02 | Unlimited |
+[Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5157 | 0.07 | Unlimited |
+[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5241 | 0.02 | Unlimited |
 
 <br>
 
