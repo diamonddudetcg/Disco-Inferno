@@ -14,13 +14,13 @@ This is a list of cards that are likely to change legality before the next rotat
 [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | 0.4965 | 0.55 | Illegal |
 [Plunder Patroll Shipshape Ships Shipping](https://db.ygoprodeck.com/card/?search=Plunder%20Patroll%20Shipshape%20Ships%20Shipping) | 0.4976 | 0.72 | Illegal |
 [Constellar Kaus](https://db.ygoprodeck.com/card/?search=Constellar%20Kaus) | 0.5012 | 0.45 | Unlimited |
-[Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | 0.5013 | 0.34 | Unlimited |
+[Rite of Spirit](https://db.ygoprodeck.com/card/?search=Rite%20of%20Spirit) | 0.5012 | 0.34 | Unlimited |
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.5014 | 0.48 | Unlimited |
-[Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5041 | 0.27 | Unlimited |
+[Worm Queen](https://db.ygoprodeck.com/card/?search=Worm%20Queen) | 0.5040 | 0.27 | Unlimited |
 [Sunseed Twin](https://db.ygoprodeck.com/card/?search=Sunseed%20Twin) | 0.5044 | 0.29 | Unlimited |
 [Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5077 | 0.38 | Unlimited |
-[Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5162 | 0.06 | Unlimited |
-[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5246 | 0.02 | Unlimited |
+[Lunalight Tiger](https://db.ygoprodeck.com/card/?search=Lunalight%20Tiger) | 0.5162 | 0.08 | Unlimited |
+[Haniwa](https://db.ygoprodeck.com/card/?search=Haniwa) | 0.5245 | 0.02 | Unlimited |
 
 <br>
 
