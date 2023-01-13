@@ -48,6 +48,8 @@ While we don't usually do consistency hits, hitting Gates also significantly low
 
 We promised it last season
 
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majespecter Unicorn - Kirin](https://db.ygoprodeck.com/card/?search=Majespecter%20Unicorn%20-%20Kirin)
+
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Shine Ball](https://db.ygpprodeck.com/card/?search=Mystical%20Shine%20Ball)
 
 Agents haven't done anything with 2 balls, probably due to losing some pieces in rotation. Instead of completely curbstomping every single combo deck in the format, we're hoping to reach an equilibrium where multiple combo decks can function at the same time.
