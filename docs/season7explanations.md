@@ -16,9 +16,13 @@ You know the drill.
 
 We're adding more floodgates to the list of banned floodgates.
 
-<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Grapha, Dragon Overlord of Dark World](https://db.ygoprodeck.com/card/?search=Grapha,%20Dragon%20Overlord%20of%20Dark%20World)
+<img src="assets/fusion.png" alt="Fusion Monster" width="12" height="12"/> [Grapha, Dragon Overlord of Dark World](https://db.ygoprodeck.com/card/?search=Grapha,%20Dragon%20Overlord%20of%20Dark%20World)
 
 Dark World was the most powerful deck last season, and a big chunk of its power was concentrated in this one card.  
+
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy)
+
+With the last reprint of Spheres, Dragon Link would very likely get very over the top.
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Deck Devastation Virus](https://db.ygoprodeck.com/card/?search=Deck%20Devastation%20Virus)
 
