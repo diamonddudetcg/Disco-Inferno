@@ -91,7 +91,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Eclipse Wyvern](https://db.ygoprodeck.com/card/?search=Eclipse%20Wyvern) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Floowandereeze & Robina](https://db.ygoprodeck.com/card/?search=Floowandereeze%20%26%20Robina) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Redox, Dragon Ruler of Boulders](https://db.ygoprodeck.com/card/?search=Redox,%20Dragon%20Ruler%20of%20Boulders) | Limited |
-| <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Limited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tidal, Dragon Ruler of Waterfalls](https://db.ygoprodeck.com/card/?search=Tidal,%20Dragon%20Ruler%20of%20Waterfalls) | Limited |
 | <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy) | Limited |
 | <img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Blackwing Full Armor Master](https://db.ygoprodeck.com/card/?search=Blackwing%20Full%20Armor%20Master) | Limited |
@@ -102,7 +101,6 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Floowandereeze and the Magnificent Map](https://db.ygoprodeck.com/card/?search=Floowandereeze%20and%20the%20Magnificent%20Map) | Limited |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Limited |
 | <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Interrupted%20Kaiju%20Slumber) | Limited |
-| <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jewels of the Valiant](https://db.ygoprodeck.com/card/?search=Jewels%20of%20the%20Valiant) | Limited |
 
 <br>
 
@@ -151,6 +149,7 @@ Cards are still subject to the $0.50 cutoff point and, unless listed here, to th
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Samsara Lotus](https://db.ygoprodeck.com/card/?search=Samsara%20Lotus) | Unlimited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Servant of Endymion](https://db.ygoprodeck.com/card/?search=Servant%20of%20Endymion) | Unlimited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Speedroid Terrortop](https://db.ygoprodeck.com/card/?search=Speedroid%20Terrortop) | Unlimited |
+| <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Unlimited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Quik-Fix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Quik-Fix) | Unlimited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Substitoad](https://db.ygoprodeck.com/card/?search=Substitoad) | Unlimited |
 | <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [The Tyrant Neptune](https://db.ygoprodeck.com/card/?search=The%20Tyrant%20Neptune) | Unlimited |

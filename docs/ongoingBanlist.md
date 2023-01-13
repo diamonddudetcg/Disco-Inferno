@@ -1860,7 +1860,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Danger! Mothman!](https://db.ygoprodeck.com/card/?search=Danger!%20Mothman!) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Eclipse Wyvern](https://db.ygoprodeck.com/card/?search=Eclipse%20Wyvern) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Performapal Monkeyboard](https://db.ygoprodeck.com/card/?search=Performapal%20Monkeyboard) | Limited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Tempest, Dragon Ruler of Storms](https://db.ygoprodeck.com/card/?search=Tempest,%20Dragon%20Ruler%20of%20Storms) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [White Dragon Wyverburster](https://db.ygoprodeck.com/card/?search=White%20Dragon%20Wyverburster) | Limited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Zoodiac Ratpier](https://db.ygoprodeck.com/card/?search=Zoodiac%20Ratpier) | Limited |
@@ -1879,7 +1878,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Hey, Trunade!](https://db.ygoprodeck.com/card/?search=Hey,%20Trunade!) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Instant Fusion](https://db.ygoprodeck.com/card/?search=Instant%20Fusion) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Interrupted Kaiju Slumber](https://db.ygoprodeck.com/card/?search=Interrupted%20Kaiju%20Slumber) | Limited |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jewels of the Valiant](https://db.ygoprodeck.com/card/?search=Jewels%20of%20the%20Valiant) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mind Control](https://db.ygoprodeck.com/card/?search=Mind%20Control) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Monster Reborn](https://db.ygoprodeck.com/card/?search=Monster%20Reborn) | Limited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [One for One](https://db.ygoprodeck.com/card/?search=One%20for%20One) | Limited |
@@ -6087,6 +6085,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYGAL Misty](https://db.ygoprodeck.com/card/?search=SPYGAL%20Misty) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL GEAR - Drone](https://db.ygoprodeck.com/card/?search=SPYRAL%20GEAR%20-%20Drone) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL GEAR - Last Resort](https://db.ygoprodeck.com/card/?search=SPYRAL%20GEAR%20-%20Last%20Resort) | Unlimited |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Quik-Fix](https://db.ygoprodeck.com/card/?search=SPYRAL%20Quik-Fix) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Sleeper](https://db.ygoprodeck.com/card/?search=SPYRAL%20Sleeper) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Super Agent](https://db.ygoprodeck.com/card/?search=SPYRAL%20Super%20Agent) | Unlimited |
@@ -8987,6 +8986,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jam Breeding Machine](https://db.ygoprodeck.com/card/?search=Jam%20Breeding%20Machine) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jar Robber](https://db.ygoprodeck.com/card/?search=Jar%20Robber) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Javelin Beetle Pact](https://db.ygoprodeck.com/card/?search=Javelin%20Beetle%20Pact) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jewels of the Valiant](https://db.ygoprodeck.com/card/?search=Jewels%20of%20the%20Valiant) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Junk Barrage](https://db.ygoprodeck.com/card/?search=Junk%20Barrage) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Junk Box](https://db.ygoprodeck.com/card/?search=Junk%20Box) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Junk Puppet](https://db.ygoprodeck.com/card/?search=Junk%20Puppet) | Unlimited |

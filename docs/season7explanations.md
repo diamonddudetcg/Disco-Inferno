@@ -50,6 +50,16 @@ We promised it last season
 
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Majespecter Unicorn - Kirin](https://db.ygoprodeck.com/card/?search=Majespecter%20Unicorn%20-%20Kirin)
 
+Pend isn't doing anything. We ball.
+
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [SPYRAL Master Plan](https://db.ygoprodeck.com/card/?search=SPYRAL%20Master%20Plan)
+
+The second we get Double Helix or Magician's Souls she goes back to 0, but it was requested and it's probably okay.
+
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Jewels of the Valiant](https://db.ygoprodeck.com/card/?search=Jewels%20Of%20The%20Valiant)
+
+Tenyi lost too much between rotation and bans. This can come back.
+
 <img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Mystical Shine Ball](https://db.ygpprodeck.com/card/?search=Mystical%20Shine%20Ball)
 
 Agents haven't done anything with 2 balls, probably due to losing some pieces in rotation. Instead of completely curbstomping every single combo deck in the format, we're hoping to reach an equilibrium where multiple combo decks can function at the same time.
