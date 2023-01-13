@@ -8,7 +8,6 @@ This is a list of cards that are likely to change legality before the next rotat
 | :-- |
 [Stumbling](https://db.ygoprodeck.com/card/?search=Stumbling) | 0.4991 | 0.57 | Illegal |
 [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | 0.4997 | 0.55 | Illegal |
-[Constellar Hyades](https://db.ygoprodeck.com/card/?search=Constellar%20Hyades) | 0.5000 | 0.38 | Unlimited |
 [Mathmech Circular](https://db.ygoprodeck.com/card/?search=Mathmech%20Circular) | 0.5000 | 0.49 | Unlimited |
 [Bujin Yamato](https://db.ygoprodeck.com/card/?search=Bujin%20Yamato) | 0.5001 | 0.48 | Unlimited |
 
