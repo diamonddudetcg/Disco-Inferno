@@ -20,9 +20,9 @@ We're adding more floodgates to the list of banned floodgates.
 
 Dark World was the most powerful deck last season, and a big chunk of its power was concentrated in this one card.  
 
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Guardragon Elpy](https://db.ygoprodeck.com/card/?search=Guardragon%20Elpy)
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Hieratic Seal of Heavenly Spheres](https://db.ygoprodeck.com/card/?search=Hieratic%20Seal%20of%20Heavenly%20Spheres)
 
-With the last reprint of Spheres, Dragon Link would very likely get very over the top.
+We aren't even going to give it a chance. With Spheres, Dragon Link becomes the undisputed best deck of the format.
 
 <img src="assets/trap.png" alt="Trap" width="12" height="12"/> [Deck Devastation Virus](https://db.ygoprodeck.com/card/?search=Deck%20Devastation%20Virus)
 
