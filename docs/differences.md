@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 216
+Estimated number of changes: 217
 
-Keep in mind there's still 272 runs left
+Keep in mind there's still 271 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -89,6 +89,7 @@ Keep in mind there's still 272 runs left
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Monk of the Tenyi](https://db.ygoprodeck.com/card/?search=Monk%20of%20the%20Tenyi) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Sky Striker Ace - Kaina](https://db.ygoprodeck.com/card/?search=Sky%20Striker%20Ace%20-%20Kaina) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | Unlimited | Illegal |
+|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Arionpos, Serpent of the Ghoti](https://db.ygoprodeck.com/card/?search=Arionpos,%20Serpent%20of%20the%20Ghoti) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Colossal Fighter](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Daigusto Gulldos](https://db.ygoprodeck.com/card/?search=Daigusto%20Gulldos) | Unlimited | Illegal |

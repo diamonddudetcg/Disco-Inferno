@@ -1053,6 +1053,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Union Carrier](https://db.ygoprodeck.com/card/?search=Union%20Carrier) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [World Gears of Theurlogical Demiurgy](https://db.ygoprodeck.com/card/?search=World%20Gears%20of%20Theurlogical%20Demiurgy) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Worldsea Dragon Zealantis](https://db.ygoprodeck.com/card/?search=Worldsea%20Dragon%20Zealantis) | Illegal |
+<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Xtra HERO Dread Decimator](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Dread%20Decimator) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Xtra HERO Infernal Devicer](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Infernal%20Devicer) | Illegal |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Xtra HERO Wonder Driver](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Wonder%20Driver) | Illegal |
@@ -7531,7 +7532,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [X-Krawler Neurogos](https://db.ygoprodeck.com/card/?search=X-Krawler%20Neurogos) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [X-Krawler Qualiark](https://db.ygoprodeck.com/card/?search=X-Krawler%20Qualiark) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [X-Krawler Synaphysis](https://db.ygoprodeck.com/card/?search=X-Krawler%20Synaphysis) | Unlimited |
-<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Xtra HERO Cross Crusader](https://db.ygoprodeck.com/card/?search=Xtra%20HERO%20Cross%20Crusader) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Yuki-Onna, the Ice Mayakashi](https://db.ygoprodeck.com/card/?search=Yuki-Onna,%20the%20Ice%20Mayakashi) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Yuki-Onna, the Icicle Mayakashi](https://db.ygoprodeck.com/card/?search=Yuki-Onna,%20the%20Icicle%20Mayakashi) | Unlimited |
 <img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Zefra Metaltron](https://db.ygoprodeck.com/card/?search=Zefra%20Metaltron) | Unlimited |
