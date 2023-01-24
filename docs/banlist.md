@@ -4,7 +4,7 @@ title:  "Disco Inferno"
 
 ## Disco Inferno Season 7 Forbidden & Limited list
 
-[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1Df9PABZ7ygmywF9Sc3dOoblOz1YyMcwt/view?usp=sharing). Open the link, click on the three dots in the top right and then click Download.
+[You can find the EDOPRO banlist here](https://drive.google.com/file/d/1Ev3qpogveBr0e20HFTM304HJBHdxREnn/view?usp=share_link). Open the link, click on the three dots in the top right and then click Download.
 
 The banlist file goes into the lflists folder in your EDOPRO installation folder. 
 
