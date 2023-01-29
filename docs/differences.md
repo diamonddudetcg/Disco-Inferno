@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 212
+Estimated number of changes: 211
 
-Keep in mind there's still 402 runs left
+Keep in mind there's still 401 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -150,7 +150,6 @@ Keep in mind there's still 402 runs left
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Madolche Hootcake](https://db.ygoprodeck.com/card/?search=Madolche%20Hootcake) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Mirage Knight](https://db.ygoprodeck.com/card/?search=Mirage%20Knight) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Montage Dragon](https://db.ygoprodeck.com/card/?search=Montage%20Dragon) | Illegal | Unlimited |
-|<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Rosewhip](https://db.ygoprodeck.com/card/?search=Naturia%20Rosewhip) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nebula Dragon](https://db.ygoprodeck.com/card/?search=Nebula%20Dragon) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Neos Wiseman](https://db.ygoprodeck.com/card/?search=Neos%20Wiseman) | Illegal | Unlimited |
 |<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Ocean Dragon Lord - Neo-Daedalus](https://db.ygoprodeck.com/card/?search=Ocean%20Dragon%20Lord%20-%20Neo-Daedalus) | Illegal | Unlimited |

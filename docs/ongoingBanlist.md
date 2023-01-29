@@ -525,6 +525,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Myutant ST-46](https://db.ygoprodeck.com/card/?search=Myutant%20ST-46) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Bamboo Shoot](https://db.ygoprodeck.com/card/?search=Naturia%20Bamboo%20Shoot) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Eggplant](https://db.ygoprodeck.com/card/?search=Naturia%20Eggplant) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Rosewhip](https://db.ygoprodeck.com/card/?search=Naturia%20Rosewhip) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Necroworld Banshee](https://db.ygoprodeck.com/card/?search=Necroworld%20Banshee) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Needle Worm](https://db.ygoprodeck.com/card/?search=Needle%20Worm) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Nehshaddoll Genius](https://db.ygoprodeck.com/card/?search=Nehshaddoll%20Genius) | Illegal |
@@ -5239,7 +5240,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Pumpkin](https://db.ygoprodeck.com/card/?search=Naturia%20Pumpkin) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Ragweed](https://db.ygoprodeck.com/card/?search=Naturia%20Ragweed) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Rock](https://db.ygoprodeck.com/card/?search=Naturia%20Rock) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Rosewhip](https://db.ygoprodeck.com/card/?search=Naturia%20Rosewhip) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Spiderfang](https://db.ygoprodeck.com/card/?search=Naturia%20Spiderfang) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Stag Beetle](https://db.ygoprodeck.com/card/?search=Naturia%20Stag%20Beetle) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Naturia Stinkbug](https://db.ygoprodeck.com/card/?search=Naturia%20Stinkbug) | Unlimited |
