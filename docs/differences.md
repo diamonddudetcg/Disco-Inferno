@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 210
+Estimated number of changes: 209
 
-Keep in mind there's still 388 runs left
+Keep in mind there's still 387 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -75,7 +75,6 @@ Keep in mind there's still 388 runs left
 |<img src="assets/fusion.png" alt="XYZ Fusion" width="12" height="12"/> [Worm Zero](https://db.ygoprodeck.com/card/?search=Worm%20Zero) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Cross-Sheep](https://db.ygoprodeck.com/card/?search=Cross-Sheep) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Day-Breaker the Shining Magical Warrior](https://db.ygoprodeck.com/card/?search=Day-Breaker%20the%20Shining%20Magical%20Warrior) | Unlimited | Illegal |
-|<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | Unlimited | Illegal |
 |<img src="assets/link.png" alt="Link Monster" width="12" height="12"/> [Knightmare Unicorn](https://db.ygoprodeck.com/card/?search=Knightmare%20Unicorn) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [D/D/D Gust High King Alexander](https://db.ygoprodeck.com/card/?search=D/D/D%20Gust%20High%20King%20Alexander) | Unlimited | Illegal |
 |<img src="assets/synchro.png" alt="Synchro Monster" width="12" height="12"/> [Jurrac Meteor](https://db.ygoprodeck.com/card/?search=Jurrac%20Meteor) | Unlimited | Illegal |
