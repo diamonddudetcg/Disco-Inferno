@@ -8,13 +8,12 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 213
+Estimated number of changes: 212
 
-Keep in mind there's still 403 runs left
+Keep in mind there's still 402 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
-|<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Faith Bird](https://db.ygoprodeck.com/card/?search=Faith%20Bird) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Left Leg of the Forbidden One](https://db.ygoprodeck.com/card/?search=Left%20Leg%20of%20the%20Forbidden%20One) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sleeping Lion](https://db.ygoprodeck.com/card/?search=Sleeping%20Lion) | Unlimited | Illegal |
 |<img src="assets/vanilla.png" alt="Normal Monster" width="12" height="12"/> [Sword Slasher](https://db.ygoprodeck.com/card/?search=Sword%20Slasher) | Unlimited | Illegal |
