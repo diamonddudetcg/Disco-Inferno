@@ -1610,8 +1610,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Primitive Planet Reichphobia](https://db.ygoprodeck.com/card/?search=Primitive%20Planet%20Reichphobia) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Prohibition](https://db.ygoprodeck.com/card/?search=Prohibition) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychic Feel Zone](https://db.ygoprodeck.com/card/?search=Psychic%20Feel%20Zone) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Delicious Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Delicious%20Memory) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Happy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Happy%20Memory) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Pretty Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Pretty%20Memory) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Question](https://db.ygoprodeck.com/card/?search=Question) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Quick Launch](https://db.ygoprodeck.com/card/?search=Quick%20Launch) | Illegal |
@@ -1668,7 +1666,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stardust Shimmer](https://db.ygoprodeck.com/card/?search=Stardust%20Shimmer) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Starry Knight Balefire](https://db.ygoprodeck.com/card/?search=Starry%20Knight%20Balefire) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Steel Shell](https://db.ygoprodeck.com/card/?search=Steel%20Shell) | Illegal |
-<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stray Purrely Street](https://db.ygoprodeck.com/card/?search=Stray%20Purrely%20Street) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stumbling](https://db.ygoprodeck.com/card/?search=Stumbling) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Successor Soul](https://db.ygoprodeck.com/card/?search=Successor%20Soul) | Illegal |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Summoner's Art](https://db.ygoprodeck.com/card/?search=Summoner's%20Art) | Illegal |
@@ -9507,6 +9504,8 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychic Wave](https://db.ygoprodeck.com/card/?search=Psychic%20Wave) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Psychokinesis](https://db.ygoprodeck.com/card/?search=Psychokinesis) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Puppet Ritual](https://db.ygoprodeck.com/card/?search=Puppet%20Ritual) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Delicious Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Delicious%20Memory) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Happy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Happy%20Memory) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pyramid Energy](https://db.ygoprodeck.com/card/?search=Pyramid%20Energy) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Pyramid of Wonders](https://db.ygoprodeck.com/card/?search=Pyramid%20of%20Wonders) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Quarantine](https://db.ygoprodeck.com/card/?search=Quarantine) | Unlimited |
@@ -9835,6 +9834,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stop Defense](https://db.ygoprodeck.com/card/?search=Stop%20Defense) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Storm](https://db.ygoprodeck.com/card/?search=Storm) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stray Lambs](https://db.ygoprodeck.com/card/?search=Stray%20Lambs) | Unlimited |
+<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stray Purrely Street](https://db.ygoprodeck.com/card/?search=Stray%20Purrely%20Street) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Strength in Unity](https://db.ygoprodeck.com/card/?search=Strength%20in%20Unity) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Strike of the Monarchs](https://db.ygoprodeck.com/card/?search=Strike%20of%20the%20Monarchs) | Unlimited |
 <img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Subterror Cave Clash](https://db.ygoprodeck.com/card/?search=Subterror%20Cave%20Clash) | Unlimited |

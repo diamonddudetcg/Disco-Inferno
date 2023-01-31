@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 218
+Estimated number of changes: 221
 
-Keep in mind there's still 337 runs left
+Keep in mind there's still 336 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -204,10 +204,13 @@ Keep in mind there's still 337 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mikanko Kagura](https://db.ygoprodeck.com/card/?search=Mikanko%20Kagura) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mikanko Purification Dance](https://db.ygoprodeck.com/card/?search=Mikanko%20Purification%20Dance) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mikanko Reflection Rondo](https://db.ygoprodeck.com/card/?search=Mikanko%20Reflection%20Rondo) | New card | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Delicious Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Delicious%20Memory) | New card | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Happy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Happy%20Memory) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rescue-ACE HQ](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20HQ) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Reversal Quiz](https://db.ygoprodeck.com/card/?search=Reversal%20Quiz) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Shadow Toon](https://db.ygoprodeck.com/card/?search=Shadow%20Toon) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Soul Devouring Bamboo Sword](https://db.ygoprodeck.com/card/?search=Soul%20Devouring%20Bamboo%20Sword) | Illegal | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Stray Purrely Street](https://db.ygoprodeck.com/card/?search=Stray%20Purrely%20Street) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Koi Koi](https://db.ygoprodeck.com/card/?search=Super%20Koi%20Koi) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Super Soldier Ritual](https://db.ygoprodeck.com/card/?search=Super%20Soldier%20Ritual) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [System Down](https://db.ygoprodeck.com/card/?search=System%20Down) | Illegal | Unlimited |
