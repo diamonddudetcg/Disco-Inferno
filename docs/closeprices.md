@@ -6,16 +6,16 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | 0.4831 | 0.52 | Illegal |
-[Stealth Kragen Spawn](https://db.ygoprodeck.com/card/?search=Stealth%20Kragen%20Spawn) | 0.4941 | 0.54 | Illegal |
-[Epurrely Happiness](https://db.ygoprodeck.com/card/?search=Epurrely%20Happiness) | 0.5097 | 0.23 | Unlimited |
-[Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | 0.5099 | 0.49 | Unlimited |
-[Purrely Delicious Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Delicious%20Memory) | 0.5143 | 0.23 | Unlimited |
-[Purrely Happy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Happy%20Memory) | 0.5143 | 0.23 | Unlimited |
-[Stray Purrely Street](https://db.ygoprodeck.com/card/?search=Stray%20Purrely%20Street) | 0.5143 | 0.23 | Unlimited |
-[The Great Mikanko Ceremony](https://db.ygoprodeck.com/card/?search=The%20Great%20Mikanko%20Ceremony) | 0.5314 | 0.27 | Unlimited |
-[Infernoble Knight - Roland](https://db.ygoprodeck.com/card/?search=Infernoble%20Knight%20-%20Roland) | 0.7202 | 0.27 | Unlimited |
-[Piri Reis Map](https://db.ygoprodeck.com/card/?search=Piri%20Reis%20Map) | 0.9093 | 0.26 | Unlimited |
+[Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | 0.4833 | 0.52 | Illegal |
+[Stealth Kragen Spawn](https://db.ygoprodeck.com/card/?search=Stealth%20Kragen%20Spawn) | 0.4944 | 0.54 | Illegal |
+[Epurrely Happiness](https://db.ygoprodeck.com/card/?search=Epurrely%20Happiness) | 0.5081 | 0.23 | Unlimited |
+[Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | 0.5098 | 0.49 | Unlimited |
+[Purrely Delicious Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Delicious%20Memory) | 0.5126 | 0.23 | Unlimited |
+[Purrely Happy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Happy%20Memory) | 0.5126 | 0.23 | Unlimited |
+[Stray Purrely Street](https://db.ygoprodeck.com/card/?search=Stray%20Purrely%20Street) | 0.5126 | 0.23 | Unlimited |
+[The Great Mikanko Ceremony](https://db.ygoprodeck.com/card/?search=The%20Great%20Mikanko%20Ceremony) | 0.5299 | 0.27 | Unlimited |
+[Infernoble Knight - Roland](https://db.ygoprodeck.com/card/?search=Infernoble%20Knight%20-%20Roland) | 0.7175 | 0.27 | Unlimited |
+[Piri Reis Map](https://db.ygoprodeck.com/card/?search=Piri%20Reis%20Map) | 0.9055 | 0.26 | Unlimited |
 
 <br>
 
