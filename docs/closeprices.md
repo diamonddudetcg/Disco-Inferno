@@ -6,10 +6,10 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | 0.4948 | 0.52 | Illegal |
+[Draco Masters of the Tenyi](https://db.ygoprodeck.com/card/?search=Draco%20Masters%20of%20the%20Tenyi) | 0.4949 | 0.52 | Illegal |
 [Elemental HERO Spirit of Neos](https://db.ygoprodeck.com/card/?search=Elemental%20HERO%20Spirit%20of%20Neos) | 0.5035 | 0.49 | Unlimited |
-[Infernoble Knight - Roland](https://db.ygoprodeck.com/card/?search=Infernoble%20Knight%20-%20Roland) | 0.5768 | 0.27 | Unlimited |
-[Piri Reis Map](https://db.ygoprodeck.com/card/?search=Piri%20Reis%20Map) | 0.7025 | 0.26 | Unlimited |
+[Infernoble Knight - Roland](https://db.ygoprodeck.com/card/?search=Infernoble%20Knight%20-%20Roland) | 0.5755 | 0.27 | Unlimited |
+[Piri Reis Map](https://db.ygoprodeck.com/card/?search=Piri%20Reis%20Map) | 0.7007 | 0.26 | Unlimited |
 
 <br>
 
