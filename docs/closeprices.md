@@ -6,7 +6,7 @@ This is a list of cards that are likely to change legality before the next rotat
 
 | Card name | Average | Last | Projected legality |
 | :-- |
-[Piri Reis Map](https://db.ygoprodeck.com/card/?search=Piri%20Reis%20Map) | 0.5106 | 0.26 | Unlimited |
+[Piri Reis Map](https://db.ygoprodeck.com/card/?search=Piri%20Reis%20Map) | 0.5100 | 0.26 | Unlimited |
 
 <br>
 
