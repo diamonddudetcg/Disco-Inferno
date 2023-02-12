@@ -8,9 +8,9 @@ Please keep in mind these changes are not definitive and are only based on past 
 
 For a list of cards that are likely to move, go [HERE](closeprices)
 
-Estimated number of changes: 258
+Estimated number of changes: 259
 
-Keep in mind there's still 60 runs left
+Keep in mind there's still 59 runs left
 
 | Card name | Previous Status | New Status |
 | :-- |
@@ -227,6 +227,7 @@ Keep in mind there's still 60 runs left
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mikanko Kagura](https://db.ygoprodeck.com/card/?search=Mikanko%20Kagura) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mikanko Purification Dance](https://db.ygoprodeck.com/card/?search=Mikanko%20Purification%20Dance) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Mikanko Reflection Rondo](https://db.ygoprodeck.com/card/?search=Mikanko%20Reflection%20Rondo) | New card | Unlimited |
+|<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Piri Reis Map](https://db.ygoprodeck.com/card/?search=Piri%20Reis%20Map) | Illegal | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Delicious Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Delicious%20Memory) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Purrely Happy Memory](https://db.ygoprodeck.com/card/?search=Purrely%20Happy%20Memory) | New card | Unlimited |
 |<img src="assets/spell.png" alt="Spell" width="12" height="12"/> [Rescue-ACE HQ](https://db.ygoprodeck.com/card/?search=Rescue-ACE%20HQ) | New card | Unlimited |
