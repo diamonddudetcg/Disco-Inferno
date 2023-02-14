@@ -223,6 +223,7 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cockroach Knight](https://db.ygoprodeck.com/card/?search=Cockroach%20Knight) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Colossal Fighter/Assault Mode](https://db.ygoprodeck.com/card/?search=Colossal%20Fighter/Assault%20Mode) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Sombre](https://db.ygoprodeck.com/card/?search=Constellar%20Sombre) | Illegal |
+<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Zubeneschamali](https://db.ygoprodeck.com/card/?search=Constellar%20Zubeneschamali) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Cranium Fish](https://db.ygoprodeck.com/card/?search=Cranium%20Fish) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Creation Resonator](https://db.ygoprodeck.com/card/?search=Creation%20Resonator) | Illegal |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Crystron Citree](https://db.ygoprodeck.com/card/?search=Crystron%20Citree) | Illegal |
@@ -3151,7 +3152,6 @@ Keep in mind this is very much subject to changes up until the last minute.
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Sheratan](https://db.ygoprodeck.com/card/?search=Constellar%20Sheratan) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Siat](https://db.ygoprodeck.com/card/?search=Constellar%20Siat) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Virgo](https://db.ygoprodeck.com/card/?search=Constellar%20Virgo) | Unlimited |
-<img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Constellar Zubeneschamali](https://db.ygoprodeck.com/card/?search=Constellar%20Zubeneschamali) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Construction Train Signal Red](https://db.ygoprodeck.com/card/?search=Construction%20Train%20Signal%20Red) | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Contact "C"](https://db.ygoprodeck.com/card/?search=Contact%20"C") | Unlimited |
 <img src="assets/effect.png" alt="Effect Monster" width="12" height="12"/> [Converging Wills Dragon](https://db.ygoprodeck.com/card/?search=Converging%20Wills%20Dragon) | Unlimited |
